@@ -6,16 +6,16 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 ## Table of Contents
 
-- [Comprehensive Software Examples and Tutorials](https://github.com/jphall663/awesome-machine-learning-interpretability#comprehensive-software-examples-and-tutorials)
-- Interpretability and Fairness Software Packages
-  - [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python)
-  - [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r)
-- [Free Books](https://github.com/jphall663/awesome-machine-learning-interpretability#free-books)
-- [Other Interpretability and Fairness Lists](https://github.com/jphall663/awesome-machine-learning-interpretability#other-interpretability-and-fairness-lists)
-- [Review Papers](https://github.com/jphall663/awesome-machine-learning-interpretability#review-papers)
-- Whitebox Modeling Packages
- - [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python-1)
- - [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r-1)
+* [Comprehensive Software Examples and Tutorials](https://github.com/jphall663/awesome-machine-learning-interpretability#comprehensive-software-examples-and-tutorials)
+* Interpretability and Fairness Software Packages
+  * [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python)
+  * [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r)
+* [Free Books](https://github.com/jphall663/awesome-machine-learning-interpretability#free-books)
+* [Other Interpretability and Fairness Lists](https://github.com/jphall663/awesome-machine-learning-interpretability#other-interpretability-and-fairness-lists)
+* [Review Papers](https://github.com/jphall663/awesome-machine-learning-interpretability#review-papers)
+* Whitebox Modeling Packages
+  * [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python-1)
+  * [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r-1)
 
 ## Comprehensive Software Examples and Tutorials
 
@@ -27,21 +27,21 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 ### Python
 
-* [Aequitas](https://github.com/dssg/aequitas)
-* [Anchor](https://github.com/marcotcr/anchor)
-* [ELI5](https://github.com/TeamHG-Memex/eli5)
-* [FairML](https://github.com/adebayoj/fairml)
+* [aequitas](https://github.com/dssg/aequitas)
+* [anchor](https://github.com/marcotcr/anchor)
+* [eli5](https://github.com/TeamHG-Memex/eli5)
+* [fairml](https://github.com/adebayoj/fairml)
 * [LIME](https://github.com/marcotcr/lime)
-* [Shapley Explanations](https://github.com/slundberg/shap)
+* [shap (Shapley explanations)](https://github.com/slundberg/shap)
 * [Skater](https://github.com/datascienceinc/Skater)
 * [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis)
-* [Themis-ML](https://github.com/cosmicBboy/themis-ml)
+* [themis-ml](https://github.com/cosmicBboy/themis-ml)
 * [treeinterpreter](https://github.com/andosa/treeinterpreter)
 
 ### R
 
 * [ALEPlot](https://cran.r-project.org/web/packages/ALEPlot/index.html)
-* [breakdown](https://pbiecek.github.io/breakDown/index.html)
+* [breakDown](https://pbiecek.github.io/breakDown/index.html)
 * [DALEX](https://github.com/pbiecek/DALEX)
 * [ExplainPrediction](https://github.com/rmarko/ExplainPrediction)
 * [ICE](https://cran.r-project.org/web/packages/ICE/index.html)
@@ -91,6 +91,10 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [elasticnet](https://cran.r-project.org/web/packages/elasticnet/index.html)
 * [gam](https://cran.r-project.org/web/packages/gam/index.html)
 * [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html)
+* H2O-3
+  * [Penalized Generalized Linear Models](http://docs.h2o.ai/h2o/latest-stable/h2o-r/docs/reference/h2o.glm.html)
+  * [Sparse Principal Components (GLRM)](http://docs.h2o.ai/h2o/latest-stable/h2o-r/docs/reference/h2o.glrm.html)
+* [Monotonic](http://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html) [XGBoost](http://xgboost.readthedocs.io/en/latest/)
 * [rpart](https://cran.r-project.org/web/packages/rpart/index.html)
 * [RuleFit](http://statweb.stanford.edu/~jhf/R_RuleFit.html)
 * [quantreg](https://cran.r-project.org/web/packages/quantreg/index.html)
