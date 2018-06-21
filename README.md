@@ -6,15 +6,26 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 ## Table of Contents
 
-### Comprehensive Software Examples and Tutorials
+- [Comprehensive Software Examples and Tutorials](https://github.com/jphall663/awesome-machine-learning-interpretability#comprehensive-software-examples-and-tutorials)
+- Interpretability and Fairness Software Packages
+  - [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python)
+  - [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r)
+- [Free Books](https://github.com/jphall663/awesome-machine-learning-interpretability#free-books)
+- [Other Interpretability and Fairness Lists](https://github.com/jphall663/awesome-machine-learning-interpretability#other-interpretability-and-fairness-lists)
+- [Review Papers](https://github.com/jphall663/awesome-machine-learning-interpretability#review-papers)
+- Whitebox Modeling Packages
+ - [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python-1)
+ - [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r-1)
+
+## Comprehensive Software Examples and Tutorials
 
 * [Getting a Window into your Black Box Model](http://projects.rajivshah.com/inter/ReasonCode_NFL.html)
 * [IML](https://mybinder.org/v2/gh/christophM/iml/master?filepath=./notebooks/tutorial-intro.ipynb)
 * [Interpretable Machine Learning with Python](https://github.com/jphall663/interpretable_machine_learning_with_python)
 
-### Interpretability and Fairness Software Packages
+## Interpretability and Fairness Software Packages
 
-#### Python
+### Python
 
 * [Aequitas](https://github.com/dssg/aequitas)
 * [Anchor](https://github.com/marcotcr/anchor)
@@ -27,7 +38,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Themis-ML](https://github.com/cosmicBboy/themis-ml)
 * [treeinterpreter](https://github.com/andosa/treeinterpreter)
 
-#### R
+### R
 
 * [ALEPlot](https://cran.r-project.org/web/packages/ALEPlot/index.html)
 * [breakdown](https://pbiecek.github.io/breakDown/index.html)
@@ -39,19 +50,19 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [live](https://cran.r-project.org/web/packages/live/index.html)
 * [xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer)
 
-### Free Books
+## Free Books
 
 * [An Introduction to Machine Learning Interpretability](https://www.safaribooksonline.com/library/view/an-introduction-to/9781492033158/)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
-### Other Interpretability and Fairness Lists
+## Other Interpretability and Fairness Lists
 
 * [CriticalML](https://github.com/rockita/criticalML)
 * [Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Scholarship](https://www.fatml.org/resources/relevant-scholarship)
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
 
-### Review papers
+## Review Papers
 
 * [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
 * [Explaining Explanations: An Approach to Evaluating Interpretability of Machine Learning](https://arxiv.org/pdf/1806.00069.pdf)
@@ -59,9 +70,9 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf)
 * [Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda](https://dl.acm.org/citation.cfm?id=3174156)
 
-### Whitebox Modeling Packages
+## Whitebox Modeling Packages
 
-#### Python
+### Python
 
 * [fair-classification](https://github.com/mbilalzafar/fair-classification)
 * H2O-3
@@ -75,7 +86,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
   * [Generalized Linear Models](http://scikit-learn.org/stable/modules/linear_model.html)
   * [Sparse Principal Components](http://scikit-learn.org/stable/modules/decomposition.html#sparse-principal-components-analysis-sparsepca-and-minibatchsparsepca)
 
-#### R
+### R
 
 * [elasticnet](https://cran.r-project.org/web/packages/elasticnet/index.html)
 * [gam](https://cran.r-project.org/web/packages/gam/index.html)
