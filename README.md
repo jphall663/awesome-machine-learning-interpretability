@@ -31,7 +31,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [anchor](https://github.com/marcotcr/anchor)
 * [eli5](https://github.com/TeamHG-Memex/eli5)
 * [fairml](https://github.com/adebayoj/fairml)
-* [LIME](https://github.com/marcotcr/lime)
+* [lime](https://github.com/marcotcr/lime)
 * [shap (Shapley explanations)](https://github.com/slundberg/shap)
 * [Skater](https://github.com/datascienceinc/Skater)
 * [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis)
