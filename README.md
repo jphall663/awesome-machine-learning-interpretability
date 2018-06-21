@@ -46,7 +46,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [ExplainPrediction](https://github.com/rmarko/ExplainPrediction)
 * [ICE](https://cran.r-project.org/web/packages/ICE/index.html)
 * [IML](https://github.com/christophM/iml)
-* [LIME](https://github.com/thomasp85/lime)
+* [lime](https://github.com/thomasp85/lime)
 * [live](https://cran.r-project.org/web/packages/live/index.html)
 * [xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer)
 
