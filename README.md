@@ -57,7 +57,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 ## Other Interpretability and Fairness Lists
 
-* [CriticalML](https://github.com/rockita/criticalML)
+* [criticalML](https://github.com/rockita/criticalML)
 * [Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Scholarship](https://www.fatml.org/resources/relevant-scholarship)
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
