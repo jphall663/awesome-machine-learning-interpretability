@@ -46,7 +46,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [breakDown](https://pbiecek.github.io/breakDown/index.html)
 * [DALEX](https://github.com/pbiecek/DALEX)
 * [ExplainPrediction](https://github.com/rmarko/ExplainPrediction)
-* [ICE](https://cran.r-project.org/web/packages/ICE/index.html)
+* [ICEbox](https://cran.r-project.org/web/packages/ICEbox/index.html)
 * [IML](https://github.com/christophM/iml)
 * [lime](https://github.com/thomasp85/lime)
 * [live](https://cran.r-project.org/web/packages/live/index.html)
@@ -64,7 +64,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
 
-## Review Papers
+## Review and General Papers
 
 * [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
 * [Explaining Explanations: An Approach to Evaluating Interpretability of Machine Learning](https://arxiv.org/pdf/1806.00069.pdf)
