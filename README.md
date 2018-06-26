@@ -47,7 +47,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [DALEX](https://github.com/pbiecek/DALEX)
 * [ExplainPrediction](https://github.com/rmarko/ExplainPrediction)
 * [ICEbox](https://cran.r-project.org/web/packages/ICEbox/index.html)
-* [IML](https://github.com/christophM/iml)
+* [iml](https://github.com/christophM/iml)
 * [lime](https://github.com/thomasp85/lime)
 * [live](https://cran.r-project.org/web/packages/live/index.html)
 * [xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer)
@@ -55,7 +55,10 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 ## Free Books
 
 * [An Introduction to Machine Learning Interpretability](https://www.safaribooksonline.com/library/view/an-introduction-to/9781492033158/)
+* [Beyond Explainability: A Practical Guide to Managing Risk in Machine Learning Models](https://www.immuta.com/beyond/)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+
+
 
 ## Other Interpretability and Fairness Lists
 
