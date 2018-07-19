@@ -13,6 +13,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Free Books](https://github.com/jphall663/awesome-machine-learning-interpretability#free-books)
 * [Other Interpretability and Fairness Lists](https://github.com/jphall663/awesome-machine-learning-interpretability#other-interpretability-and-fairness-lists)
 * [Review Papers](https://github.com/jphall663/awesome-machine-learning-interpretability#review-papers)
+* [Teaching Resources](https://github.com/jphall663/awesome-machine-learning-interpretability#teaching-resources)
 * Whitebox Modeling Packages
   * [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python-1)
   * [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r-1)
@@ -23,6 +24,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [IML](https://mybinder.org/v2/gh/christophM/iml/master?filepath=./notebooks/tutorial-intro.ipynb)
 * [Interpretable Machine Learning with Python](https://github.com/jphall663/interpretable_machine_learning_with_python)
 * [Model Interpretability with DALEX](http://uc-r.github.io/dalex)
+* [Visualizing ML Models with LIME](http://uc-r.github.io/lime)
 
 ## Interpretability and Fairness Software Packages
 
@@ -33,6 +35,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [eli5](https://github.com/TeamHG-Memex/eli5)
 * [fairml](https://github.com/adebayoj/fairml)
 * [lime](https://github.com/marcotcr/lime)
+* [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown)
 * [PDPbox](https://github.com/SauceCat/PDPbox)
 * [PyCEbox](https://github.com/AustinRochford/PyCEbox)
 * [shap](https://github.com/slundberg/shap)
@@ -57,9 +60,8 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 * [An Introduction to Machine Learning Interpretability](https://www.safaribooksonline.com/library/view/an-introduction-to/9781492033158/)
 * [Beyond Explainability: A Practical Guide to Managing Risk in Machine Learning Models](https://www.immuta.com/beyond/)
+* [Fairness and machine learning](http://fairmlbook.org/)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
-
-
 
 ## Other Interpretability and Fairness Lists
 
@@ -75,6 +77,11 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [The Mythos of Model Interpretability](https://arxiv.org/pdf/1606.03490.pdf)
 * [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf)
 * [Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda](https://dl.acm.org/citation.cfm?id=3174156)
+
+## Teaching Resources
+
+* [An Introduction to Data Ethics](https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/an-introduction-to-data-ethics/)
+* [Practical Model Interpretability](https://github.com/jphall663/GWU_data_mining/blob/master/10_model_interpretability/10_model_interpretability.md)
 
 ## Whitebox Modeling Packages
 
