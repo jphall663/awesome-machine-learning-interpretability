@@ -60,7 +60,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 * [An Introduction to Machine Learning Interpretability](https://www.safaribooksonline.com/library/view/an-introduction-to/9781492033158/)
 * [Beyond Explainability: A Practical Guide to Managing Risk in Machine Learning Models](https://www.immuta.com/beyond/)
-* [Fairness and machine learning](http://fairmlbook.org/)
+* [Fairness and Machine Learning](http://fairmlbook.org/)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
 ## Other Interpretability and Fairness Lists
