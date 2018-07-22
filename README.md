@@ -35,6 +35,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [ContrastiveExplanation (Foil Trees)](https://github.com/MarcelRobeer/ContrastiveExplanation)
 * [eli5](https://github.com/TeamHG-Memex/eli5)
 * [fairml](https://github.com/adebayoj/fairml)
+* [L2X](https://github.com/Jianbo-Lab/L2X)
 * [lime](https://github.com/marcotcr/lime)
 * [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown)
 * [PDPbox](https://github.com/SauceCat/PDPbox)
