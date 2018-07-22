@@ -32,6 +32,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 * [aequitas](https://github.com/dssg/aequitas)
 * [anchor](https://github.com/marcotcr/anchor)
+* [ContrastiveExplanation (Foil Trees)](https://github.com/MarcelRobeer/ContrastiveExplanation)
 * [eli5](https://github.com/TeamHG-Memex/eli5)
 * [fairml](https://github.com/adebayoj/fairml)
 * [lime](https://github.com/marcotcr/lime)
