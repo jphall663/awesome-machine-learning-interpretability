@@ -15,7 +15,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Review Papers](https://github.com/jphall663/awesome-machine-learning-interpretability#review-papers)
 * [Teaching Resources](https://github.com/jphall663/awesome-machine-learning-interpretability#teaching-resources)
 * Whitebox Modeling Packages
-  * [C/C++]()
+  * [C/C++](https://github.com/jphall663/awesome-machine-learning-interpretability#cc)
   * [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python-1)
   * [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r-1)
 
