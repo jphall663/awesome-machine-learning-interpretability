@@ -15,6 +15,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Review Papers](https://github.com/jphall663/awesome-machine-learning-interpretability#review-papers)
 * [Teaching Resources](https://github.com/jphall663/awesome-machine-learning-interpretability#teaching-resources)
 * Whitebox Modeling Packages
+  * [C/C++]()
   * [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python-1)
   * [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r-1)
 
@@ -87,22 +88,35 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 ## Whitebox Modeling Packages
 
+### C/C++
+
+* [Certifiably Optimal RulE ListS](https://github.com/nlarusstone/corels)
+
 ### Python
 
+* [Bayesian Code Model](https://users.cs.duke.edu/~cynthia/code/BCM.zip)
+* [Bayesian Or-Of-And](https://github.com/wangtongada/BOA)
+* [Bayesian Rule List (BRL)](https://users.cs.duke.edu/~cynthia/code/BRL_supplement_code.zip)
 * [fair-classification](https://github.com/mbilalzafar/fair-classification)
+* [Falling Rule List (FRL)](https://users.cs.duke.edu/~cynthia/code/falling_rule_list.zip)
 * H2O-3
   * [Penalized Generalized Linear Models](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/modeling.html#h2ogeneralizedlinearestimator)
   * [Sparse Principal Components (GLRM)](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/modeling.html#h2ogeneralizedlowrankestimator)
 * [Monotonic](http://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html) [XGBoost](http://xgboost.readthedocs.io/en/latest/)
 * [pyGAM](https://github.com/dswah/pyGAM)
+* [Risk-SLIM](https://github.com/ustunb/risk-SLIM)
 * [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
 * Scikit-learn
   * [Decision Trees](http://scikit-learn.org/stable/modules/tree.html)
   * [Generalized Linear Models](http://scikit-learn.org/stable/modules/linear_model.html)
   * [Sparse Principal Components](http://scikit-learn.org/stable/modules/decomposition.html#sparse-principal-components-analysis-sparsepca-and-minibatchsparsepca)
+* [Super-sparse Linear Integer models (SLIMs)](https://github.com/ustunb/slim-python)
+
 
 ### R
 
+* [Scalable Bayesian Rule Lists (SBRL)](https://users.cs.duke.edu/~cynthia/code/sbrl_1.0.tar.gz)
+* [Causal SVM](https://github.com/shangtai/githubcausalsvm)
 * [elasticnet](https://cran.r-project.org/web/packages/elasticnet/index.html)
 * [gam](https://cran.r-project.org/web/packages/gam/index.html)
 * [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html)
