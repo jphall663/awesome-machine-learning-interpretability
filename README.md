@@ -24,6 +24,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Getting a Window into your Black Box Model](http://projects.rajivshah.com/inter/ReasonCode_NFL.html)
 * [IML](https://mybinder.org/v2/gh/christophM/iml/master?filepath=./notebooks/tutorial-intro.ipynb)
 * [Interpretable Machine Learning with Python](https://github.com/jphall663/interpretable_machine_learning_with_python)
+* [Interpreting Machine Learning Models with the iml Package](http://uc-r.github.io/iml-pkg)
 * [Model Interpretability with DALEX](http://uc-r.github.io/dalex)
 * [Visualizing ML Models with LIME](http://uc-r.github.io/lime)
 
