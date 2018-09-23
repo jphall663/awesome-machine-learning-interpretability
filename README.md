@@ -58,6 +58,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [iml](https://github.com/christophM/iml)
 * [lime](https://github.com/thomasp85/lime)
 * [live](https://cran.r-project.org/web/packages/live/index.html)
+* [pdp](https://bgreenwell.github.io/pdp/index.html)
 * [xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer)
 * [lightgbmExplainer](https://github.com/lantanacamara/lightgbmExplainer)
 
