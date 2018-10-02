@@ -61,6 +61,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [pdp](https://bgreenwell.github.io/pdp/index.html)
 * [xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer)
 * [lightgbmExplainer](https://github.com/lantanacamara/lightgbmExplainer)
+* [vip](https://github.com/koalaverse/vip)
 
 ## Free Books
 
