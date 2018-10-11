@@ -33,6 +33,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 ### Python
 
 * [aequitas](https://github.com/dssg/aequitas)
+* [AI Fairness 360](http://aif360.mybluemix.net)
 * [anchor](https://github.com/marcotcr/anchor)
 * [ContrastiveExplanation (Foil Trees)](https://github.com/MarcelRobeer/ContrastiveExplanation)
 * [eli5](https://github.com/TeamHG-Memex/eli5)
