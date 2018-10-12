@@ -40,8 +40,8 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [fairml](https://github.com/adebayoj/fairml)
 * [L2X](https://github.com/Jianbo-Lab/L2X)
 * [lime](https://github.com/marcotcr/lime)
-* [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown)
 * [PDPbox](https://github.com/SauceCat/PDPbox)
+* [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown)
 * [PyCEbox](https://github.com/AustinRochford/PyCEbox)
 * [shap](https://github.com/slundberg/shap)
 * [Skater](https://github.com/datascienceinc/Skater)
@@ -57,12 +57,12 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [ExplainPrediction](https://github.com/rmarko/ExplainPrediction)
 * [ICEbox](https://cran.r-project.org/web/packages/ICEbox/index.html)
 * [iml](https://github.com/christophM/iml)
+* [lightgbmExplainer](https://github.com/lantanacamara/lightgbmExplainer)
 * [lime](https://github.com/thomasp85/lime)
 * [live](https://cran.r-project.org/web/packages/live/index.html)
 * [pdp](https://bgreenwell.github.io/pdp/index.html)
-* [xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer)
-* [lightgbmExplainer](https://github.com/lantanacamara/lightgbmExplainer)
 * [vip](https://github.com/koalaverse/vip)
+* [xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer)
 
 ## Free Books
 
@@ -82,6 +82,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 * [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
 * [Explaining Explanations: An Approach to Evaluating Interpretability of Machine Learning](https://arxiv.org/pdf/1806.00069.pdf)
+* [On the Art and Science of Machine Learning Explanations](https://arxiv.org/pdf/1810.02909.pdf)
 * [The Mythos of Model Interpretability](https://arxiv.org/pdf/1606.03490.pdf)
 * [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf)
 * [Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda](https://dl.acm.org/citation.cfm?id=3174156)
