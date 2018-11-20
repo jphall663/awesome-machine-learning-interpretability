@@ -90,6 +90,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 ## Teaching Resources
 
 * [An Introduction to Data Ethics](https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/an-introduction-to-data-ethics/)
+* [UC Berkeley CS 294: Fairness and Machine Learning](https://fairmlclass.github.io/) 
 * [Practical Model Interpretability](https://github.com/jphall663/GWU_data_mining/blob/master/10_model_interpretability/10_model_interpretability.md)
 
 ## Whitebox Modeling Packages
