@@ -62,6 +62,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [lime](https://github.com/thomasp85/lime)
 * [live](https://cran.r-project.org/web/packages/live/index.html)
 * [pdp](https://bgreenwell.github.io/pdp/index.html)
+* [shapleyR](https://github.com/redichh/ShapleyR)
 * [vip](https://github.com/koalaverse/vip)
 * [xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer)
 
