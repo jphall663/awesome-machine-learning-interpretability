@@ -45,6 +45,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [PyCEbox](https://github.com/AustinRochford/PyCEbox)
 * [shap](https://github.com/slundberg/shap)
 * [Skater](https://github.com/datascienceinc/Skater)
+* [tensorflow/lucid](https://github.com/tensorflow/lucid)
 * [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis)
 * [themis-ml](https://github.com/cosmicBboy/themis-ml)
 * [treeinterpreter](https://github.com/andosa/treeinterpreter)
@@ -90,7 +91,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 ## Teaching Resources
 
 * [An Introduction to Data Ethics](https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/an-introduction-to-data-ethics/)
-* [Fairness in Machine Learning](https://fairmlclass.github.io/) 
+* [Fairness in Machine Learning](https://fairmlclass.github.io/)
 * [Practical Model Interpretability](https://github.com/jphall663/GWU_data_mining/blob/master/10_model_interpretability/10_model_interpretability.md)
 
 ## Whitebox Modeling Packages
