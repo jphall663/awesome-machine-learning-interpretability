@@ -107,7 +107,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 ### Python
 
-* [Bayesian Code Model](https://users.cs.duke.edu/~cynthia/code/BCM.zip)
+* [Bayesian Case Model](https://users.cs.duke.edu/~cynthia/code/BCM.zip)
 * [Bayesian Ors-Of-Ands](https://github.com/wangtongada/BOA)
 * [Bayesian Rule List (BRL)](https://users.cs.duke.edu/~cynthia/code/BRL_supplement_code.zip)
 * [fair-classification](https://github.com/mbilalzafar/fair-classification)
