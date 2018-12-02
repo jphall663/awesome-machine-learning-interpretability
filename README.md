@@ -30,6 +30,10 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 ## Interpretability and Fairness Software Packages
 
+### Browser
+
+* [What-if Tool](https://pair-code.github.io/what-if-tool/index.html#about)
+
 ### Python
 
 * [aequitas](https://github.com/dssg/aequitas)
