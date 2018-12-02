@@ -104,7 +104,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 ### Python
 
 * [Bayesian Code Model](https://users.cs.duke.edu/~cynthia/code/BCM.zip)
-* [Bayesian Or-Of-And](https://github.com/wangtongada/BOA)
+* [Bayesian Ors-Of-Ands](https://github.com/wangtongada/BOA)
 * [Bayesian Rule List (BRL)](https://users.cs.duke.edu/~cynthia/code/BRL_supplement_code.zip)
 * [fair-classification](https://github.com/mbilalzafar/fair-classification)
 * [Falling Rule List (FRL)](https://users.cs.duke.edu/~cynthia/code/falling_rule_list.zip)
@@ -124,7 +124,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 ### R
 
-* [Scalable Bayesian Rule Lists (SBRL)](https://users.cs.duke.edu/~cynthia/code/sbrl_1.0.tar.gz)
+* [arules](https://cran.r-project.org/web/packages/arules/index.html)
 * [Causal SVM](https://github.com/shangtai/githubcausalsvm)
 * [elasticnet](https://cran.r-project.org/web/packages/elasticnet/index.html)
 * [gam](https://cran.r-project.org/web/packages/gam/index.html)
@@ -133,6 +133,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
   * [Penalized Generalized Linear Models](http://docs.h2o.ai/h2o/latest-stable/h2o-r/docs/reference/h2o.glm.html)
   * [Sparse Principal Components (GLRM)](http://docs.h2o.ai/h2o/latest-stable/h2o-r/docs/reference/h2o.glrm.html)
 * [Monotonic](http://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html) [XGBoost](http://xgboost.readthedocs.io/en/latest/)
+* [quantreg](https://cran.r-project.org/web/packages/quantreg/index.html)
 * [rpart](https://cran.r-project.org/web/packages/rpart/index.html)
 * [RuleFit](http://statweb.stanford.edu/~jhf/R_RuleFit.html)
-* [quantreg](https://cran.r-project.org/web/packages/quantreg/index.html)
+* [Scalable Bayesian Rule Lists (SBRL)](https://users.cs.duke.edu/~cynthia/code/sbrl_1.0.tar.gz)
