@@ -39,6 +39,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [aequitas](https://github.com/dssg/aequitas)
 * [AI Fairness 360](http://aif360.mybluemix.net)
 * [anchor](https://github.com/marcotcr/anchor)
+* [cleverhans](https://github.com/tensorflow/cleverhans)
 * [ContrastiveExplanation (Foil Trees)](https://github.com/MarcelRobeer/ContrastiveExplanation)
 * [eli5](https://github.com/TeamHG-Memex/eli5)
 * [fairml](https://github.com/adebayoj/fairml)
@@ -51,6 +52,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Skater](https://github.com/datascienceinc/Skater)
 * [tensorflow/lucid](https://github.com/tensorflow/lucid)
 * [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis)
+* [Themis](https://github.com/LASER-UMASS/Themis)
 * [themis-ml](https://github.com/cosmicBboy/themis-ml)
 * [treeinterpreter](https://github.com/andosa/treeinterpreter)
 
