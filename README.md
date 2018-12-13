@@ -6,7 +6,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 **An incomplete, imperfect blueprint for a more human-friendly machine learning.** The resources in this repository can be used to do many of these things.
 ![alt-text](https://github.com/h2oai/mli-resources/blob/master/blueprint.png)
-Image credit: H2O.ai Machine Learning Interpretability team, https://github.com/h2oai/mli-resources.
+</br>Image credit: H2O.ai Machine Learning Interpretability team, https://github.com/h2oai/mli-resources.
 
 
 ## Table of Contents
