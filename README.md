@@ -4,9 +4,11 @@ A curated, but probably biased and incomplete, list of awesome machine learning 
 
 If you want to contribute to this list (*and please do!*) read over the [contribution guidelines](contributing.md), send a pull request, or contact me [@jpatrickhall](https://twitter.com/jpatrickhall).
 
-***
 
-**An incomplete, imperfect blueprint for a more human-friendly machine learning.** </br>(The resources in this repository can be used to do many of these things.)
+
+## An incomplete, imperfect blueprint for a more human-friendly machine learning
+ </br>(The resources in this repository can be used to do many of these things.)
+
 </br>![alt-text](https://github.com/h2oai/mli-resources/blob/master/blueprint.svg)
 </br>Image credit: H2O.ai Machine Learning Interpretability team, https://github.com/h2oai/mli-resources.
 
