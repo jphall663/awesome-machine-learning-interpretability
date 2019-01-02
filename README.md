@@ -4,12 +4,8 @@ A curated, but probably biased and incomplete, list of awesome machine learning 
 
 If you want to contribute to this list (*and please do!*) read over the [contribution guidelines](contributing.md), send a pull request, or contact me [@jpatrickhall](https://twitter.com/jpatrickhall).
 
-
-
-## An incomplete, imperfect blueprint for a more human-friendly machine learning
- </br>(The resources in this repository can be used to do many of these things.)
-
-</br>![alt-text](https://github.com/h2oai/mli-resources/blob/master/blueprint.png)
+**An incomplete, imperfect blueprint for a more human-friendly machine learning.** The resources in this repository can be used to do many of these things.
+![alt-text](https://github.com/h2oai/mli-resources/blob/master/blueprint.png)
 </br>Image credit: H2O.ai Machine Learning Interpretability team, https://github.com/h2oai/mli-resources.
 
 
@@ -31,6 +27,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 ## Comprehensive Software Examples and Tutorials
 
 * [Getting a Window into your Black Box Model](http://projects.rajivshah.com/inter/ReasonCode_NFL.html)
+* [Hands-on Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
 * [IML](https://mybinder.org/v2/gh/christophM/iml/master?filepath=./notebooks/tutorial-intro.ipynb)
 * [Interpretable Machine Learning with Python](https://github.com/jphall663/interpretable_machine_learning_with_python)
 * [Interpreting Machine Learning Models with the iml Package](http://uc-r.github.io/iml-pkg)
@@ -94,6 +91,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Scholarship](https://www.fatml.org/resources/relevant-scholarship)
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
+* [XAI Resources](https://github.com/pbiecek/xai_resources)
 
 ## Review and General Papers
 
