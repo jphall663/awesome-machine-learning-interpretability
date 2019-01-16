@@ -4,7 +4,7 @@ A curated, but probably biased and incomplete, list of awesome machine learning 
 
 If you want to contribute to this list (*and please do!*) read over the [contribution guidelines](contributing.md), send a pull request, or contact me [@jpatrickhall](https://twitter.com/jpatrickhall).
 
-**An incomplete, imperfect blueprint for a more human-friendly machine learning.** The resources in this repository can be used to do many of these things today.
+**An incomplete, imperfect blueprint for a more human-centered, lower-risk machine learning.** The resources in this repository can be used to do many of these things today.
 ![alt-text](https://github.com/h2oai/mli-resources/blob/master/blueprint.png)
 </br>Image credit: H2O.ai Machine Learning Interpretability team, https://github.com/h2oai/mli-resources.
 
@@ -95,12 +95,14 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 ## Review and General Papers
 
+* [A Comparative Study of Fairness-Enhancing Interventions in Machine Learning](https://arxiv.org/pdf/1802.04422.pdf)
 * [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
 * [Explaining Explanations: An Approach to Evaluating Interpretability of Machine Learning](https://arxiv.org/pdf/1806.00069.pdf)
 * [On the Art and Science of Machine Learning Explanations](https://arxiv.org/pdf/1810.02909.pdf)
 * [The Mythos of Model Interpretability](https://arxiv.org/pdf/1606.03490.pdf)
 * [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf)
 * [Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda](https://dl.acm.org/citation.cfm?id=3174156)
+
 
 ## Teaching Resources
 
