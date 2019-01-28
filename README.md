@@ -100,6 +100,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 * [A Comparative Study of Fairness-Enhancing Interventions in Machine Learning](https://arxiv.org/pdf/1802.04422.pdf)
 * [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
+* [Challenges for Transparency](https://arxiv.org/pdf/1708.01870.pdf)
 * [Explaining Explanations: An Approach to Evaluating Interpretability of Machine Learning](https://arxiv.org/pdf/1806.00069.pdf)
 * [On the Art and Science of Machine Learning Explanations](https://arxiv.org/pdf/1810.02909.pdf)
 * [The Mythos of Model Interpretability](https://arxiv.org/pdf/1606.03490.pdf)
