@@ -92,6 +92,8 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
 * [XAI Resources](https://github.com/pbiecek/xai_resources)
+* [The Importance of Human Interpretable Machine Learning](https://towardsdatascience.com/human-interpretable-machine-learning-part-1-the-need-and-importance-of-model-interpretation-2ed758f5f476)
+* [Model Interpretation Strategies](https://towardsdatascience.com/explainable-artificial-intelligence-part-2-model-interpretation-strategies-75d4afa6b739)
 
 ## Review and General Papers
 
