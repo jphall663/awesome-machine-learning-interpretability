@@ -133,11 +133,11 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Monotonic](http://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html) [XGBoost](http://xgboost.readthedocs.io/en/latest/)
 * [pyGAM](https://github.com/dswah/pyGAM)
 * [Risk-SLIM](https://github.com/ustunb/risk-SLIM)
-* [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
 * Scikit-learn
   * [Decision Trees](http://scikit-learn.org/stable/modules/tree.html)
   * [Generalized Linear Models](http://scikit-learn.org/stable/modules/linear_model.html)
   * [Sparse Principal Components](http://scikit-learn.org/stable/modules/decomposition.html#sparse-principal-components-analysis-sparsepca-and-minibatchsparsepca)
+* [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
 * [skope-rules](https://github.com/scikit-learn-contrib/skope-rules)
 * [Super-sparse Linear Integer models (SLIMs)](https://github.com/ustunb/slim-python)
 * [woe](https://github.com/boredbird/woe)
