@@ -138,6 +138,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
   * [Decision Trees](http://scikit-learn.org/stable/modules/tree.html)
   * [Generalized Linear Models](http://scikit-learn.org/stable/modules/linear_model.html)
   * [Sparse Principal Components](http://scikit-learn.org/stable/modules/decomposition.html#sparse-principal-components-analysis-sparsepca-and-minibatchsparsepca)
+* [skope-rules](https://github.com/scikit-learn-contrib/skope-rules)
 * [Super-sparse Linear Integer models (SLIMs)](https://github.com/ustunb/slim-python)
 * [woe](https://github.com/boredbird/woe)
 
