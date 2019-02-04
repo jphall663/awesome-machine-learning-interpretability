@@ -95,6 +95,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
 * [XAI Resources](https://github.com/pbiecek/xai_resources)
+* [Machine Learning Explainability by Kaggle Learn](https://www.kaggle.com/learn/machine-learning-explainability)
 
 ## Review and General Papers
 
