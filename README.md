@@ -30,6 +30,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [IML](https://mybinder.org/v2/gh/christophM/iml/master?filepath=./notebooks/tutorial-intro.ipynb)
 * [Interpretable Machine Learning with Python](https://github.com/jphall663/interpretable_machine_learning_with_python)
 * [Interpreting Machine Learning Models with the iml Package](http://uc-r.github.io/iml-pkg)
+* [Machine Learning Explainability by Kaggle Learn](https://www.kaggle.com/learn/machine-learning-explainability)
 * [Model Interpretability with DALEX](http://uc-r.github.io/dalex)
 * Model Interpretation series by Dipanjan (DJ) Sarkar:
   * [The Importance of Human Interpretable Machine Learning](https://towardsdatascience.com/human-interpretable-machine-learning-part-1-the-need-and-importance-of-model-interpretation-2ed758f5f476)
@@ -112,7 +113,6 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 * [An Introduction to Data Ethics](https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/an-introduction-to-data-ethics/)
 * [Fairness in Machine Learning](https://fairmlclass.github.io/)
-* [Machine Learning Explainability by Kaggle Learn](https://www.kaggle.com/learn/machine-learning-explainability)
 * [Practical Model Interpretability](https://github.com/jphall663/GWU_data_mining/blob/master/10_model_interpretability/10_model_interpretability.md)
 
 ## Whitebox Modeling Packages
