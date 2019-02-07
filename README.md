@@ -95,7 +95,6 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
 * [XAI Resources](https://github.com/pbiecek/xai_resources)
-* [Machine Learning Explainability by Kaggle Learn](https://www.kaggle.com/learn/machine-learning-explainability)
 
 ## Review and General Papers
 
@@ -113,6 +112,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 * [An Introduction to Data Ethics](https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/an-introduction-to-data-ethics/)
 * [Fairness in Machine Learning](https://fairmlclass.github.io/)
+* [Machine Learning Explainability by Kaggle Learn](https://www.kaggle.com/learn/machine-learning-explainability)
 * [Practical Model Interpretability](https://github.com/jphall663/GWU_data_mining/blob/master/10_model_interpretability/10_model_interpretability.md)
 
 ## Whitebox Modeling Packages
