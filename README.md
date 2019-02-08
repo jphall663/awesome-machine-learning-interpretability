@@ -36,6 +36,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
   * [The Importance of Human Interpretable Machine Learning](https://towardsdatascience.com/human-interpretable-machine-learning-part-1-the-need-and-importance-of-model-interpretation-2ed758f5f476)
   * [Model Interpretation Strategies](https://towardsdatascience.com/explainable-artificial-intelligence-part-2-model-interpretation-strategies-75d4afa6b739)
   * [Hands-on Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
+* [Partial dependence plots in R](https://journal.r-project.org/archive/2017/RJ-2017-016/)
 * [Visualizing ML Models with LIME](http://uc-r.github.io/lime)
 
 ## Interpretability and Fairness Software Packages
