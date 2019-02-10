@@ -86,7 +86,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 ## Free Books
 
-* [Beyond Explainability: A Practical Guide to Managing Risk in Machine Learning Models](https://www.immuta.com/beyond/)
+* [Beyond Explainability: A Practical Guide to Managing Risk in Machine Learning Models](https://go.immuta.com/beyond-explainability-white-paper)
 * [Fairness and Machine Learning](http://fairmlbook.org/)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
