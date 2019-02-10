@@ -16,7 +16,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
   * [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python)
   * [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r)
 * [Free Books](https://github.com/jphall663/awesome-machine-learning-interpretability#free-books)
-* [Other Interpretability and Fairness Lists](https://github.com/jphall663/awesome-machine-learning-interpretability#other-interpretability-and-fairness-lists)
+* [Other Interpretability and Fairness Resources and Lists](https://github.com/jphall663/awesome-machine-learning-interpretability#other-interpretability-and-fairness-resources-and-lists)
 * [Review Papers](https://github.com/jphall663/awesome-machine-learning-interpretability#review-papers)
 * [Teaching Resources](https://github.com/jphall663/awesome-machine-learning-interpretability#teaching-resources)
 * Whitebox Modeling Packages
@@ -95,7 +95,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [8 Principles of Ethical ML](https://ethical.institute/principles.html)
 * [An Introduction to Machine Learning Interpretability](https://pages.dataiku.com/oreilly-introduction-to-machine-learning-interpretability)
 * [Awesome interpretable machine learning](https://github.com/lopusz/awesome-interpretable-machine-learning) ;)
-* [algoaware][https://www.algoaware.eu/]
+* [algoaware](https://www.algoaware.eu/)
 * [criticalML](https://github.com/rockita/criticalML)
 * [Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Scholarship](https://www.fatml.org/resources/relevant-scholarship)
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)
