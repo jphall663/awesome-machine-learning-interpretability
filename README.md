@@ -53,6 +53,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [ContrastiveExplanation (Foil Trees)](https://github.com/MarcelRobeer/ContrastiveExplanation)
 * [eli5](https://github.com/TeamHG-Memex/eli5)
 * [fairml](https://github.com/adebayoj/fairml)
+* [fairness](https://github.com/algofairness/fairness-comparison)
 * [L2X](https://github.com/Jianbo-Lab/L2X)
 * [lime](https://github.com/marcotcr/lime)
 * [PDPbox](https://github.com/SauceCat/PDPbox)
@@ -65,6 +66,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Themis](https://github.com/LASER-UMASS/Themis)
 * [themis-ml](https://github.com/cosmicBboy/themis-ml)
 * [treeinterpreter](https://github.com/andosa/treeinterpreter)
+* [xai](https://github.com/EthicalML/xai)
 
 ### R
 
@@ -84,13 +86,16 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 ## Free Books
 
-* [An Introduction to Machine Learning Interpretability](https://www.safaribooksonline.com/library/view/an-introduction-to/9781492033158/)
 * [Beyond Explainability: A Practical Guide to Managing Risk in Machine Learning Models](https://www.immuta.com/beyond/)
 * [Fairness and Machine Learning](http://fairmlbook.org/)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
-## Other Interpretability and Fairness Lists
+## Other Interpretability and Fairness Resources and Lists
 
+* [8 Principles of Ethical ML](https://ethical.institute/principles.html)
+* [An Introduction to Machine Learning Interpretability](https://pages.dataiku.com/oreilly-introduction-to-machine-learning-interpretability)
+* [Awesome interpretable machine learning](https://github.com/lopusz/awesome-interpretable-machine-learning) ;)
+* [algoaware][https://www.algoaware.eu/]
 * [criticalML](https://github.com/rockita/criticalML)
 * [Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Scholarship](https://www.fatml.org/resources/relevant-scholarship)
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)
