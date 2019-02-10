@@ -92,7 +92,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 ## Other Interpretability and Fairness Resources and Lists
 
-* [8 Principles of Ethical ML](https://ethical.institute/principles.html)
+* [8 Principles of Responsible ML](https://ethical.institute/principles.html)
 * [An Introduction to Machine Learning Interpretability](https://pages.dataiku.com/oreilly-introduction-to-machine-learning-interpretability)
 * [Awesome interpretable machine learning](https://github.com/lopusz/awesome-interpretable-machine-learning) ;)
 * [algoaware](https://www.algoaware.eu/)
