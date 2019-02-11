@@ -19,7 +19,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Other Interpretability and Fairness Resources and Lists](https://github.com/jphall663/awesome-machine-learning-interpretability#other-interpretability-and-fairness-resources-and-lists)
 * [Review and General Papers](https://github.com/jphall663/awesome-machine-learning-interpretability#review-and-general-papers)
 * [Teaching Resources](https://github.com/jphall663/awesome-machine-learning-interpretability#teaching-resources)
-* Whitebox Modeling Packages
+* Interpretable ("Whitebox") or Fair Modeling Packages
   * [C/C++](https://github.com/jphall663/awesome-machine-learning-interpretability#cc)
   * [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python-1)
   * [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r-1)
@@ -36,7 +36,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
   * [The Importance of Human Interpretable Machine Learning](https://towardsdatascience.com/human-interpretable-machine-learning-part-1-the-need-and-importance-of-model-interpretation-2ed758f5f476)
   * [Model Interpretation Strategies](https://towardsdatascience.com/explainable-artificial-intelligence-part-2-model-interpretation-strategies-75d4afa6b739)
   * [Hands-on Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
-* [Partial dependence plots in R](https://journal.r-project.org/archive/2017/RJ-2017-016/)
+* [Partial Dependence Plots in R](https://journal.r-project.org/archive/2017/RJ-2017-016/)
 * [Visualizing ML Models with LIME](http://uc-r.github.io/lime)
 
 ## Explainability- or Fairness-Enhancing Software Packages
