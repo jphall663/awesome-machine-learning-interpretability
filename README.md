@@ -12,12 +12,12 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 ## Table of Contents
 
 * [Comprehensive Software Examples and Tutorials](https://github.com/jphall663/awesome-machine-learning-interpretability#comprehensive-software-examples-and-tutorials)
-* Interpretability and Fairness Software Packages
+* Explainability- or Fairness-Enhancing Software Packages
   * [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python)
   * [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r)
 * [Free Books](https://github.com/jphall663/awesome-machine-learning-interpretability#free-books)
 * [Other Interpretability and Fairness Resources and Lists](https://github.com/jphall663/awesome-machine-learning-interpretability#other-interpretability-and-fairness-resources-and-lists)
-* [Review Papers](https://github.com/jphall663/awesome-machine-learning-interpretability#review-papers)
+* [Review and General Papers](https://github.com/jphall663/awesome-machine-learning-interpretability#review-and-general-papers)
 * [Teaching Resources](https://github.com/jphall663/awesome-machine-learning-interpretability#teaching-resources)
 * Whitebox Modeling Packages
   * [C/C++](https://github.com/jphall663/awesome-machine-learning-interpretability#cc)
