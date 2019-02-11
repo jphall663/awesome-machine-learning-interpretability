@@ -13,6 +13,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 * [Comprehensive Software Examples and Tutorials](https://github.com/jphall663/awesome-machine-learning-interpretability#comprehensive-software-examples-and-tutorials)
 * Explainability- or Fairness-Enhancing Software Packages
+  * [Browser](https://github.com/jphall663/awesome-machine-learning-interpretability#browser)
   * [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python)
   * [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r)
 * [Free Books](https://github.com/jphall663/awesome-machine-learning-interpretability#free-books)
