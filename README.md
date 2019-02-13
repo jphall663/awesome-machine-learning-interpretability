@@ -115,6 +115,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Scholarship](https://www.fatml.org/resources/relevant-scholarship)
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
+* [MIT AI Ethics Reading Group](https://mitaiethics.github.io/)
 * [XAI Resources](https://github.com/pbiecek/xai_resources)
 
 ## Review and General Papers
