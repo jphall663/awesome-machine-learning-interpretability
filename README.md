@@ -137,6 +137,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 * [An Introduction to Data Ethics](https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/an-introduction-to-data-ethics/)
 * [Fairness in Machine Learning](https://fairmlclass.github.io/)
+* [Human-Center Machine Learning](http://courses.mpi-sws.org/hcml-ws18/)
 * [Practical Model Interpretability](https://github.com/jphall663/GWU_data_mining/blob/master/10_model_interpretability/10_model_interpretability.md)
 
 ## Interpretable ("Whitebox") or Fair Modeling Packages
