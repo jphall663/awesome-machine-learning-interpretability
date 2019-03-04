@@ -119,6 +119,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
 * [MIT AI Ethics Reading Group](https://mitaiethics.github.io/)
 * [private-ai-resources](https://github.com/OpenMined/private-ai-resources)
+* [You Created A Machine Learning Application Now Make Sure It's Secure](https://www.oreilly.com/ideas/you-created-a-machine-learning-application-now-make-sure-its-secure)
 * [XAI Resources](https://github.com/pbiecek/xai_resources)
 
 ## Review and General Papers
@@ -135,6 +136,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [The Promise and Peril of Human Evaluation for Model Interpretability](https://arxiv.org/pdf/1711.07414.pdf)
 * [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf)
 * [Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda](https://dl.acm.org/citation.cfm?id=3174156)
+
 
 
 ## Teaching Resources
