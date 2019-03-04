@@ -118,6 +118,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
 * [MIT AI Ethics Reading Group](https://mitaiethics.github.io/)
+* [private-ai-resources](https://github.com/OpenMined/private-ai-resources)
 * [XAI Resources](https://github.com/pbiecek/xai_resources)
 
 ## Review and General Papers
