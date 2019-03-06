@@ -96,6 +96,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [mcr](https://github.com/aaronjfisher/mcr)
 * [pdp](https://bgreenwell.github.io/pdp/index.html)
 * [shapleyR](https://github.com/redichh/ShapleyR)
+* [shapper](https://cran.r-project.org/web/packages/shapper/index.html)
 * [smbinning](https://cran.r-project.org/web/packages/smbinning/index.html)
 * [vip](https://github.com/koalaverse/vip)
 * [xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer)
