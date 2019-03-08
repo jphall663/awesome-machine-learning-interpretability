@@ -110,6 +110,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 ## Other Interpretability and Fairness Resources and Lists
 
 * [8 Principles of Responsible ML](https://ethical.institute/principles.html)
+* [ACM FAT* 2019 Youtube Playlist](https://www.youtube.com/playlist?list=PLXA0IWa3BpHk7fE8IH6wXNEfAZyr3A5Yb)
 * [An Introduction to Machine Learning Interpretability](https://pages.dataiku.com/oreilly-introduction-to-machine-learning-interpretability)
 * [Awesome interpretable machine learning](https://github.com/lopusz/awesome-interpretable-machine-learning) ;)
 * [Awesome machine learning operations](https://github.com/EthicalML/awesome-machine-learning-operations)
