@@ -60,6 +60,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [fairness](https://github.com/algofairness/fairness-comparison)
 * [foolbox](https://github.com/bethgelab/foolbox)
 * [Integrated-Gradients](https://github.com/ankurtaly/Integrated-Gradients)
+* [Interpert with rules](https://github.com/clips/interpret_with_rules)
 * [lofo-importance](https://github.com/aerdem4/lofo-importance)
 * [L2X](https://github.com/Jianbo-Lab/L2X)
 * [lime](https://github.com/marcotcr/lime)
