@@ -64,6 +64,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [lofo-importance](https://github.com/aerdem4/lofo-importance)
 * [L2X](https://github.com/Jianbo-Lab/L2X)
 * [lime](https://github.com/marcotcr/lime)
+* [microsoft/interpret](https://github.com/Microsoft/interpret)
 * [PDPbox](https://github.com/SauceCat/PDPbox)
 * [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown)
 * [PyCEbox](https://github.com/AustinRochford/PyCEbox)
@@ -163,10 +164,12 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Bayesian Case Model](https://users.cs.duke.edu/~cynthia/code/BCM.zip)
 * [Bayesian Ors-Of-Ands](https://github.com/wangtongada/BOA)
 * [Bayesian Rule List (BRL)](https://users.cs.duke.edu/~cynthia/code/BRL_supplement_code.zip)
+* [Explainable Boosting Machine (EBM)](https://github.com/Microsoft/interpret)
 * [fair-classification](https://github.com/mbilalzafar/fair-classification)
 * [Falling Rule List (FRL)](https://users.cs.duke.edu/~cynthia/code/falling_rule_list.zip)
 * H2O-3
   * [Penalized Generalized Linear Models](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/modeling.html#h2ogeneralizedlinearestimator)
+  * [Monotonic GBM](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/modeling.html#h2ogradientboostingestimator)
   * [Sparse Principal Components (GLRM)](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/modeling.html#h2ogeneralizedlowrankestimator)
 * [Monotonic](http://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html) [XGBoost](http://xgboost.readthedocs.io/en/latest/)
 * [pyGAM](https://github.com/dswah/pyGAM)
@@ -188,6 +191,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html)
 * H2O-3
   * [Penalized Generalized Linear Models](http://docs.h2o.ai/h2o/latest-stable/h2o-r/docs/reference/h2o.glm.html)
+  * [Monotonic GBM](http://docs.h2o.ai/h2o/latest-stable/h2o-r/docs/reference/h2o.glrm.html)
   * [Sparse Principal Components (GLRM)](http://docs.h2o.ai/h2o/latest-stable/h2o-r/docs/reference/h2o.glrm.html)
 * [Monotonic](http://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html) [XGBoost](http://xgboost.readthedocs.io/en/latest/)
 * [quantreg](https://cran.r-project.org/web/packages/quantreg/index.html)
