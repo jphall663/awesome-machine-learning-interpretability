@@ -117,6 +117,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Awesome machine learning operations](https://github.com/EthicalML/awesome-machine-learning-operations)
 * [algoaware](https://www.algoaware.eu/)
 * [criticalML](https://github.com/rockita/criticalML)
+* [Debugging Machine Learning Models (ICLR workshop proceedings)](https://debug-ml-iclr2019.github.io/)
 * [Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Scholarship](https://www.fatml.org/resources/relevant-scholarship)
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
