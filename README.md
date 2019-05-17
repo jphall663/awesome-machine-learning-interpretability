@@ -73,6 +73,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [rationale](https://github.com/taolei87/rcnn/tree/master/code/rationale)
 * [tensorfow/cleverhans](https://github.com/tensorflow/cleverhans)
 * [tensorflow/lucid](https://github.com/tensorflow/lucid)
+* [tensorflow/lattice](https://github.com/tensorflow/lattice)
 * [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis)
 * [tensorflow/privacy](https://github.com/tensorflow/privacy)
 * [Themis](https://github.com/LASER-UMASS/Themis)
