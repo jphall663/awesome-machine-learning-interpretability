@@ -181,6 +181,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
 * [skope-rules](https://github.com/scikit-learn-contrib/skope-rules)
 * [Super-sparse Linear Integer models (SLIMs)](https://github.com/ustunb/slim-python)
+* [tensorflow/lattice](https://github.com/tensorflow/lattice)
 
 ### R
 
