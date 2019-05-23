@@ -19,6 +19,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Free Books](https://github.com/jphall663/awesome-machine-learning-interpretability#free-books)
 * [Other Interpretability and Fairness Resources and Lists](https://github.com/jphall663/awesome-machine-learning-interpretability#other-interpretability-and-fairness-resources-and-lists)
 * [Review and General Papers](https://github.com/jphall663/awesome-machine-learning-interpretability#review-and-general-papers)
+  * [Limitations of Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability#limitations-of-interpretability)
 * [Teaching Resources](https://github.com/jphall663/awesome-machine-learning-interpretability#teaching-resources)
 * Interpretable ("Whitebox") or Fair Modeling Packages
   * [C/C++](https://github.com/jphall663/awesome-machine-learning-interpretability#cc)
@@ -48,6 +49,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 ### Python
 
+* [acd](https://github.com/csinva/hierarchical_dnn_interpretations)
 * [aequitas](https://github.com/dssg/aequitas)
 * [AI Fairness 360](http://aif360.mybluemix.net)
 * [anchor](https://github.com/marcotcr/anchor)
@@ -59,6 +61,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [fairml](https://github.com/adebayoj/fairml)
 * [fairness](https://github.com/algofairness/fairness-comparison)
 * [foolbox](https://github.com/bethgelab/foolbox)
+* [iNNvestigate neural nets](https://arxiv.org/abs/1808.04260)
 * [Integrated-Gradients](https://github.com/ankurtaly/Integrated-Gradients)
 * [interpret_with_rules](https://github.com/clips/interpret_with_rules)
 * [lofo-importance](https://github.com/aerdem4/lofo-importance)
@@ -75,6 +78,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [tensorflow/lucid](https://github.com/tensorflow/lucid)
 * [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis)
 * [tensorflow/privacy](https://github.com/tensorflow/privacy)
+* [tensorfuzz](https://arxiv.org/abs/1807.10875)
 * [Themis](https://github.com/LASER-UMASS/Themis)
 * [themis-ml](https://github.com/cosmicBboy/themis-ml)
 * [treeinterpreter](https://github.com/andosa/treeinterpreter)
@@ -90,6 +94,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [featureImportance](https://github.com/giuseppec/featureImportance)
 * [forestmodel](https://cran.r-project.org/web/packages/forestmodel/index.html)
 * [fscaret](https://cran.r-project.org/web/packages/fscaret/)
+* [glm](https://www.rdocumentation.org/packages/stats/versions/3.6.0/topics/glm)
 * [ICEbox](https://cran.r-project.org/web/packages/ICEbox/index.html)
 * [iml](https://github.com/christophM/iml)
 * [lightgbmExplainer](https://github.com/lantanacamara/lightgbmExplainer)
@@ -133,8 +138,9 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
 * [A Marauder’s Map of Security and Privacy in Machine Learning](https://arxiv.org/pdf/1811.01134.pdf)
 * [Challenges for Transparency](https://arxiv.org/pdf/1708.01870.pdf)
-* [Explaining Explanations: An Approach to Evaluating Interpretability of Machine Learning](https://arxiv.org/pdf/1806.00069.pdf)
+* [Explaining Explanations: An Overview of Interpretability of Machine Learning](https://arxiv.org/pdf/1806.00069.pdf)
 * [Explanation in Human-AI Systems: A Literature Meta-Review, Synopsis of Key Ideas and Publications, and Bibliography for Explainable AI](https://arxiv.org/abs/1902.01876v1)
+* [Interpretable machine learning: definitions, methods, and applications](https://arxiv.org/abs/1901.04592)
 * [On the Art and Science of Machine Learning Explanations](https://arxiv.org/pdf/1810.02909.pdf)
 * [On the Responsibility of Technologists: A Prologue and Primer](https://algo-stats.info/2018/04/15/on-the-responsibility-of-technologists-a-prologue-and-primer/)
 * [Please Stop Explaining Black Box Models for High-Stakes Decisions](https://arxiv.org/pdf/1811.10154.pdf)
@@ -144,7 +150,12 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [The Security of Machine Learning](https://people.eecs.berkeley.edu/~adj/publications/paper-files/SecML-MLJ2010.pdf)
 * [Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda](https://dl.acm.org/citation.cfm?id=3174156)
 
+## Limitations of Interpretability
 
+- [Sanity Checks for Saliency Maps](https://papers.nips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf)
+- [Quantifying Interpretability of Arbitrary Machine Learning Models Through Functional Decomposition](https://arxiv.org/pdf/1904.03867.pdf)
+- [Evaluating Feature Importance Estimates](https://arxiv.org/abs/1806.10758)
+- [Interpretable Deep Learning under Fire](https://arxiv.org/abs/1812.00891)
 
 ## Teaching Resources
 
@@ -199,3 +210,4 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [rpart](https://cran.r-project.org/web/packages/rpart/index.html)
 * [RuleFit](http://statweb.stanford.edu/~jhf/R_RuleFit.html)
 * [Scalable Bayesian Rule Lists (SBRL)](https://users.cs.duke.edu/~cynthia/code/sbrl_1.0.tar.gz)
+
