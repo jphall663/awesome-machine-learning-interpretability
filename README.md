@@ -94,7 +94,6 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [featureImportance](https://github.com/giuseppec/featureImportance)
 * [forestmodel](https://cran.r-project.org/web/packages/forestmodel/index.html)
 * [fscaret](https://cran.r-project.org/web/packages/fscaret/)
-* [glm2](https://cran.r-project.org/web/packages/glm2/)
 * [ICEbox](https://cran.r-project.org/web/packages/ICEbox/index.html)
 * [iml](https://github.com/christophM/iml)
 * [lightgbmExplainer](https://github.com/lantanacamara/lightgbmExplainer)
@@ -145,17 +144,9 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [On the Responsibility of Technologists: A Prologue and Primer](https://algo-stats.info/2018/04/15/on-the-responsibility-of-technologists-a-prologue-and-primer/)
 * [Please Stop Explaining Black Box Models for High-Stakes Decisions](https://arxiv.org/pdf/1811.10154.pdf)
 * [The Mythos of Model Interpretability](https://arxiv.org/pdf/1606.03490.pdf)
-* [The Promise and Peril of Human Evaluation for Model Interpretability](https://arxiv.org/pdf/1711.07414.pdf)
 * [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf)
 * [The Security of Machine Learning](https://people.eecs.berkeley.edu/~adj/publications/paper-files/SecML-MLJ2010.pdf)
 * [Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda](https://dl.acm.org/citation.cfm?id=3174156)
-
-## Limitations of Interpretability
-
-- [Sanity Checks for Saliency Maps](https://papers.nips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf)
-- [Quantifying Interpretability of Arbitrary Machine Learning Models Through Functional Decomposition](https://arxiv.org/pdf/1904.03867.pdf)
-- [Evaluating Feature Importance Estimates](https://arxiv.org/abs/1806.10758)
-- [Interpretable Deep Learning under Fire](https://arxiv.org/abs/1812.00891)
 
 ## Teaching Resources
 
@@ -200,6 +191,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Causal SVM](https://github.com/shangtai/githubcausalsvm)
 * [elasticnet](https://cran.r-project.org/web/packages/elasticnet/index.html)
 * [gam](https://cran.r-project.org/web/packages/gam/index.html)
+* [glm2](https://cran.r-project.org/web/packages/glm2/)
 * [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html)
 * H2O-3
   * [Penalized Generalized Linear Models](http://docs.h2o.ai/h2o/latest-stable/h2o-r/docs/reference/h2o.glm.html)
