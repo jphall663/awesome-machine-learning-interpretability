@@ -32,6 +32,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [IML](https://mybinder.org/v2/gh/christophM/iml/master?filepath=./notebooks/tutorial-intro.ipynb)
 * [Interpretable Machine Learning with Python](https://github.com/jphall663/interpretable_machine_learning_with_python)
 * [Interpreting Machine Learning Models with the iml Package](http://uc-r.github.io/iml-pkg)
+* [Interpretable Machine Learning using Counterfactuals](https://docs.seldon.io/projects/alibi/en/v0.2.0/examples/cf_mnist.html)
 * [Machine Learning Explainability by Kaggle Learn](https://www.kaggle.com/learn/machine-learning-explainability)
 * [Model Interpretability with DALEX](http://uc-r.github.io/dalex)
 * Model Interpretation series by Dipanjan (DJ) Sarkar:
@@ -52,6 +53,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [acd](https://github.com/csinva/hierarchical_dnn_interpretations)
 * [aequitas](https://github.com/dssg/aequitas)
 * [AI Fairness 360](http://aif360.mybluemix.net)
+* [Alibi](https://github.com/SeldonIO/alibi)
 * [anchor](https://github.com/marcotcr/anchor)
 * [casme](https://github.com/kondiz/casme)
 * [ContrastiveExplanation (Foil Trees)](https://github.com/MarcelRobeer/ContrastiveExplanation)
