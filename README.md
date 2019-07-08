@@ -148,6 +148,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [The Mythos of Model Interpretability](https://arxiv.org/pdf/1606.03490.pdf)
 * [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf)
 * [The Security of Machine Learning](https://people.eecs.berkeley.edu/~adj/publications/paper-files/SecML-MLJ2010.pdf)
+* [Techniques for Interpretable Machine Learning](https://arxiv.org/pdf/1808.00033.pdf)
 * [Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda](https://dl.acm.org/citation.cfm?id=3174156)
 
 ## Teaching Resources
