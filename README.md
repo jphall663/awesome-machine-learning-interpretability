@@ -157,6 +157,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Fairness in Machine Learning](https://fairmlclass.github.io/)
 * [Human-Center Machine Learning](http://courses.mpi-sws.org/hcml-ws18/)
 * [Practical Model Interpretability](https://github.com/jphall663/GWU_data_mining/blob/master/10_model_interpretability/10_model_interpretability.md)
+* [Trustworthy Deep Learning] (https://berkeley-deep-learning.github.io/cs294-131-s19/)
 
 ## Interpretable ("Whitebox") or Fair Modeling Packages
 
