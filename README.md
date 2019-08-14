@@ -71,6 +71,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [L2X](https://github.com/Jianbo-Lab/L2X)
 * [lime](https://github.com/marcotcr/lime)
 * [microsoft/interpret](https://github.com/Microsoft/interpret)
+* [MLextend](http://rasbt.github.io/mlxtend/)
 * [PDPbox](https://github.com/SauceCat/PDPbox)
 * [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown)
 * [PyCEbox](https://github.com/AustinRochford/PyCEbox)
@@ -87,6 +88,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [treeinterpreter](https://github.com/andosa/treeinterpreter)
 * [woe](https://github.com/boredbird/woe)
 * [xai](https://github.com/EthicalML/xai)
+* [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)
 
 ### R
 
