@@ -75,6 +75,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [PDPbox](https://github.com/SauceCat/PDPbox)
 * [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown)
 * [PyCEbox](https://github.com/AustinRochford/PyCEbox)
+* [robustness](https://github.com/MadryLab/robustness)
 * [shap](https://github.com/slundberg/shap)
 * [Skater](https://github.com/datascienceinc/Skater)
 * [rationale](https://github.com/taolei87/rcnn/tree/master/code/rationale)
