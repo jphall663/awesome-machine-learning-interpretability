@@ -84,6 +84,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis)
 * [tensorflow/privacy](https://github.com/tensorflow/privacy)
 * [tensorfuzz](https://github.com/brain-research/tensorfuzz)
+* [tf-explain](https://github.com/sicara/tf-explain)
 * [Themis](https://github.com/LASER-UMASS/Themis)
 * [themis-ml](https://github.com/cosmicBboy/themis-ml)
 * [treeinterpreter](https://github.com/andosa/treeinterpreter)
