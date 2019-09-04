@@ -117,15 +117,16 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 ## Free Books
 
+* [An Introduction to Machine Learning Interpretability](https://www.h2o.ai/oreilly-mli-booklet-2019/)
 * [Beyond Explainability: A Practical Guide to Managing Risk in Machine Learning Models](https://go.immuta.com/beyond-explainability-white-paper)
 * [Fairness and Machine Learning](http://fairmlbook.org/)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+
 
 ## Other Interpretability and Fairness Resources and Lists
 
 * [8 Principles of Responsible ML](https://ethical.institute/principles.html)
 * [ACM FAT* 2019 Youtube Playlist](https://www.youtube.com/playlist?list=PLXA0IWa3BpHk7fE8IH6wXNEfAZyr3A5Yb)
-* [An Introduction to Machine Learning Interpretability](https://pages.dataiku.com/oreilly-introduction-to-machine-learning-interpretability)
 * [Awesome interpretable machine learning](https://github.com/lopusz/awesome-interpretable-machine-learning) ;)
 * [Awesome machine learning operations](https://github.com/EthicalML/awesome-machine-learning-operations)
 * [algoaware](https://www.algoaware.eu/)
