@@ -58,7 +58,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [AI Explainability 360](https://github.com/IBM/AIX360)
 * [Alibi](https://github.com/SeldonIO/alibi)
 * [anchor](https://github.com/marcotcr/anchor)
-- [BlackBoxAuditing](https://github.com/algofairness/BlackBoxAuditing)
+* [BlackBoxAuditing](https://github.com/algofairness/BlackBoxAuditing)
 * [casme](https://github.com/kondiz/casme)
 * [ContrastiveExplanation (Foil Trees)](https://github.com/MarcelRobeer/ContrastiveExplanation)
 * [deeplift](https://github.com/kundajelab/deeplift)
