@@ -62,6 +62,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [BlackBoxAuditing](https://github.com/algofairness/BlackBoxAuditing)
 * [casme](https://github.com/kondiz/casme)
 * [ContrastiveExplanation (Foil Trees)](https://github.com/MarcelRobeer/ContrastiveExplanation)
+* [DeepExplain](https://github.com/marcoancona/DeepExplain)
 * [deeplift](https://github.com/kundajelab/deeplift)
 * [deepvis](https://github.com/yosinski/deep-visualization-toolbox)
 * [eli5](https://github.com/TeamHG-Memex/eli5)
