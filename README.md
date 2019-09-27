@@ -19,7 +19,6 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Free Books](https://github.com/jphall663/awesome-machine-learning-interpretability#free-books)
 * [Other Interpretability and Fairness Resources and Lists](https://github.com/jphall663/awesome-machine-learning-interpretability#other-interpretability-and-fairness-resources-and-lists)
 * [Review and General Papers](https://github.com/jphall663/awesome-machine-learning-interpretability#review-and-general-papers)
-  * [Limitations of Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability#limitations-of-interpretability)
 * [Teaching Resources](https://github.com/jphall663/awesome-machine-learning-interpretability#teaching-resources)
 * Interpretable ("Whitebox") or Fair Modeling Packages
   * [C/C++](https://github.com/jphall663/awesome-machine-learning-interpretability#cc)
@@ -141,6 +140,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [algoaware](https://www.algoaware.eu/)
 * [criticalML](https://github.com/rockita/criticalML)
 * [Debugging Machine Learning Models (ICLR workshop proceedings)](https://debug-ml-iclr2019.github.io/)
+* [Deep Insights into Explainability and Interpretability of Machine Learning Algorithms and Applications to Risk Management](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=303053)
 * [Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Scholarship](https://www.fatml.org/resources/relevant-scholarship)
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
@@ -158,6 +158,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Explaining Explanations: An Overview of Interpretability of Machine Learning](https://arxiv.org/pdf/1806.00069.pdf)
 * [Explanation in Human-AI Systems: A Literature Meta-Review, Synopsis of Key Ideas and Publications, and Bibliography for Explainable AI](https://arxiv.org/abs/1902.01876v1)
 * [Interpretable Machine Learning: Definitions, Methods, and Applications](https://arxiv.org/abs/1901.04592)
+* [Machine Learning Explainability in Finance](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2019/machine-learning-explainability-in-finance-an-application-to-default-risk-analysis)
 * [On the Art and Science of Machine Learning Explanations](https://arxiv.org/pdf/1810.02909.pdf)
 * [On the Responsibility of Technologists: A Prologue and Primer](https://algo-stats.info/2018/04/15/on-the-responsibility-of-technologists-a-prologue-and-primer/)
 * [Please Stop Explaining Black Box Models for High-Stakes Decisions](https://arxiv.org/pdf/1811.10154.pdf)
