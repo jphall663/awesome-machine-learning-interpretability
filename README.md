@@ -77,7 +77,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [lofo-importance](https://github.com/aerdem4/lofo-importance)
 * [L2X](https://github.com/Jianbo-Lab/L2X)
 * [lime](https://github.com/marcotcr/lime)
-* [LRP](https://github.com/sebastian-lapuschkin/lrp_toolbox)
+* [lrp_toolbox](https://github.com/sebastian-lapuschkin/lrp_toolbox)
 * [microsoft/interpret](https://github.com/Microsoft/interpret)
 * [MLextend](http://rasbt.github.io/mlxtend/)
 * [PDPbox](https://github.com/SauceCat/PDPbox)
