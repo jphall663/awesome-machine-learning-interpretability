@@ -135,6 +135,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 * [8 Principles of Responsible ML](https://ethical.institute/principles.html)
 * [ACM FAT* 2019 Youtube Playlist](https://www.youtube.com/playlist?list=PLXA0IWa3BpHk7fE8IH6wXNEfAZyr3A5Yb)
+* [AI Ethics Guidelines Global Inventory](https://algorithmwatch.org/en/project/ai-ethics-guidelines-global-inventory/)
 * [Awesome interpretable machine learning](https://github.com/lopusz/awesome-interpretable-machine-learning) ;)
 * [Awesome machine learning operations](https://github.com/EthicalML/awesome-machine-learning-operations)
 * [algoaware](https://www.algoaware.eu/)
