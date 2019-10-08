@@ -117,6 +117,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [live](https://cran.r-project.org/web/packages/live/index.html)
 * [mcr](https://github.com/aaronjfisher/mcr)
 * [modeldown](https://cran.r-project.org/web/packages/modelDown/index.html)
+* [modelstudio](https://github.com/ModelOriented/modelStudio)
 * [pdp](https://bgreenwell.github.io/pdp/index.html)
 * [shapleyR](https://github.com/redichh/ShapleyR)
 * [shapper](https://cran.r-project.org/web/packages/shapper/index.html)
