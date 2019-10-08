@@ -126,7 +126,6 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 ## Free Books
 
 * [An Introduction to Machine Learning Interpretability](https://www.h2o.ai/oreilly-mli-booklet-2019/)
-* [Beyond Explainability: A Practical Guide to Managing Risk in Machine Learning Models](https://go.immuta.com/beyond-explainability-white-paper)
 * [Fairness and Machine Learning](http://fairmlbook.org/)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
@@ -139,6 +138,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Awesome interpretable machine learning](https://github.com/lopusz/awesome-interpretable-machine-learning) ;)
 * [Awesome machine learning operations](https://github.com/EthicalML/awesome-machine-learning-operations)
 * [algoaware](https://www.algoaware.eu/)
+* [Beyond Explainability: A Practical Guide to Managing Risk in Machine Learning Models](https://go.immuta.com/beyond-explainability-white-paper)
 * [criticalML](https://github.com/rockita/criticalML)
 * [Debugging Machine Learning Models (ICLR workshop proceedings)](https://debug-ml-iclr2019.github.io/)
 * [Deep Insights into Explainability and Interpretability of Machine Learning Algorithms and Applications to Risk Management](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=303053)
@@ -147,8 +147,9 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
 * [MIT AI Ethics Reading Group](https://mitaiethics.github.io/)
 * [private-ai-resources](https://github.com/OpenMined/private-ai-resources)
-* [You Created A Machine Learning Application Now Make Sure It's Secure](https://www.oreilly.com/ideas/you-created-a-machine-learning-application-now-make-sure-its-secure)
+* [Warning Signs: The Future of Privacy and Security in an Age of Machine Learning](https://fpf.org/wp-content/uploads/2019/09/FPF_WarningSigns_Report.pdf)
 * [XAI Resources](https://github.com/pbiecek/xai_resources)
+* [You Created A Machine Learning Application Now Make Sure It's Secure](https://www.oreilly.com/ideas/you-created-a-machine-learning-application-now-make-sure-its-secure)
 
 ## Review and General Papers
 
