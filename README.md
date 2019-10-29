@@ -38,16 +38,20 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
   * [The Importance of Human Interpretable Machine Learning](https://towardsdatascience.com/human-interpretable-machine-learning-part-1-the-need-and-importance-of-model-interpretation-2ed758f5f476)
   * [Model Interpretation Strategies](https://towardsdatascience.com/explainable-artificial-intelligence-part-2-model-interpretation-strategies-75d4afa6b739)
   * [Hands-on Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
+  * [Interpreting Deep Learning Models for Computer Vision](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
 * [Partial Dependence Plots in R](https://journal.r-project.org/archive/2017/RJ-2017-016/)
 * [Saliency Maps for Deep
   Learning](https://medium.com/@thelastalias/saliency-maps-for-deep-learning-part-1-vanilla-gradient-1d0665de3284)
 * [Visualizing ML Models with LIME](http://uc-r.github.io/lime)
+* [What does a CNN see?](https://colab.research.google.com/drive/1xM6UZ9OdpGDnHBljZ0RglHV_kBrZ4e-9)
+* [Visualizing and debugging deep convolutional networks](https://rohitghosh.github.io/2018/01/05/visualising-debugging-deep-neural-networks/)
 
 ## Explainability- or Fairness-Enhancing Software Packages
 
 ### Browser
 
 * [What-if Tool](https://pair-code.github.io/what-if-tool/index.html#about)
+* [TensorBoard Projector](http://projector.tensorflow.org)
 
 ### Python
 
@@ -74,6 +78,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Integrated-Gradients](https://github.com/ankurtaly/Integrated-Gradients)
 * [interpret_with_rules](https://github.com/clips/interpret_with_rules)
 * [Keras-vis](https://github.com/raghakot/keras-vis)
+* [keract](https://github.com/philipperemy/keract/)
 * [lofo-importance](https://github.com/aerdem4/lofo-importance)
 * [L2X](https://github.com/Jianbo-Lab/L2X)
 * [lime](https://github.com/marcotcr/lime)
@@ -233,4 +238,3 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [rpart](https://cran.r-project.org/web/packages/rpart/index.html)
 * [RuleFit](http://statweb.stanford.edu/~jhf/R_RuleFit.html)
 * [Scalable Bayesian Rule Lists (SBRL)](https://users.cs.duke.edu/~cynthia/code/sbrl_1.0.tar.gz)
-
