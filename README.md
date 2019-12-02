@@ -40,11 +40,11 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
   * [Hands-on Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
   * [Interpreting Deep Learning Models for Computer Vision](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
 * [Partial Dependence Plots in R](https://journal.r-project.org/archive/2017/RJ-2017-016/)
-* [Saliency Maps for Deep
-  Learning](https://medium.com/@thelastalias/saliency-maps-for-deep-learning-part-1-vanilla-gradient-1d0665de3284)
+* [Saliency Maps for Deep Learning](https://medium.com/@thelastalias/saliency-maps-for-deep-learning-part-1-vanilla-gradient-1d0665de3284)
+* [Training Neural Nets: a Hacker’s Perspective](https://blog.floydhub.com/training-neural-nets-a-hackers-perspective/)
 * [Visualizing ML Models with LIME](http://uc-r.github.io/lime)
-* [What does a CNN see?](https://colab.research.google.com/drive/1xM6UZ9OdpGDnHBljZ0RglHV_kBrZ4e-9)
 * [Visualizing and debugging deep convolutional networks](https://rohitghosh.github.io/2018/01/05/visualising-debugging-deep-neural-networks/)
+* [What does a CNN see?](https://colab.research.google.com/drive/1xM6UZ9OdpGDnHBljZ0RglHV_kBrZ4e-9)
 
 ## Explainability- or Fairness-Enhancing Software Packages
 
@@ -162,7 +162,6 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [MIT AI Ethics Reading Group](https://mitaiethics.github.io/)
 * [private-ai-resources](https://github.com/OpenMined/private-ai-resources)
 * [Real-World Model Debugging Strategies](https://medium.com/@jphall_22520/strategies-for-model-debugging-aa822f1097ce)
-* [Training Neural Nets: a Hacker’s Perspective](https://blog.floydhub.com/training-neural-nets-a-hackers-perspective/)
 * [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
 * [Warning Signs: The Future of Privacy and Security in an Age of Machine Learning](https://fpf.org/wp-content/uploads/2019/09/FPF_WarningSigns_Report.pdf)
 * [XAI Resources](https://github.com/pbiecek/xai_resources)
