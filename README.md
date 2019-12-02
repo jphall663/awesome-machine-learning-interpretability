@@ -162,11 +162,11 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [MIT AI Ethics Reading Group](https://mitaiethics.github.io/)
 * [private-ai-resources](https://github.com/OpenMined/private-ai-resources)
 * [Real-World Model Debugging Strategies](https://medium.com/@jphall_22520/strategies-for-model-debugging-aa822f1097ce)
+* [Training Neural Nets: a Hacker’s Perspective](https://blog.floydhub.com/training-neural-nets-a-hackers-perspective/)
+* [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
 * [Warning Signs: The Future of Privacy and Security in an Age of Machine Learning](https://fpf.org/wp-content/uploads/2019/09/FPF_WarningSigns_Report.pdf)
 * [XAI Resources](https://github.com/pbiecek/xai_resources)
 * [You Created A Machine Learning Application Now Make Sure It's Secure](https://www.oreilly.com/ideas/you-created-a-machine-learning-application-now-make-sure-its-secure)
-* [Training Neural Nets: a Hacker’s Perspective](https://blog.floydhub.com/training-neural-nets-a-hackers-perspective/)
-* [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
 
 ## Review and General Papers
 
