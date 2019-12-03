@@ -162,13 +162,16 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [MIT AI Ethics Reading Group](https://mitaiethics.github.io/)
 * [private-ai-resources](https://github.com/OpenMined/private-ai-resources)
 * [Real-World Model Debugging Strategies](https://medium.com/@jphall_22520/strategies-for-model-debugging-aa822f1097ce)
+* [Singapore Personal Data Protection Commission (PDPC) Model Artificial Intelligence Governance Framework](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/Model-AI-Framework---First-Edition.pdf)
 * [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
+* [U.K. Information Commissioner's Office (ICO) AI Audting Framework (overview series)](https://ico.org.uk/about-the-ico/news-and-events/ai-blog-an-overview-of-the-auditing-framework-for-artificial-intelligence-and-its-core-components/)
 * [Warning Signs: The Future of Privacy and Security in an Age of Machine Learning](https://fpf.org/wp-content/uploads/2019/09/FPF_WarningSigns_Report.pdf)
 * [XAI Resources](https://github.com/pbiecek/xai_resources)
 * [You Created A Machine Learning Application Now Make Sure It's Secure](https://www.oreilly.com/ideas/you-created-a-machine-learning-application-now-make-sure-its-secure)
 
 ## Review and General Papers
 
+* [50 Years of Test (Un)fairness: Lessons for Machine Learning](https://arxiv.org/pdf/1811.10104.pdf)
 * [A Comparative Study of Fairness-Enhancing Interventions in Machine Learning](https://arxiv.org/pdf/1802.04422.pdf)
 * [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
 * [A Marauder’s Map of Security and Privacy in Machine Learning](https://arxiv.org/pdf/1811.01134.pdf)
