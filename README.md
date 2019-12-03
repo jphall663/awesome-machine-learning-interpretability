@@ -71,7 +71,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [deepvis](https://github.com/yosinski/deep-visualization-toolbox)
 * [eli5](https://github.com/TeamHG-Memex/eli5)
 * [fairml](https://github.com/adebayoj/fairml)
-* [fairness](https://github.com/algofairness/fairness-comparison)
+* [fairness-comparison](https://github.com/algofairness/fairness-comparison)
 * [foolbox](https://github.com/bethgelab/foolbox)
 * [Grad-CAM](https://github.com/topics/grad-cam)
 * [iNNvestigate neural nets](https://github.com/albermax/innvestigate)
