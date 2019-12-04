@@ -215,6 +215,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
   * [Penalized Generalized Linear Models](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/modeling.html#h2ogeneralizedlinearestimator)
   * [Monotonic GBM](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/modeling.html#h2ogradientboostingestimator)
   * [Sparse Principal Components (GLRM)](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/modeling.html#h2ogeneralizedlowrankestimator)
+* [Optimal Sparse Decision Trees](https://github.com/xiyanghu/OSDT)
 * [Monotonic](http://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html) [XGBoost](http://xgboost.readthedocs.io/en/latest/)
 * [pyGAM](https://github.com/dswah/pyGAM)
 * [Risk-SLIM](https://github.com/ustunb/risk-SLIM)
@@ -226,6 +227,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [skope-rules](https://github.com/scikit-learn-contrib/skope-rules)
 * [Super-sparse Linear Integer models (SLIMs)](https://github.com/ustunb/slim-python)
 * [tensorflow/lattice](https://github.com/tensorflow/lattice)
+* [This Looks Like That](https://github.com/cfchen-duke/ProtoPNet)
 
 ### R
 
