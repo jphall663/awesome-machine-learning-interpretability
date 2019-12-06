@@ -73,7 +73,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [fairml](https://github.com/adebayoj/fairml)
 * [fairness-comparison](https://github.com/algofairness/fairness-comparison)
 * [foolbox](https://github.com/bethgelab/foolbox)
-* [Grad-CAM](https://github.com/topics/grad-cam)
+* [Grad-CAM](https://github.com/topics/grad-cam) (GitHub topic)
 * [iNNvestigate neural nets](https://github.com/albermax/innvestigate)
 * [Integrated-Gradients](https://github.com/ankurtaly/Integrated-Gradients)
 * [interpret_with_rules](https://github.com/clips/interpret_with_rules)
