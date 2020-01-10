@@ -64,6 +64,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [anchor](https://github.com/marcotcr/anchor)
 * [BlackBoxAuditing](https://github.com/algofairness/BlackBoxAuditing)
 * [casme](https://github.com/kondiz/casme)
+* [captum](https://github.com/pytorch/captum)
 * [ContrastiveExplanation (Foil Trees)](https://github.com/MarcelRobeer/ContrastiveExplanation)
 * [DALEXtra]()
 * [DeepExplain](https://github.com/marcoancona/DeepExplain)
