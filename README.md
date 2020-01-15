@@ -49,8 +49,9 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 ### Browser
 
-* [What-if Tool](https://pair-code.github.io/what-if-tool/index.html#about)
+* [manifold](https://github.com/uber/manifold)
 * [TensorBoard Projector](http://projector.tensorflow.org)
+* [What-if Tool](https://pair-code.github.io/what-if-tool/index.html#about)
 
 ### Python
 
