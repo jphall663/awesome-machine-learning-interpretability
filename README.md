@@ -228,6 +228,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Optimal Sparse Decision Trees](https://github.com/xiyanghu/OSDT)
 * [Monotonic](http://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html) [XGBoost](http://xgboost.readthedocs.io/en/latest/)
 * [pyGAM](https://github.com/dswah/pyGAM)
+* [pySS3](https://github.com/sergioburdisso/pyss3)
 * [Risk-SLIM](https://github.com/ustunb/risk-SLIM)
 * Scikit-learn
   * [Decision Trees](http://scikit-learn.org/stable/modules/tree.html)
