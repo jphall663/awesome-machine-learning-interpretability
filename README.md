@@ -171,7 +171,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [MIT AI Ethics Reading Group](https://mitaiethics.github.io/)
 * [private-ai-resources](https://github.com/OpenMined/private-ai-resources)
 * [Real-World Model Debugging Strategies](https://medium.com/@jphall_22520/strategies-for-model-debugging-aa822f1097ce)
-* [Singapore Personal Data Protection Commission (PDPC) Model Artificial Intelligence Governance Framework](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/Model-AI-Framework---First-Edition.pdf)
+* [Singapore Personal Data Protection Commission (PDPC) Model Artificial Intelligence Governance Framework](https://www.pdpc.gov.sg/Resources/Model-AI-Gov)
 * [Testing and Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging)
 * [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
 * [Trump Administration Draft Guidance for Regulation of Artificial Intelligence Applications](https://www.whitehouse.gov/wp-content/uploads/2020/01/Draft-OMB-Memo-on-Regulation-of-AI-1-7-19.pdf) 
