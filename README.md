@@ -105,6 +105,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [tensorflow/tcav](https://github.com/tensorflow/tcav)
 * [tensorfuzz](https://github.com/brain-research/tensorfuzz)
 * [TensorWatch](https://github.com/microsoft/tensorwatch)
+* [TextFooler](https://github.com/jind11/TextFooler)
 * [tf-explain](https://github.com/sicara/tf-explain)
 * [Themis](https://github.com/LASER-UMASS/Themis)
 * [themis-ml](https://github.com/cosmicBboy/themis-ml)
