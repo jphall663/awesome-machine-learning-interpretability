@@ -123,6 +123,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [DALEXtra](https://cran.r-project.org/web/packages/DALEXtra/index.html)
 * [EloML](https://github.com/ModelOriented/EloML)
 * [ExplainPrediction](https://github.com/rmarko/ExplainPrediction)
+* [fastshap](https://github.com/bgreenwell/fastshap)
 * [featureImportance](https://github.com/giuseppec/featureImportance)
 * [forestmodel](https://cran.r-project.org/web/packages/forestmodel/index.html)
 * [fscaret](https://cran.r-project.org/web/packages/fscaret/)
