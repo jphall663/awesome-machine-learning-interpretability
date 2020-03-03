@@ -137,6 +137,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [modelOriented](https://github.com/ModelOriented)
 * [modelStudio](https://github.com/ModelOriented/modelStudio)
 * [pdp](https://bgreenwell.github.io/pdp/index.html)
+* [shapFlex](https://github.com/nredell/shapFlex)
 * [shapleyR](https://github.com/redichh/ShapleyR)
 * [shapper](https://cran.r-project.org/web/packages/shapper/index.html)
 * [smbinning](https://cran.r-project.org/web/packages/smbinning/index.html)
