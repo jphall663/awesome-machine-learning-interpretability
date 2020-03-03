@@ -173,6 +173,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
 * [MIT AI Ethics Reading Group](https://mitaiethics.github.io/)
 * [private-ai-resources](https://github.com/OpenMined/private-ai-resources)
+* [Problems with Shapley-value-based explanations as feature importance measures](https://arxiv.org/pdf/2002.11097v1.pdf)
 * [Real-World Model Debugging Strategies](https://medium.com/@jphall_22520/strategies-for-model-debugging-aa822f1097ce)
 * [Singapore Personal Data Protection Commission (PDPC) Model Artificial Intelligence Governance Framework](https://www.pdpc.gov.sg/Resources/Model-AI-Gov)
 * [Testing and Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging)
