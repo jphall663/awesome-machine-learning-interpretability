@@ -72,7 +72,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [DeepExplain](https://github.com/marcoancona/DeepExplain)
 * [deeplift](https://github.com/kundajelab/deeplift)
 * [deepvis](https://github.com/yosinski/deep-visualization-toolbox)
-* [DiCE] (https://github.com/microsoft/DiCE)
+* [DiCE](https://github.com/microsoft/DiCE)
 * [eli5](https://github.com/TeamHG-Memex/eli5)
 * [fairml](https://github.com/adebayoj/fairml)
 * [fairness-comparison](https://github.com/algofairness/fairness-comparison)
