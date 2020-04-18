@@ -164,7 +164,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](http://sameersingh.org/files/papers/allennlp-interpret-demo-emnlp19.pdf)
 * [Awesome interpretable machine learning](https://github.com/lopusz/awesome-interpretable-machine-learning) ;)
 * [Awesome machine learning operations](https://github.com/EthicalML/awesome-machine-learning-operations)
-* [Aweful AI](https://github.com/daviddao/awful-ai)
+* [Awful AI](https://github.com/daviddao/awful-ai)
 * [algoaware](https://www.algoaware.eu/)
 * [Beyond Explainability: A Practical Guide to Managing Risk in Machine Learning Models](https://go.immuta.com/beyond-explainability-white-paper)
 * [Consultation on the OPC’s Proposals for ensuring appropriate regulation of artificial intelligence](https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/consultation-ai/pos_ai_202001/)
