@@ -166,6 +166,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Awesome machine learning operations](https://github.com/EthicalML/awesome-machine-learning-operations)
 * [Awful AI](https://github.com/daviddao/awful-ai)
 * [algoaware](https://www.algoaware.eu/)
+* [BIML Interactive Machine Learning Risk Framework](https://berryvilleiml.com/interactive/)
 * [Beyond Explainability: A Practical Guide to Managing Risk in Machine Learning Models](https://go.immuta.com/beyond-explainability-white-paper)
 * [Consultation on the OPC’s Proposals for ensuring appropriate regulation of artificial intelligence](https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/consultation-ai/pos_ai_202001/)
 * [criticalML](https://github.com/rockita/criticalML)
