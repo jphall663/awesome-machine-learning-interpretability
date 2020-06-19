@@ -101,6 +101,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [robustness](https://github.com/MadryLab/robustness)
 * [RISE](https://github.com/eclique/RISE) 
 * [SALib](https://github.com/SALib/SALib)
+* [scikit-fairness](https://github.com/koaning/scikit-fairness)
 * [shap](https://github.com/slundberg/shap)
 * [Skater](https://github.com/datascienceinc/Skater)
 * [tensorfow/cleverhans](https://github.com/tensorflow/cleverhans)
