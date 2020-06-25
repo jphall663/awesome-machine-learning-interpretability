@@ -130,6 +130,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [EloML](https://github.com/ModelOriented/EloML)
 * [ExplainPrediction](https://github.com/rmarko/ExplainPrediction)
 * [fastshap](https://github.com/bgreenwell/fastshap)
+* [fairness](https://cran.r-project.org/web/packages/fairness/index.html) 
 * [featureImportance](https://github.com/giuseppec/featureImportance)
 * [forestmodel](https://cran.r-project.org/web/packages/forestmodel/index.html)
 * [fscaret](https://cran.r-project.org/web/packages/fscaret/)
