@@ -131,6 +131,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [ExplainPrediction](https://github.com/rmarko/ExplainPrediction)
 * [fastshap](https://github.com/bgreenwell/fastshap)
 * [fairness](https://cran.r-project.org/web/packages/fairness/index.html) 
+* [fairmodels](https://github.com/ModelOriented/fairmodels)
 * [featureImportance](https://github.com/giuseppec/featureImportance)
 * [forestmodel](https://cran.r-project.org/web/packages/forestmodel/index.html)
 * [fscaret](https://cran.r-project.org/web/packages/fscaret/)
