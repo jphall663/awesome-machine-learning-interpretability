@@ -154,7 +154,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 ## Free Books
 
-* [An Introduction to Machine Learning Interpretability](https://www.h2o.ai/oreilly-mli-booklet-2019/)
+* [An Introduction to Machine Learning Interpretability](https://www.h2o.ai/wp-content/uploads/2019/08/An-Introduction-to-Machine-Learning-Interpretability-Second-Edition.pdf)
 * [Fairness and Machine Learning](http://fairmlbook.org/)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
@@ -227,7 +227,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [An Introduction to Data Ethics](https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/an-introduction-to-data-ethics/)
 * [Fairness in Machine Learning](https://fairmlclass.github.io/)
 * [Human-Center Machine Learning](http://courses.mpi-sws.org/hcml-ws18/)
-* [Practical Model Interpretability](https://github.com/jphall663/GWU_data_mining/blob/master/10_model_interpretability/10_model_interpretability.md)
+* [Introduction to Responsible Machine Learning](https://jphall663.github.io/GWU_rml/)
 * [Trustworthy Deep Learning](https://berkeley-deep-learning.github.io/cs294-131-s19/)
 
 ## Interpretable ("Whitebox") or Fair Modeling Packages
