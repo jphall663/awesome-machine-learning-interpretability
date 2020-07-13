@@ -122,7 +122,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)
 
 ### R
-* [AI Fairness 360](https://cran.r-project.org/web/packages/aif360/index.html)
+* [aif360](https://cran.r-project.org/web/packages/aif360/index.html)
 * [ALEPlot](https://cran.r-project.org/web/packages/ALEPlot/index.html)
 * [breakDown](https://pbiecek.github.io/breakDown/index.html)
 * [DrWhyAI](https://github.com/ModelOriented/DrWhy)
