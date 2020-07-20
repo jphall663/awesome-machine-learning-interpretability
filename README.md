@@ -99,6 +99,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [PyCEbox](https://github.com/AustinRochford/PyCEbox)
 * [pymc3](https://github.com/pymc-devs/pymc3)
 * [rationale](https://github.com/taolei87/rcnn/tree/master/code/rationale)
+* [responsibly](https://github.com/ResponsiblyAI/responsibly)
 * [robustness](https://github.com/MadryLab/robustness)
 * [RISE](https://github.com/eclique/RISE) 
 * [SALib](https://github.com/SALib/SALib)
