@@ -95,6 +95,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [MLextend](http://rasbt.github.io/mlxtend/)
 * [ml-fairness-gym](https://github.com/google/ml-fairness-gym)
 * [OptBinning](https://github.com/guillermo-navas-palencia/optbinning)
+* [parity-fairness](https://pypi.org/project/parity-fairness/)
 * [PDPbox](https://github.com/SauceCat/PDPbox)
 * [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown)
 * [PyCEbox](https://github.com/AustinRochford/PyCEbox)
