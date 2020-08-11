@@ -25,6 +25,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
   * [C/C++](https://github.com/jphall663/awesome-machine-learning-interpretability#cc)
   * [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python-1)
   * [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r-1)
+* [AI Incident Tracker]() 
 
 ## Comprehensive Software Examples and Tutorials
 
@@ -311,3 +312,40 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [rpart](https://cran.r-project.org/web/packages/rpart/index.html)
 * [RuleFit](http://statweb.stanford.edu/~jhf/R_RuleFit.html)
 * [Scalable Bayesian Rule Lists (SBRL)](https://users.cs.duke.edu/~cynthia/code/sbrl_1.0.tar.gz)
+
+## AI Incident Tracker
+
+* [Jul 2015 - 
+ This article is more than 5 years old
+Google says sorry for racist auto-tag in photo app](https://www.theguardian.com/technology/2015/jul/01/google-sorry-racist-auto-tag-photo-app)
+* [Mar 2016 - https://gizmodo.com/here-are-the-microsoft-twitter-bot-s-craziest-racist-ra-1766820160](https://gizmodo.com/here-are-the-microsoft-twitter-bot-s-craziest-racist-ra-1766820160)
+* [June 2017 - When a Computer Program Keeps You in Jail](https://www.nytimes.com/2017/06/13/opinion/how-computers-are-harming-criminal-justice.html)
+* [Feb 2018 - Study finds gender and skin-type bias in commercial artificial-intelligence systems](http://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212)
+* [March 2018 - Self-Driving Uber Car Kills Pedestrian in Arizona, Where Robots Roam](https://www.nytimes.com/2018/03/19/technology/uber-driverless-fatality.html)
+* [March 2018 - AI-Assisted Fake Porn Is Here and We're All F***ed](https://www.vice.com/en_us/article/bj5and/ai-assisted-fake-porn-is-here-and-were-all-fucked)
+* [Oct 2018 - Amazon scraps 'sexist AI' recruiting tool that showed bias against women](https://www.telegraph.co.uk/technology/2018/10/10/amazon-scraps-sexist-ai-recruiting-tool-showed-bias-against/)
+* [Jan 2019 - Cambridge Analytica’s parent pleads guilty to breaking UK data law](https://techcrunch.com/2019/01/09/cambridge-analyticas-parent-pleads-guilty-to-breaking-uk-data-law/)
+* [Feb 2019 - Tesla Autopilot gets tricked into accelerating from 35 to 85 mph with modified speed limit sign](https://electrek.co/2020/02/19/tesla-autopilot-tricked-accelerate-speed-limit-sign/) 
+* [Sept 2019 - Scammer Successfully Deepfaked CEO's Voice To Fool Underling Into Transferring $243,000](https://gizmodo.com/scammer-successfully-deepfaked-ceos-voice-to-fool-under-1837835066)
+* [Oct 2019 - Dissecting racial bias in an algorithm used to manage the health of populations](https://science.sciencemag.org/content/366/6464/447)
+* [Nov 2019 - 
+NY regulator investigating Apple Card for possible gender bias](https://www.nbcnews.com/tech/apple/ny-regulator-investigating-apple-card-possible-gender-bias-n1079581)
+* [Dec 2019 - Researchers bypass airport and payment facial recognition systems using masks](https://www.engadget.com/2019-12-16-facial-recognition-fooled-masks.html)
+* [Feb 2020 - An Indian politician is using deepfake technology to win new voters](https://www.technologyreview.com/2020/02/19/868173/an-indian-politician-is-using-deepfakes-to-try-and-win-voters/)
+* [Feb 2020 - Suckers List: How Allstate’s Secret Auto Insurance Algorithm Squeezes Big Spenders](https://themarkup.org/allstates-algorithm/2020/02/25/car-insurance-suckers-list)
+* [May 2020 - Researchers find major demographic differences in speech recognition accuracy](https://www.biometricupdate.com/202003/researchers-find-major-demographic-differences-in-speech-recognition-accuracy)
+* [May 2020 - Access Denied: Faulty Automated Background Checks Freeze Out Renters](https://themarkup.org/locked-out/2020/05/28/access-denied-faulty-automated-background-checks-freeze-out-renters)
+* [May 2020 - Netherlands: Court Prohibits Government’s Use of AI Software to Detect Welfare Fraud](https://www.loc.gov/law/foreign-news/article/netherlands-court-prohibits-governments-use-of-ai-software-to-detect-welfare-fraud/)
+* [May 2020 - A.C.L.U. Accuses Clearview AI of Privacy ‘Nightmare Scenario’](https://www.nytimes.com/2020/05/28/technology/clearview-ai-privacy-lawsuit.html)
+* [May 2020 - Walmart Employees Are Out to Show Its Anti-Theft AI Doesn't Work](https://www.wired.com/story/walmart-shoplifting-artificial-intelligence-everseen/)
+* [June 2020 - Government’s Use of Algorithm Serves Up False Fraud Charges](https://undark.org/2020/06/01/michigan-unemployment-fraud-algorithm/)
+* [June 2020 - Microsoft's robot editor confuses mixed-race Little Mix singers](https://www.theguardian.com/technology/2020/jun/09/microsofts-robot-journalist-confused-by-mixed-race-little-mix-singers)
+* [June 2020 - Tweet: "This algorithm probably made this mistake ..." (President Obama de-blurred into white male)](https://twitter.com/kareem_carr/status/1274462329653137419)
+* [June 2020 - Detroit Police Chief: Facial Recognition Software Misidentifies 96% of the Time](https://www.vice.com/en_us/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time)
+* [June 2020 - Wrongfully Accused by an Algorithm](https://www.nytimes.com/2020/06/24/technology/facial-recognition-arrest.html)
+* [July 2020 - ISIS 'still evading detection on Facebook', report says](https://www.bbc.com/news/technology-53389657)
+* [June 2020 - An Algorithm that "Predicts" Criminality Based on a Face Sparks a Furor](https://www.wired.com/story/algorithm-predicts-criminality-based-face-sparks-furor/)
+* [July 2020 - Meet the Secret Algorithm That's Keeping Students Out of College](https://www.wired.com/story/algorithm-set-students-grades-altered-futures/)
+* [July 2020 - Rite Aid deployed facial recognition systems in hundreds of U.S. stores](https://www.reuters.com/investigates/special-report/usa-riteaid-software/)
+* [July 2020 - Tweet: "Oh, dear ..." (GPT-3 anti-semitism)](https://mobile.twitter.com/jsellenberg/status/1289018551806894081)
+* [July 2020 - Google Ad Portal Equated “Black Girls” with Porn](https://themarkup.org/google-the-giant/2020/07/23/google-advertising-keywords-black-girls)
