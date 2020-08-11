@@ -25,7 +25,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
   * [C/C++](https://github.com/jphall663/awesome-machine-learning-interpretability#cc)
   * [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python-1)
   * [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r-1)
-* [AI Incident Tracker]() 
+* [AI Incident Tracker](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#ai-incident-tracker) 
 
 ## Comprehensive Software Examples and Tutorials
 
