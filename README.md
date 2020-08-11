@@ -317,6 +317,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 * [Jul 2015 - Google says sorry for racist auto-tag in photo app](https://www.theguardian.com/technology/2015/jul/01/google-sorry-racist-auto-tag-photo-app)
 * [Mar 2016 - Here Are the Microsoft Twitter Bot’s Craziest Racist Rants](https://gizmodo.com/here-are-the-microsoft-twitter-bot-s-craziest-racist-ra-1766820160)
+* [Oct 2016 - 'Rogue' Algorithm Blamed for Historic Crash of the British Pound](https://gizmodo.com/rogue-algorithm-blamed-for-historic-crash-of-the-britis-1787523587)
 * [June 2017 - When a Computer Program Keeps You in Jail](https://www.nytimes.com/2017/06/13/opinion/how-computers-are-harming-criminal-justice.html)
 * [Feb 2018 - Study finds gender and skin-type bias in commercial artificial-intelligence systems](http://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212)
 * [March 2018 - Self-Driving Uber Car Kills Pedestrian in Arizona, Where Robots Roam](https://www.nytimes.com/2018/03/19/technology/uber-driverless-fatality.html)
@@ -324,6 +325,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Oct 2018 - Amazon scraps 'sexist AI' recruiting tool that showed bias against women](https://www.telegraph.co.uk/technology/2018/10/10/amazon-scraps-sexist-ai-recruiting-tool-showed-bias-against/)
 * [Jan 2019 - Cambridge Analytica’s parent pleads guilty to breaking UK data law](https://techcrunch.com/2019/01/09/cambridge-analyticas-parent-pleads-guilty-to-breaking-uk-data-law/)
 * [Feb 2019 - Tesla Autopilot gets tricked into accelerating from 35 to 85 mph with modified speed limit sign](https://electrek.co/2020/02/19/tesla-autopilot-tricked-accelerate-speed-limit-sign/) 
+* [May 2019 - Investor Sues After an AI’s Automated Trades Cost Him $20 Million](https://futurism.com/investing-lawsuit-ai-trades-cost-millions)
 * [Sept 2019 - Scammer Successfully Deepfaked CEO's Voice To Fool Underling Into Transferring $243,000](https://gizmodo.com/scammer-successfully-deepfaked-ceos-voice-to-fool-under-1837835066)
 * [Oct 2019 - Dissecting racial bias in an algorithm used to manage the health of populations](https://science.sciencemag.org/content/366/6464/447)
 * [Nov 2019 - 
