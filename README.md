@@ -315,9 +315,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 ## AI Incident Tracker
 
-* [Jul 2015 - 
- This article is more than 5 years old
-Google says sorry for racist auto-tag in photo app](https://www.theguardian.com/technology/2015/jul/01/google-sorry-racist-auto-tag-photo-app)
+* [Jul 2015 - Google says sorry for racist auto-tag in photo app](https://www.theguardian.com/technology/2015/jul/01/google-sorry-racist-auto-tag-photo-app)
 * [Mar 2016 - https://gizmodo.com/here-are-the-microsoft-twitter-bot-s-craziest-racist-ra-1766820160](https://gizmodo.com/here-are-the-microsoft-twitter-bot-s-craziest-racist-ra-1766820160)
 * [June 2017 - When a Computer Program Keeps You in Jail](https://www.nytimes.com/2017/06/13/opinion/how-computers-are-harming-criminal-justice.html)
 * [Feb 2018 - Study finds gender and skin-type bias in commercial artificial-intelligence systems](http://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212)
