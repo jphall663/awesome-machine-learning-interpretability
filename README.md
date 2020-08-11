@@ -30,6 +30,8 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 ## Comprehensive Software Examples and Tutorials
 
 * [Getting a Window into your Black Box Model](http://projects.rajivshah.com/inter/ReasonCode_NFL.html)
+* [From GLM to GBM Part 1](https://www.h2o.ai/blog/from-glm-to-gbm-part-1/)
+* [From GLM to GBM Part 2](https://www.h2o.ai/blog/from-glm-to-gbm-part-2/)
 * [IML](https://mybinder.org/v2/gh/christophM/iml/master?filepath=./notebooks/tutorial-intro.ipynb)
 * [Interpretable Machine Learning with Python](https://github.com/jphall663/interpretable_machine_learning_with_python)
 * [Interpreting Machine Learning Models with the iml Package](http://uc-r.github.io/iml-pkg)
