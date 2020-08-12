@@ -351,3 +351,4 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Jul 2020 - Rite Aid deployed facial recognition systems in hundreds of U.S. stores](https://www.reuters.com/investigates/special-report/usa-riteaid-software/)
 * [Jul 2020 - Tweet: "Oh, dear ..." (GPT-3 anti-semitism)](https://mobile.twitter.com/jsellenberg/status/1289018551806894081)
 * [Jul 2020 - Google Ad Portal Equated “Black Girls” with Porn](https://themarkup.org/google-the-giant/2020/07/23/google-advertising-keywords-black-girls)
+* [Aug 2020 - Police use of facial recognition unlawfully breached privacy rights, says Court of Appeal ruling](https://news.sky.com/story/police-use-of-facial-recognition-unlawfully-breached-privacy-rights-says-court-of-appeal-ruling-12047012)
