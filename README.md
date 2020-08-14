@@ -356,3 +356,4 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Aug 2020 - Police use of facial recognition unlawfully breached privacy rights, says Court of Appeal ruling](https://news.sky.com/story/police-use-of-facial-recognition-unlawfully-breached-privacy-rights-says-court-of-appeal-ruling-12047012)
 * [Aug 2020 - There is nothing 'fair' about judging A-levels by algorithm](https://www.telegraph.co.uk/opinion/2020/08/12/nothing-fair-judging-a-levels-algorithm/)
 * [Aug 2020 - Macy’s hit with privacy lawsuit over alleged use of controversial facial recognition software](https://www.chicagotribune.com/business/ct-biz-macys-lawsuit-clearview-facial-recognition-20200811-mstcyf7wufdjvbanpv6ehjtvni-story.html)
+* [Aug 2020 - Google’s Advertising Platform Is Blocking Articles About Racism](https://slate.com/technology/2020/08/googles-ad-exchange-blocking-articles-about-racism.html) 
