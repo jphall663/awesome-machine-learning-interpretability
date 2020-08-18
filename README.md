@@ -331,6 +331,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Oct 2018 - Amazon scraps 'sexist AI' recruiting tool that showed bias against women](https://www.telegraph.co.uk/technology/2018/10/10/amazon-scraps-sexist-ai-recruiting-tool-showed-bias-against/)
 * [Jan 2019 - Cambridge Analytica’s parent pleads guilty to breaking UK data law](https://techcrunch.com/2019/01/09/cambridge-analyticas-parent-pleads-guilty-to-breaking-uk-data-law/)
 * [May 2019 - Investor Sues After an AI’s Automated Trades Cost Him $20 Million](https://futurism.com/investing-lawsuit-ai-trades-cost-millions)
+* [Jun 2019 - Google and the University of Chicago Are Sued Over Data Sharing](https://www.nytimes.com/2019/06/26/technology/google-university-chicago-data-sharing-lawsuit.html)
 * [Sep 2019 - Scammer Successfully Deepfaked CEO's Voice To Fool Underling Into Transferring $243,000](https://gizmodo.com/scammer-successfully-deepfaked-ceos-voice-to-fool-under-1837835066)
 * [Oct 2019 - Dissecting racial bias in an algorithm used to manage the health of populations](https://science.sciencemag.org/content/366/6464/447)
 * [Nov 2019 - 
