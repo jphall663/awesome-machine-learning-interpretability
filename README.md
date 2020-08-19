@@ -364,3 +364,4 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Aug 2020 - Home Office drops 'racist' algorithm from visa decisions](https://www.bbc.com/news/technology-53650758)
 * [Aug 2020 - De Blasio Will Reassess NYPD's Use Of Facial Recognition Tech After Protester Arrest](https://gothamist.com/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest)
 * [Aug 2020 - Facebook algorithm recommending Holocaust denial and fascist content, report finds](https://www.independent.co.uk/news/uk/home-news/facebook-holocaust-denial-fascist-right-wing-algorithm-report-a9673171.html)
+* [Aug 2020 - Report: AI Company Leaks Over 2.5M Medical Records](https://www.pcmag.com/news/report-ai-company-leaks-over-25m-medical-records)
