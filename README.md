@@ -228,6 +228,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [private-ai-resources](https://github.com/OpenMined/private-ai-resources)
 * [Problems with Shapley-value-based explanations as feature importance measures](https://arxiv.org/pdf/2002.11097v1.pdf)
 * [Real-World Model Debugging Strategies](https://medium.com/@jphall_22520/strategies-for-model-debugging-aa822f1097ce)
+* [ResponsibleAI](https://romanlutz.github.io/ResponsibleAI/)
 * [Sample AI Incident Response Checklist](https://bnh-ai.github.io/resources/)
 * [Ten Questions on AI Risk](https://fpf.org/wp-content/uploads/2020/06/Ten-Questions-on-AI-Risk-FPF.pdf)
 * [Testing and Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging)
