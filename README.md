@@ -325,6 +325,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Mar 2016 - Here Are the Microsoft Twitter Bot’s Craziest Racist Rants](https://gizmodo.com/here-are-the-microsoft-twitter-bot-s-craziest-racist-ra-1766820160)
 * [Jun 2016 - Google faulted for racial bias in image search results for black teenagers](https://www.washingtonpost.com/news/morning-mix/wp/2016/06/10/google-faulted-for-racial-bias-in-image-search-results-for-black-teenagers/)
 * [Oct 2016 - 'Rogue' Algorithm Blamed for Historic Crash of the British Pound](https://gizmodo.com/rogue-algorithm-blamed-for-historic-crash-of-the-britis-1787523587)
+* [May 2017 - Houston Schools Must Face Teacher Evaluation Lawsuit](https://www.courthousenews.com/houston-schools-must-face-teacher-evaluation-lawsuit/)
 * [Jun 2017 - When a Computer Program Keeps You in Jail](https://www.nytimes.com/2017/06/13/opinion/how-computers-are-harming-criminal-justice.html)
 * [Feb 2018 - Study finds gender and skin-type bias in commercial artificial-intelligence systems](http://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212)
 * [Mar 2018 - Self-Driving Uber Car Kills Pedestrian in Arizona, Where Robots Roam](https://www.nytimes.com/2018/03/19/technology/uber-driverless-fatality.html)
