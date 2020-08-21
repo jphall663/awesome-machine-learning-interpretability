@@ -128,6 +128,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [treeinterpreter](https://github.com/andosa/treeinterpreter)
 * [woe](https://github.com/boredbird/woe)
 * [xai](https://github.com/EthicalML/xai)
+* [xdeep](https://github.com/datamllab/xdeep)
 * [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)
 
 ### R
