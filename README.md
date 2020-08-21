@@ -106,6 +106,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown)
 * [PyCEbox](https://github.com/AustinRochford/PyCEbox)
 * [pymc3](https://github.com/pymc-devs/pymc3)
+* [pytorch-innvestigate](https://github.com/fgxaos/pytorch-innvestigate)
 * [rationale](https://github.com/taolei87/rcnn/tree/master/code/rationale)
 * [responsibly](https://github.com/ResponsiblyAI/responsibly)
 * [robustness](https://github.com/MadryLab/robustness)
