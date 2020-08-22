@@ -266,6 +266,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 * [An Introduction to Data Ethics](https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/an-introduction-to-data-ethics/)
 * [Fairness in Machine Learning](https://fairmlclass.github.io/)
+* [Fast.ai Data Ethics course](http://ethics.fast.ai/syllabus/#lesson-2-bias--fairness)
 * [Human-Center Machine Learning](http://courses.mpi-sws.org/hcml-ws18/)
 * [Introduction to Responsible Machine Learning](https://jphall663.github.io/GWU_rml/)
 * [Trustworthy Deep Learning](https://berkeley-deep-learning.github.io/cs294-131-s19/)
