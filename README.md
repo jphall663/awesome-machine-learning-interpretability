@@ -374,6 +374,7 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Jul 2020 - Rite Aid deployed facial recognition systems in hundreds of U.S. stores](https://www.reuters.com/investigates/special-report/usa-riteaid-software/)
 * [Jul 2020 - Tweet: "Oh, dear ..." (GPT-3 anti-semitism)](https://mobile.twitter.com/jsellenberg/status/1289018551806894081)
 * [Jul 2020 - Google Ad Portal Equated “Black Girls” with Porn](https://themarkup.org/google-the-giant/2020/07/23/google-advertising-keywords-black-girls)
+* [Jul 2020 - Facial biometrics training dataset leads to BIPA lawsuits against Amazon, Alphabet and Microsoft](https://www.biometricupdate.com/202007/facial-biometrics-training-dataset-leads-to-bipa-lawsuits-against-amazon-alphabet-and-microsoft)
 * [Aug 2020 - Police use of facial recognition unlawfully breached privacy rights, says Court of Appeal ruling](https://news.sky.com/story/police-use-of-facial-recognition-unlawfully-breached-privacy-rights-says-court-of-appeal-ruling-12047012)
 * [Aug 2020 - There is nothing 'fair' about judging A-levels by algorithm](https://www.telegraph.co.uk/opinion/2020/08/12/nothing-fair-judging-a-levels-algorithm/)
 * [Aug 2020 - When algorithms define kids by postcode: UK exam results chaos reveal too much reliance on data analytics](https://www.zdnet.com/article/when-algorithms-define-kids-by-postcode-uk-exam-results-chaos-reveal-too-much-reliance-on-data-analytics/)
