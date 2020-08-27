@@ -342,6 +342,8 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Dec 2018 - AI start-up that scanned babysitters halts launch following Post Report](https://www.washingtonpost.com/technology/2018/12/14/ai-start-up-that-scanned-babysitters-halts-launch-following-post-report/)
 * [Jan 2019 - Cambridge Analytica’s parent pleads guilty to breaking UK data law](https://techcrunch.com/2019/01/09/cambridge-analyticas-parent-pleads-guilty-to-breaking-uk-data-law/)
 * [May 2019 - Investor Sues After an AI’s Automated Trades Cost Him $20 Million](https://futurism.com/investing-lawsuit-ai-trades-cost-millions)
+* [May 2019 - 
+Millions of people uploaded photos to the Ever app. Then the company used them to develop facial recognition tools.](https://www.nbcnews.com/tech/security/millions-people-uploaded-photos-ever-app-then-company-used-them-n1003371)
 * [Jun 2019 - Google and the University of Chicago Are Sued Over Data Sharing](https://www.nytimes.com/2019/06/26/technology/google-university-chicago-data-sharing-lawsuit.html)
 * [Sep 2019 - The viral selfie app ImageNet Roulette seemed fun – until it called me a racist slur](https://www.theguardian.com/technology/2019/sep/17/imagenet-roulette-asian-racist-slur-selfie)
 * [Sep 2019 - Scammer Successfully Deepfaked CEO's Voice To Fool Underling Into Transferring $243,000](https://gizmodo.com/scammer-successfully-deepfaked-ceos-voice-to-fool-under-1837835066)
