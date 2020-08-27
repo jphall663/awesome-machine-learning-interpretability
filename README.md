@@ -387,3 +387,4 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Aug 2020 - Facebook algorithm recommending Holocaust denial and fascist content, report finds](https://www.independent.co.uk/news/uk/home-news/facebook-holocaust-denial-fascist-right-wing-algorithm-report-a9673171.html)
 * [Aug 2020 - Report: AI Company Leaks Over 2.5M Medical Records](https://www.pcmag.com/news/report-ai-company-leaks-over-25m-medical-records)
 * [Aug 2020 - Watchdog investigates Barclays for spying on staff](https://www.advisen.com/tools/fpnproc/fpns/articles_new_5/P/374532561.html)
+* [Aug 2020 - PopID’s face-based payments pose privacy and security risks](https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/) 
