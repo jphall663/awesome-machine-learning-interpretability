@@ -94,6 +94,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [keract](https://github.com/philipperemy/keract/)
 * [L2X](https://github.com/Jianbo-Lab/L2X)
 * [lime](https://github.com/marcotcr/lime)
+* [LiFT](https://github.com/linkedin/LiFT)
 * [lit](https://github.com/pair-code/lit)
 * [lofo-importance](https://github.com/aerdem4/lofo-importance)
 * [lrp_toolbox](https://github.com/sebastian-lapuschkin/lrp_toolbox)
