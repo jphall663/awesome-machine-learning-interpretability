@@ -389,5 +389,5 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Aug 2020 - Report: AI Company Leaks Over 2.5M Medical Records](https://www.pcmag.com/news/report-ai-company-leaks-over-25m-medical-records)
 * [Aug 2020 - Watchdog investigates Barclays for spying on staff](https://www.advisen.com/tools/fpnproc/fpns/articles_new_5/P/374532561.html)
 * [Aug 2020 - PopID’s face-based payments pose privacy and security risks](https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/)
-* [Aug 2020 - Tinder charges older people more](https://www.choice.com.au/electronics-and-technology/internet/using-online-services/articles/tinder-plus-costs-more-if-youre-older
+* [Aug 2020 - Tinder charges older people more](https://www.choice.com.au/electronics-and-technology/internet/using-online-services/articles/tinder-plus-costs-more-if-youre-older)
 * [Aug 2020 - Uber and Lyft pricing algorithms charge more in non-white areas](https://www.newscientist.com/article/2246202-uber-and-lyft-pricing-algorithms-charge-more-in-non-white-areas/)
