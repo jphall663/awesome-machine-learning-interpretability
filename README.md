@@ -16,6 +16,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
   * [Browser](https://github.com/jphall663/awesome-machine-learning-interpretability#browser)
   * [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python)
   * [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r)
+* [Machine learning environment management tools](https://github.com/jphall663/awesome-machine-learning-interpretability#machine-learning-environment-management-tools)
 * [Free Books](https://github.com/jphall663/awesome-machine-learning-interpretability#free-books)
 * [Government and Regulatory Documents](https://github.com/jphall663/awesome-machine-learning-interpretability#government-and-regulatory-documents)
 * [Other Interpretability and Fairness Resources and Lists](https://github.com/jphall663/awesome-machine-learning-interpretability#other-interpretability-and-fairness-resources-and-lists)
@@ -164,6 +165,14 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [smbinning](https://cran.r-project.org/web/packages/smbinning/index.html)
 * [vip](https://github.com/koalaverse/vip)
 * [xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer)
+
+## Machine learning environment management tools
+
+* [dvc](https://dvc.org/)
+* [gigantum](https://github.com/gigantum)
+* [mlflow](https://mlflow.org/)
+* [mlmd](https://github.com/google/ml-metadata)
+* [modeldb](https://github.com/VertaAI/modeldb)
 
 ## Free Books
 
