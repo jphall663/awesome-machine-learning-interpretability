@@ -372,6 +372,7 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Jun 2020 - Wrongfully Accused by an Algorithm](https://www.nytimes.com/2020/06/24/technology/facial-recognition-arrest.html)
 * [Jun 2020 - An Algorithm that "Predicts" Criminality Based on a Face Sparks a Furor](https://www.wired.com/story/algorithm-predicts-criminality-based-face-sparks-furor/)
 * [Jun 2020 - PwC facial recognition tool criticised for home working privacy invasion](https://www.personneltoday.com/hr/pwc-facial-recognition-tool-criticised-for-home-working-privacy-invasion/)
+* [Jun 2020 - Santa Cruz becomes the first U.S. city to ban predictive policing](https://www.latimes.com/california/story/2020-06-26/santa-cruz-becomes-first-u-s-city-to-ban-predictive-policing)
 * [Jul 2020 - ISIS 'still evading detection on Facebook', report says](https://www.bbc.com/news/technology-53389657)
 * [Jul 2020 - Meet the Secret Algorithm That's Keeping Students Out of College](https://www.wired.com/story/algorithm-set-students-grades-altered-futures/)
 * [Jul 2020 - Rite Aid deployed facial recognition systems in hundreds of U.S. stores](https://www.reuters.com/investigates/special-report/usa-riteaid-software/)
