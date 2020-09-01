@@ -137,8 +137,6 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 ### R
 * [aif360](https://cran.r-project.org/web/packages/aif360/index.html)
 * [ALEPlot](https://cran.r-project.org/web/packages/ALEPlot/index.html)
-* [iBreakDown](https://github.com/ModelOriented/iBreakDown)
-* [ingredients](https://github.com/ModelOriented/ingredients)
 * [DrWhyAI](https://github.com/ModelOriented/DrWhy)
 * [DALEX](https://github.com/ModelOriented/DALEX)
 * [DALEXtra](https://cran.r-project.org/web/packages/DALEXtra/index.html)
@@ -151,8 +149,10 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [flashlight](https://github.com/mayer79/flashlight)
 * [forestmodel](https://cran.r-project.org/web/packages/forestmodel/index.html)
 * [fscaret](https://cran.r-project.org/web/packages/fscaret/)
+* [iBreakDown](https://github.com/ModelOriented/iBreakDown)
 * [ICEbox](https://cran.r-project.org/web/packages/ICEbox/index.html)
 * [iml](https://github.com/christophM/iml)
+* [ingredients](https://github.com/ModelOriented/ingredients)
 * [lightgbmExplainer](https://github.com/lantanacamara/lightgbmExplainer)
 * [lime](https://github.com/thomasp85/lime)
 * [live](https://cran.r-project.org/web/packages/live/index.html)
@@ -187,6 +187,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 * [12 CFR Part 1002 - Equal Credit Opportunity Act (Regulation B)](https://www.consumerfinance.gov/policy-compliance/rulemaking/regulations/1002/)
 * [AI Principles: Recommendations on the Ethical Use of Artificial Intelligence by the Department of Defense](https://media.defense.gov/2019/Oct/31/2002204458/-1/-1/0/DIB_AI_PRINCIPLES_PRIMARY_DOCUMENT.PDF)
+* [THE AIM INITIATIVE](https://www.dni.gov/files/ODNI/documents/AIM-Strategy.pdf)
 * [Algorithmic Accountability Act of 2019](https://www.wyden.senate.gov/imo/media/doc/Algorithmic%20Accountability%20Act%20of%202019%20Bill%20Text.pdf)
 * [ALGORITHM CHARTER FOR AOTEAROA NEW ZEALAND](https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-2020_Final-English-1.pdf)
 * [Artificial Intelligence (AI) in the Securities Industry](https://www.finra.org/sites/default/files/2020-06/ai-report-061020.pdf)
