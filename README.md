@@ -100,6 +100,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [lofo-importance](https://github.com/aerdem4/lofo-importance)
 * [lrp_toolbox](https://github.com/sebastian-lapuschkin/lrp_toolbox)
 * [microsoft/interpret](https://github.com/Microsoft/interpret)
+* [MindsDB](https://github.com/mindsdb/mindsdb)
 * [MLextend](http://rasbt.github.io/mlxtend/)
 * [ml-fairness-gym](https://github.com/google/ml-fairness-gym)
 * [OptBinning](https://github.com/guillermo-navas-palencia/optbinning)
