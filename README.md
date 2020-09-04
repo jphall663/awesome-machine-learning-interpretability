@@ -75,6 +75,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [casme](https://github.com/kondiz/casme)
 * [captum](https://github.com/pytorch/captum)
 * [causalml](https://github.com/uber/causalml)
+* [checklist](https://github.com/marcotcr/checklist)
 * [contextual-AI](https://github.com/SAP/contextual-ai)
 * [ContrastiveExplanation (Foil Trees)](https://github.com/MarcelRobeer/ContrastiveExplanation)
 * [DeepExplain](https://github.com/marcoancona/DeepExplain)
