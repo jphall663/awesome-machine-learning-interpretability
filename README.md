@@ -418,3 +418,4 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Sep 2020 - Google says Street View maps algorithm error blurred out Hong Kong protest graffiti aimed at Xi Jinping](https://hongkongfp.com/2020/09/07/google-says-street-view-maps-algorithm-error-blurred-out-hong-kong-protest-graffiti-aimed-at-xi-jinping/)
 * [Sep 2020 - AI attempts to ease fear of robots, blurts out it can’t ‘avoid destroying humankind’](https://www.skynews.com.au/details/_6189352902001)
 * [Sep 2020 - Ola is facing a drivers’ legal challenge over data access rights and algorithmic management](https://techcrunch.com/2020/09/10/ola-is-facing-a-drivers-legal-challenge-over-data-access-rights-and-algorithmic-management/)
+* [Sep 2020 - Instagram apologizes for removing images of Black British model](https://www.thejakartapost.com/life/2020/09/12/instagram-apologizes-for-removing-images-of-black-british-model.html)
