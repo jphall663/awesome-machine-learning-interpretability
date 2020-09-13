@@ -358,6 +358,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Mar 2018 - Self-Driving Uber Car Kills Pedestrian in Arizona, Where Robots Roam](https://www.nytimes.com/2018/03/19/technology/uber-driverless-fatality.html)
 * [Mar 2018 - AI-Assisted Fake Porn Is Here and We're All F***ed](https://www.vice.com/en_us/article/bj5and/ai-assisted-fake-porn-is-here-and-were-all-fucked)
 * [Jul 2018 - Amazon’s Face Recognition Falsely Matched 28 Members of Congress With Mugshots](https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28)
+* [Jul 2018 - IBM’s Watson supercomputer recommended ‘unsafe and incorrect’ cancer treatments, internal documents show](https://www.statnews.com/2018/07/25/ibm-watson-recommended-unsafe-incorrect-treatments/)
 * [Oct 2018 - Amazon scraps 'sexist AI' recruiting tool that showed bias against women](https://www.telegraph.co.uk/technology/2018/10/10/amazon-scraps-sexist-ai-recruiting-tool-showed-bias-against/)
 * [Dec 2018 - AI start-up that scanned babysitters halts launch following Post Report](https://www.washingtonpost.com/technology/2018/12/14/ai-start-up-that-scanned-babysitters-halts-launch-following-post-report/)
 * [Jan 2019 - Cambridge Analytica’s parent pleads guilty to breaking UK data law](https://techcrunch.com/2019/01/09/cambridge-analyticas-parent-pleads-guilty-to-breaking-uk-data-law/)
