@@ -349,6 +349,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 ## AI Incident Tracker
 
 * [Mar 1988 - A blot on the profession](https://www.bmj.com/content/296/6623/657)
+* [Jan 2010 - Are Face-Detection Cameras Racist?](http://content.time.com/time/business/article/0,8599,1954643,00.html)
 * [Jul 2015 - Google says sorry for racist auto-tag in photo app](https://www.theguardian.com/technology/2015/jul/01/google-sorry-racist-auto-tag-photo-app)
 * [Mar 2016 - Here Are the Microsoft Twitter Bot’s Craziest Racist Rants](https://gizmodo.com/here-are-the-microsoft-twitter-bot-s-craziest-racist-ra-1766820160)
 * [Jun 2016 - Google faulted for racial bias in image search results for black teenagers](https://www.washingtonpost.com/news/morning-mix/wp/2016/06/10/google-faulted-for-racial-bias-in-image-search-results-for-black-teenagers/)
