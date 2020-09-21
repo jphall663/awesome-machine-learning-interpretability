@@ -424,3 +424,5 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Sep 2020 - Ola is facing a drivers’ legal challenge over data access rights and algorithmic management](https://techcrunch.com/2020/09/10/ola-is-facing-a-drivers-legal-challenge-over-data-access-rights-and-algorithmic-management/)
 * [Sep 2020 - Instagram apologizes for removing images of Black British model](https://www.thejakartapost.com/life/2020/09/12/instagram-apologizes-for-removing-images-of-black-british-model.html)
 * [Sep 2020 - Tesla owner in Canada charged with ‘sleeping’ while driving over 90 mph](https://www.theverge.com/2020/9/18/21445168/tesla-driver-sleeping-police-charged-canada-autopilot)
+* [Sep 2020 - Female historians and male nurses do not exist, Google Translate tells its European users](https://algorithmwatch.org/en/story/google-translate-gender-bias/)
+* [Sep 2020 - Twitter is looking into why its photo preview appears to favor white faces over Black faces](https://www.theverge.com/2020/9/20/21447998/twitter-photo-preview-white-black-faces)
