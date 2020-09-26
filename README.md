@@ -427,3 +427,4 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Sep 2020 - Female historians and male nurses do not exist, Google Translate tells its European users](https://algorithmwatch.org/en/story/google-translate-gender-bias/)
 * [Sep 2020 - Twitter is looking into why its photo preview appears to favor white faces over Black faces](https://www.theverge.com/2020/9/20/21447998/twitter-photo-preview-white-black-faces)
 * [Sep 2020 - Facebook Live’s New Music Terms of Service Unfairly Impact Artists](https://news.bloomberglaw.com/ip-law/facebook-lives-new-music-terms-of-service-unfairly-impact-artists)
+* [Sep 2020 - CoreLogic’s screening algorithm may have discriminated against renters: lawsuit](https://therealdeal.com/2020/09/25/corelogics-screening-algorithm-may-have-discriminated-against-renters-lawsuit/)
