@@ -430,3 +430,4 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Sep 2020 - CoreLogic’s screening algorithm may have discriminated against renters: lawsuit](https://therealdeal.com/2020/09/25/corelogics-screening-algorithm-may-have-discriminated-against-renters-lawsuit/)
 * [Sep 2020 - Gradient Photo Editing App Criticized Over 'Racist' AI Face Feature](https://screenrant.com/gradient-photo-editing-app-racist-ai-face-feature/)
 * [Sep 2020 - ExamSoft’s remote bar exam sparks privacy and facial recognition concerns](https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/)
+* [Sep 2020 - "Trustworthiness" Study Is Basically Phrenology, Annoying Scientists, Historians, Just About Everyone](https://www.iflscience.com/technology/trustworthiness-study-is-basically-phrenology-annoying-scientists-historians-just-about-everyone/)
