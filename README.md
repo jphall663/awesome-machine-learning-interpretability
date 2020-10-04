@@ -433,3 +433,4 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Sep 2020 - "Trustworthiness" Study Is Basically Phrenology, Annoying Scientists, Historians, Just About Everyone](https://www.iflscience.com/technology/trustworthiness-study-is-basically-phrenology-annoying-scientists-historians-just-about-everyone/)
 * [Sep 2020 - IBM faces another age-discrimination lawsuit in Austin](https://www.bizjournals.com/austin/news/2020/09/29/ibm-hit-with-another-age-discrimination-lawsuit.html)
 * [Sep 2020 - Your favorite A.I. language tool is toxic](https://fortune.com/2020/09/29/artificial-intelligence-openai-gpt3-toxic/)
+* [Sep 2020 - POLICE SURVEILLED GEORGE FLOYD PROTESTS WITH HELP FROM TWITTER-AFFILIATED STARTUP DATAMINR](https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/)
