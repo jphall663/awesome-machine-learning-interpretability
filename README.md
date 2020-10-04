@@ -403,6 +403,7 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Jul 2020 - Tweet: "Oh, dear ..." (GPT-3 anti-semitism)](https://mobile.twitter.com/jsellenberg/status/1289018551806894081)
 * [Jul 2020 - Google Ad Portal Equated “Black Girls” with Porn](https://themarkup.org/google-the-giant/2020/07/23/google-advertising-keywords-black-girls)
 * [Jul 2020 - Facial biometrics training dataset leads to BIPA lawsuits against Amazon, Alphabet and Microsoft](https://www.biometricupdate.com/202007/facial-biometrics-training-dataset-leads-to-bipa-lawsuits-against-amazon-alphabet-and-microsoft)
+* [Jul 2020 - POLICE SURVEILLED GEORGE FLOYD PROTESTS WITH HELP FROM TWITTER-AFFILIATED STARTUP DATAMINR](https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/)
 * [Aug 2020 - Police use of facial recognition unlawfully breached privacy rights, says Court of Appeal ruling](https://news.sky.com/story/police-use-of-facial-recognition-unlawfully-breached-privacy-rights-says-court-of-appeal-ruling-12047012)
 * [Aug 2020 - There is nothing 'fair' about judging A-levels by algorithm](https://www.telegraph.co.uk/opinion/2020/08/12/nothing-fair-judging-a-levels-algorithm/)
 * [Aug 2020 - When algorithms define kids by postcode: UK exam results chaos reveal too much reliance on data analytics](https://www.zdnet.com/article/when-algorithms-define-kids-by-postcode-uk-exam-results-chaos-reveal-too-much-reliance-on-data-analytics/)
@@ -433,4 +434,3 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Sep 2020 - "Trustworthiness" Study Is Basically Phrenology, Annoying Scientists, Historians, Just About Everyone](https://www.iflscience.com/technology/trustworthiness-study-is-basically-phrenology-annoying-scientists-historians-just-about-everyone/)
 * [Sep 2020 - IBM faces another age-discrimination lawsuit in Austin](https://www.bizjournals.com/austin/news/2020/09/29/ibm-hit-with-another-age-discrimination-lawsuit.html)
 * [Sep 2020 - Your favorite A.I. language tool is toxic](https://fortune.com/2020/09/29/artificial-intelligence-openai-gpt3-toxic/)
-* [Sep 2020 - POLICE SURVEILLED GEORGE FLOYD PROTESTS WITH HELP FROM TWITTER-AFFILIATED STARTUP DATAMINR](https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/)
