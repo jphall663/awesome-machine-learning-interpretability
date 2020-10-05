@@ -113,6 +113,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [pytorch-innvestigate](https://github.com/fgxaos/pytorch-innvestigate)
 * [rationale](https://github.com/taolei87/rcnn/tree/master/code/rationale)
 * [responsibly](https://github.com/ResponsiblyAI/responsibly)
+* [revise-tool](https://github.com/princetonvisualai/revise-tool)
 * [robustness](https://github.com/MadryLab/robustness)
 * [RISE](https://github.com/eclique/RISE)
 * [SALib](https://github.com/SALib/SALib)
