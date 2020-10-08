@@ -438,3 +438,4 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Sep 2020 - Your favorite A.I. language tool is toxic](https://fortune.com/2020/09/29/artificial-intelligence-openai-gpt3-toxic/)
 * [Oct 2020 - Jewish Baby Stroller Image Algorithm](https://www.timebulletin.com/jewish-baby-stroller-image-algorithm/)
 * [Oct 2020 - Instagram blames GDPR for failure to tackle rampant self-harm and eating-disorder images](https://www.telegraph.co.uk/technology/2020/10/04/exclusive-instagram-blames-gdpr-failure-tackle-rampant-self/)
+* [UK passport photo checker shows bias against dark-skinned women](https://www.bbc.co.uk/news/amp/technology-54349538)
