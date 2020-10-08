@@ -78,6 +78,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [checklist](https://github.com/marcotcr/checklist)
 * [contextual-AI](https://github.com/SAP/contextual-ai)
 * [ContrastiveExplanation (Foil Trees)](https://github.com/MarcelRobeer/ContrastiveExplanation)
+* [debiaswe](https://github.com/tolga-b/debiaswe)
 * [DeepExplain](https://github.com/marcoancona/DeepExplain)
 * [deeplift](https://github.com/kundajelab/deeplift)
 * [deepvis](https://github.com/yosinski/deep-visualization-toolbox)
