@@ -21,7 +21,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Government and Regulatory Documents](https://github.com/jphall663/awesome-machine-learning-interpretability#government-and-regulatory-documents)
 * [Other Interpretability and Fairness Resources and Lists](https://github.com/jphall663/awesome-machine-learning-interpretability#other-interpretability-and-fairness-resources-and-lists)
 * [Review and General Papers](https://github.com/jphall663/awesome-machine-learning-interpretability#review-and-general-papers)
-* [Teaching Resources](https://github.com/jphall663/awesome-machine-learning-interpretability#teaching-resources)
+* [Classes](https://github.com/jphall663/awesome-machine-learning-interpretability#classes)
 * Interpretable ("Whitebox") or Fair Modeling Packages
   * [C/C++](https://github.com/jphall663/awesome-machine-learning-interpretability#cc)
   * [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python-1)
@@ -187,6 +187,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Explanatory Model Analysis](https://pbiecek.github.io/ema/)
 * [Fairness and Machine Learning](http://fairmlbook.org/)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+* [Responsible Machine Learning](https://www.h2o.ai/resources/ebook/responsible-machine-learning/) (requires email for now)
 
 ## Government and Regulatory Documents
 
@@ -286,14 +287,16 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Techniques for Interpretable Machine Learning](https://arxiv.org/pdf/1808.00033.pdf)
 * [Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda](https://dl.acm.org/citation.cfm?id=3174156)
 
-## Teaching Resources
+## Classes
 
 * [An Introduction to Data Ethics](https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/an-introduction-to-data-ethics/)
+* [Certified Ethical Emerging Technologist](https://certnexus.com/certification/ceet/)
 * [Fairness in Machine Learning](https://fairmlclass.github.io/)
 * [Fast.ai Data Ethics course](http://ethics.fast.ai/syllabus/#lesson-2-bias--fairness)
 * [Human-Center Machine Learning](http://courses.mpi-sws.org/hcml-ws18/)
 * [Introduction to Responsible Machine Learning](https://jphall663.github.io/GWU_rml/)
 * [Trustworthy Deep Learning](https://berkeley-deep-learning.github.io/cs294-131-s19/)
+
 
 ## Interpretable ("Whitebox") or Fair Modeling Packages
 
