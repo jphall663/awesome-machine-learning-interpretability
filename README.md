@@ -86,6 +86,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [DoWhy](https://github.com/microsoft/dowhy)
 * [eli5](https://github.com/TeamHG-Memex/eli5)
 * [fairml](https://github.com/adebayoj/fairml)
+* [fairlearn](https://github.com/fairlearn/fairlearn)
 * [fairness-comparison](https://github.com/algofairness/fairness-comparison)
 * [fairness_measures_code](https://github.com/megantosh/fairness_measures_code)
 * [foolbox](https://github.com/bethgelab/foolbox)
