@@ -448,3 +448,4 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Oct 2020 - Tiny Changes Let False Claims About COVID-19, Voting Evade Facebook Fact Checks](https://www.npr.org/2020/10/09/921791419/tiny-changes-let-false-claims-about-covid-19-voting-evade-facebook-fact-checks)
 * [Oct 2020 - Leaving Cert: Why the Government deserves an F for algorithms](https://www.irishtimes.com/business/technology/leaving-cert-why-the-government-deserves-an-f-for-algorithms-1.4374801)
 * [Oct 2020 - Lawsuit alleges biometric privacy violations from face recognition algorithm training](https://www.biometricupdate.com/202010/lawsuit-alleges-biometric-privacy-violations-from-face-recognition-algorithm-training)
+* [Oct 2020 - You’re being watched: The dangers of ProctorU](http://udreview.com/youre-being-watched-the-dangers-of-proctoru/)
