@@ -375,6 +375,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [May 2019 - 
 Millions of people uploaded photos to the Ever app. Then the company used them to develop facial recognition tools.](https://www.nbcnews.com/tech/security/millions-people-uploaded-photos-ever-app-then-company-used-them-n1003371)
 * [Jun 2019 - Google and the University of Chicago Are Sued Over Data Sharing](https://www.nytimes.com/2019/06/26/technology/google-university-chicago-data-sharing-lawsuit.html)
+* [Aug 2019 - LGBTQ+ creators file lawsuit against YouTube for discrimination](https://thenextweb.com/google/2019/08/14/lgbtq-youtube-discrimination-lawsuit/)
 * [Sep 2019 - The viral selfie app ImageNet Roulette seemed fun – until it called me a racist slur](https://www.theguardian.com/technology/2019/sep/17/imagenet-roulette-asian-racist-slur-selfie)
 * [Sep 2019 - Scammer Successfully Deepfaked CEO's Voice To Fool Underling Into Transferring $243,000](https://gizmodo.com/scammer-successfully-deepfaked-ceos-voice-to-fool-under-1837835066)
 * [Oct 2019 - Oh dear... AI models used to flag hate speech online are, er, racist against black people](https://www.theregister.com/2019/10/11/ai_black_people/)
@@ -403,6 +404,7 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Jun 2020 - An Algorithm that "Predicts" Criminality Based on a Face Sparks a Furor](https://www.wired.com/story/algorithm-predicts-criminality-based-face-sparks-furor/)
 * [Jun 2020 - PwC facial recognition tool criticised for home working privacy invasion](https://www.personneltoday.com/hr/pwc-facial-recognition-tool-criticised-for-home-working-privacy-invasion/)
 * [Jun 2020 - Santa Cruz becomes the first U.S. city to ban predictive policing](https://www.latimes.com/california/story/2020-06-26/santa-cruz-becomes-first-u-s-city-to-ban-predictive-policing)
+* [Jun 2020 - YouTube Sued for Race Discrimination, Profiting from Hate Speech](https://news.bloomberglaw.com/class-action/youtube-sued-for-race-discrimination-profiting-from-hate-speech)
 * [Jul 2020 - ISIS 'still evading detection on Facebook', report says](https://www.bbc.com/news/technology-53389657)
 * [Jul 2020 - Meet the Secret Algorithm That's Keeping Students Out of College](https://www.wired.com/story/algorithm-set-students-grades-altered-futures/)
 * [Jul 2020 - Rite Aid deployed facial recognition systems in hundreds of U.S. stores](https://www.reuters.com/investigates/special-report/usa-riteaid-software/)
