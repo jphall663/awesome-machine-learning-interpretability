@@ -229,6 +229,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 * [8 Principles of Responsible ML](https://ethical.institute/principles.html)
 * [ACM FAT* 2019 Youtube Playlist](https://www.youtube.com/playlist?list=PLXA0IWa3BpHk7fE8IH6wXNEfAZyr3A5Yb)
+* [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)
 * [AI Ethics Guidelines Global Inventory](https://algorithmwatch.org/en/project/ai-ethics-guidelines-global-inventory/)
 * [AI Incident Database](http://aiid.partnershiponai.org/)
 * [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](http://sameersingh.org/files/papers/allennlp-interpret-demo-emnlp19.pdf)
@@ -451,4 +452,5 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Oct 2020 - Leaving Cert: Why the Government deserves an F for algorithms](https://www.irishtimes.com/business/technology/leaving-cert-why-the-government-deserves-an-f-for-algorithms-1.4374801)
 * [Oct 2020 - Lawsuit alleges biometric privacy violations from face recognition algorithm training](https://www.biometricupdate.com/202010/lawsuit-alleges-biometric-privacy-violations-from-face-recognition-algorithm-training)
 * [Oct 2020 - You’re being watched: The dangers of ProctorU](http://udreview.com/youre-being-watched-the-dangers-of-proctoru/)
-* [Oct 2020  - Fake naked photos of thousands of women shared online](https://www.bbc.com/news/technology-54584127) 
+* [Oct 2020 - Fake naked photos of thousands of women shared online](https://www.bbc.com/news/technology-54584127) 
+* [Oct 2020 - Researchers find evidence of racial, gender, and socioeconomic bias in chest X-ray classifiers](https://venturebeat.com/2020/10/21/researchers-find-evidence-of-racial-gender-and-socioeconomic-bias-in-chest-x-ray-classifiers/)
