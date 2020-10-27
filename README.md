@@ -454,3 +454,4 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Oct 2020 - You’re being watched: The dangers of ProctorU](http://udreview.com/youre-being-watched-the-dangers-of-proctoru/)
 * [Oct 2020 - Fake naked photos of thousands of women shared online](https://www.bbc.com/news/technology-54584127) 
 * [Oct 2020 - Researchers find evidence of racial, gender, and socioeconomic bias in chest X-ray classifiers](https://venturebeat.com/2020/10/21/researchers-find-evidence-of-racial-gender-and-socioeconomic-bias-in-chest-x-ray-classifiers/)
+* [Oct 2020 - Uber sued by drivers over ‘automated robo-firing'](https://www.bbc.com/news/business-54698858)
