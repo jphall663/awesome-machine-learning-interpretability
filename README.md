@@ -455,3 +455,4 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Oct 2020 - Fake naked photos of thousands of women shared online](https://www.bbc.com/news/technology-54584127) 
 * [Oct 2020 - Researchers find evidence of racial, gender, and socioeconomic bias in chest X-ray classifiers](https://venturebeat.com/2020/10/21/researchers-find-evidence-of-racial-gender-and-socioeconomic-bias-in-chest-x-ray-classifiers/)
 * [Oct 2020 - Uber sued by drivers over ‘automated robo-firing'](https://www.bbc.com/news/business-54698858)
+* [Oct 2020 - How an Algorithm Blocked Kidney Transplants to Black Patients](https://www.wired.com/story/how-algorithm-blocked-kidney-transplants-black-patients/)
