@@ -459,3 +459,4 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Oct 2020 - Researchers find evidence of racial, gender, and socioeconomic bias in chest X-ray classifiers](https://venturebeat.com/2020/10/21/researchers-find-evidence-of-racial-gender-and-socioeconomic-bias-in-chest-x-ray-classifiers/)
 * [Oct 2020 - Uber sued by drivers over ‘automated robo-firing'](https://www.bbc.com/news/business-54698858)
 * [Oct 2020 - How an Algorithm Blocked Kidney Transplants to Black Patients](https://www.wired.com/story/how-algorithm-blocked-kidney-transplants-black-patients/)
+* [Oct 2020 - Australian researchers have shown how you could become invisible to security cameras.](https://www.theaustralian.com.au/business/technology/australian-researchers-at-data61-show-you-could-become-invisible-to-a-security-camera/news-story)
