@@ -364,6 +364,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Oct 2016 - Crime-prediction tool PredPol amplifies racially biased policing, study shows](https://www.mic.com/articles/156286/crime-prediction-tool-pred-pol-only-amplifies-racially-biased-policing-study-shows)
 * [May 2017 - Houston Schools Must Face Teacher Evaluation Lawsuit](https://www.courthousenews.com/houston-schools-must-face-teacher-evaluation-lawsuit/)
 * [Jun 2017 - When a Computer Program Keeps You in Jail](https://www.nytimes.com/2017/06/13/opinion/how-computers-are-harming-criminal-justice.html)
+* [Jul 2017 - ‘Balls have zero to me to me’: What happened when Facebook’s AI chatbots Bob & Alice created their own language](https://analyticsindiamag.com/facebook-ai-chatbots-created-their-own-language/)
 * [Nov 2017 - Hackers Say They've Broken Face ID a Week After iPhone X Release](https://www.wired.com/story/hackers-say-broke-face-id-security/)
 * [Feb 2018 - Study finds gender and skin-type bias in commercial artificial-intelligence systems](http://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212)
 * [Mar 2018 - Self-Driving Uber Car Kills Pedestrian in Arizona, Where Robots Roam](https://www.nytimes.com/2018/03/19/technology/uber-driverless-fatality.html)
