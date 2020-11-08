@@ -466,4 +466,4 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Oct 2020 - Researchers take a stand on algorithm design for job centers: Landing a job isn't always the right goal](https://www.sciencedaily.com/releases/2020/10/201029105001.htm)
 * [Oct 2020 - Facebook under fire for boosting right-wing news sources and throttling progressive alternatives](https://www.salon.com/2020/10/29/facebook-under-fire-for-boosting-right-wing-news-sources-and-throttling-progressive-alternatives/)
 * [Oct 2020 - AI Camera Ruins Soccer Game For Fans After Mistaking Referee's Bald Head For Ball](https://www.iflscience.com/technology/ai-camera-ruins-soccar-game-for-fans-after-mistaking-referees-bald-head-for-ball/)
-
+* [Nov 2020 - Researchers show that computer vision algorithms pretrained on ImageNet exhibit multiple, distressing biases](https://venturebeat.com/2020/11/03/researchers-show-that-computer-vision-algorithms-pretrained-on-imagenet-exhibit-multiple-distressing-biases/)
