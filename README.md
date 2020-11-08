@@ -391,6 +391,7 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Dec 2019 - Tenants sounded the alarm on facial recognition in their buildings. Lawmakers are listening](https://www.msn.com/en-us/news/politics/tenants-sounded-the-alarm-on-facial-recognition-in-their-buildings-lawmakers-are-listening/ar-BBYnaqB)
 * [Dec 2019 - Researchers bypass airport and payment facial recognition systems using masks](https://www.engadget.com/2019-12-16-facial-recognition-fooled-masks.html)
 * [Jan 2020 - Atlantic Plaza Towers tenants won a halt to facial recognition in their building: Now they’re calling on a moratorium on all residential use](https://medium.com/@AINowInstitute/atlantic-plaza-towers-tenants-won-a-halt-to-facial-recognition-in-their-building-now-theyre-274289a6d8eb)
+* [Jan 2020 - Trivago misled consumers about hotel room rates](https://www.accc.gov.au/media-release/trivago-misled-consumers-about-hotel-room-rates)
 * [Feb 2020 - An Indian politician is using deepfake technology to win new voters](https://www.technologyreview.com/2020/02/19/868173/an-indian-politician-is-using-deepfakes-to-try-and-win-voters/)
 * [Feb 2020 - Suckers List: How Allstate’s Secret Auto Insurance Algorithm Squeezes Big Spenders](https://themarkup.org/allstates-algorithm/2020/02/25/car-insurance-suckers-list)
 * [Feb 2020 - Tesla Autopilot gets tricked into accelerating from 35 to 85 mph with modified speed limit sign](https://electrek.co/2020/02/19/tesla-autopilot-tricked-accelerate-speed-limit-sign/)
@@ -465,3 +466,4 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Oct 2020 - Researchers take a stand on algorithm design for job centers: Landing a job isn't always the right goal](https://www.sciencedaily.com/releases/2020/10/201029105001.htm)
 * [Oct 2020 - Facebook under fire for boosting right-wing news sources and throttling progressive alternatives](https://www.salon.com/2020/10/29/facebook-under-fire-for-boosting-right-wing-news-sources-and-throttling-progressive-alternatives/)
 * [Oct 2020 - AI Camera Ruins Soccer Game For Fans After Mistaking Referee's Bald Head For Ball](https://www.iflscience.com/technology/ai-camera-ruins-soccar-game-for-fans-after-mistaking-referees-bald-head-for-ball/)
+
