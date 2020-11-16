@@ -67,6 +67,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [AI Fairness 360](http://aif360.mybluemix.net)
 * [AI Explainability 360](https://github.com/IBM/AIX360)
 * [ALEPython](https://github.com/blent-ai/ALEPython)
+* [Aletheia](https://github.com/SelfExplainML/Aletheia)
 * [allennlp](https://github.com/allenai/allennlp)
 * [algofairness](https://github.com/algofairness)
 * [Alibi](https://github.com/SeldonIO/alibi)
