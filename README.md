@@ -56,6 +56,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 ### Browser
 
+* [DiscriLens](https://github.com/wangqianwen0418/DiscriLens)
 * [manifold](https://github.com/uber/manifold)
 * [TensorBoard Projector](http://projector.tensorflow.org)
 * [What-if Tool](https://pair-code.github.io/what-if-tool/index.html#about)
@@ -108,6 +109,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [MindsDB](https://github.com/mindsdb/mindsdb)
 * [MLextend](http://rasbt.github.io/mlxtend/)
 * [ml-fairness-gym](https://github.com/google/ml-fairness-gym)
+* [ml_privacy_meter](https://github.com/privacytrustlab/ml_privacy_meter)
 * [OptBinning](https://github.com/guillermo-navas-palencia/optbinning)
 * [parity-fairness](https://pypi.org/project/parity-fairness/)
 * [PDPbox](https://github.com/SauceCat/PDPbox)
@@ -126,7 +128,10 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Skater](https://github.com/datascienceinc/Skater)
 * [tensorfow/cleverhans](https://github.com/tensorflow/cleverhans)
 * [tensorflow/lucid](https://github.com/tensorflow/lucid)
+* [tensorflow/fairness-indicators](https://github.com/tensorflow/fairness-indicators)
 * [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis)
+* [tensorflow/model-card-toolkit](https://github.com/tensorflow/model-card-toolkit)
+* [tensorflow/model-remediation](https://github.com/tensorflow/model-remediation)
 * [tensorflow/privacy](https://github.com/tensorflow/privacy)
 * [tensorflow/tcav](https://github.com/tensorflow/tcav)
 * [tensorfuzz](https://github.com/brain-research/tensorfuzz)
@@ -195,6 +200,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 ## Government and Regulatory Documents
 
 * [12 CFR Part 1002 - Equal Credit Opportunity Act (Regulation B)](https://www.consumerfinance.gov/policy-compliance/rulemaking/regulations/1002/)
+* [A Regulatory Framework for AI: Recommendations for PIPEDA Reform](https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/completed-consultations/consultation-ai/reg-fw_202011/)
 * [AI Principles: Recommendations on the Ethical Use of Artificial Intelligence by the Department of Defense](https://media.defense.gov/2019/Oct/31/2002204458/-1/-1/0/DIB_AI_PRINCIPLES_PRIMARY_DOCUMENT.PDF)
 * [THE AIM INITIATIVE](https://www.dni.gov/files/ODNI/documents/AIM-Strategy.pdf)
 * [Algorithmic Accountability Act of 2019](https://www.wyden.senate.gov/imo/media/doc/Algorithmic%20Accountability%20Act%20of%202019%20Bill%20Text.pdf)
@@ -206,7 +212,9 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [A Primer on Artificial Intelligence in Securities Markets](https://www.cftc.gov/media/2846/LabCFTC_PrimerArtificialIntelligence102119/download)
 * [Booker Wyden Health Care Letters](https://www.scribd.com/document/437954989/Booker-Wyden-Health-Care-Letters#download)
 * [California Consumer Privacy Act (CCPA)](https://oag.ca.gov/privacy/ccpa)
+* [California Privacy Rights Act](https://www.oag.ca.gov/system/files/initiatives/pdfs/19-0021A1%20%28Consumer%20Privacy%20-%20Version%203%29_1.pdf)
 * [Consultation on the OPC’s Proposals for ensuring appropriate regulation of artificial intelligence](https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/consultation-ai/pos_ai_202001/)
+* [Civil liability regime for artificial intelligence](https://www.europarl.europa.eu/doceo/document/TA-9-2020-0276_EN.pdf)
 * [Data Ethics Framework](https://strategy-staging.data.gov/assets/docs/data-ethics-framework-action-14-draft-2020-sep-2.pdf)
 * [Directive on Automated Decision Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
 * [Facial Recognition and Biometric Technology Moratorium Act of 2020](https://drive.google.com/file/d/1gkTcjFtieMQdsQ01dmDa49B6HY9ZyKr8/view)
@@ -214,7 +222,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [General principles for the use of Artificial Intelligence in the financial sector](https://www.dnb.nl/binaries/General%20principles%20for%20the%20use%20of%20Artificial%20Intelligence%20in%20the%20financial%20sector_tcm46-385055.pdf)
 * [Gouvernance des algorithmes d’intelligence artificielle dans le secteur financier (French)](https://acpr.banque-france.fr/sites/default/files/medias/documents/20200612_gouvernance_evaluation_ia.pdf)
 * [Innovation spotlight: Providing adverse action notices when using AI/ML models](https://www.consumerfinance.gov/about-us/blog/innovation-spotlight-providing-adverse-action-notices-when-using-ai-ml-models/)
-* [Office of Management and Budget Draft Guidance for Regulation of Artificial Intelligence Applications](https://www.whitehouse.gov/wp-content/uploads/2020/01/Draft-OMB-Memo-on-Regulation-of-AI-1-7-19.pdf)
+* [Office of Management and Budget Guidance for Regulation of Artificial Intelligence Applications](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-06.pdf) (Finalized Nov. 2020)
 * [On Artificial Intelligence - A European approach to excellence and trust](https://ec.europa.eu/info/sites/info/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf)
 * [Opinion of the German Data Ethics Commission](https://www.bmjv.de/SharedDocs/Downloads/DE/Themen/Fokusthemen/Gutachten_DEK_EN.pdf?__blob=publicationFile&v=2)
 * [Principles of Artificial Intelligence Ethics for the Intelligence Community](https://www.intel.gov/principles-of-artificial-intelligence-ethics-for-the-intelligence-community)
@@ -290,6 +298,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [The Security of Machine Learning](https://people.eecs.berkeley.edu/~adj/publications/paper-files/SecML-MLJ2010.pdf)
 * [Techniques for Interpretable Machine Learning](https://arxiv.org/pdf/1808.00033.pdf)
 * [Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda](https://dl.acm.org/citation.cfm?id=3174156)
+* [Underspecification Presents Challenges for Credibility in Modern Machine Learning](https://arxiv.org/pdf/2011.03395.pdf)
 
 ## Classes
 
@@ -469,3 +478,10 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Oct 2020 - AI Camera Ruins Soccer Game For Fans After Mistaking Referee's Bald Head For Ball](https://www.iflscience.com/technology/ai-camera-ruins-soccar-game-for-fans-after-mistaking-referees-bald-head-for-ball/)
 * [Nov 2020 - Researchers show that computer vision algorithms pretrained on ImageNet exhibit multiple, distressing biases](https://venturebeat.com/2020/11/03/researchers-show-that-computer-vision-algorithms-pretrained-on-imagenet-exhibit-multiple-distressing-biases/)
 * [Nov 2020 - Trivago loses appeal over misleading website algorithm ruling](https://www.zdnet.com/article/trivago-loses-appeal-over-misleading-website-algorithm-ruling/)
+* [Research finds gender bias within state funding model](https://kobi5.com/news/local-news/research-finds-gender-bias-within-state-funding-model-140286/)
+* [Split-Second 'Phantom' Images Can Fool Tesla's Autopilot](https://www.wired.com/story/tesla-model-x-autopilot-phantom-images/)
+* [Boris executes U-turn over controversial house building algorithm](https://thenegotiator.co.uk/boris-executes-u-turn-over-controversial-house-building-algorithm/)
+* [Top intel official warns of bias in military algorithms](https://www.c4isrnet.com/artificial-intelligence/2020/11/18/top-intel-official-warns-of-bias-in-military-algorithms/)
+* [Opinion: Artificial 'Intelligence': Unemployment system denied legitimate COVID-19 claims](https://www.detroitnews.com/story/opinion/2020/11/19/opinion-unemployment-system-denied-legitimate-covid-19-claims/6339115002/)
+* [LAPD ban facial recognition following alleged unauthorised use](https://iottechnews.com/news/2020/nov/19/lapd-ban-facial-recognition-unauthorised-use/)
+* [Instagram removed 80 PER CENT less graphic content about suicide during the first three months of lockdown after 'most of its moderators were sent home due to Covid rules'](https://www.dailymail.co.uk/news/article-8969151/Instagram-removed-80-CENT-graphic-content-suicide.html)
