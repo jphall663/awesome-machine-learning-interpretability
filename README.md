@@ -212,7 +212,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [A Primer on Artificial Intelligence in Securities Markets](https://www.cftc.gov/media/2846/LabCFTC_PrimerArtificialIntelligence102119/download)
 * [Booker Wyden Health Care Letters](https://www.scribd.com/document/437954989/Booker-Wyden-Health-Care-Letters#download)
 * [California Consumer Privacy Act (CCPA)](https://oag.ca.gov/privacy/ccpa)
-* [California Privacy Rights Act](https://www.oag.ca.gov/system/files/initiatives/pdfs/19-0021A1%20%28Consumer%20Privacy%20-%20Version%203%29_1.pdf)
+* [California Privacy Rights Act (CPRA)](https://www.oag.ca.gov/system/files/initiatives/pdfs/19-0021A1%20%28Consumer%20Privacy%20-%20Version%203%29_1.pdf)
 * [Consultation on the OPC’s Proposals for ensuring appropriate regulation of artificial intelligence](https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/consultation-ai/pos_ai_202001/)
 * [Civil liability regime for artificial intelligence](https://www.europarl.europa.eu/doceo/document/TA-9-2020-0276_EN.pdf)
 * [Data Ethics Framework](https://strategy-staging.data.gov/assets/docs/data-ethics-framework-action-14-draft-2020-sep-2.pdf)
