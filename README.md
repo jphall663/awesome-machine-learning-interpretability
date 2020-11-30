@@ -217,6 +217,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Consultation on the OPC’s Proposals for ensuring appropriate regulation of artificial intelligence](https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/consultation-ai/pos_ai_202001/)
 * [Civil liability regime for artificial intelligence](https://www.europarl.europa.eu/doceo/document/TA-9-2020-0276_EN.pdf)
 * [Data Ethics Framework](https://strategy-staging.data.gov/assets/docs/data-ethics-framework-action-14-draft-2020-sep-2.pdf)
+* [DEVELOPING FINANCIAL SECTOR RESILIENCE IN A DIGITAL WORLD: SELECTED THEMES IN TECHNOLOGY AND RELATED RISKS](https://www.osfi-bsif.gc.ca/Eng/Docs/tchrsk.pdf)
 * [Directive on Automated Decision Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
 * [Facial Recognition and Biometric Technology Moratorium Act of 2020](https://drive.google.com/file/d/1gkTcjFtieMQdsQ01dmDa49B6HY9ZyKr8/view)
 * [Four Principles of Explainable Artificial Intelligence ](https://www.nist.gov/system/files/documents/2020/08/17/NIST%20Explainable%20AI%20Draft%20NISTIR8312%20%281%29.pdf)
