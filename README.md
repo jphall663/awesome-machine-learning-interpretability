@@ -495,3 +495,4 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Nov 2020 - Instagram removed 80 PER CENT less graphic content about suicide during the first three months of lockdown after 'most of its moderators were sent home due to Covid rules'](https://www.dailymail.co.uk/news/article-8969151/Instagram-removed-80-CENT-graphic-content-suicide.html)
 * [Nov 2020 - 	
 Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloomberg.com/news/articles/2020-11-27/facebook-s-ai-mistakenly-bans-ads-for-struggling-businesses)
+* [Nov 2020 - A Bot Made Frank Sinatra Cover Britney Spears. YouTube Removed It Over Copyright Claims.](https://futurism.com/bot-frank-sinatra-britney-spears-youtube-copyright)
