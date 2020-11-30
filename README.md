@@ -408,6 +408,7 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Feb 2020 - Tesla Autopilot gets tricked into accelerating from 35 to 85 mph with modified speed limit sign](https://electrek.co/2020/02/19/tesla-autopilot-tricked-accelerate-speed-limit-sign/)
 * [Mar 2020 - Netherlands: Court Prohibits Government’s Use of AI Software to Detect Welfare Fraud](https://www.loc.gov/law/foreign-news/article/netherlands-court-prohibits-governments-use-of-ai-software-to-detect-welfare-fraud/)
 * [Apr 2020 - Google apologizes after its Vision AI produced racist results](https://algorithmwatch.org/en/story/google-vision-racism/)
+* [Apr 2020 - Google’s medical AI was super accurate in a lab. Real life was a different story.](https://www.technologyreview.com/2020/04/27/1000658/google-medical-ai-accurate-lab-real-life-clinic-covid-diabetes-retina-disease/)
 * [May 2020 - Researchers find major demographic differences in speech recognition accuracy](https://www.biometricupdate.com/202003/researchers-find-major-demographic-differences-in-speech-recognition-accuracy)
 * [May 2020 - Access Denied: Faulty Automated Background Checks Freeze Out Renters](https://themarkup.org/locked-out/2020/05/28/access-denied-faulty-automated-background-checks-freeze-out-renters)
 * [May 2020 - A.C.L.U. Accuses Clearview AI of Privacy ‘Nightmare Scenario’](https://www.nytimes.com/2020/05/28/technology/clearview-ai-privacy-lawsuit.html)
