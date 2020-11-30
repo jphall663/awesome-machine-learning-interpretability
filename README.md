@@ -413,6 +413,7 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [May 2020 - A.C.L.U. Accuses Clearview AI of Privacy ‘Nightmare Scenario’](https://www.nytimes.com/2020/05/28/technology/clearview-ai-privacy-lawsuit.html)
 * [May 2020 - Walmart Employees Are Out to Show Its Anti-Theft AI Doesn't Work](https://www.wired.com/story/walmart-shoplifting-artificial-intelligence-everseen/)
 * [May 2020 - Robodebt removed humans from Human Services, and the Government is facing the consequences](https://www.abc.net.au/news/2020-05-30/robodebt-stuart-robert-scott-morrison/12303322)
+* [May 2020 - The Most Devastating Software Mistake Of All Time. Why Is the Imperial Model Under Criticism?](https://analyticsindiamag.com/the-most-devastating-software-mistake-of-all-time-why-is-the-imperial-model-under-criticism/)
 * [Jun 2020 - Government’s Use of Algorithm Serves Up False Fraud Charges](https://undark.org/2020/06/01/michigan-unemployment-fraud-algorithm/)
 * [Jun 2020 - Microsoft's robot editor confuses mixed-race Little Mix singers](https://www.theguardian.com/technology/2020/jun/09/microsofts-robot-journalist-confused-by-mixed-race-little-mix-singers)
 * [Jun 2020 - Tweet: "This algorithm probably made this mistake ..." (President Obama de-blurred into white male)](https://twitter.com/kareem_carr/status/1274462329653137419)
