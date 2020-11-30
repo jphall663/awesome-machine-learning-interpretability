@@ -380,6 +380,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Jul 2017 - YouTube: Boston Dynamics' Atlas Falls Over After Demo at the Congress of Future Scientists and Technologists](https://www.youtube.com/watch?v=TxobtWAFh8o)
 * [Nov 2017 - Hackers Say They've Broken Face ID a Week After iPhone X Release](https://www.wired.com/story/hackers-say-broke-face-id-security/)
 * [Nov 2017 - India’s Friendly Robot Mitra Not Only Greets VIPs On The Stage, But Also Parties Like A Rockstar](https://analyticsindiamag.com/mitra-robot-ivanka-trump-modi-ges/) (Mitra trips over Ivanka Trump/PM Modi introduction)
+* [Jan 2018 - YouTube: CES 2018: Robot refuses to co-operate with LG chief - BBC News](https://www.youtube.com/watch?v=tQMtbWwbduA)
 * [Feb 2018 - Study finds gender and skin-type bias in commercial artificial-intelligence systems](http://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212)
 * [Mar 2018 - Self-Driving Uber Car Kills Pedestrian in Arizona, Where Robots Roam](https://www.nytimes.com/2018/03/19/technology/uber-driverless-fatality.html)
 * [Mar 2018 - AI-Assisted Fake Porn Is Here and We're All F***ed](https://www.vice.com/en_us/article/bj5and/ai-assisted-fake-porn-is-here-and-were-all-fucked)
