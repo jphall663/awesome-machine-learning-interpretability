@@ -494,4 +494,4 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Nov 2020 - LAPD ban facial recognition following alleged unauthorised use](https://iottechnews.com/news/2020/nov/19/lapd-ban-facial-recognition-unauthorised-use/)
 * [Nov 2020 - Instagram removed 80 PER CENT less graphic content about suicide during the first three months of lockdown after 'most of its moderators were sent home due to Covid rules'](https://www.dailymail.co.uk/news/article-8969151/Instagram-removed-80-CENT-graphic-content-suicide.html)
 * [Nov 2020 - 	
-Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.washingtonpost.com/business/on-small-business/facebooks-ai-mistakenly-bans-ads-for-struggling-businesses)
+Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloomberg.com/news/articles/2020-11-27/facebook-s-ai-mistakenly-bans-ads-for-struggling-businesses)
