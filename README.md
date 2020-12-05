@@ -219,6 +219,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Data Ethics Framework](https://strategy-staging.data.gov/assets/docs/data-ethics-framework-action-14-draft-2020-sep-2.pdf)
 * [DEVELOPING FINANCIAL SECTOR RESILIENCE IN A DIGITAL WORLD: SELECTED THEMES IN TECHNOLOGY AND RELATED RISKS](https://www.osfi-bsif.gc.ca/Eng/Docs/tchrsk.pdf)
 * [Directive on Automated Decision Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
+* [Executive Order on Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government](https://www.whitehouse.gov/presidential-actions/executive-order-promoting-use-trustworthy-artificial-intelligence-federal-government/)
 * [Facial Recognition and Biometric Technology Moratorium Act of 2020](https://drive.google.com/file/d/1gkTcjFtieMQdsQ01dmDa49B6HY9ZyKr8/view)
 * [Four Principles of Explainable Artificial Intelligence ](https://www.nist.gov/system/files/documents/2020/08/17/NIST%20Explainable%20AI%20Draft%20NISTIR8312%20%281%29.pdf)
 * [General principles for the use of Artificial Intelligence in the financial sector](https://www.dnb.nl/binaries/General%20principles%20for%20the%20use%20of%20Artificial%20Intelligence%20in%20the%20financial%20sector_tcm46-385055.pdf)
@@ -496,3 +497,5 @@ NY regulator investigating Apple Card for possible gender bias](https://www.nbcn
 * [Nov 2020 - 	
 Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloomberg.com/news/articles/2020-11-27/facebook-s-ai-mistakenly-bans-ads-for-struggling-businesses)
 * [Nov 2020 - A Bot Made Frank Sinatra Cover Britney Spears. YouTube Removed It Over Copyright Claims.](https://futurism.com/bot-frank-sinatra-britney-spears-youtube-copyright)
+* [Dec 2020 - Concern over potential gender bias in job recruitment algorithms](https://www.abc.net.au/news/2020-12-02/potential-gender-bias-in-job-recruitment-application-algorithms/12943832?nw=0)
+* [Dec 2020 - Facial Recognition Company Lied to School District About its Racist Tech](https://www.vice.com/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech)
