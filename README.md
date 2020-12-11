@@ -289,6 +289,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [A Marauder’s Map of Security and Privacy in Machine Learning](https://arxiv.org/pdf/1811.01134.pdf)
 * [Challenges for Transparency](https://arxiv.org/pdf/1708.01870.pdf)
 * [Closing the AI Accountability Gap](https://arxiv.org/pdf/2001.00973.pdf)
+* [Explaining by Removing: A Unified Framework for Model Explanation](https://arxiv.org/abs/2011.14878)
 * [Explaining Explanations: An Overview of Interpretability of Machine Learning](https://arxiv.org/pdf/1806.00069.pdf)
 * [Explanation in Human-AI Systems: A Literature Meta-Review, Synopsis of Key Ideas and Publications, and Bibliography for Explainable AI](https://arxiv.org/abs/1902.01876v1)
 * [Interpretable Machine Learning: Definitions, Methods, and Applications](https://arxiv.org/abs/1901.04592)
