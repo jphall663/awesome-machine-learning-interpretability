@@ -122,6 +122,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [revise-tool](https://github.com/princetonvisualai/revise-tool)
 * [robustness](https://github.com/MadryLab/robustness)
 * [RISE](https://github.com/eclique/RISE)
+* [sage](https://github.com/iancovert/sage/)
 * [SALib](https://github.com/SALib/SALib)
 * [scikit-fairness](https://github.com/koaning/scikit-fairness)
 * [shap](https://github.com/slundberg/shap)
