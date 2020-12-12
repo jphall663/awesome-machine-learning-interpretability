@@ -503,6 +503,6 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Dec 2020 - Concern over potential gender bias in job recruitment algorithms](https://www.abc.net.au/news/2020-12-02/potential-gender-bias-in-job-recruitment-application-algorithms/12943832?nw=0)
 * [Dec 2020 - Facial Recognition Company Lied to School District About its Racist Tech](https://www.vice.com/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech)
 * [Dec 2020 - China’s Huawei tested A.I. software that could identify Uighur Muslims and alert police, report says](https://www.cnbc.com/2020/12/09/chinas-huawei-tested-ai-software-that-could-identify-uighurs-report.html)
-* [We’ve Known Brand Safety Tech Was Bad—Here’s How Bad](https://www.forbes.com/sites/augustinefou/2020/12/06/weve-known-brand-safety-tech-was-bad-this-is-how-badly-it-defunds-the-news)
-* [Hey Alexa, what's my PIN?](https://www.dailymail.co.uk/sciencetech/article-9029811/Hey-Alexa-whats-PIN-Voice-assistants-figure-taps-smartphone-keyboard.html)
+* [Dec 2020 - We’ve Known Brand Safety Tech Was Bad—Here’s How Bad](https://www.forbes.com/sites/augustinefou/2020/12/06/weve-known-brand-safety-tech-was-bad-this-is-how-badly-it-defunds-the-news)
+* [Dec 2020 - Hey Alexa, what's my PIN?](https://www.dailymail.co.uk/sciencetech/article-9029811/Hey-Alexa-whats-PIN-Voice-assistants-figure-taps-smartphone-keyboard.html)
 
