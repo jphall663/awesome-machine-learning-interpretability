@@ -505,4 +505,5 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Dec 2020 - China’s Huawei tested A.I. software that could identify Uighur Muslims and alert police, report says](https://www.cnbc.com/2020/12/09/chinas-huawei-tested-ai-software-that-could-identify-uighurs-report.html)
 * [Dec 2020 - We’ve Known Brand Safety Tech Was Bad—Here’s How Bad](https://www.forbes.com/sites/augustinefou/2020/12/06/weve-known-brand-safety-tech-was-bad-this-is-how-badly-it-defunds-the-news)
 * [Dec 2020 - Hey Alexa, what's my PIN?](https://www.dailymail.co.uk/sciencetech/article-9029811/Hey-Alexa-whats-PIN-Voice-assistants-figure-taps-smartphone-keyboard.html)
+* [Dec 2020 - Waze sent commuters toward California wildfires, drivers say](https://www.usatoday.com/story/tech/news/2017/12/07/california-fires-navigation-apps-like-waze-sent-commuters-into-flames-drivers/930904001/)
 
