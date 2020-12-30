@@ -507,5 +507,4 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Dec 2020 - Hey Alexa, what's my PIN?](https://www.dailymail.co.uk/sciencetech/article-9029811/Hey-Alexa-whats-PIN-Voice-assistants-figure-taps-smartphone-keyboard.html)
 * [Dec 2020 - Waze sent commuters toward California wildfires, drivers say](https://www.usatoday.com/story/tech/news/2017/12/07/california-fires-navigation-apps-like-waze-sent-commuters-into-flames-drivers/930904001/)
 * [Dec 2020 - The Death and Life of an Admissions Algorithm](https://www.insidehighered.com/admissions/article/2020/12/14/u-texas-will-stop-using-controversial-algorithm-evaluate-phd)
-* [Dec 2020 - Stanford apologizes for coronavirus vaccine plan that left out many front-line doctors](https://www.washingtonpost.com/health/2020/12/18/stanford-hospital-protest-covid-vaccine/)
 * [Dec 2020 - Algorithms searching for child abuse could be banned under new EU privacy rules](https://www.telegraph.co.uk/technology/2020/12/20/algorithms-searching-child-abuse-could-banned-new-eu-privacy/)
