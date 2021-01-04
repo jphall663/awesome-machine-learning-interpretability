@@ -322,6 +322,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 ### C/C++
 
+* [Born-again Tree Ensembles](https://github.com/vidalt/BA-Trees)
 * [Certifiably Optimal RulE ListS](https://github.com/nlarusstone/corels)
 
 ### Python
