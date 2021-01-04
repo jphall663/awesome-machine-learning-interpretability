@@ -523,4 +523,4 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Dec 2020 - Girl, 12, is suing social media giant TikTok for alleged misuse of personal information and breaches of data protection laws](https://www.dailymail.co.uk/news/article-9100755/Girl-12-suing-TikTok-alleged-misuse-personal-information-data-protection-law-breaches.html)
 * [Dec 2020 - TikTok Deleted My Account Because I’m a Latina Trans Woman](https://www.losangelesblade.com/2020/12/15/tiktok-deleted-my-account-because-im-a-latina-trans-woman/)
 * [Dec 2020 - Shopping mall robot fell off the escalator and knocked down passengers](https://s.weibo.com/weibo?q=%23%E5%95%86%E5%9C%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8E%89%E4%B8%8B%E6%89%B6%E6%A2%AF%E6%92%9E%E5%80%92%E4%B9%98%E5%AE%A2%23&from=default)
-
+* [Dec 2020 - Stanford apologizes for coronavirus vaccine plan that left out many front-line doctors](https://www.washingtonpost.com/health/2020/12/18/stanford-hospital-protest-covid-vaccine/)
