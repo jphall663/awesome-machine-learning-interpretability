@@ -528,3 +528,4 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Dec 2020 - Stanford apologizes for coronavirus vaccine plan that left out many front-line doctors](https://www.washingtonpost.com/health/2020/12/18/stanford-hospital-protest-covid-vaccine/)
 * [Jan 2020 - Italian court rules against ‘discriminatory’ Deliveroo rider-ranking algorithm](https://techcrunch.com/2021/01/04/italian-court-rules-against-discriminatory-deliveroo-rider-ranking-algorithm/)
 * [Jan 2020 - A business owner who spent nearly $46 million on Facebook advertising says he's been booted from the platform without explanation](https://www.businessinsider.com/facebook-removed-shared-ceo-spent-46-million-on-ads-2021-1)
+* [Jan 2020 - FTC Orders Photo App to Delete Algorithms Built on Personal Data](https://epic.org/2021/01/ftc-orders-photo-app-to-delete.html)
