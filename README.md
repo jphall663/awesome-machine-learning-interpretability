@@ -87,6 +87,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [deepvis](https://github.com/yosinski/deep-visualization-toolbox)
 * [DiCE](https://github.com/interpretml/DiCE)
 * [DoWhy](https://github.com/microsoft/dowhy)
+* [ecco](https://github.com/jalammar/ecco)
 * [eli5](https://github.com/TeamHG-Memex/eli5)
 * [fairml](https://github.com/adebayoj/fairml)
 * [fairlearn](https://github.com/fairlearn/fairlearn)
