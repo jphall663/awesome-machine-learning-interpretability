@@ -534,3 +534,8 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Jan 2020 - Italian court rules against ‘discriminatory’ Deliveroo rider-ranking algorithm](https://techcrunch.com/2021/01/04/italian-court-rules-against-discriminatory-deliveroo-rider-ranking-algorithm/)
 * [Jan 2020 - A business owner who spent nearly $46 million on Facebook advertising says he's been booted from the platform without explanation](https://www.businessinsider.com/facebook-removed-shared-ceo-spent-46-million-on-ads-2021-1)
 * [Jan 2020 - FTC Orders Photo App to Delete Algorithms Built on Personal Data](https://epic.org/2021/01/ftc-orders-photo-app-to-delete.html)
+* [Jan 2020 - South Korean AI chatbot pulled from Facebook after hate speech towards minorities](https://www.theguardian.com/world/2021/jan/14/time-to-properly-socialise-hate-speech-ai-chatbot-pulled-from-facebook)
+* [Jan 2020 - Google Hit With $2B Antitrust Suit Over 'Rigging' Its Algorithm](https://www.law360.com/media/articles/1343696/google-hit-with-2b-antitrust-suit-over-rigging-its-algorithm)
+* [Jan 2020 - Judge Orders NJ Education Department To Turn Over S2 Algorithm](https://patch.com/new-jersey/brick/judge-orders-nj-education-department-turn-over-s2-algorithm)
+* [Jan 2020 - When an Israeli Farmer Declared War on an Algorithm](https://www.haaretz.com/israel-news/tech-news/.premium-when-an-israeli-farmer-declared-war-on-an-algorithm-1.9440728)
+* [Jan 2020 - Job Screening Service Halts Facial Analysis of Applicants](https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/)
