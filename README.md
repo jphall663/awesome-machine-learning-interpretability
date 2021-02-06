@@ -547,4 +547,5 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Jan 2020 - Amazon algorithms boost vaccine misinformation, says study](https://www.iol.co.za/technology/fintech/amazon-algorithms-boost-vaccine-misinformation-says-study-dc2105b8-dc86-4392-bc55-6555fe1dc77e)
 * [Jan 2020 - Patent applications listing AI as an inventor run into legal problems](https://www.chemistryworld.com/news/patent-applications-listing-ai-as-an-inventor-run-into-legal-problems/4013138.article)
 * [Jan 2020 - BIPOC students face disadvantages with exam monitoring software at the University of Toronto](https://thestrand.ca/bipoc-students-face-disadvantages-with-exam-monitoring-software-at-the-university-of-toronto/)
+* [Feb 2020 - Utah audit of Banjo deal highlights concerns with AI, government contracts](https://www.ksl.com/article/50099679/utah-audit-of-banjo-deal-highlights-concerns-with-large-government-tech-agreements)
 
