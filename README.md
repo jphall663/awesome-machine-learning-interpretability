@@ -540,3 +540,11 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Jan 2020 - Judge Orders NJ Education Department To Turn Over S2 Algorithm](https://patch.com/new-jersey/brick/judge-orders-nj-education-department-turn-over-s2-algorithm)
 * [Jan 2020 - When an Israeli Farmer Declared War on an Algorithm](https://www.haaretz.com/israel-news/tech-news/.premium-when-an-israeli-farmer-declared-war-on-an-algorithm-1.9440728)
 * [Jan 2020 - Job Screening Service Halts Facial Analysis of Applicants](https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/)
+* [Jan 2020 - Use of facial recognition tech sparks privacy fears](https://www.livemint.com/technology/tech-news/use-of-facial-recognition-tech-sparks-privacy-fears-11611536778871.html)
+* [Jan 2020 - South Korea has used AI to bring a dead superstar's voice back to the stage, but ethical concerns abound](https://www.kmov.com/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_f9df111e-b879-5c9e-80c9-aec19cbedc28.html?block_id=985917)
+* [Jan 2020 - SEC Orders BlueCrest to Pay $170 Million to Harmed Fund Investors](https://www.sec.gov/news/press-release/2020-308)
+* [Jan 2020 - University of Illinois to Discontinue Remote-Testing Software After Students Complain of Privacy Violation](https://www.techtimes.com/articles/256488/20210129/university-illinois-discontinue-remote-testing-software-students-complain-privacy-violation.htm)
+* [Jan 2020 - Amazon algorithms boost vaccine misinformation, says study](https://www.iol.co.za/technology/fintech/amazon-algorithms-boost-vaccine-misinformation-says-study-dc2105b8-dc86-4392-bc55-6555fe1dc77e)
+* [Jan 2020 - Patent applications listing AI as an inventor run into legal problems](https://www.chemistryworld.com/news/patent-applications-listing-ai-as-an-inventor-run-into-legal-problems/4013138.article)
+* [Jan 2020 - BIPOC students face disadvantages with exam monitoring software at the University of Toronto](https://thestrand.ca/bipoc-students-face-disadvantages-with-exam-monitoring-software-at-the-university-of-toronto/)
+
