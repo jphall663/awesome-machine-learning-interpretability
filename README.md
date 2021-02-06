@@ -548,4 +548,6 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Jan 2020 - Patent applications listing AI as an inventor run into legal problems](https://www.chemistryworld.com/news/patent-applications-listing-ai-as-an-inventor-run-into-legal-problems/4013138.article)
 * [Jan 2020 - BIPOC students face disadvantages with exam monitoring software at the University of Toronto](https://thestrand.ca/bipoc-students-face-disadvantages-with-exam-monitoring-software-at-the-university-of-toronto/)
 * [Feb 2020 - Utah audit of Banjo deal highlights concerns with AI, government contracts](https://www.ksl.com/article/50099679/utah-audit-of-banjo-deal-highlights-concerns-with-large-government-tech-agreements)
-
+* [Feb 2020 - Lingerie company Adore Me calls out TikTok for removing videos of Black, plus-size models](https://www.usatoday.com/story/tech/2021/02/05/tiktok-slammed-removing-videos-adore-me-black-plus-size-models/4402625001/)
+* [Feb 2020 - ‘Orwellian’ AI lie detector project challenged in EU court](https://techcrunch.com/2021/02/05/orwellian-ai-lie-detector-project-challenged-in-eu-court)
+* [Feb 2020 - Clearview AI’s facial recognition technology violated federal and regional laws – RCI](https://thedailyguardian.net/clearview-ais-facial-recognition-technology-violated-federal-and-regional-laws-rci/)
