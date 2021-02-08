@@ -551,3 +551,4 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Feb 2020 - Lingerie company Adore Me calls out TikTok for removing videos of Black, plus-size models](https://www.usatoday.com/story/tech/2021/02/05/tiktok-slammed-removing-videos-adore-me-black-plus-size-models/4402625001/)
 * [Feb 2020 - ‘Orwellian’ AI lie detector project challenged in EU court](https://techcrunch.com/2021/02/05/orwellian-ai-lie-detector-project-challenged-in-eu-court)
 * [Feb 2020 - Clearview AI’s facial recognition technology violated federal and regional laws – RCI](https://thedailyguardian.net/clearview-ais-facial-recognition-technology-violated-federal-and-regional-laws-rci/)
+* [Jan 2021 - ‘for Some Reason I’m Covered in Blood’: Gpt-3 Contains Disturbing Bias Against Muslims](https://onezero.medium.com/for-some-reason-im-covered-in-blood-gpt-3-contains-disturbing-bias-against-muslims-693d275552bf)
