@@ -547,6 +547,7 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Jan 2021 - Amazon algorithms boost vaccine misinformation, says study](https://www.iol.co.za/technology/fintech/amazon-algorithms-boost-vaccine-misinformation-says-study-dc2105b8-dc86-4392-bc55-6555fe1dc77e)
 * [Jan 2021 - Patent applications listing AI as an inventor run into legal problems](https://www.chemistryworld.com/news/patent-applications-listing-ai-as-an-inventor-run-into-legal-problems/4013138.article)
 * [Jan 2021 - BIPOC students face disadvantages with exam monitoring software at the University of Toronto](https://thestrand.ca/bipoc-students-face-disadvantages-with-exam-monitoring-software-at-the-university-of-toronto/)
+* [Jan 2021 - ‘for Some Reason I’m Covered in Blood’: Gpt-3 Contains Disturbing Bias Against Muslims](https://onezero.medium.com/for-some-reason-im-covered-in-blood-gpt-3-contains-disturbing-bias-against-muslims-693d275552bf)
 * [Feb 2021 - Utah audit of Banjo deal highlights concerns with AI, government contracts](https://www.ksl.com/article/50099679/utah-audit-of-banjo-deal-highlights-concerns-with-large-government-tech-agreements)
 * [Feb 2021 - Lingerie company Adore Me calls out TikTok for removing videos of Black, plus-size models](https://www.usatoday.com/story/tech/2021/02/05/tiktok-slammed-removing-videos-adore-me-black-plus-size-models/4402625001/)
 * [Feb 2021 - ‘Orwellian’ AI lie detector project challenged in EU court](https://techcrunch.com/2021/02/05/orwellian-ai-lie-detector-project-challenged-in-eu-court)
