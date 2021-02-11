@@ -552,3 +552,4 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Feb 2021 - ‘Orwellian’ AI lie detector project challenged in EU court](https://techcrunch.com/2021/02/05/orwellian-ai-lie-detector-project-challenged-in-eu-court)
 * [Feb 2021 - Clearview AI’s facial recognition technology violated federal and regional laws – RCI](https://thedailyguardian.net/clearview-ais-facial-recognition-technology-violated-federal-and-regional-laws-rci/)
 * [Feb 2021 - Beverly Hills cops try to weaponize Instagram’s algorithms in failed attempt to thwart live streamers](https://thenextweb.com/neural/2021/02/09/beverly-hills-cops-try-to-weaponize-instagrams-algorithms-in-failed-attempt-to-thwart-live-streamers/)
+* [Feb 2021 - AI displays bias and inflexibility in civility detection, study finds](https://venturebeat.com/2021/02/10/ai-displays-bias-and-inflexibility-in-civility-detection-study-finds/)
