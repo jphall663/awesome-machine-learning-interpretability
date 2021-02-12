@@ -555,3 +555,6 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Feb 2021 - Beverly Hills cops try to weaponize Instagram’s algorithms in failed attempt to thwart live streamers](https://thenextweb.com/neural/2021/02/09/beverly-hills-cops-try-to-weaponize-instagrams-algorithms-in-failed-attempt-to-thwart-live-streamers/)
 * [Feb 2021 - AI displays bias and inflexibility in civility detection, study finds](https://venturebeat.com/2021/02/10/ai-displays-bias-and-inflexibility-in-civility-detection-study-finds/)
 * [Feb 2021 - Why Is Facebook Rejecting These Fashion Ads?](https://www.nytimes.com/2021/02/11/style/disabled-fashion-facebook-discrimination.html)
+* [Feb 2021 - Sweden’s data watchdog slaps police for unlawful use of Clearview AI](https://techcrunch.com/2021/02/12/swedens-data-watchdog-slaps-police-for-unlawful-use-of-clearview-ai/)
+* [Feb 2021 - AI-Wielding Hackers are Here](https://www.datacenterknowledge.com/security/ai-wielding-hackers-are-here)
+
