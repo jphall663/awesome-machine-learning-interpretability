@@ -558,4 +558,5 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Feb 2021 - Why Is Facebook Rejecting These Fashion Ads?](https://www.nytimes.com/2021/02/11/style/disabled-fashion-facebook-discrimination.html)
 * [Feb 2021 - Sweden’s data watchdog slaps police for unlawful use of Clearview AI](https://techcrunch.com/2021/02/12/swedens-data-watchdog-slaps-police-for-unlawful-use-of-clearview-ai/)
 * [Feb 2021 - AI-Wielding Hackers are Here](https://www.datacenterknowledge.com/security/ai-wielding-hackers-are-here)
+* [Feb 2021 - How Google Scholar Sidelines Research in Non‑English Languages](https://theswaddle.com/how-google-scholar-sidelines-research-in-non-english-languages/)
 
