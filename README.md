@@ -254,6 +254,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [8 Principles of Responsible ML](https://ethical.institute/principles.html)
 * [ACM FAT* 2019 Youtube Playlist](https://www.youtube.com/playlist?list=PLXA0IWa3BpHk7fE8IH6wXNEfAZyr3A5Yb)
 * [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)
+* [AI Tools and Platforms](https://docs.google.com/spreadsheets/u/2/d/10pPQYmyNnYb6zshOKxBjJ704E0XUj2vJ9HCDfoZxAoA/htmlview#)
 * [AI Ethics Guidelines Global Inventory](https://algorithmwatch.org/en/project/ai-ethics-guidelines-global-inventory/)
 * [AI Incident Database](http://aiid.partnershiponai.org/)
 * [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](http://sameersingh.org/files/papers/allennlp-interpret-demo-emnlp19.pdf)
