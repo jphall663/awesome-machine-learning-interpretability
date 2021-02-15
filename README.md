@@ -561,4 +561,4 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Feb 2021 - Sweden’s data watchdog slaps police for unlawful use of Clearview AI](https://techcrunch.com/2021/02/12/swedens-data-watchdog-slaps-police-for-unlawful-use-of-clearview-ai/)
 * [Feb 2021 - AI-Wielding Hackers are Here](https://www.datacenterknowledge.com/security/ai-wielding-hackers-are-here)
 * [Feb 2021 - How Google Scholar Sidelines Research in Non‑English Languages](https://theswaddle.com/how-google-scholar-sidelines-research-in-non-english-languages/)
-
+* [Feb 2021 - DWP uses excessive surveillance on suspected fraudsters, report finds](https://www.theguardian.com/society/2021/feb/14/dwp-excessive-surveillance-on-suspected-fraudsters-privacy-international)
