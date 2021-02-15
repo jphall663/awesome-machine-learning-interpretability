@@ -195,6 +195,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [mlflow](https://mlflow.org/)
 * [mlmd](https://github.com/google/ml-metadata)
 * [modeldb](https://github.com/VertaAI/modeldb)
+* [whylabs](https://www.rsqrdai.org/)
 
 ## Free Books
 
