@@ -562,3 +562,7 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Feb 2021 - AI-Wielding Hackers are Here](https://www.datacenterknowledge.com/security/ai-wielding-hackers-are-here)
 * [Feb 2021 - How Google Scholar Sidelines Research in Non‑English Languages](https://theswaddle.com/how-google-scholar-sidelines-research-in-non-english-languages/)
 * [Feb 2021 - DWP uses excessive surveillance on suspected fraudsters, report finds](https://www.theguardian.com/society/2021/feb/14/dwp-excessive-surveillance-on-suspected-fraudsters-privacy-international)
+* [Feb 2021 - Canada Rules Clearview’s AI Scraping is Unlawful](https://www.hstoday.us/industry/canada-rules-clearviews-ai-scraping-is-unlawful/)
+* [Feb 2021 - INVESTIGATION: Facebook, Twitter Struggling in Fight against Balkan Content Violations](https://balkaninsight.com/2021/02/16/facebook-twitter-struggling-in-fight-against-balkan-content-violations/)
+* [Feb 2021 - Google slapped in France over misleading hotel star ratings](https://techcrunch.com/2021/02/15/google-slapped-in-france-over-misleading-hotel-star-ratings/)
+
