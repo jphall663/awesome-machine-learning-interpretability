@@ -565,4 +565,5 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Feb 2021 - Canada Rules Clearview’s AI Scraping is Unlawful](https://www.hstoday.us/industry/canada-rules-clearviews-ai-scraping-is-unlawful/)
 * [Feb 2021 - INVESTIGATION: Facebook, Twitter Struggling in Fight against Balkan Content Violations](https://balkaninsight.com/2021/02/16/facebook-twitter-struggling-in-fight-against-balkan-content-violations/)
 * [Feb 2021 - Google slapped in France over misleading hotel star ratings](https://techcrunch.com/2021/02/15/google-slapped-in-france-over-misleading-hotel-star-ratings/)
+* [Feb 2021 - Colleagues of mine analyzed A.I.-based job interviews ...](https://twitter.com/hatr/status/1362129235297660929) (Tweet)
 
