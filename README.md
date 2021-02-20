@@ -566,4 +566,5 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Feb 2021 - INVESTIGATION: Facebook, Twitter Struggling in Fight against Balkan Content Violations](https://balkaninsight.com/2021/02/16/facebook-twitter-struggling-in-fight-against-balkan-content-violations/)
 * [Feb 2021 - Google slapped in France over misleading hotel star ratings](https://techcrunch.com/2021/02/15/google-slapped-in-france-over-misleading-hotel-star-ratings/)
 * [Feb 2021 - Colleagues of mine analyzed A.I.-based job interviews ...](https://twitter.com/hatr/status/1362129235297660929) (Tweet)
+* [Feb 2021 - YouTuber blocked for discussing 'black versus white' chess strategy](https://www.dailymail.co.uk/sciencetech/article-9279473/YouTube-algorithm-accidentally-blocked-chess-player-discussing-black-versus-white-strategy.html)
 
