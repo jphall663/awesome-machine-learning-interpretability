@@ -31,7 +31,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 ## Comprehensive Software Examples and Tutorials
 
 * [COMPAS Analysis Using Aequitas](https://github.com/dssg/aequitas/blob/master/docs/source/examples/compas_demo.ipynb)
-* [Explaining Measures of Fairness with SHAP](https://github.com/slundberg/shap/blob/master/notebooks/general/Explaining%20Quantitative%20Measures%20of%20Fairness.ipynb)
+* [Explaining Quantitative Measures of Fairness (with SHAP)](https://github.com/slundberg/shap/blob/master/notebooks/overviews/Explaining%20quantitative%20measures%20of%20fairness.ipynb)
 * [Getting a Window into your Black Box Model](http://projects.rajivshah.com/inter/ReasonCode_NFL.html)
 * [From GLM to GBM Part 1](https://www.h2o.ai/blog/from-glm-to-gbm-part-1/)
 * [From GLM to GBM Part 2](https://www.h2o.ai/blog/from-glm-to-gbm-part-2/)
