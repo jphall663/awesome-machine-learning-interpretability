@@ -567,4 +567,6 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Feb 2021 - Google slapped in France over misleading hotel star ratings](https://techcrunch.com/2021/02/15/google-slapped-in-france-over-misleading-hotel-star-ratings/)
 * [Feb 2021 - Colleagues of mine analyzed A.I.-based job interviews ...](https://twitter.com/hatr/status/1362129235297660929) (Tweet)
 * [Feb 2021 - YouTuber blocked for discussing 'black versus white' chess strategy](https://www.dailymail.co.uk/sciencetech/article-9279473/YouTube-algorithm-accidentally-blocked-chess-player-discussing-black-versus-white-strategy.html)
-
+* [Feb 2021 - Teaneck just banned facial recognition technology for police. Here's why](https://www.northjersey.com/story/news/bergen/teaneck/2021/02/25/teaneck-nj-bans-facial-recognition-usage-police-citing-bias/6802839002/)
+* [Feb 2021 - TikTok agrees to pay $92 million to settle teen privacy class-action lawsuit](https://www.zdnet.com/article/tiktok-agrees-to-pay-92-million-to-settle-teen-privacy-class-action-lawsuit/)
+* [Feb 2021 - Google fires top ethical AI expert Margaret Mitchell](https://www.zdnet.com/article/google-fires-top-ethical-ai-expert-margaret-mitchell/)
