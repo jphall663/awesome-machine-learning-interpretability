@@ -570,5 +570,6 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Feb 2021 - Teaneck just banned facial recognition technology for police. Here's why](https://www.northjersey.com/story/news/bergen/teaneck/2021/02/25/teaneck-nj-bans-facial-recognition-usage-police-citing-bias/6802839002/)
 * [Feb 2021 - TikTok agrees to pay $92 million to settle teen privacy class-action lawsuit](https://www.zdnet.com/article/tiktok-agrees-to-pay-92-million-to-settle-teen-privacy-class-action-lawsuit/)
 * [Feb 2021 - Google fires top ethical AI expert Margaret Mitchell](https://www.zdnet.com/article/google-fires-top-ethical-ai-expert-margaret-mitchell/)
-* [Feb 2021 - UP Uses Facial Recognition Technology to Mete Out Discriminatory Treatment](https://www.theleaflet.in/up-uses-facial-recognition-technology-to-mete-out-discriminatory-treatment/#)
-* [Feb 2021 - Chatbots that resurrect the dead: legal experts weigh in on ‘disturbing’ technology](https://theconversation.com/chatbots-that-resurrect-the-dead-legal-experts-weigh-in-on-disturbing-technology-155436)
+* [Mar 2021 - UP Uses Facial Recognition Technology to Mete Out Discriminatory Treatment](https://www.theleaflet.in/up-uses-facial-recognition-technology-to-mete-out-discriminatory-treatment/#)
+* [Mar 2021 - Chatbots that resurrect the dead: legal experts weigh in on ‘disturbing’ technology](https://theconversation.com/chatbots-that-resurrect-the-dead-legal-experts-weigh-in-on-disturbing-technology-155436)
+* [Mar 2021 - “It’s all the real thing,” Tom Cruise insists, looking into the camera ...](https://twitter.com/thetimes/status/1366442334544658432)
