@@ -573,3 +573,7 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Mar 2021 - UP Uses Facial Recognition Technology to Mete Out Discriminatory Treatment](https://www.theleaflet.in/up-uses-facial-recognition-technology-to-mete-out-discriminatory-treatment/#)
 * [Mar 2021 - Chatbots that resurrect the dead: legal experts weigh in on ‘disturbing’ technology](https://theconversation.com/chatbots-that-resurrect-the-dead-legal-experts-weigh-in-on-disturbing-technology-155436)
 * [Mar 2021 - “It’s all the real thing,” Tom Cruise insists, looking into the camera ...](https://twitter.com/thetimes/status/1366442334544658432)
+* [Mar 2021 - OpenAI’s state-of-the-art machine vision AI is fooled by handwritten notes](https://www.theverge.com/2021/3/8/22319173/openai-machine-vision-adversarial-typographic-attacka-clip-multimodal-neuron)
+* [Mar 2021 - Major Universities are Using Race as a “High Impact Predictor” of Student Success – The Markup
+](https://themarkup.org/news/2021/03/02/major-universities-are-using-race-as-a-high-impact-predictor-of-student-success)
+* [Mar 2021 - Instagram Suggested Posts To Users. It Served Up COVID-19 Falsehoods, Study Finds](https://www.npr.org/2021/03/09/975032249/instagram-suggested-posts-to-users-it-served-up-covid-19-falsehoods-study-finds)
