@@ -578,3 +578,11 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Mar 2021 - Major Universities are Using Race as a “High Impact Predictor” of Student Success – The Markup
 ](https://themarkup.org/news/2021/03/02/major-universities-are-using-race-as-a-high-impact-predictor-of-student-success)
 * [Mar 2021 - Instagram Suggested Posts To Users. It Served Up COVID-19 Falsehoods, Study Finds](https://www.npr.org/2021/03/09/975032249/instagram-suggested-posts-to-users-it-served-up-covid-19-falsehoods-study-finds)
+* [Mar 2021 - Tenant screening software faces national reckoning](https://www.nbcnews.com/tech/tech-news/tenant-screening-software-faces-national-reckoning-n1260975)
+* [Mar 2021 - Instagram algorithm recommends far-right parties and Coivd conspiracy theories to users](https://www.thetimes.co.uk/article/instagram-algorithm-recommends-far-right-parties-and-covid-conspiracy-theories-to-users-qjthq2xtg)
+* [Mar 2021 - Google image search cements national stereotypes of 'racy' women](https://www.dw.com/en/google-image-search-cements-national-stereotypes-of-racy-women/a-56767605)
+* [Mar 2021 - Time-Out for Google](https://www.insidehighered.com/news/2021/03/09/tech-transparency-conference-suspends-google-sponsorship-over-transparency-concerns)
+* [Mar 2021 - Apple Censors URLs Containing “Asian” with Adult Filters](https://www.mcgilldaily.com/2021/03/apple-censors-urls-containing-asian-with-adult-filters/)
+* [Mar 2021 - Underpaid Workers Are Being Forced to Train Biased AI on Mechanical Turk](https://www.vice.com/en/article/88apnv/underpaid-workers-are-being-forced-to-train-biased-ai-on-mechanical-turk)
+* [Mar 2021 - New Study Reveals Coded Language Used to Fuel Anti-Semitism Online](https://thejewishvoice.com/2021/03/new-study-reveals-coded-language-used-to-fuel-anti-semitism-online/)
+* [Mar 2021 - Judge tells state to deliver records](https://www.arkansasonline.com/news/2021/mar/04/judge-tells-state-deliver-records/)
