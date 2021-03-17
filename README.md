@@ -97,6 +97,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Grad-CAM](https://github.com/topics/grad-cam) (GitHub topic)
 * [gplearn](https://github.com/trevorstephens/gplearn)
 * [hate-functional-tests](https://github.com/paul-rottger/hate-functional-tests)
+* [imodels](https://github.com/csinva/imodels)
 * [iNNvestigate neural nets](https://github.com/albermax/innvestigate)
 * [Integrated-Gradients](https://github.com/ankurtaly/Integrated-Gradients)
 * [interpret](https://github.com/interpretml/interpret)
