@@ -587,3 +587,4 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Mar 2021 - Underpaid Workers Are Being Forced to Train Biased AI on Mechanical Turk](https://www.vice.com/en/article/88apnv/underpaid-workers-are-being-forced-to-train-biased-ai-on-mechanical-turk)
 * [Mar 2021 - New Study Reveals Coded Language Used to Fuel Anti-Semitism Online](https://thejewishvoice.com/2021/03/new-study-reveals-coded-language-used-to-fuel-anti-semitism-online/)
 * [Mar 2021 - Judge tells state to deliver records](https://www.arkansasonline.com/news/2021/mar/04/judge-tells-state-deliver-records/)
+* [Mar 2021 - Pennsylvania Woman Accused of Using Deepfake Technology to Harass Cheerleaders](https://www.nytimes.com/2021/03/14/us/raffaela-spone-victory-vipers-deepfake.html)
