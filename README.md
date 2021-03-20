@@ -588,3 +588,6 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Mar 2021 - New Study Reveals Coded Language Used to Fuel Anti-Semitism Online](https://thejewishvoice.com/2021/03/new-study-reveals-coded-language-used-to-fuel-anti-semitism-online/)
 * [Mar 2021 - Judge tells state to deliver records](https://www.arkansasonline.com/news/2021/mar/04/judge-tells-state-deliver-records/)
 * [Mar 2021 - Pennsylvania Woman Accused of Using Deepfake Technology to Harass Cheerleaders](https://www.nytimes.com/2021/03/14/us/raffaela-spone-victory-vipers-deepfake.html)
+* [Mar 2021 - Fears of 'digital dictatorship' as Myanmar deploys artificial intelligence](https://www.straitstimes.com/asia/se-asia/fears-of-digital-dictatorship-as-myanmar-deploys-artificial-intelligence)
+* [Mar 2021 - Amazon driver quits, saying the final straw was the company's new AI-powered truck cameras that can sense when workers yawn or don't use a seatbelt](https://news.yahoo.com/amazon-driver-quits-saying-final-164140625.html)
+* [Mar 2021 - INSTA-KID Fury over Facebook plot to make NEW Instagram for under 13s – as parents brand it ‘dangerous’](https://www.thesun.co.uk/tech/14389470/instagram-for-kids-under-13-plans/)
