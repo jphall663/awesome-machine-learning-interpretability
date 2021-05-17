@@ -412,6 +412,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Nov 2018 - Facial recognition system in China mistakes bus ad for jaywalker](https://www.biometricupdate.com/201811/facial-recognition-system-in-china-mistakes-bus-ad-for-jaywalker)
 * [Dec 2018 - AI start-up that scanned babysitters halts launch following Post Report](https://www.washingtonpost.com/technology/2018/12/14/ai-start-up-that-scanned-babysitters-halts-launch-following-post-report/)
 * [Jan 2019 - Cambridge Analytica’s parent pleads guilty to breaking UK data law](https://techcrunch.com/2019/01/09/cambridge-analyticas-parent-pleads-guilty-to-breaking-uk-data-law/)
+* [Apr 2019 - Facebook Executive Testifies on AI Failure to Detect the Christchurch Mosque Shooting Video](https://fortune.com/2019/04/24/facebook-new-zealand-terrorism-artificial-intelligence-ai/)
 * [May 2019 - Investor Sues After an AI’s Automated Trades Cost Him $20 Million](https://futurism.com/investing-lawsuit-ai-trades-cost-millions)
 * [May 2019 - 
 Millions of people uploaded photos to the Ever app. Then the company used them to develop facial recognition tools.](https://www.nbcnews.com/tech/security/millions-people-uploaded-photos-ever-app-then-company-used-them-n1003371)
@@ -540,6 +541,7 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Dec 2020 - TikTok Deleted My Account Because I’m a Latina Trans Woman](https://www.losangelesblade.com/2020/12/15/tiktok-deleted-my-account-because-im-a-latina-trans-woman/)
 * [Dec 2020 - Shopping mall robot fell off the escalator and knocked down passengers](https://s.weibo.com/weibo?q=%23%E5%95%86%E5%9C%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8E%89%E4%B8%8B%E6%89%B6%E6%A2%AF%E6%92%9E%E5%80%92%E4%B9%98%E5%AE%A2%23&from=default)
 * [Dec 2020 - Stanford apologizes for coronavirus vaccine plan that left out many front-line doctors](https://www.washingtonpost.com/health/2020/12/18/stanford-hospital-protest-covid-vaccine/)
+* [Dec 2020 - The Christchurch Shooter and YouTube’s Radicalization Trap](https://www.wired.com/story/christchurch-shooter-youtube-radicalization-extremism/)
 * [Jan 2021 - Italian court rules against ‘discriminatory’ Deliveroo rider-ranking algorithm](https://techcrunch.com/2021/01/04/italian-court-rules-against-discriminatory-deliveroo-rider-ranking-algorithm/)
 * [Jan 2021 - A business owner who spent nearly $46 million on Facebook advertising says he's been booted from the platform without explanation](https://www.businessinsider.com/facebook-removed-shared-ceo-spent-46-million-on-ads-2021-1)
 * [Jan 2021 - FTC Orders Photo App to Delete Algorithms Built on Personal Data](https://epic.org/2021/01/ftc-orders-photo-app-to-delete.html)
@@ -594,4 +596,6 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Mar 2021 - Fears of 'digital dictatorship' as Myanmar deploys artificial intelligence](https://www.straitstimes.com/asia/se-asia/fears-of-digital-dictatorship-as-myanmar-deploys-artificial-intelligence)
 * [Mar 2021 - Amazon driver quits, saying the final straw was the company's new AI-powered truck cameras that can sense when workers yawn or don't use a seatbelt](https://news.yahoo.com/amazon-driver-quits-saying-final-164140625.html)
 * [Mar 2021 - INSTA-KID Fury over Facebook plot to make NEW Instagram for under 13s – as parents brand it ‘dangerous’](https://www.thesun.co.uk/tech/14389470/instagram-for-kids-under-13-plans/)
+* [Mar 2021 - How AI lets bigots and trolls flourish while censoring LGBTQ+ voices](https://www.mic.com/p/how-ai-lets-bigots-trolls-flourish-while-censoring-lgbtq-voices-66661864)
 * [Apr 2021 - Research says Facebook's ad algorithm perpetuates gender bias](https://theintercept.com/2021/04/09/facebook-algorithm-gender-discrimination/) (see also [Research Outputs from Auditing for Discrimination in Job Ad Delivery](https://ant.isi.edu/datasets/addelivery/) on the USC Information Sciences Institute web site)
+* [May 2021 - This facial recognition website can turn anyone into a cop — or a stalker](https://www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/)
