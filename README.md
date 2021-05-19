@@ -612,5 +612,4 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Apr 2021 - Instagram apologises for mistake which targeted users with harmful diet content](https://www.harpersbazaar.com/uk/culture/culture-news/a36128394/instagram-harmful-diet-content/)
 * [Apr 2021 - Facebook, Princeton Must Face AI Data Theft Claims](https://www.law360.com/ip/articles/1375537/facebook-princeton-must-face-ai-data-theft-claims)
 * [Apr 2021 - Facebook sued for failing to remove anti-Muslim hate speech](https://www.thehindu.com/sci-tech/technology/internet/facebook-sued-for-failing-to-remove-anti-muslim-hate-speech/article34281168.ece)
-* [Apr 2021 - Study flags gender bias in Facebook's ads tools](https://www.reuters.com/technology/study-flags-gender-bias-facebooks-ads-tools-2021-04-09/)
 * [May 2021 - This facial recognition website can turn anyone into a cop — or a stalker](https://www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/)
