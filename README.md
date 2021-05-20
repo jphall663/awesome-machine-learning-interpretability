@@ -89,6 +89,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [DoWhy](https://github.com/microsoft/dowhy)
 * [ecco](https://github.com/jalammar/ecco)
 * [eli5](https://github.com/TeamHG-Memex/eli5)
+* [explainerdashboard](https://github.com/oegedijk/explainerdashboard)
 * [fairml](https://github.com/adebayoj/fairml)
 * [fairlearn](https://github.com/fairlearn/fairlearn)
 * [fairness-comparison](https://github.com/algofairness/fairness-comparison)
