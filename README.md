@@ -629,6 +629,6 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [May 2021 - Airbnb pricing algorithm led to increased racial disparities, study finds](https://www.ft.com/content/5b1471e0-ed4a-47f5-8f3f-0a1ee7f7999c)
 * [May 2021 - Uber commits crime using algorithms](https://www.newframe.com/uber-commits-crime-using-algorithms/).
 * [May 2021 - Deepfake detectors and datasets exhibit racial and gender bias, USC study shows](https://venturebeat.com/2021/05/06/deepfake-detectors-and-datasets-exhibit-racial-and-gender-bias-usc-study-shows/)
-* [May 2021 - https://www.losangelesblade.com/2021/05/18/tiktoks-recommendation-algorithm-is-promoting-homophobia-and-anti-trans-violence/](https://www.washingtonpost.com/outlook/2021/05/20/ai-bots-grassroots-astroturf/)
+* [May 2021 - TikTok’s recommendation algorithm is promoting homophobia and anti-trans violence](https://www.losangelesblade.com/2021/05/18/tiktoks-recommendation-algorithm-is-promoting-homophobia-and-anti-trans-violence/)
 * [May 2021 - ‘Grassroots’ bot campaigns are coming. Governments don’t have a plan to stop them](https://www.washingtonpost.com/outlook/2021/05/20/ai-bots-grassroots-astroturf/)
 * [May 2021 - Workplace and algorithm bias kill Palestine content on Facebook and Twitter](https://www.trtworld.com/magazine/workplace-and-algorithm-bias-kill-palestine-content-on-facebook-and-twitter-46842) 
