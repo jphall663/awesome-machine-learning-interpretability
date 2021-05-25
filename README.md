@@ -632,3 +632,4 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [May 2021 - TikTok’s recommendation algorithm is promoting homophobia and anti-trans violence](https://www.losangelesblade.com/2021/05/18/tiktoks-recommendation-algorithm-is-promoting-homophobia-and-anti-trans-violence/)
 * [May 2021 - ‘Grassroots’ bot campaigns are coming. Governments don’t have a plan to stop them](https://www.washingtonpost.com/outlook/2021/05/20/ai-bots-grassroots-astroturf/)
 * [May 2021 - Workplace and algorithm bias kill Palestine content on Facebook and Twitter](https://www.trtworld.com/magazine/workplace-and-algorithm-bias-kill-palestine-content-on-facebook-and-twitter-46842) 
+* [May 2021 - Suit seeks to limit anti-Muslim speech on Facebook but roots of Islamophobia run far deeper](https://theconversation.com/suit-seeks-to-limit-anti-muslim-speech-on-facebook-but-roots-of-islamophobia-run-far-deeper-159418)
