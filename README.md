@@ -634,3 +634,7 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [May 2021 - ‘Grassroots’ bot campaigns are coming. Governments don’t have a plan to stop them](https://www.washingtonpost.com/outlook/2021/05/20/ai-bots-grassroots-astroturf/)
 * [May 2021 - Workplace and algorithm bias kill Palestine content on Facebook and Twitter](https://www.trtworld.com/magazine/workplace-and-algorithm-bias-kill-palestine-content-on-facebook-and-twitter-46842) 
 * [May 2021 - Suit seeks to limit anti-Muslim speech on Facebook but roots of Islamophobia run far deeper](https://theconversation.com/suit-seeks-to-limit-anti-muslim-speech-on-facebook-but-roots-of-islamophobia-run-far-deeper-159418)
+* [May 2021 - AI emotion-detection software tested on Uyghurs](https://www.bbc.com/news/technology-57101248)
+* [May 2021 - An Insurance Startup Bragged It Uses AI to Detect Fraud. It Didn’t Go Well](https://www.vice.com/en/article/z3x47y/an-insurance-startup-bragged-it-uses-ai-to-detect-fraud-it-didnt-go-well)
+* [May 2021 - Google's new AI skincare tool may not work on patients with darker skin tones](https://www.euronews.com/2021/05/26/google-s-new-ai-skincare-tool-may-not-work-on-patients-with-darker-skin-tones)
+* [May 2021 - Minn. Police Use of Facial Recognition Leads to Concerns](https://www.govtech.com/public-safety/minn-police-use-of-facial-recognition-leads-to-concerns)
