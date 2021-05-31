@@ -357,6 +357,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
   * [Penalized Generalized Linear Models](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/modeling.html#h2ogeneralizedlinearestimator)
   * [Monotonic GBM](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/modeling.html#h2ogradientboostingestimator)
   * [Sparse Principal Components (GLRM)](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/modeling.html#h2ogeneralizedlowrankestimator)
+* [learning-fair-representations](https://github.com/zjelveh/learning-fair-representations)
 * [Optimal Sparse Decision Trees](https://github.com/xiyanghu/OSDT)
 * [Monotonic](http://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html) [XGBoost](http://xgboost.readthedocs.io/en/latest/)
 * [Multilayer Logical Perceptron (MLLP)](https://github.com/12wang3/mllp)
