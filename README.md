@@ -647,4 +647,3 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Jun 2021 - ATER ALERT: The Klein Law Firm Announces a Lead Plaintiff Deadline of July 12, 2021 in the Class Action Filed on Behalf of Aterian, Inc. Limited Shareholders](https://finance.yahoo.com/news/ater-alert-klein-law-firm-002300149.html)
 * [Jun 2021 - Have Google’s Algorithm Updates Broken the Web?](https://centralrecorder.com/have-googles-algorithm-updates-broken-the-web/)
 * [Jun 2021 - How Airbnb failed its own anti-discrimination team—and let racial disparities slip through the cracks](https://www.morningbrew.com/emerging-tech/stories/2021/06/15/airbnb-failed-antidiscrimination-teamand-let-racial-disparities-slip-cracks)
-* []()
