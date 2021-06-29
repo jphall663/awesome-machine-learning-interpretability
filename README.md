@@ -207,6 +207,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Fairness and Machine Learning](http://fairmlbook.org/)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 * [Responsible Machine Learning](https://www.h2o.ai/resources/ebook/responsible-machine-learning/) (requires email for now)
+* [Trust in Machine Learning](https://www.manning.com/books/trust-in-machine-learning)
 
 ## Government and Regulatory Documents
 
