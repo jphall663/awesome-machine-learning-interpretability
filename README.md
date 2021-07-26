@@ -651,3 +651,4 @@ Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloombe
 * [Jun 2021 - Have Google’s Algorithm Updates Broken the Web?](https://centralrecorder.com/have-googles-algorithm-updates-broken-the-web/)
 * [Jun 2021 - How Airbnb failed its own anti-discrimination team—and let racial disparities slip through the cracks](https://www.morningbrew.com/emerging-tech/stories/2021/06/15/airbnb-failed-antidiscrimination-teamand-let-racial-disparities-slip-cracks)
 * [Jun 2021 - Facial Recognition Failures Are Locking People Out of Unemployment Systems](https://www.vice.com/en/article/5dbywn/facial-recognition-failures-are-locking-people-out-of-unemployment-systems)
+* [Jul 2021 - Police Are Telling ShotSpotter to Alter Evidence From Gunshot-Detecting AI](https://www.vice.com/en/article/qj8xbq/police-are-telling-shotspotter-to-alter-evidence-from-gunshot-detecting-ai)
