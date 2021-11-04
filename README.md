@@ -122,6 +122,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [PDPbox](https://github.com/SauceCat/PDPbox)
 * [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown)
 * [PyCEbox](https://github.com/AustinRochford/PyCEbox)
+* [PyExplainer](https://github.com/awsm-research/PyExplainer)
 * [pyGAM](https://github.com/dswah/pyGAM)
 * [pymc3](https://github.com/pymc-devs/pymc3)
 * [pytorch-innvestigate](https://github.com/fgxaos/pytorch-innvestigate)
