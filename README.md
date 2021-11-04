@@ -204,6 +204,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 ## Free Books
 
 * [An Introduction to Machine Learning Interpretability](https://www.h2o.ai/wp-content/uploads/2019/08/An-Introduction-to-Machine-Learning-Interpretability-Second-Edition.pdf)
+* [Explainable AI for Software Engineering](https://xai4se.github.io/)
 * [Explanatory Model Analysis](https://pbiecek.github.io/ema/)
 * [Fairness and Machine Learning](http://fairmlbook.org/)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
