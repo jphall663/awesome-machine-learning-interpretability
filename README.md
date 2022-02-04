@@ -124,6 +124,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [PDPbox](https://github.com/SauceCat/PDPbox)
 * [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown)
 * [PyCEbox](https://github.com/AustinRochford/PyCEbox)
+* [PyExplainer](https://github.com/awsm-research/PyExplainer)
 * [pyGAM](https://github.com/dswah/pyGAM)
 * [pymc3](https://github.com/pymc-devs/pymc3)
 * [pytorch-innvestigate](https://github.com/fgxaos/pytorch-innvestigate)
@@ -205,6 +206,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 ## Free Books
 
 * [An Introduction to Machine Learning Interpretability](https://www.h2o.ai/wp-content/uploads/2019/08/An-Introduction-to-Machine-Learning-Interpretability-Second-Edition.pdf)
+* [Explainable AI for Software Engineering](https://xai4se.github.io/)
 * [Explanatory Model Analysis](https://pbiecek.github.io/ema/)
 * [Fairness and Machine Learning](http://fairmlbook.org/)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
