@@ -106,7 +106,6 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Integrated-Gradients](https://github.com/ankurtaly/Integrated-Gradients)
 * [interpret](https://github.com/interpretml/interpret)
 * [interpret_with_rules](https://github.com/clips/interpret_with_rules)
-* [imodels](https://github.com/csinva/imodels)
 * [Keras-vis](https://github.com/raghakot/keras-vis)
 * [keract](https://github.com/philipperemy/keract/)
 * [L2X](https://github.com/Jianbo-Lab/L2X)
