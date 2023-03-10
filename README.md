@@ -304,6 +304,8 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [When Not to Trust Your Explanations](https://docs.google.com/presentation/d/10a0PNKwoV3a1XChzvY-T1mWudtzUIZi3sCMzVwGSYfM/edit)
 * [XAI Resources](https://github.com/pbiecek/xai_resources)
 * [You Created A Machine Learning Application Now Make Sure It's Secure](https://www.oreilly.com/ideas/you-created-a-machine-learning-application-now-make-sure-its-secure)
+* [A Blog on AI Interpretability tools](https://censius.ai/blogs/guide-to-ai-interpretability-tools)
+* []()
 
 ## Review and General Papers
 
