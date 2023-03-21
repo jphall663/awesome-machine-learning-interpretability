@@ -88,6 +88,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [DeepExplain](https://github.com/marcoancona/DeepExplain)
 * [deeplift](https://github.com/kundajelab/deeplift)
 * [deepvis](https://github.com/yosinski/deep-visualization-toolbox)
+* [dianna](https://github.com/dianna-ai/dianna)
 * [DiCE](https://github.com/interpretml/DiCE)
 * [DoWhy](https://github.com/microsoft/dowhy)
 * [ecco](https://github.com/jalammar/ecco)
