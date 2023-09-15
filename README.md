@@ -8,41 +8,41 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 ## Table of Contents
 
 ### General Resources
-* [Comprehensive Software Examples and Tutorials](https://github.com/datherton09/danny-amli-testing-grounds#comprehensive-software-examples-and-tutorials)
-* [Free-ish Books](https://github.com/datherton09/danny-amli-testing-grounds#books)
-* [Open-ish Classes](https://github.com/datherton09/danny-amli-testing-grounds#classes)
-* [Glossaries and Dictionaries](https://github.com/datherton09/danny-amli-testing-grounds#glossaries-and-dictionaries)
+* [Comprehensive Software Examples and Tutorials](https://github.com/jphall663/awesome-machine-learning-interpretability#comprehensive-software-examples-and-tutorials)
+* [Free-ish Books](https://github.com/jphall663/awesome-machine-learning-interpretability#books)
+* [Open-ish Classes](https://github.com/jphall663/awesome-machine-learning-interpretability#classes)
+* [Glossaries and Dictionaries](https://github.com/jphall663/awesome-machine-learning-interpretability#glossaries-and-dictionaries)
   
 ### Generative AI
 
 ### Technical Resources
 
-* [Responsible AI Software Packages](https://github.com/datherton09/danny-amli-testing-grounds#responsible-ai-software-packages)
-  * [Browser](https://github.com/datherton09/danny-amli-testing-grounds#browser)
-  * [C/C++](https://github.com/datherton09/danny-amli-testing-grounds#cc)
-  * [Python](https://github.com/datherton09/danny-amli-testing-grounds#python)
-  * [R](https://github.com/datherton09/danny-amli-testing-grounds#r) 
-* [Machine Learning Environment Management Tools](https://github.com/datherton09/danny-amli-testing-grounds#machine-learning-environment-management-tools)
+* [Responsible AI Software Packages](https://github.com/jphall663/awesome-machine-learning-interpretability#responsible-ai-software-packages)
+  * [Browser](https://github.com/jphall663/awesome-machine-learning-interpretability#browser)
+  * [C/C++](https://github.com/jphall663/awesome-machine-learning-interpretability#cc)
+  * [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python)
+  * [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r) 
+* [Machine Learning Environment Management Tools](https://github.com/jphall663/awesome-machine-learning-interpretability#machine-learning-environment-management-tools)
 
 ### Evaluation and Standards
 
-* [Benchmarks](https://github.com/datherton09/danny-amli-testing-grounds#benchmarks)
-* [Common or Useful Datasets](https://github.com/datherton09/danny-amli-testing-grounds#datasets-for-fairness-and-explainability)
-* [Auditing and Evaluation Resources](https://github.com/datherton09/danny-amli-testing-grounds#auditing-and-evaluation-resources)
-* [AI Incident Trackers](https://github.com/datherton09/danny-amli-testing-grounds#ai-incident-trackers)
+* [Benchmarks](https://github.com/jphall663/awesome-machine-learning-interpretability#benchmarks)
+* [Common or Useful Datasets](https://github.com/jphall663/awesome-machine-learning-interpretability#datasets-for-fairness-and-explainability)
+* [Auditing and Evaluation Resources](https://github.com/jphall663/awesome-machine-learning-interpretability#auditing-and-evaluation-resources)
+* [AI Incident Trackers](https://github.com/jphall663/awesome-machine-learning-interpretability#ai-incident-trackers)
   
 ### Community and Policy
 
-* [Policy and Regulatory Frameworks](https://github.com/datherton09/danny-amli-testing-grounds#policy-and-regulatory-frameworks)
-* [Best Practices](https://github.com/datherton09/danny-amli-testing-grounds#best-practices)
-* [Communities and Forums](https://github.com/datherton09/danny-amli-testing-grounds#communities-and-forums)
+* [Policy and Regulatory Frameworks](https://github.com/jphall663/awesome-machine-learning-interpretability#policy-and-regulatory-frameworks)
+* [Best Practices](https://github.com/jphall663/awesome-machine-learning-interpretability#best-practices)
+* [Communities and Forums](https://github.com/jphall663/awesome-machine-learning-interpretability#communities-and-forums)
 
 ### Additional Resources
-* [Challenges and Competitions](https://github.com/datherton09/danny-amli-testing-grounds#challenges-and-competitions)
-* [List-of-Lists](https://github.com/datherton09/danny-amli-testing-grounds#other-interpretability-and-fairness-resources-and-lists)
+* [Challenges and Competitions](https://github.com/jphall663/awesome-machine-learning-interpretability#challenges-and-competitions)
+* [List-of-Lists](https://github.com/jphall663/awesome-machine-learning-interpretability#other-interpretability-and-fairness-resources-and-lists)
 
 ### Curated Bibliographies
-* [NIST Playbook_Measure_FullLaunch](https://github.com/datherton09/danny-amli-testing-grounds#nist-playbook-measure-fulllaunch)
+* [NIST Playbook_Measure_FullLaunch](https://github.com/jphall663/awesome-machine-learning-interpretability#nist-playbook-measure-fulllaunch)
 
 ## General Resources
 
