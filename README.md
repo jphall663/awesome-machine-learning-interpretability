@@ -1,3 +1,6 @@
+# danny-amli-testing-grounds
+Danny Atherton's testing grounds for edits to jphall663/awesome-machine-learning-interpretability
+
 # awesome-machine-learning-*interpretability* [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated, but probably biased and incomplete, list of awesome machine learning interpretability resources.
@@ -5,31 +8,43 @@ A curated, but probably biased and incomplete, list of awesome machine learning 
 If you want to contribute to this list (*and please do!*) read over the [contribution guidelines](contributing.md), send a pull request, or contact me [@jpatrickhall](https://twitter.com/jpatrickhall).
 
 **An incomplete, imperfect blueprint for a more human-centered, lower-risk machine learning.** The resources in this repository can be used to do many of these things today. *The resources in this repository should not be considered legal compliance advice.*
-![alt-text](https://github.com/h2oai/mli-resources/blob/master/blueprint.png)
-</br>Image credit: H2O.ai Machine Learning Interpretability team, https://github.com/h2oai/mli-resources.
-
 
 ## Table of Contents
+### General Resources
+* [Comprehensive Software Examples and Tutorials](https://github.com/datherton09/danny-amli-testing-grounds#comprehensive-software-examples-and-tutorials)
+* [Books](https://github.com/datherton09/danny-amli-testing-grounds#books)
+* [Scholarly Literature on Responsible AI](https://github.com/datherton09/danny-amli-testing-grounds#scholarly-literature-on-responsible-ai)
+* [Classes](https://github.com/datherton09/danny-amli-testing-grounds#classes)
+* [Glossaries and Dictionaries](https://github.com/datherton09/danny-amli-testing-grounds#glossaries-and-dictionaries)
+### Generative AI
+### Technical Resources
+* [Responsible AI Software Packages](https://github.com/datherton09/danny-amli-testing-grounds#responsible-ai-software-packages)
+  * [Browser](https://github.com/datherton09/danny-amli-testing-grounds#browser)
+  * [C/C++](https://github.com/datherton09/danny-amli-testing-grounds#cc)
+  * [Python](https://github.com/datherton09/danny-amli-testing-grounds#python)
+  * [R](https://github.com/datherton09/danny-amli-testing-grounds#r)
+* [Machine Learning Environment Management Tools](https://github.com/datherton09/danny-amli-testing-grounds#machine-learning-environment-management-tools)
+* [APIs for Responsible AI](https://github.com/datherton09/danny-amli-testing-grounds#apis-for-responsible-ai)
+* [Software for Domain-specific Fairness/Explainability](https://github.com/datherton09/danny-amli-testing-grounds#software-for-domain-specific-fairnessexplainability)
+### Evaluation and Standards
+* [Benchmarks](https://github.com/datherton09/danny-amli-testing-grounds#benchmarks)
+* [Datasets for Fairness and Explainability](https://github.com/datherton09/danny-amli-testing-grounds#datasets-for-fairness-and-explainability)
+* [Auditing and Evaluation Resources](https://github.com/datherton09/danny-amli-testing-grounds#auditing-and-evaluation-resources)
+* [AI Incident Trackers](https://github.com/datherton09/danny-amli-testing-grounds#ai-incident-trackers)
+* ### Community and Policy
+* [Policy and Regulatory Frameworks](https://github.com/datherton09/danny-amli-testing-grounds#policy-and-regulatory-frameworks)
+* [Best Practices](https://github.com/datherton09/danny-amli-testing-grounds#best-practices)
+* [Communities and Forums](https://github.com/datherton09/danny-amli-testing-grounds#communities-and-forums)
+* [Conferences and Workshops](https://github.com/datherton09/danny-amli-testing-grounds#conferences-and-workshops)
+### Additional Resources
+* [Challenges and Competitions](https://github.com/datherton09/danny-amli-testing-grounds#challenges-and-competitions)
+* [Other Interpretability and Fairness Resources and Lists](https://github.com/datherton09/danny-amli-testing-grounds#other-interpretability-and-fairness-resources-and-lists)
+### Curated Bibliographies
+* [NIST Playbook_Measure_FullLaunch](https://github.com/datherton09/danny-amli-testing-grounds#nist-playbook-measure-fulllaunch)
 
-* [Comprehensive Software Examples and Tutorials](https://github.com/jphall663/awesome-machine-learning-interpretability#comprehensive-software-examples-and-tutorials)
-* Explainability- or Fairness-Enhancing Software Packages
-  * [Browser](https://github.com/jphall663/awesome-machine-learning-interpretability#browser)
-  * [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python)
-  * [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r)
-* [Machine learning environment management tools](https://github.com/jphall663/awesome-machine-learning-interpretability#machine-learning-environment-management-tools)
-* [Free Books](https://github.com/jphall663/awesome-machine-learning-interpretability#free-books)
-* [Government and Regulatory Documents](https://github.com/jphall663/awesome-machine-learning-interpretability#government-and-regulatory-documents)
-* [Other Interpretability and Fairness Resources and Lists](https://github.com/jphall663/awesome-machine-learning-interpretability#other-interpretability-and-fairness-resources-and-lists)
-* [Review and General Papers](https://github.com/jphall663/awesome-machine-learning-interpretability#review-and-general-papers)
-* [Classes](https://github.com/jphall663/awesome-machine-learning-interpretability#classes)
-* Interpretable ("Whitebox") or Fair Modeling Packages
-  * [C/C++](https://github.com/jphall663/awesome-machine-learning-interpretability#cc)
-  * [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python-1)
-  * [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r-1)
-* [AI Incident Tracker](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#ai-incident-tracker)
-
-## Comprehensive Software Examples and Tutorials
-
+## General Resources
+### Comprehensive Software Examples and Tutorials
+This section is a curated collection of guides and tutorials that simplify responsible AI and machine learning. It spans from basic model interpretability to advanced fairness techniques. Suitable for both novices and experts, the resources cover topics like COMPAS fairness analyses and explainable machine learning via counterfactuals. Notable contributions, such as Dipanjan (DJ) Sarkar's Model Interpretation series, are included. Python and R code examples are provided for easy implementation.
 * [COMPAS Analysis Using Aequitas](https://github.com/dssg/aequitas/blob/master/docs/source/examples/compas_demo.ipynb)
 * [Explaining Quantitative Measures of Fairness (with SHAP)](https://github.com/slundberg/shap/blob/master/notebooks/overviews/Explaining%20quantitative%20measures%20of%20fairness.ipynb)
 * [Getting a Window into your Black Box Model](http://projects.rajivshah.com/inter/ReasonCode_NFL.html)
@@ -47,22 +62,78 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
   * [Hands-on Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
   * [Interpreting Deep Learning Models for Computer Vision](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
 * [Partial Dependence Plots in R](https://journal.r-project.org/archive/2017/RJ-2017-016/)
+* [PiML-Toolbox](https://github.com/SelfExplainML/PiML-Toolbox/tree/main/examples)
 * [Saliency Maps for Deep Learning](https://medium.com/@thelastalias/saliency-maps-for-deep-learning-part-1-vanilla-gradient-1d0665de3284)
 * [Visualizing ML Models with LIME](http://uc-r.github.io/lime)
 * [Visualizing and debugging deep convolutional networks](https://rohitghosh.github.io/2018/01/05/visualising-debugging-deep-neural-networks/)
 * [What does a CNN see?](https://colab.research.google.com/drive/1xM6UZ9OdpGDnHBljZ0RglHV_kBrZ4e-9)
 
-## Explainability- or Fairness-Enhancing Software Packages
+### Books
+This section contains books that are either freely downloadable or links to full Internet Archive scans of books that can be borrowed with a free account.
+* [An Introduction to Machine Learning Interpretability](https://www.h2o.ai/wp-content/uploads/2019/08/An-Introduction-to-Machine-Learning-Interpretability-Second-Edition.pdf)
+* [Explanatory Model Analysis](https://pbiecek.github.io/ema/)
+* [Fairness and Machine Learning](http://fairmlbook.org/)
+* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+* [Machine Learning for High-Risk Applications: Approaches to Responsible AI](https://pages.dataiku.com/oreilly-responsible-ai)
+* [Responsible Machine Learning](https://www.h2o.ai/resources/ebook/responsible-machine-learning/) (requires email for now)
+* [Trustworthy Machine Learning](http://www.trustworthymachinelearning.com/)
 
+### Scholarly Literature on Responsible AI
+* [50 Years of Test (Un)fairness: Lessons for Machine Learning](https://arxiv.org/pdf/1811.10104.pdf)
+* [A Comparative Study of Fairness-Enhancing Interventions in Machine Learning](https://arxiv.org/pdf/1802.04422.pdf)
+* [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
+* [A Marauder’s Map of Security and Privacy in Machine Learning](https://arxiv.org/pdf/1811.01134.pdf)
+* [Challenges for Transparency](https://arxiv.org/pdf/1708.01870.pdf)
+* [Closing the AI Accountability Gap](https://arxiv.org/pdf/2001.00973.pdf)
+* [DQI: Measuring Data Quality in NLP](https://arxiv.org/pdf/2005.00816.pdf)
+* [Explaining by Removing: A Unified Framework for Model Explanation](https://arxiv.org/abs/2011.14878)
+* [Explaining Explanations: An Overview of Interpretability of Machine Learning](https://arxiv.org/pdf/1806.00069.pdf)
+* [Explanation in Human-AI Systems: A Literature Meta-Review, Synopsis of Key Ideas and Publications, and Bibliography for Explainable AI](https://arxiv.org/abs/1902.01876v1)
+* [Interpretable Machine Learning: Definitions, Methods, and Applications](https://arxiv.org/abs/1901.04592)
+* [Limitations of Interpretable Machine Learning](https://compstat-lmu.github.io/iml_methods_limitations/)
+* [Machine Learning Explainability in Finance](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2019/machine-learning-explainability-in-finance-an-application-to-default-risk-analysis)
+* [On the Art and Science of Machine Learning Explanations](https://arxiv.org/pdf/1810.02909.pdf)
+* [Please Stop Explaining Black Box Models for High-Stakes Decisions](https://arxiv.org/pdf/1811.10154.pdf)
+* [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)
+* [The Mythos of Model Interpretability](https://arxiv.org/pdf/1606.03490.pdf)
+* [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf)
+* [Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims](https://arxiv.org/pdf/2004.07213.pdf)
+* [The Security of Machine Learning](https://people.eecs.berkeley.edu/~adj/publications/paper-files/SecML-MLJ2010.pdf)
+* [Techniques for Interpretable Machine Learning](https://arxiv.org/pdf/1808.00033.pdf)
+* [Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda](https://dl.acm.org/citation.cfm?id=3174156)
+* [Underspecification Presents Challenges for Credibility in Modern Machine Learning](https://arxiv.org/pdf/2011.03395.pdf)
+
+### Classes
+This section features a selection of educational courses focused on ethical considerations and best practices in emerging technologies like AI and machine learning. The classes range from introductory courses on data ethics to specialized training in fairness and trustworthy deep learning.
+* [An Introduction to Data Ethics](https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/an-introduction-to-data-ethics/)
+* [Certified Ethical Emerging Technologist](https://certnexus.com/certification/ceet/)
+* [Fairness in Machine Learning](https://fairmlclass.github.io/)
+* [Fast.ai Data Ethics course](http://ethics.fast.ai/syllabus/#lesson-2-bias--fairness)
+* [Human-Center Machine Learning](http://courses.mpi-sws.org/hcml-ws18/)
+* [Introduction to Responsible Machine Learning](https://jphall663.github.io/GWU_rml/)
+* [Trustworthy Deep Learning](https://berkeley-deep-learning.github.io/cs294-131-s19/)
+
+### Glossaries and Dictionaries
+This section features a collection of either freely accessible or Internet Archive-accessible glossaries and dictionaries that are in any way geared toward defining terms in artificial intelligence. 
+* [The Language of Trustworthy AI: An In-Depth Glossary of Terms (NIST AIRC)) Glossary](https://airc.nist.gov/AI_RMF_Knowledge_Base/Glossary)
+* [VAIR (Vocabulary of AI Risks)](https://delaramglp.github.io/vair/)
+
+# Generative AI
+* [Andreessen Horowitz (a16z) AI Canon](https://a16z.com/ai-canon/)
+* [DAIR Prompt Engineering Guide](https://www.promptingguide.ai/)
+ * [DAIR Prompt Engineering Guide GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide)  
+
+# Technical Resources
+## Responsible AI Software Packages
 ### Browser
-
 * [DiscriLens](https://github.com/wangqianwen0418/DiscriLens)
 * [manifold](https://github.com/uber/manifold)
 * [TensorBoard Projector](http://projector.tensorflow.org)
 * [What-if Tool](https://pair-code.github.io/what-if-tool/index.html#about)
-
+### C/C++
+* [Born-again Tree Ensembles](https://github.com/vidalt/BA-Trees)
+* [Certifiably Optimal RulE ListS](https://github.com/nlarusstone/corels)
 ### Python
-
 * [acd](https://github.com/csinva/hierarchical_dnn_interpretations)
 * [aequitas](https://github.com/dssg/aequitas)
 * [AI Fairness 360](http://aif360.mybluemix.net)
@@ -106,7 +177,6 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [Integrated-Gradients](https://github.com/ankurtaly/Integrated-Gradients)
 * [interpret](https://github.com/interpretml/interpret)
 * [interpret_with_rules](https://github.com/clips/interpret_with_rules)
-* [imodels](https://github.com/csinva/imodels)
 * [Keras-vis](https://github.com/raghakot/keras-vis)
 * [keract](https://github.com/philipperemy/keract/)
 * [L2X](https://github.com/Jianbo-Lab/L2X)
@@ -135,6 +205,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [sage](https://github.com/iancovert/sage/)
 * [SALib](https://github.com/SALib/SALib)
 * [scikit-fairness](https://github.com/koaning/scikit-fairness)
+* [scikit-multiflow](https://scikit-multiflow.github.io/)
 * [shap](https://github.com/slundberg/shap)
 * [shapley](https://github.com/benedekrozemberczki/shapley)
 * [Skater](https://github.com/datascienceinc/Skater)
@@ -157,22 +228,56 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [xai](https://github.com/EthicalML/xai)
 * [xdeep](https://github.com/datamllab/xdeep)
 * [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)
-
+* [Bayesian Case Model](https://users.cs.duke.edu/~cynthia/code/BCM.zip)
+* [Bayesian Ors-Of-Ands](https://github.com/wangtongada/BOA)
+* [Bayesian Rule List (BRL)](https://users.cs.duke.edu/~cynthia/code/BRL_supplement_code.zip)
+* [Explainable Boosting Machine (EBM)/GA2M](https://github.com/interpretml/interpret)
+* [fair-classification](https://github.com/mbilalzafar/fair-classification)
+* [Falling Rule List (FRL)](https://users.cs.duke.edu/~cynthia/code/falling_rule_list.zip)
+* H2O-3
+  * [Penalized Generalized Linear Models](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/modeling.html#h2ogeneralizedlinearestimator)
+  * [Monotonic GBM](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/modeling.html#h2ogradientboostingestimator)
+  * [Sparse Principal Components (GLRM)](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/modeling.html#h2ogeneralizedlowrankestimator)
+* [learning-fair-representations](https://github.com/zjelveh/learning-fair-representations)
+* [Optimal Sparse Decision Trees](https://github.com/xiyanghu/OSDT)
+* [Monotonic](http://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html) [XGBoost](http://xgboost.readthedocs.io/en/latest/)
+* [Multilayer Logical Perceptron (MLLP)](https://github.com/12wang3/mllp)
+* [pySS3](https://github.com/sergioburdisso/pyss3)
+* [Risk-SLIM](https://github.com/ustunb/risk-SLIM)
+* Scikit-learn
+  * [Decision Trees](http://scikit-learn.org/stable/modules/tree.html)
+  * [Generalized Linear Models](http://scikit-learn.org/stable/modules/linear_model.html)
+  * [Sparse Principal Components](http://scikit-learn.org/stable/modules/decomposition.html#sparse-principal-components-analysis-sparsepca-and-minibatchsparsepca)
+* [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
+* [skope-rules](https://github.com/scikit-learn-contrib/skope-rules)
+* [Super-sparse Linear Integer models (SLIMs)](https://github.com/ustunb/slim-python)
+* [tensorflow/lattice](https://github.com/tensorflow/lattice)
+* [This Looks Like That](https://github.com/cfchen-duke/ProtoPNet)
 ### R
 * [aif360](https://cran.r-project.org/web/packages/aif360/index.html)
 * [ALEPlot](https://cran.r-project.org/web/packages/ALEPlot/index.html)
-* [DrWhyAI](https://github.com/ModelOriented/DrWhy)
+* [arules](https://cran.r-project.org/web/packages/arules/index.html)
+* [Causal SVM](https://github.com/shangtai/githubcausalsvm)
 * [DALEX](https://github.com/ModelOriented/DALEX)
 * [DALEXtra](https://cran.r-project.org/web/packages/DALEXtra/index.html)
-* [EloML](https://github.com/ModelOriented/EloML)
+* [DrWhyAI](https://github.com/ModelOriented/DrWhy)
+* [elasticnet](https://cran.r-project.org/web/packages/elasticnet/index.html)
 * [ExplainPrediction](https://github.com/rmarko/ExplainPrediction)
-* [fastshap](https://github.com/bgreenwell/fastshap)
-* [fairness](https://cran.r-project.org/web/packages/fairness/index.html)
+* [Explainable Boosting Machine (EBM)/GA2M](https://cran.r-project.org/web/packages/interpret/index.html)
 * [fairmodels](https://github.com/ModelOriented/fairmodels)
+* [fairness](https://cran.r-project.org/web/packages/fairness/index.html)
+* [fastshap](https://github.com/bgreenwell/fastshap)
 * [featureImportance](https://github.com/giuseppec/featureImportance)
 * [flashlight](https://github.com/mayer79/flashlight)
 * [forestmodel](https://cran.r-project.org/web/packages/forestmodel/index.html)
 * [fscaret](https://cran.r-project.org/web/packages/fscaret/)
+* [gam](https://cran.r-project.org/web/packages/gam/index.html)
+* [glm2](https://cran.r-project.org/web/packages/glm2/)
+* [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html)
+* H2O-3
+  * [Penalized Generalized Linear Models](http://docs.h2o.ai/h2o/latest-stable/h2o-r/docs/reference/h2o.glm.html)
+  * [Monotonic GBM](http://docs.h2o.ai/h2o/latest-stable/h2o-r/docs/reference/h2o.gbm.html)
+  * [Sparse Principal Components (GLRM)](http://docs.h2o.ai/h2o/latest-stable/h2o-r/docs/reference/h2o.glrm.html)
 * [iBreakDown](https://github.com/ModelOriented/iBreakDown)
 * [ICEbox](https://cran.r-project.org/web/packages/ICEbox/index.html)
 * [iml](https://github.com/christophM/iml)
@@ -185,7 +290,12 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [modelDown](https://cran.r-project.org/web/packages/modelDown/index.html)
 * [modelOriented](https://github.com/ModelOriented)
 * [modelStudio](https://github.com/ModelOriented/modelStudio)
+* [Monotonic](http://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html) [XGBoost](http://xgboost.readthedocs.io/en/latest/)
 * [pdp](https://bgreenwell.github.io/pdp/index.html)
+* [quantreg](https://cran.r-project.org/web/packages/quantreg/index.html)
+* [rpart](https://cran.r-project.org/web/packages/rpart/index.html)
+* [RuleFit](http://statweb.stanford.edu/~jhf/R_RuleFit.html)
+* [Scalable Bayesian Rule Lists (SBRL)](https://users.cs.duke.edu/~cynthia/code/sbrl_1.0.tar.gz)
 * [shapFlex](https://github.com/nredell/shapFlex)
 * [shapleyR](https://github.com/redichh/ShapleyR)
 * [shapper](https://cran.r-project.org/web/packages/shapper/index.html)
@@ -193,25 +303,64 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [vip](https://github.com/koalaverse/vip)
 * [xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer)
 
-## Machine learning environment management tools
-
+## Machine Learning Environment Management Tools
 * [dvc](https://dvc.org/)
 * [gigantum](https://github.com/gigantum)
 * [mlflow](https://mlflow.org/)
 * [mlmd](https://github.com/google/ml-metadata)
 * [modeldb](https://github.com/VertaAI/modeldb)
 * [whylabs](https://www.rsqrdai.org/)
+## APIs for Responsible AI
+This section features a selection of APIs designed to enhance interpretability and fairness in machine learning models. These APIs provide a straightforward way to integrate ethical considerations and model transparency into your existing projects. From explainability metrics to fairness audits, these tools offer pre-built functionalities that can assist both novice and experienced practitioners in achieving responsible AI deployment. 
+### Interpretability APIs
+- [SHAP](https://github.com/slundberg/shap)
+- [LIME](https://github.com/marcotcr/lime)
+- [Anchor](https://github.com/marcotcr/anchor)
+- [Counterfactual Explanations](https://github.com/SeldonIO/alibi)
+### Fairness APIs
+- [Aequitas](https://github.com/dssg/aequitas)
+- [Fairlearn](https://github.com/fairlearn/fairlearn)
+- [What-If Tool](https://pair-code.github.io/what-if-tool/)
+- [IBM AI Fairness 360](https://github.com/IBM/AIF360)
+- [Themis-ML](https://github.com/cosmicBboy/themis-ml)
 
-## Free Books
+## Software for Domain-specific Fairness/Explainability
+This section curates specialized software tools aimed at fairness and explainability within specific domains, such as in healthcare, finance, or social sciences.
 
-* [An Introduction to Machine Learning Interpretability](https://www.h2o.ai/wp-content/uploads/2019/08/An-Introduction-to-Machine-Learning-Interpretability-Second-Edition.pdf)
-* [Explanatory Model Analysis](https://pbiecek.github.io/ema/)
-* [Fairness and Machine Learning](http://fairmlbook.org/)
-* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
-* [Responsible Machine Learning](https://www.h2o.ai/resources/ebook/responsible-machine-learning/) (requires email for now)
+# Evaluation and Standards
+## Benchmarks
+* [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq)
 
-## Government and Regulatory Documents
+## Common Datasets for Responsible AI
+* [Adult income dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
+* [All Lending Club loan data](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
+* [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq)
+* [Census income classification with scikit-learn](https://shap.readthedocs.io/en/latest/example_notebooks/tabular_examples/model_agnostic/Census%20income%20classification%20with%20scikit-learn.html)
+* [COMPAS Recidivism Risk Score Data and Analysis](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis)
+* [Iris flower dataset](https://archive.ics.uci.edu/dataset/53/iris)
+* [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/)
+* [NYPD Stop, Question and Frisk Data](https://www.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page)
+* [OpenML Benchmarking Suites](https://openreview.net/forum?id=OCrD8ycKjG)
+* [Real Toxicity Prompts (Allen Institute for AI)](https://allenai.org/data/real-toxicity-prompts)
+* [Statlog (German Credit Data)](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
+* [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
+* [Wikipedia Talk Labels: Personal Attacks](https://www.kaggle.com/datasets/jigsaw-team/wikipedia-talk-labels-personal-attacks)
+* [Winogender Schemas](https://github.com/rudinger/winogender-schemas)
 
+## Auditing and Evaluation Resources
+* [De-risking Language Models for Adoption](https://docs.google.com/presentation/d/1m0p1KcYw-HM6U0hr_8egH2-7v4SlQhJq/edit#slide=id.p17)
+* [IQT Labs AI Assurance Audit of RoBERTa, an Open source, Pretrained Large Language Model](https://assets.iqt.org/pdfs/IQTLabs_RoBERTaAudit_Dec2022_final.pdf/web/viewer.html)
+
+## AI Incident Trackers
+* [AI Incident Database (Responsible AI Collaborative)](https://incidentdatabase.ai/)
+* [AI Vulnerability Database (AVID)](https://avidml.org/)
+* [AIAAIC](https://www.aiaaic.org/)
+* [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
+* [Verica Open Incident Database (VOID)](https://www.thevoid.community/)
+
+# Community and Policy
+## Policy and Regulatory Frameworks
+This section serves as a repository for policy documents, regulations, guidelines, and recommendations that govern the ethical and responsible use of artificial intelligence and machine learning technologies. From international legal frameworks to specific national laws, the resources cover a broad spectrum of topics such as fairness, privacy, ethics, and governance. 
 * [12 CFR Part 1002 - Equal Credit Opportunity Act (Regulation B)](https://www.consumerfinance.gov/policy-compliance/rulemaking/regulations/1002/)
 * [A Regulatory Framework for AI: Recommendations for PIPEDA Reform](https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/completed-consultations/consultation-ai/reg-fw_202011/)
 * [AI Principles: Recommendations on the Ethical Use of Artificial Intelligence by the Department of Defense](https://media.defense.gov/2019/Oct/31/2002204458/-1/-1/0/DIB_AI_PRINCIPLES_PRIMARY_DOCUMENT.PDF)
@@ -240,9 +389,12 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [General principles for the use of Artificial Intelligence in the financial sector](https://www.dnb.nl/media/jkbip2jc/general-principles-for-the-use-of-artificial-intelligence-in-the-financial-sector.pdf)
 * [Gouvernance des algorithmes d’intelligence artificielle dans le secteur financier (French)](https://acpr.banque-france.fr/sites/default/files/medias/documents/20200612_gouvernance_evaluation_ia.pdf)
 * [Innovation spotlight: Providing adverse action notices when using AI/ML models](https://www.consumerfinance.gov/about-us/blog/innovation-spotlight-providing-adverse-action-notices-when-using-ai-ml-models/)
+* [Meta AI's Responsible Use Guide](https://ai.meta.com/llama/responsible-use-guide/)
 * [Office of Management and Budget Guidance for Regulation of Artificial Intelligence Applications](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-06.pdf) (Finalized Nov. 2020)
 * [On Artificial Intelligence - A European approach to excellence and trust](https://ec.europa.eu/info/sites/info/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf)
 * [Opinion of the German Data Ethics Commission](https://www.bmjv.de/SharedDocs/Downloads/DE/Themen/Fokusthemen/Gutachten_DEK_EN.pdf?__blob=publicationFile&v=2)
+* [NIST AI 100-1 Artificial Intelligence Risk Management Framework (NIST AI RMF 1.0)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
+* [PAI's Responsible Practices for Synthetic Media: A Framework for Collective Action (Partnership on AI)](https://syntheticmedia.partnershiponai.org/)
 * [Principles of Artificial Intelligence Ethics for the Intelligence Community](https://www.intel.gov/principles-of-artificial-intelligence-ethics-for-the-intelligence-community)
 * [Proposal for a Regulation laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence-artificial-intelligence)
 * [Psychological Foundations of Explainability and Interpretability in Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8367.pdf)
@@ -256,9 +408,25 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [U.S. House of Representatives Resolution on AI Strategy](https://hurd.house.gov/sites/hurd.house.gov/files/HURDTX_AI%20Res.pdf)
 * [Using Artificial Intelligence and Algorithms](https://www.ftc.gov/news-events/blogs/business-blog/2020/04/using-artificial-intelligence-algorithms)
 
+## Best Practices
+
+## Communities and Forums
+
+## Conferences and Workshops
+* [FAT/ML (Fairness, Accountability, and Transparency in Machine Learning)](https://www.fatml.org/)
+* [AIES (AAAI/ACM Conference on AI, Ethics, and Society)](https://www.aies-conference.com/)
+* [NeurIPS Workshop on Ethical, Social and Governance Issues in AI](https://nips.cc/Conferences/)
+* [ICML Workshop on Fairness, Accountability, and Transparency in Machine Learning](https://icml.cc/)
+* [ACM FAccT (Fairness, Accountability, and Transparency)](https://facctconference.org/)
+
+# Additional Resources
+
+## Challenges and Competitions
+* [FICO Explainable Machine Learning Challenge](https://community.fico.com/s/explainable-machine-learning-challenge)
+* [National Fair Housing Alliance Hackathon](https://nationalfairhousing.org/hackathon2023/)
+* [Twitter Algorithmic Bias](https://hackerone.com/twitter-algorithmic-bias?type=team)
 
 ## Other Interpretability and Fairness Resources and Lists
-
 * [8 Principles of Responsible ML](https://ethical.institute/principles.html)
 * [ACM FAT* 2019 Youtube Playlist](https://www.youtube.com/playlist?list=PLXA0IWa3BpHk7fE8IH6wXNEfAZyr3A5Yb)
 * [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)
@@ -305,351 +473,96 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [XAI Resources](https://github.com/pbiecek/xai_resources)
 * [You Created A Machine Learning Application Now Make Sure It's Secure](https://www.oreilly.com/ideas/you-created-a-machine-learning-application-now-make-sure-its-secure)
 
-## Review and General Papers
-
-* [50 Years of Test (Un)fairness: Lessons for Machine Learning](https://arxiv.org/pdf/1811.10104.pdf)
-* [A Comparative Study of Fairness-Enhancing Interventions in Machine Learning](https://arxiv.org/pdf/1802.04422.pdf)
-* [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
-* [A Marauder’s Map of Security and Privacy in Machine Learning](https://arxiv.org/pdf/1811.01134.pdf)
-* [Challenges for Transparency](https://arxiv.org/pdf/1708.01870.pdf)
-* [Closing the AI Accountability Gap](https://arxiv.org/pdf/2001.00973.pdf)
-* [Explaining by Removing: A Unified Framework for Model Explanation](https://arxiv.org/abs/2011.14878)
-* [Explaining Explanations: An Overview of Interpretability of Machine Learning](https://arxiv.org/pdf/1806.00069.pdf)
-* [Explanation in Human-AI Systems: A Literature Meta-Review, Synopsis of Key Ideas and Publications, and Bibliography for Explainable AI](https://arxiv.org/abs/1902.01876v1)
-* [Interpretable Machine Learning: Definitions, Methods, and Applications](https://arxiv.org/abs/1901.04592)
-* [Limitations of Interpretable Machine Learning](https://compstat-lmu.github.io/iml_methods_limitations/)
-* [Machine Learning Explainability in Finance](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2019/machine-learning-explainability-in-finance-an-application-to-default-risk-analysis)
-* [On the Art and Science of Machine Learning Explanations](https://arxiv.org/pdf/1810.02909.pdf)
-* [Please Stop Explaining Black Box Models for High-Stakes Decisions](https://arxiv.org/pdf/1811.10154.pdf)
-* [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)
-* [The Mythos of Model Interpretability](https://arxiv.org/pdf/1606.03490.pdf)
-* [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf)
-* [Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims](https://arxiv.org/pdf/2004.07213.pdf)
-* [The Security of Machine Learning](https://people.eecs.berkeley.edu/~adj/publications/paper-files/SecML-MLJ2010.pdf)
-* [Techniques for Interpretable Machine Learning](https://arxiv.org/pdf/1808.00033.pdf)
-* [Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda](https://dl.acm.org/citation.cfm?id=3174156)
-* [Underspecification Presents Challenges for Credibility in Modern Machine Learning](https://arxiv.org/pdf/2011.03395.pdf)
-
-## Classes
-
-* [An Introduction to Data Ethics](https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/an-introduction-to-data-ethics/)
-* [Certified Ethical Emerging Technologist](https://certnexus.com/certification/ceet/)
-* [Fairness in Machine Learning](https://fairmlclass.github.io/)
-* [Fast.ai Data Ethics course](http://ethics.fast.ai/syllabus/#lesson-2-bias--fairness)
-* [Human-Center Machine Learning](http://courses.mpi-sws.org/hcml-ws18/)
-* [Introduction to Responsible Machine Learning](https://jphall663.github.io/GWU_rml/)
-* [Trustworthy Deep Learning](https://berkeley-deep-learning.github.io/cs294-131-s19/)
-
-
-## Interpretable ("Whitebox") or Fair Modeling Packages
-
-### C/C++
-
-* [Born-again Tree Ensembles](https://github.com/vidalt/BA-Trees)
-* [Certifiably Optimal RulE ListS](https://github.com/nlarusstone/corels)
-
-### Python
-
-* [Bayesian Case Model](https://users.cs.duke.edu/~cynthia/code/BCM.zip)
-* [Bayesian Ors-Of-Ands](https://github.com/wangtongada/BOA)
-* [Bayesian Rule List (BRL)](https://users.cs.duke.edu/~cynthia/code/BRL_supplement_code.zip)
-* [Explainable Boosting Machine (EBM)/GA2M](https://github.com/interpretml/interpret)
-* [fair-classification](https://github.com/mbilalzafar/fair-classification)
-* [Falling Rule List (FRL)](https://users.cs.duke.edu/~cynthia/code/falling_rule_list.zip)
-* H2O-3
-  * [Penalized Generalized Linear Models](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/modeling.html#h2ogeneralizedlinearestimator)
-  * [Monotonic GBM](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/modeling.html#h2ogradientboostingestimator)
-  * [Sparse Principal Components (GLRM)](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/modeling.html#h2ogeneralizedlowrankestimator)
-* [learning-fair-representations](https://github.com/zjelveh/learning-fair-representations)
-* [Optimal Sparse Decision Trees](https://github.com/xiyanghu/OSDT)
-* [Monotonic](http://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html) [XGBoost](http://xgboost.readthedocs.io/en/latest/)
-* [Multilayer Logical Perceptron (MLLP)](https://github.com/12wang3/mllp)
-* [pyGAM](https://github.com/dswah/pyGAM)
-* [pySS3](https://github.com/sergioburdisso/pyss3)
-* [Risk-SLIM](https://github.com/ustunb/risk-SLIM)
-* Scikit-learn
-  * [Decision Trees](http://scikit-learn.org/stable/modules/tree.html)
-  * [Generalized Linear Models](http://scikit-learn.org/stable/modules/linear_model.html)
-  * [Sparse Principal Components](http://scikit-learn.org/stable/modules/decomposition.html#sparse-principal-components-analysis-sparsepca-and-minibatchsparsepca)
-* [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
-* [skope-rules](https://github.com/scikit-learn-contrib/skope-rules)
-* [Super-sparse Linear Integer models (SLIMs)](https://github.com/ustunb/slim-python)
-* [tensorflow/lattice](https://github.com/tensorflow/lattice)
-* [This Looks Like That](https://github.com/cfchen-duke/ProtoPNet)
-
-### R
-
-* [arules](https://cran.r-project.org/web/packages/arules/index.html)
-* [Causal SVM](https://github.com/shangtai/githubcausalsvm)
-* [elasticnet](https://cran.r-project.org/web/packages/elasticnet/index.html)
-* [Explainable Boosting Machine (EBM)/GA2M](https://cran.r-project.org/web/packages/interpret/index.html)
-* [gam](https://cran.r-project.org/web/packages/gam/index.html)
-* [glm2](https://cran.r-project.org/web/packages/glm2/)
-* [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html)
-* H2O-3
-  * [Penalized Generalized Linear Models](http://docs.h2o.ai/h2o/latest-stable/h2o-r/docs/reference/h2o.glm.html)
-  * [Monotonic GBM](http://docs.h2o.ai/h2o/latest-stable/h2o-r/docs/reference/h2o.gbm.html)
-  * [Sparse Principal Components (GLRM)](http://docs.h2o.ai/h2o/latest-stable/h2o-r/docs/reference/h2o.glrm.html)
-* [Monotonic](http://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html) [XGBoost](http://xgboost.readthedocs.io/en/latest/)
-* [quantreg](https://cran.r-project.org/web/packages/quantreg/index.html)
-* [rpart](https://cran.r-project.org/web/packages/rpart/index.html)
-* [RuleFit](http://statweb.stanford.edu/~jhf/R_RuleFit.html)
-* [Scalable Bayesian Rule Lists (SBRL)](https://users.cs.duke.edu/~cynthia/code/sbrl_1.0.tar.gz)
-
-## AI Incident Tracker
-
-* [Mar 1988 - A blot on the profession](https://www.bmj.com/content/296/6623/657)
-* [Jan 2010 - Are Face-Detection Cameras Racist?](http://content.time.com/time/business/article/0,8599,1954643,00.html)
-* [Jul 2015 - Google says sorry for racist auto-tag in photo app](https://www.theguardian.com/technology/2015/jul/01/google-sorry-racist-auto-tag-photo-app)
-* [Mar 2016 - Here Are the Microsoft Twitter Bot’s Craziest Racist Rants](https://gizmodo.com/here-are-the-microsoft-twitter-bot-s-craziest-racist-ra-1766820160)
-* [Jun 2016 - Google faulted for racial bias in image search results for black teenagers](https://www.washingtonpost.com/news/morning-mix/wp/2016/06/10/google-faulted-for-racial-bias-in-image-search-results-for-black-teenagers/)
-* [Oct 2016 - 'Rogue' Algorithm Blamed for Historic Crash of the British Pound](https://gizmodo.com/rogue-algorithm-blamed-for-historic-crash-of-the-britis-1787523587)
-* [Oct 2016 - Crime-prediction tool PredPol amplifies racially biased policing, study shows](https://www.mic.com/articles/156286/crime-prediction-tool-pred-pol-only-amplifies-racially-biased-policing-study-shows)
-* [May 2017 - Houston Schools Must Face Teacher Evaluation Lawsuit](https://www.courthousenews.com/houston-schools-must-face-teacher-evaluation-lawsuit/)
-* [Jun 2017 - When a Computer Program Keeps You in Jail](https://www.nytimes.com/2017/06/13/opinion/how-computers-are-harming-criminal-justice.html)
-* [Jun 2017 - Antitrust: Commission fines Google €2.42 billion for abusing dominance as search engine by giving illegal advantage to own comparison shopping service](https://ec.europa.eu/commission/presscorner/detail/en/IP_17_1784)
-* [Jul 2017 - ‘Balls have zero to me to me’: What happened when Facebook’s AI chatbots Bob & Alice created their own language](https://analyticsindiamag.com/facebook-ai-chatbots-created-their-own-language/)
-* [Jul 2017 - YouTube: Boston Dynamics' Atlas Falls Over After Demo at the Congress of Future Scientists and Technologists](https://www.youtube.com/watch?v=TxobtWAFh8o)
-* [Jul 2017 - Royal Free - Google DeepMind trial failed to comply with data protection law](https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2017/07/royal-free-google-deepmind-trial-failed-to-comply-with-data-protection-law/)
-* [Nov 2017 - Hackers Say They've Broken Face ID a Week After iPhone X Release](https://www.wired.com/story/hackers-say-broke-face-id-security/)
-* [Nov 2017 - India’s Friendly Robot Mitra Not Only Greets VIPs On The Stage, But Also Parties Like A Rockstar](https://analyticsindiamag.com/mitra-robot-ivanka-trump-modi-ges/) (Mitra trips over Ivanka Trump/PM Modi introduction)
-* [Jan 2018 - YouTube: CES 2018: Robot refuses to co-operate with LG chief - BBC News](https://www.youtube.com/watch?v=tQMtbWwbduA)
-* [Feb 2018 - Study finds gender and skin-type bias in commercial artificial-intelligence systems](http://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212)
-* [Mar 2018 - Self-Driving Uber Car Kills Pedestrian in Arizona, Where Robots Roam](https://www.nytimes.com/2018/03/19/technology/uber-driverless-fatality.html)
-* [Mar 2018 - AI-Assisted Fake Porn Is Here and We're All F***ed](https://www.vice.com/en_us/article/bj5and/ai-assisted-fake-porn-is-here-and-were-all-fucked)
-* [Jun 2018 - Facebook sent a doctor on a secret mission to ask hospitals to share patient data](https://www.cnbc.com/2018/04/05/facebook-building-8-explored-data-sharing-agreement-with-hospitals.html)
-* [Jul 2018 - Amazon’s Face Recognition Falsely Matched 28 Members of Congress With Mugshots](https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28)
-* [Jul 2018 - IBM’s Watson supercomputer recommended ‘unsafe and incorrect’ cancer treatments, internal documents show](https://www.statnews.com/2018/07/25/ibm-watson-recommended-unsafe-incorrect-treatments/)
-* [Oct 2018 - Amazon scraps 'sexist AI' recruiting tool that showed bias against women](https://www.telegraph.co.uk/technology/2018/10/10/amazon-scraps-sexist-ai-recruiting-tool-showed-bias-against/)
-* [Nov 2018 - Facial recognition system in China mistakes bus ad for jaywalker](https://www.biometricupdate.com/201811/facial-recognition-system-in-china-mistakes-bus-ad-for-jaywalker)
-* [Dec 2018 - AI start-up that scanned babysitters halts launch following Post Report](https://www.washingtonpost.com/technology/2018/12/14/ai-start-up-that-scanned-babysitters-halts-launch-following-post-report/)
-* [Jan 2019 - Cambridge Analytica’s parent pleads guilty to breaking UK data law](https://techcrunch.com/2019/01/09/cambridge-analyticas-parent-pleads-guilty-to-breaking-uk-data-law/)
-* [Apr 2019 - Facebook Executive Testifies on AI Failure to Detect the Christchurch Mosque Shooting Video](https://fortune.com/2019/04/24/facebook-new-zealand-terrorism-artificial-intelligence-ai/)
-* [May 2019 - Investor Sues After an AI’s Automated Trades Cost Him $20 Million](https://futurism.com/investing-lawsuit-ai-trades-cost-millions)
-* [May 2019 - 
-Millions of people uploaded photos to the Ever app. Then the company used them to develop facial recognition tools.](https://www.nbcnews.com/tech/security/millions-people-uploaded-photos-ever-app-then-company-used-them-n1003371)
-* [Jun 2019 - Google and the University of Chicago Are Sued Over Data Sharing](https://www.nytimes.com/2019/06/26/technology/google-university-chicago-data-sharing-lawsuit.html)
-* [Aug 2019 - LGBTQ+ creators file lawsuit against YouTube for discrimination](https://thenextweb.com/google/2019/08/14/lgbtq-youtube-discrimination-lawsuit/)
-* [Sep 2019 - The viral selfie app ImageNet Roulette seemed fun – until it called me a racist slur](https://www.theguardian.com/technology/2019/sep/17/imagenet-roulette-asian-racist-slur-selfie)
-* [Sep 2019 - Scammer Successfully Deepfaked CEO's Voice To Fool Underling Into Transferring $243,000](https://gizmodo.com/scammer-successfully-deepfaked-ceos-voice-to-fool-under-1837835066)
-* [Oct 2019 - Oh dear... AI models used to flag hate speech online are, er, racist against black people](https://www.theregister.com/2019/10/11/ai_black_people/)
-* [Oct 2019 - Dissecting racial bias in an algorithm used to manage the health of populations](https://science.sciencemag.org/content/366/6464/447)
-* [Nov 2019 - 
-NY regulator investigating Apple Card for possible gender bias](https://www.nbcnews.com/tech/apple/ny-regulator-investigating-apple-card-possible-gender-bias-n1079581)
-* [Nov 2019 - Chinese-style facial recognition technology is trialled in Australian schools to register pupils - sparking major privacy concerns](https://www.dailymail.co.uk/news/article-7642411/Australian-schools-trial-facial-recognition-technology-attendance.html)
-* [Dec 2019 - Tenants sounded the alarm on facial recognition in their buildings. Lawmakers are listening](https://www.msn.com/en-us/news/politics/tenants-sounded-the-alarm-on-facial-recognition-in-their-buildings-lawmakers-are-listening/ar-BBYnaqB)
-* [Dec 2019 - Researchers bypass airport and payment facial recognition systems using masks](https://www.engadget.com/2019-12-16-facial-recognition-fooled-masks.html)
-* [Jan 2020 - Atlantic Plaza Towers tenants won a halt to facial recognition in their building: Now they’re calling on a moratorium on all residential use](https://medium.com/@AINowInstitute/atlantic-plaza-towers-tenants-won-a-halt-to-facial-recognition-in-their-building-now-theyre-274289a6d8eb)
-* [Jan 2020 - Trivago misled consumers about hotel room rates](https://www.accc.gov.au/media-release/trivago-misled-consumers-about-hotel-room-rates)
-* [Feb 2020 - An Indian politician is using deepfake technology to win new voters](https://www.technologyreview.com/2020/02/19/868173/an-indian-politician-is-using-deepfakes-to-try-and-win-voters/)
-* [Feb 2020 - Suckers List: How Allstate’s Secret Auto Insurance Algorithm Squeezes Big Spenders](https://themarkup.org/allstates-algorithm/2020/02/25/car-insurance-suckers-list)
-* [Feb 2020 - Tesla Autopilot gets tricked into accelerating from 35 to 85 mph with modified speed limit sign](https://electrek.co/2020/02/19/tesla-autopilot-tricked-accelerate-speed-limit-sign/)
-* [Mar 2020 - Netherlands: Court Prohibits Government’s Use of AI Software to Detect Welfare Fraud](https://www.loc.gov/law/foreign-news/article/netherlands-court-prohibits-governments-use-of-ai-software-to-detect-welfare-fraud/)
-* [Mar 2020 - The End of Starsky Robotics](https://medium.com/starsky-robotics-blog/the-end-of-starsky-robotics-acb8a6a8a5f5)
-* [Apr 2020 - Google apologizes after its Vision AI produced racist results](https://algorithmwatch.org/en/story/google-vision-racism/)
-* [Apr 2020 - Google’s medical AI was super accurate in a lab. Real life was a different story.](https://www.technologyreview.com/2020/04/27/1000658/google-medical-ai-accurate-lab-real-life-clinic-covid-diabetes-retina-disease/)
-* [May 2020 - Researchers find major demographic differences in speech recognition accuracy](https://www.biometricupdate.com/202003/researchers-find-major-demographic-differences-in-speech-recognition-accuracy)
-* [May 2020 - Access Denied: Faulty Automated Background Checks Freeze Out Renters](https://themarkup.org/locked-out/2020/05/28/access-denied-faulty-automated-background-checks-freeze-out-renters)
-* [May 2020 - A.C.L.U. Accuses Clearview AI of Privacy ‘Nightmare Scenario’](https://www.nytimes.com/2020/05/28/technology/clearview-ai-privacy-lawsuit.html)
-* [May 2020 - Walmart Employees Are Out to Show Its Anti-Theft AI Doesn't Work](https://www.wired.com/story/walmart-shoplifting-artificial-intelligence-everseen/)
-* [May 2020 - Robodebt removed humans from Human Services, and the Government is facing the consequences](https://www.abc.net.au/news/2020-05-30/robodebt-stuart-robert-scott-morrison/12303322)
-* [May 2020 - The Most Devastating Software Mistake Of All Time. Why Is the Imperial Model Under Criticism?](https://analyticsindiamag.com/the-most-devastating-software-mistake-of-all-time-why-is-the-imperial-model-under-criticism/)
-* [Jun 2020 - Government’s Use of Algorithm Serves Up False Fraud Charges](https://undark.org/2020/06/01/michigan-unemployment-fraud-algorithm/)
-* [Jun 2020 - Microsoft's robot editor confuses mixed-race Little Mix singers](https://www.theguardian.com/technology/2020/jun/09/microsofts-robot-journalist-confused-by-mixed-race-little-mix-singers)
-* [Jun 2020 - Tweet: "This algorithm probably made this mistake ..."](https://twitter.com/kareem_carr/status/1274462329653137419) (President Obama de-blurred into white male)
-* [Jun 2020 - Detroit Police Chief: Facial Recognition Software Misidentifies 96% of the Time](https://www.vice.com/en_us/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time)
-* [Jun 2020 - Wrongfully Accused by an Algorithm](https://www.nytimes.com/2020/06/24/technology/facial-recognition-arrest.html)
-* [Jun 2020 - An Algorithm that "Predicts" Criminality Based on a Face Sparks a Furor](https://www.wired.com/story/algorithm-predicts-criminality-based-face-sparks-furor/)
-* [Jun 2020 - PwC facial recognition tool criticised for home working privacy invasion](https://www.personneltoday.com/hr/pwc-facial-recognition-tool-criticised-for-home-working-privacy-invasion/)
-* [Jun 2020 - Santa Cruz becomes the first U.S. city to ban predictive policing](https://www.latimes.com/california/story/2020-06-26/santa-cruz-becomes-first-u-s-city-to-ban-predictive-policing)
-* [Jun 2020 - YouTube Sued for Race Discrimination, Profiting from Hate Speech](https://news.bloomberglaw.com/class-action/youtube-sued-for-race-discrimination-profiting-from-hate-speech)
-* [Jul 2020 - ISIS 'still evading detection on Facebook', report says](https://www.bbc.com/news/technology-53389657)
-* [Jul 2020 - Meet the Secret Algorithm That's Keeping Students Out of College](https://www.wired.com/story/algorithm-set-students-grades-altered-futures/)
-* [Jul 2020 - Rite Aid deployed facial recognition systems in hundreds of U.S. stores](https://www.reuters.com/investigates/special-report/usa-riteaid-software/)
-* [Jul 2020 - Tweet: "Oh, dear ..." (GPT-3 anti-semitism)](https://mobile.twitter.com/jsellenberg/status/1289018551806894081)
-* [Jul 2020 - Google Ad Portal Equated “Black Girls” with Porn](https://themarkup.org/google-the-giant/2020/07/23/google-advertising-keywords-black-girls)
-* [Jul 2020 - Facial biometrics training dataset leads to BIPA lawsuits against Amazon, Alphabet and Microsoft](https://www.biometricupdate.com/202007/facial-biometrics-training-dataset-leads-to-bipa-lawsuits-against-amazon-alphabet-and-microsoft)
-* [Jul 2020 - POLICE SURVEILLED GEORGE FLOYD PROTESTS WITH HELP FROM TWITTER-AFFILIATED STARTUP DATAMINR](https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/)
-* [Jul 2020 - AI-Powered ‘Genderify’ Platform Shut Down After Bias-Based Backlash](https://syncedreview.com/2020/07/30/ai-powered-genderify-platform-shut-down-after-bias-based-backlash/)
-* [Aug 2020 - Police use of facial recognition unlawfully breached privacy rights, says Court of Appeal ruling](https://news.sky.com/story/police-use-of-facial-recognition-unlawfully-breached-privacy-rights-says-court-of-appeal-ruling-12047012)
-* [Aug 2020 - There is nothing 'fair' about judging A-levels by algorithm](https://www.telegraph.co.uk/opinion/2020/08/12/nothing-fair-judging-a-levels-algorithm/)
-* [Aug 2020 - When algorithms define kids by postcode: UK exam results chaos reveal too much reliance on data analytics](https://www.zdnet.com/article/when-algorithms-define-kids-by-postcode-uk-exam-results-chaos-reveal-too-much-reliance-on-data-analytics/)
-* [Aug 2020 - Macy’s hit with privacy lawsuit over alleged use of controversial facial recognition software](https://www.chicagotribune.com/business/ct-biz-macys-lawsuit-clearview-facial-recognition-20200811-mstcyf7wufdjvbanpv6ehjtvni-story.html)
-* [Aug 2020 - Google’s Advertising Platform Is Blocking Articles About Racism](https://slate.com/technology/2020/08/googles-ad-exchange-blocking-articles-about-racism.html) 
-* [Aug 2020 - Home Office drops 'racist' algorithm from visa decisions](https://www.bbc.com/news/technology-53650758)
-* [Aug 2020 - De Blasio Will Reassess NYPD's Use Of Facial Recognition Tech After Protester Arrest](https://gothamist.com/news/de-blasio-will-reassess-nypds-use-facial-recognition-tech-after-protester-arrest)
-* [Aug 2020 - Facebook algorithm recommending Holocaust denial and fascist content, report finds](https://www.independent.co.uk/news/uk/home-news/facebook-holocaust-denial-fascist-right-wing-algorithm-report-a9673171.html)
-* [Aug 2020 - Report: AI Company Leaks Over 2.5M Medical Records](https://www.pcmag.com/news/report-ai-company-leaks-over-25m-medical-records)
-* [Aug 2020 - Watchdog investigates Barclays for spying on staff](https://www.advisen.com/tools/fpnproc/fpns/articles_new_5/P/374532561.html)
-* [Aug 2020 - PopID’s face-based payments pose privacy and security risks](https://venturebeat.com/2020/08/27/popids-face-based-payments-pose-privacy-and-security-risks/)
-* [Aug 2020 - Tinder charges older people more](https://www.choice.com.au/electronics-and-technology/internet/using-online-services/articles/tinder-plus-costs-more-if-youre-older)
-* [Aug 2020 - Uber and Lyft pricing algorithms charge more in non-white areas](https://www.newscientist.com/article/2246202-uber-and-lyft-pricing-algorithms-charge-more-in-non-white-areas/)
-* [Sep 2020 - Pasco’s sheriff uses data to guess who will commit crime. Then deputies ‘hunt down’ and harass them](https://www.tampabay.com/news/pasco/2020/09/03/pascos-sheriff-uses-data-to-guess-who-will-commit-crime-then-deputies-hunt-down-and-harass-them/)
-* [Sep 2020 - The Met Police didn’t check if facial recognition tech was racist before trialling it](https://tech.newstatesman.com/public-sector/the-met-police-didnt-check-if-facial-recognition-tech-was-racist-before-trialling-it)
-* [Sep 2020 - These students figured out their tests were graded by AI — and the easy way to cheat](https://www.theverge.com/2020/9/2/21419012/edgenuity-online-class-ai-grading-keyword-mashing-students-school-cheating-algorithm-glitch)
-* [Sep 2020 - Google says Street View maps algorithm error blurred out Hong Kong protest graffiti aimed at Xi Jinping](https://hongkongfp.com/2020/09/07/google-says-street-view-maps-algorithm-error-blurred-out-hong-kong-protest-graffiti-aimed-at-xi-jinping/)
-* [Sep 2020 - AI attempts to ease fear of robots, blurts out it can’t ‘avoid destroying humankind’](https://www.skynews.com.au/details/_6189352902001)
-* [Sep 2020 - Ola is facing a drivers’ legal challenge over data access rights and algorithmic management](https://techcrunch.com/2020/09/10/ola-is-facing-a-drivers-legal-challenge-over-data-access-rights-and-algorithmic-management/)
-* [Sep 2020 - Instagram apologizes for removing images of Black British model](https://www.thejakartapost.com/life/2020/09/12/instagram-apologizes-for-removing-images-of-black-british-model.html)
-* [Sep 2020 - Tesla owner in Canada charged with ‘sleeping’ while driving over 90 mph](https://www.theverge.com/2020/9/18/21445168/tesla-driver-sleeping-police-charged-canada-autopilot)
-* [Sep 2020 - Female historians and male nurses do not exist, Google Translate tells its European users](https://algorithmwatch.org/en/story/google-translate-gender-bias/)
-* [Sep 2020 - Twitter is looking into why its photo preview appears to favor white faces over Black faces](https://www.theverge.com/2020/9/20/21447998/twitter-photo-preview-white-black-faces)
-* [Sep 2020 - Facebook Live’s New Music Terms of Service Unfairly Impact Artists](https://news.bloomberglaw.com/ip-law/facebook-lives-new-music-terms-of-service-unfairly-impact-artists)
-* [Sep 2020 - CoreLogic’s screening algorithm may have discriminated against renters: lawsuit](https://therealdeal.com/2020/09/25/corelogics-screening-algorithm-may-have-discriminated-against-renters-lawsuit/)
-* [Sep 2020 - Gradient Photo Editing App Criticized Over 'Racist' AI Face Feature](https://screenrant.com/gradient-photo-editing-app-racist-ai-face-feature/)
-* [Sep 2020 - ExamSoft’s remote bar exam sparks privacy and facial recognition concerns](https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/)
-* [Sep 2020 - "Trustworthiness" Study Is Basically Phrenology, Annoying Scientists, Historians, Just About Everyone](https://www.iflscience.com/technology/trustworthiness-study-is-basically-phrenology-annoying-scientists-historians-just-about-everyone/)
-* [Sep 2020 - IBM faces another age-discrimination lawsuit in Austin](https://www.bizjournals.com/austin/news/2020/09/29/ibm-hit-with-another-age-discrimination-lawsuit.html)
-* [Sep 2020 - Your favorite A.I. language tool is toxic](https://fortune.com/2020/09/29/artificial-intelligence-openai-gpt3-toxic/)
-* [Sep 2020 - Catching Amazon in a lie](https://www.revealnews.org/episodes/catching-amazon-in-a-lie/)
-* [Sep 2020 - Tweet: "A faculty member has been asking how to stop Zoom from removing his head ..."](https://twitter.com/colinmadland/status/1307111818981146626) (Zoom erasing darker-skinned professor's head)
-* [Sep 2020 - Whistleblowers charge CEO of NJ firm with inflating AI capability, calling employees “dirty Indians”](https://medcitynews.com/2020/09/whistleblowers-charge-ceo-of-nj-firm-with-inflating-ai-capability-calling-employees-dirty-indians/?rf=1)
-* [Oct 2020 - Jewish Baby Stroller Image Algorithm](https://www.timebulletin.com/jewish-baby-stroller-image-algorithm/)
-* [Oct 2020 - Instagram blames GDPR for failure to tackle rampant self-harm and eating-disorder images](https://www.telegraph.co.uk/technology/2020/10/04/exclusive-instagram-blames-gdpr-failure-tackle-rampant-self/)
-* [Oct 2020 - UK passport photo checker shows bias against dark-skinned women](https://www.bbc.co.uk/news/amp/technology-54349538)
-* [Oct 2020 - States Say the Online Bar Exam Was a Success. The Test-Taker Who Peed in His Seat Disagrees](https://www.law.com/2020/10/07/states-say-the-online-bar-exam-was-a-success-the-test-taker-who-peed-in-his-seat-disagrees/)
-* [Oct 2020 - Tiny Changes Let False Claims About COVID-19, Voting Evade Facebook Fact Checks](https://www.npr.org/2020/10/09/921791419/tiny-changes-let-false-claims-about-covid-19-voting-evade-facebook-fact-checks)
-* [Oct 2020 - Leaving Cert: Why the Government deserves an F for algorithms](https://www.irishtimes.com/business/technology/leaving-cert-why-the-government-deserves-an-f-for-algorithms-1.4374801)
-* [Oct 2020 - Lawsuit alleges biometric privacy violations from face recognition algorithm training](https://www.biometricupdate.com/202010/lawsuit-alleges-biometric-privacy-violations-from-face-recognition-algorithm-training)
-* [Oct 2020 - You’re being watched: The dangers of ProctorU](http://udreview.com/youre-being-watched-the-dangers-of-proctoru/)
-* [Oct 2020 - Fake naked photos of thousands of women shared online](https://www.bbc.com/news/technology-54584127) 
-* [Oct 2020 - Researchers find evidence of racial, gender, and socioeconomic bias in chest X-ray classifiers](https://venturebeat.com/2020/10/21/researchers-find-evidence-of-racial-gender-and-socioeconomic-bias-in-chest-x-ray-classifiers/)
-* [Oct 2020 - Uber sued by drivers over ‘automated robo-firing'](https://www.bbc.com/news/business-54698858)
-* [Oct 2020 - How an Algorithm Blocked Kidney Transplants to Black Patients](https://www.wired.com/story/how-algorithm-blocked-kidney-transplants-black-patients/)
-* [Oct 2020 - Australian researchers have shown how you could become invisible to security cameras](https://www.theaustralian.com.au/business/technology/australian-researchers-at-data61-show-you-could-become-invisible-to-a-security-camera/news-story/491b70e05c8fbdd566c1b2fd30b6d427)
-* [Oct 2020 - EPIC files lawsuit to force release of ICE facial recognition documents](https://www.biometricupdate.com/202010/epic-files-lawsuit-to-force-release-of-ice-facial-recognition-documents)
-* [Oct 2020 - Researchers take a stand on algorithm design for job centers: Landing a job isn't always the right goal](https://www.sciencedaily.com/releases/2020/10/201029105001.htm)
-* [Oct 2020 - Facebook under fire for boosting right-wing news sources and throttling progressive alternatives](https://www.salon.com/2020/10/29/facebook-under-fire-for-boosting-right-wing-news-sources-and-throttling-progressive-alternatives/)
-* [Oct 2020 - AI Camera Ruins Soccer Game For Fans After Mistaking Referee's Bald Head For Ball](https://www.iflscience.com/technology/ai-camera-ruins-soccar-game-for-fans-after-mistaking-referees-bald-head-for-ball/)
-* [Oct 2020 - Researchers made an OpenAI GPT-3 medical chatbot as an experiment. It told a mock patient to kill themselves](https://www.theregister.com/2020/10/28/gpt3_medical_chatbot_experiment/)
-* [Oct 2020 - Top doctors slam Google for not backing up incredible claims of super-human cancer-spotting AI](https://www.theregister.com/2020/10/16/google_ai_research/)
-* [Nov 2020 - Researchers show that computer vision algorithms pretrained on ImageNet exhibit multiple, distressing biases](https://venturebeat.com/2020/11/03/researchers-show-that-computer-vision-algorithms-pretrained-on-imagenet-exhibit-multiple-distressing-biases/)
-* [Nov 2020 - Trivago loses appeal over misleading website algorithm ruling](https://www.zdnet.com/article/trivago-loses-appeal-over-misleading-website-algorithm-ruling/)
-* [Nov 2020 - Research finds gender bias within state funding model](https://kobi5.com/news/local-news/research-finds-gender-bias-within-state-funding-model-140286/)
-* [Nov 2020 - Split-Second 'Phantom' Images Can Fool Tesla's Autopilot](https://www.wired.com/story/tesla-model-x-autopilot-phantom-images/)
-* [Nov 2020 - Boris executes U-turn over controversial house building algorithm](https://thenegotiator.co.uk/boris-executes-u-turn-over-controversial-house-building-algorithm/)
-* [Nov 2020 - Top intel official warns of bias in military algorithms](https://www.c4isrnet.com/artificial-intelligence/2020/11/18/top-intel-official-warns-of-bias-in-military-algorithms/)
-* [Nov 2020 - Opinion: Artificial 'Intelligence': Unemployment system denied legitimate COVID-19 claims](https://www.detroitnews.com/story/opinion/2020/11/19/opinion-unemployment-system-denied-legitimate-covid-19-claims/6339115002/)
-* [Nov 2020 - LAPD ban facial recognition following alleged unauthorised use](https://iottechnews.com/news/2020/nov/19/lapd-ban-facial-recognition-unauthorised-use/)
-* [Nov 2020 - Instagram removed 80 PER CENT less graphic content about suicide during the first three months of lockdown after 'most of its moderators were sent home due to Covid rules'](https://www.dailymail.co.uk/news/article-8969151/Instagram-removed-80-CENT-graphic-content-suicide.html)
-* [Nov 2020 - 	
-Facebook's AI Mistakenly Bans Ads for Struggling Businesses](https://www.bloomberg.com/news/articles/2020-11-27/facebook-s-ai-mistakenly-bans-ads-for-struggling-businesses)
-* [Nov 2020 - A Bot Made Frank Sinatra Cover Britney Spears. YouTube Removed It Over Copyright Claims.](https://futurism.com/bot-frank-sinatra-britney-spears-youtube-copyright)
-* [Nov 2020 - Net exposure "94-year-old man was picked up for facial recognition" The bank involved apologized](https://m.news.cctv.com/2020/11/23/ARTI4quWfQGGMIdgx5jojaaj201123.shtml)
-* [Nov 2020 - Walmart Scraps Plan to Have Robots Scan Shelves](https://www.wsj.com/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341)
-* [Dec 2020 - Concern over potential gender bias in job recruitment algorithms](https://www.abc.net.au/news/2020-12-02/potential-gender-bias-in-job-recruitment-application-algorithms/12943832?nw=0)
-* [Dec 2020 - Facial Recognition Company Lied to School District About its Racist Tech](https://www.vice.com/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech)
-* [Dec 2020 - China’s Huawei tested A.I. software that could identify Uighur Muslims and alert police, report says](https://www.cnbc.com/2020/12/09/chinas-huawei-tested-ai-software-that-could-identify-uighurs-report.html)
-* [Dec 2020 - We’ve Known Brand Safety Tech Was Bad—Here’s How Bad](https://www.forbes.com/sites/augustinefou/2020/12/06/weve-known-brand-safety-tech-was-bad-this-is-how-badly-it-defunds-the-news)
-* [Dec 2020 - Hey Alexa, what's my PIN?](https://www.dailymail.co.uk/sciencetech/article-9029811/Hey-Alexa-whats-PIN-Voice-assistants-figure-taps-smartphone-keyboard.html)
-* [Dec 2020 - Waze sent commuters toward California wildfires, drivers say](https://www.usatoday.com/story/tech/news/2017/12/07/california-fires-navigation-apps-like-waze-sent-commuters-into-flames-drivers/930904001/)
-* [Dec 2020 - The Death and Life of an Admissions Algorithm](https://www.insidehighered.com/admissions/article/2020/12/14/u-texas-will-stop-using-controversial-algorithm-evaluate-phd)
-* [Dec 2020 - Algorithms searching for child abuse could be banned under new EU privacy rules](https://www.telegraph.co.uk/technology/2020/12/20/algorithms-searching-child-abuse-could-banned-new-eu-privacy/)
-* [Dec 2020 - Alibaba ‘dismayed’ by its cloud unit’s ethnicity detection algorithm](https://techcrunch.com/2020/12/17/alibaba-ethnic-minority-algorithm/)
-* [Dec 2020 - Congress wants answers from Google about Timnit Gebru’s firing](https://www.technologyreview.com/2020/12/17/1014994/congress-wants-answers-from-google-about-timnit-gebrus-firing/)
-* [Dec 2020 - California Bar Exam Flagged A THIRD Of Applicants As Cheating](https://abovethelaw.com/2020/12/california-bar-exam-flagged-a-third-of-applicants-as-cheating/?rf=1)
-* [Dec 2020 - TikTok videos that promote anorexia are misspelling common hashtags to beat the 'pro-ana' ban](https://www.insider.com/tiktok-bans-six-accounts-posting-eating-disorder-content)
-* [Dec 2020 - Facial Recognition Blamed For False Arrest And Jail Time](https://www.silicon.co.uk/e-regulation/facial-recognition-false-arrest-349782?cmpredirect)
-* [Dec 2020 - Girl, 12, is suing social media giant TikTok for alleged misuse of personal information and breaches of data protection laws](https://www.dailymail.co.uk/news/article-9100755/Girl-12-suing-TikTok-alleged-misuse-personal-information-data-protection-law-breaches.html)
-* [Dec 2020 - TikTok Deleted My Account Because I’m a Latina Trans Woman](https://www.losangelesblade.com/2020/12/15/tiktok-deleted-my-account-because-im-a-latina-trans-woman/)
-* [Dec 2020 - Shopping mall robot fell off the escalator and knocked down passengers](https://s.weibo.com/weibo?q=%23%E5%95%86%E5%9C%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8E%89%E4%B8%8B%E6%89%B6%E6%A2%AF%E6%92%9E%E5%80%92%E4%B9%98%E5%AE%A2%23&from=default)
-* [Dec 2020 - Stanford apologizes for coronavirus vaccine plan that left out many front-line doctors](https://www.washingtonpost.com/health/2020/12/18/stanford-hospital-protest-covid-vaccine/)
-* [Dec 2020 - The Christchurch Shooter and YouTube’s Radicalization Trap](https://www.wired.com/story/christchurch-shooter-youtube-radicalization-extremism/)
-* [Jan 2021 - Italian court rules against ‘discriminatory’ Deliveroo rider-ranking algorithm](https://techcrunch.com/2021/01/04/italian-court-rules-against-discriminatory-deliveroo-rider-ranking-algorithm/)
-* [Jan 2021 - A business owner who spent nearly $46 million on Facebook advertising says he's been booted from the platform without explanation](https://www.businessinsider.com/facebook-removed-shared-ceo-spent-46-million-on-ads-2021-1)
-* [Jan 2021 - FTC Orders Photo App to Delete Algorithms Built on Personal Data](https://epic.org/2021/01/ftc-orders-photo-app-to-delete.html)
-* [Jan 2021 - South Korean AI chatbot pulled from Facebook after hate speech towards minorities](https://www.theguardian.com/world/2021/jan/14/time-to-properly-socialise-hate-speech-ai-chatbot-pulled-from-facebook)
-* [Jan 2021 - Google Hit With $2B Antitrust Suit Over 'Rigging' Its Algorithm](https://www.law360.com/media/articles/1343696/google-hit-with-2b-antitrust-suit-over-rigging-its-algorithm)
-* [Jan 2021 - Judge Orders NJ Education Department To Turn Over S2 Algorithm](https://patch.com/new-jersey/brick/judge-orders-nj-education-department-turn-over-s2-algorithm)
-* [Jan 2021 - When an Israeli Farmer Declared War on an Algorithm](https://www.haaretz.com/israel-news/tech-news/.premium-when-an-israeli-farmer-declared-war-on-an-algorithm-1.9440728)
-* [Jan 2021 - Job Screening Service Halts Facial Analysis of Applicants](https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/)
-* [Jan 2021 - Use of facial recognition tech sparks privacy fears](https://www.livemint.com/technology/tech-news/use-of-facial-recognition-tech-sparks-privacy-fears-11611536778871.html)
-* [Jan 2021 - South Korea has used AI to bring a dead superstar's voice back to the stage, but ethical concerns abound](https://www.kmov.com/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_f9df111e-b879-5c9e-80c9-aec19cbedc28.html?block_id=985917)
-* [Jan 2021 - SEC Orders BlueCrest to Pay $170 Million to Harmed Fund Investors](https://www.sec.gov/news/press-release/2020-308)
-* [Jan 2021 - University of Illinois to Discontinue Remote-Testing Software After Students Complain of Privacy Violation](https://www.techtimes.com/articles/256488/20210129/university-illinois-discontinue-remote-testing-software-students-complain-privacy-violation.htm)
-* [Jan 2021 - Amazon algorithms boost vaccine misinformation, says study](https://www.iol.co.za/technology/fintech/amazon-algorithms-boost-vaccine-misinformation-says-study-dc2105b8-dc86-4392-bc55-6555fe1dc77e)
-* [Jan 2021 - Patent applications listing AI as an inventor run into legal problems](https://www.chemistryworld.com/news/patent-applications-listing-ai-as-an-inventor-run-into-legal-problems/4013138.article)
-* [Jan 2021 - BIPOC students face disadvantages with exam monitoring software at the University of Toronto](https://thestrand.ca/bipoc-students-face-disadvantages-with-exam-monitoring-software-at-the-university-of-toronto/)
-* [Jan 2021 - ‘for Some Reason I’m Covered in Blood’: Gpt-3 Contains Disturbing Bias Against Muslims](https://onezero.medium.com/for-some-reason-im-covered-in-blood-gpt-3-contains-disturbing-bias-against-muslims-693d275552bf)
-* [Feb 2021 - Utah audit of Banjo deal highlights concerns with AI, government contracts](https://www.ksl.com/article/50099679/utah-audit-of-banjo-deal-highlights-concerns-with-large-government-tech-agreements)
-* [Feb 2021 - Lingerie company Adore Me calls out TikTok for removing videos of Black, plus-size models](https://www.usatoday.com/story/tech/2021/02/05/tiktok-slammed-removing-videos-adore-me-black-plus-size-models/4402625001/)
-* [Feb 2021 - ‘Orwellian’ AI lie detector project challenged in EU court](https://techcrunch.com/2021/02/05/orwellian-ai-lie-detector-project-challenged-in-eu-court)
-* [Feb 2021 - Clearview AI’s facial recognition technology violated federal and regional laws – RCI](https://thedailyguardian.net/clearview-ais-facial-recognition-technology-violated-federal-and-regional-laws-rci/)
-* [Feb 2021 - Beverly Hills cops try to weaponize Instagram’s algorithms in failed attempt to thwart live streamers](https://thenextweb.com/neural/2021/02/09/beverly-hills-cops-try-to-weaponize-instagrams-algorithms-in-failed-attempt-to-thwart-live-streamers/)
-* [Feb 2021 - AI displays bias and inflexibility in civility detection, study finds](https://venturebeat.com/2021/02/10/ai-displays-bias-and-inflexibility-in-civility-detection-study-finds/)
-* [Feb 2021 - Why Is Facebook Rejecting These Fashion Ads?](https://www.nytimes.com/2021/02/11/style/disabled-fashion-facebook-discrimination.html)
-* [Feb 2021 - Sweden’s data watchdog slaps police for unlawful use of Clearview AI](https://techcrunch.com/2021/02/12/swedens-data-watchdog-slaps-police-for-unlawful-use-of-clearview-ai/)
-* [Feb 2021 - AI-Wielding Hackers are Here](https://www.datacenterknowledge.com/security/ai-wielding-hackers-are-here)
-* [Feb 2021 - How Google Scholar Sidelines Research in Non‑English Languages](https://theswaddle.com/how-google-scholar-sidelines-research-in-non-english-languages/)
-* [Feb 2021 - DWP uses excessive surveillance on suspected fraudsters, report finds](https://www.theguardian.com/society/2021/feb/14/dwp-excessive-surveillance-on-suspected-fraudsters-privacy-international)
-* [Feb 2021 - Canada Rules Clearview’s AI Scraping is Unlawful](https://www.hstoday.us/industry/canada-rules-clearviews-ai-scraping-is-unlawful/)
-* [Feb 2021 - INVESTIGATION: Facebook, Twitter Struggling in Fight against Balkan Content Violations](https://balkaninsight.com/2021/02/16/facebook-twitter-struggling-in-fight-against-balkan-content-violations/)
-* [Feb 2021 - Google slapped in France over misleading hotel star ratings](https://techcrunch.com/2021/02/15/google-slapped-in-france-over-misleading-hotel-star-ratings/)
-* [Feb 2021 - Colleagues of mine analyzed A.I.-based job interviews ...](https://twitter.com/hatr/status/1362129235297660929) (Tweet)
-* [Feb 2021 - YouTuber blocked for discussing 'black versus white' chess strategy](https://www.dailymail.co.uk/sciencetech/article-9279473/YouTube-algorithm-accidentally-blocked-chess-player-discussing-black-versus-white-strategy.html)
-* [Feb 2021 - Teaneck just banned facial recognition technology for police. Here's why](https://www.northjersey.com/story/news/bergen/teaneck/2021/02/25/teaneck-nj-bans-facial-recognition-usage-police-citing-bias/6802839002/)
-* [Feb 2021 - TikTok agrees to pay $92 million to settle teen privacy class-action lawsuit](https://www.zdnet.com/article/tiktok-agrees-to-pay-92-million-to-settle-teen-privacy-class-action-lawsuit/)
-* [Feb 2021 - Google fires top ethical AI expert Margaret Mitchell](https://www.zdnet.com/article/google-fires-top-ethical-ai-expert-margaret-mitchell/)
-* [Mar 2021 - UP Uses Facial Recognition Technology to Mete Out Discriminatory Treatment](https://www.theleaflet.in/up-uses-facial-recognition-technology-to-mete-out-discriminatory-treatment/#)
-* [Mar 2021 - Chatbots that resurrect the dead: legal experts weigh in on ‘disturbing’ technology](https://theconversation.com/chatbots-that-resurrect-the-dead-legal-experts-weigh-in-on-disturbing-technology-155436)
-* [Mar 2021 - “It’s all the real thing,” Tom Cruise insists, looking into the camera ...](https://twitter.com/thetimes/status/1366442334544658432)
-* [Mar 2021 - OpenAI’s state-of-the-art machine vision AI is fooled by handwritten notes](https://www.theverge.com/2021/3/8/22319173/openai-machine-vision-adversarial-typographic-attacka-clip-multimodal-neuron)
-* [Mar 2021 - Major Universities are Using Race as a “High Impact Predictor” of Student Success – The Markup
-](https://themarkup.org/news/2021/03/02/major-universities-are-using-race-as-a-high-impact-predictor-of-student-success)
-* [Mar 2021 - Instagram Suggested Posts To Users. It Served Up COVID-19 Falsehoods, Study Finds](https://www.npr.org/2021/03/09/975032249/instagram-suggested-posts-to-users-it-served-up-covid-19-falsehoods-study-finds)
-* [Mar 2021 - Tenant screening software faces national reckoning](https://www.nbcnews.com/tech/tech-news/tenant-screening-software-faces-national-reckoning-n1260975)
-* [Mar 2021 - Instagram algorithm recommends far-right parties and Covid conspiracy theories to users](https://www.thetimes.co.uk/article/instagram-algorithm-recommends-far-right-parties-and-covid-conspiracy-theories-to-users-qjthq2xtg)
-* [Mar 2021 - Google image search cements national stereotypes of 'racy' women](https://www.dw.com/en/google-image-search-cements-national-stereotypes-of-racy-women/a-56767605)
-* [Mar 2021 - Time-Out for Google](https://www.insidehighered.com/news/2021/03/09/tech-transparency-conference-suspends-google-sponsorship-over-transparency-concerns)
-* [Mar 2021 - Apple Censors URLs Containing “Asian” with Adult Filters](https://www.mcgilldaily.com/2021/03/apple-censors-urls-containing-asian-with-adult-filters/)
-* [Mar 2021 - Underpaid Workers Are Being Forced to Train Biased AI on Mechanical Turk](https://www.vice.com/en/article/88apnv/underpaid-workers-are-being-forced-to-train-biased-ai-on-mechanical-turk)
-* [Mar 2021 - New Study Reveals Coded Language Used to Fuel Anti-Semitism Online](https://thejewishvoice.com/2021/03/new-study-reveals-coded-language-used-to-fuel-anti-semitism-online/)
-* [Mar 2021 - Judge tells state to deliver records](https://www.arkansasonline.com/news/2021/mar/04/judge-tells-state-deliver-records/)
-* [Mar 2021 - Pennsylvania Woman Accused of Using Deepfake Technology to Harass Cheerleaders](https://www.nytimes.com/2021/03/14/us/raffaela-spone-victory-vipers-deepfake.html)
-* [Mar 2021 - Fears of 'digital dictatorship' as Myanmar deploys artificial intelligence](https://www.straitstimes.com/asia/se-asia/fears-of-digital-dictatorship-as-myanmar-deploys-artificial-intelligence)
-* [Mar 2021 - Amazon driver quits, saying the final straw was the company's new AI-powered truck cameras that can sense when workers yawn or don't use a seatbelt](https://news.yahoo.com/amazon-driver-quits-saying-final-164140625.html)
-* [Mar 2021 - INSTA-KID Fury over Facebook plot to make NEW Instagram for under 13s – as parents brand it ‘dangerous’](https://www.thesun.co.uk/tech/14389470/instagram-for-kids-under-13-plans/)
-* [Mar 2021 - How AI lets bigots and trolls flourish while censoring LGBTQ+ voices](https://www.mic.com/p/how-ai-lets-bigots-trolls-flourish-while-censoring-lgbtq-voices-66661864)
-* [Mar 2021 - Music recommendation algorithms are unfair to female artists, but we can change that](https://theconversation.com/music-recommendation-algorithms-are-unfair-to-female-artists-but-we-can-change-that-158016)
-* [Mar 2021 - Couriers say Uber’s ‘racist’ facial identification tech got them fired](https://www.wired.co.uk/article/uber-eats-couriers-facial-recognition)
-* [Mar 2021 - Major flaws found in machine learning for COVID-19 diagnosis](https://venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/)
-* [Mar 2021 - How a Stabbing in Israel Echoes Through the Fight Over Online Speech](https://www.nytimes.com/2021/03/24/technology/section-230-hearing-facebook.html)
-* [Apr 2021 - Researchers have found that even the best Speech recognition systems are actually biased](https://www.digitalinformationworld.com/2021/04/researchers-have-found-that-even-best.html)
-* [Apr 2021 - Research says Facebook's ad algorithm perpetuates gender bias](https://theintercept.com/2021/04/09/facebook-algorithm-gender-discrimination/) (see also [Research Outputs from Auditing for Discrimination in Job Ad Delivery](https://ant.isi.edu/datasets/addelivery/) on the USC Information Sciences Institute web site)
-* [Apr 2021 - Google AI chief Samy Bengio resigns over colleagues' firing and racial discrimination](https://www.wionews.com/technology/google-ai-chief-samy-bengio-resigns-over-colleagues-firing-and-racial-discrimination-375828)
-* [Apr 2021 - How medicine discriminates against non-white people and women](https://www.economist.com/science-and-technology/2021/04/08/how-medicine-discriminates-against-non-white-people-and-women)
-* [Apr 2021 - In scramble to respond to Covid-19, hospitals turned to models with high risk of bias](https://medcitynews.com/2021/04/in-scramble-to-respond-to-covid-19-hospitals-turned-to-models-with-high-risk-of-bias/)
-* [Apr 2021 - Home Office algorithm to detect sham marriages may contain built-in discrimination](https://www.thebureauinvestigates.com/stories/2021-04-19/home-office-algorithm-sham-marriages)
-* [Apr 2021 - Google translation AI botches legal terms 'enjoin,' 'garnish' -research](https://www.reuters.com/technology/google-translation-ai-botches-legal-terms-enjoin-garnish-research-2021-04-19/)
-* [Apr 2021 - Some FDA-approved AI medical devices are not ‘adequately’ evaluated, Stanford study says](https://venturebeat.com/2021/04/12/some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says/)
-* [Apr 2021 - Instagram apologises for mistake which targeted users with harmful diet content](https://www.harpersbazaar.com/uk/culture/culture-news/a36128394/instagram-harmful-diet-content/)
-* [Apr 2021 - Facebook, Princeton Must Face AI Data Theft Claims](https://www.law360.com/ip/articles/1375537/facebook-princeton-must-face-ai-data-theft-claims)
-* [Apr 2021 - Facebook sued for failing to remove anti-Muslim hate speech](https://www.thehindu.com/sci-tech/technology/internet/facebook-sued-for-failing-to-remove-anti-muslim-hate-speech/article34281168.ece)
-* [Apr 2021 - Post Office scandal: What the Horizon saga is all about](https://www.bbc.com/news/business-56718036)
-* [Apr 2021 - Facebook, Twitter, YouTube are pressed on ‘poisonous’ algorithms](https://www.latimes.com/business/technology/story/2021-04-27/facebook-twitter-youtube-pressed-on-poisonous-algorithms)
-* [Apr 2021 - BLACK MAN USES PASSPORT PHOTO AS EVIDENCE AI IS ‘RACIST’ IN VIRAL TIKTOK](https://www.independent.co.uk/life-style/ai-racist-robots-algorithm-tiktok-b1838521.html)
-* [Apr 2021 - Twitter allows ‘Uncle Tim’ to trend for hours after Sen. Tim Scott’s rebuttal, and then took action](https://nypost.com/2021/04/29/sen-tim-scott-attacked-as-uncle-tim-on-twitter-after-gop-rebuttal/)
-* [Apr 2021 - Suicide Risk Prediction Models Could Perpetuate Racial Disparities](https://healthitanalytics.com/news/suicide-risk-prediction-models-could-perpetuate-racial-disparities)
-* [May 2021 - Amsterdam Court orders reinstatement of Uber drivers dismissed by algorithm](https://ukhumanrightsblog.com/2021/05/18/amsterdam-court-orders-reinstatement-of-uber-drivers-dismissed-by-algorithm/)
-* [May 2021 - This facial recognition website can turn anyone into a cop — or a stalker](https://www.washingtonpost.com/technology/2021/05/14/pimeyes-facial-recognition-search-secrecy/)
-* [May 2021 - Why you should be very wary of AI that ‘processes’ college video applications](https://thenextweb.com/news/why-you-should-be-very-wary-of-ai-that-processes-college-video-applications)
-* [May 2021 - Airbnb pricing algorithm led to increased racial disparities, study finds](https://www.ft.com/content/5b1471e0-ed4a-47f5-8f3f-0a1ee7f7999c)
-* [May 2021 - Uber commits crime using algorithms](https://www.newframe.com/uber-commits-crime-using-algorithms/).
-* [May 2021 - Deepfake detectors and datasets exhibit racial and gender bias, USC study shows](https://venturebeat.com/2021/05/06/deepfake-detectors-and-datasets-exhibit-racial-and-gender-bias-usc-study-shows/)
-* [May 2021 - TikTok’s recommendation algorithm is promoting homophobia and anti-trans violence](https://www.losangelesblade.com/2021/05/18/tiktoks-recommendation-algorithm-is-promoting-homophobia-and-anti-trans-violence/)
-* [May 2021 - ‘Grassroots’ bot campaigns are coming. Governments don’t have a plan to stop them](https://www.washingtonpost.com/outlook/2021/05/20/ai-bots-grassroots-astroturf/)
-* [May 2021 - Workplace and algorithm bias kill Palestine content on Facebook and Twitter](https://www.trtworld.com/magazine/workplace-and-algorithm-bias-kill-palestine-content-on-facebook-and-twitter-46842) 
-* [May 2021 - Suit seeks to limit anti-Muslim speech on Facebook but roots of Islamophobia run far deeper](https://theconversation.com/suit-seeks-to-limit-anti-muslim-speech-on-facebook-but-roots-of-islamophobia-run-far-deeper-159418)
-* [May 2021 - AI emotion-detection software tested on Uyghurs](https://www.bbc.com/news/technology-57101248)
-* [May 2021 - An Insurance Startup Bragged It Uses AI to Detect Fraud. It Didn’t Go Well](https://www.vice.com/en/article/z3x47y/an-insurance-startup-bragged-it-uses-ai-to-detect-fraud-it-didnt-go-well)
-* [May 2021 - Google's new AI skincare tool may not work on patients with darker skin tones](https://www.euronews.com/2021/05/26/google-s-new-ai-skincare-tool-may-not-work-on-patients-with-darker-skin-tones)
-* [May 2021 - Minn. Police Use of Facial Recognition Leads to Concerns](https://www.govtech.com/public-safety/minn-police-use-of-facial-recognition-leads-to-concerns)
-* [May 2021 - Facial recognition: Legal complaints lodged against Clearview AI in five countries](https://www.computing.co.uk/news/4032109/facial-recognition-legal-complaints-lodged-clearview-ai-countries)
-* [Jun 2021 - A Military Drone With A Mind Of Its Own Was Used In Combat, U.N. Says](https://www.npr.org/2021/06/01/1002196245/a-u-n-report-suggests-libya-saw-the-first-battlefield-killing-by-an-autonomous-d)
-* [Jun 2021 - Senate Democrats Urge Google To Investigate Racial Bias In Its Tools And The Company](https://www.npr.org/2021/06/02/1002525048/senate-democrats-to-google-investigate-racial-bias-in-your-tools-and-company)
-* [Jun 2021 - McDonald’s Taking Voiceprints at Drive-Throughs Illinois BIPA Class Action](https://classactionsreporter.com/mcdonalds-taking-voiceprints-at-drive-throughs-illinois-bipa-class-action/)
-* [Jun 2021 - Legal notice to Hyderabad Police Commissioner highlights lack of lawfulness of facial recognition measures](https://www.medianama.com/2021/06/223-hyderabad-police-facial-recognition-surveillance-masood/)
-* [Jun 2021 - ATER ALERT: The Klein Law Firm Announces a Lead Plaintiff Deadline of July 12, 2021 in the Class Action Filed on Behalf of Aterian, Inc. Limited Shareholders](https://finance.yahoo.com/news/ater-alert-klein-law-firm-002300149.html)
-* [Jun 2021 - Have Google’s Algorithm Updates Broken the Web?](https://centralrecorder.com/have-googles-algorithm-updates-broken-the-web/)
-* [Jun 2021 - How Airbnb failed its own anti-discrimination team—and let racial disparities slip through the cracks](https://www.morningbrew.com/emerging-tech/stories/2021/06/15/airbnb-failed-antidiscrimination-teamand-let-racial-disparities-slip-cracks)
-* [Jun 2021 - Facial Recognition Failures Are Locking People Out of Unemployment Systems](https://www.vice.com/en/article/5dbywn/facial-recognition-failures-are-locking-people-out-of-unemployment-systems)
+# Curated Bibliographies
+## NIST Playbook Measure FullLaunch
+* Abebe, Rediet, and Kira Goldner. "Mechanism Design for Social Good." *AI Matters* 4, no. 3 (October 2018): 27--34. https://doi.org/10.1145/3284751.3284761.
+* Barocas, Solon, Anhong Guo, Ece Kamar, Jacquelyn Krones, Meredith Ringel Morris, Jennifer Wortman Vaughan, W. Duncan Wadsworth, and Hanna Wallach. "Designing Disaggregated Evaluations of AI Systems: Choices, Considerations, and Tradeoffs." *Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society*, July 2021, 368--78. https://doi.org/10.1145/3461702.3462610.
+* Barredo Arrieta, Alejandro, Natalia Díaz-Rodríguez, Javier Del Ser, Adrien Bennetot, Siham Tabik, Alberto Barbado, Salvador Garcia, et al. "Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities, and Challenges Toward Responsible AI." *Information Fusion* 58 (June 2020): 82--115. https://doi.org/10.1016/j.inffus.2019.12.012.
+* Barrett, Matthew P. "Framework for Improving Critical Infrastructure Cybersecurity Version 1.1." *National Institute of Standards and Technology (NIST)*, April 16, 2018. https://doi.org/10.6028/nist.cswp.04162018.
+* Bender, Emily M., and Batya Friedman. "Data Statements for Natural Language Processing: Toward Mitigating System Bias and Enabling Better Science." *Transactions of the Association for Computational Linguistics* 6 (2018): 587--604. https://doi.org/10.1162/tacl_a_00041.
+* Benthall, Sebastian, Seda Gürses, and Helen Nissenbaum. "Contextual Integrity through the Lens of Computer Science." *Foundations and Trends in Privacy and Security* 2, no. 1 (December 22, 2017): 1--69. https://doi.org/10.1561/3300000016.
+* Bhattacharyya, Asit, and Lorne Cummings. "Measuring Corporate Environmental Performance -* Stakeholder Engagement Evaluation." *Business Strategy and the Environment* 24, no. 5 (2013): 309--25. https://doi.org/10.1002/bse.1819.
+* Bishop, Christopher M. *Pattern Recognition and Machine Learning*. New York City, New York: Springer, 2006.
+* Boyd, Karen. "Designing Up with Value-Sensitive Design: Building a Field Guide for Ethical ML Development." *FAccT '22: 2022 ACM Conference on Fairness, Accountability, and Transparency*, June 20, 2022, 2069--82. https://doi.org/10.1145/3531146.3534626.
+* Brown, Shea, Ryan Carrier, Merve Hickok, and Adam Leon Smith. "Bias Mitigation in Data Sets." *SocArXiv*, July 8, 2021. https://doi.org/10.31235/osf.io/z8qrb.
+* Buolamwini, Joy, and Timnit Gebru. "Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification." *Proceedings of the 1st Conference on Fairness, Accountability and Transparency in PMLR* 81 (2018): 77--91. https://doi.org/https://proceedings.mlr.press/v81/buolamwini18a.html.
+* Buçinca, Zana, Phoebe Lin, Krzysztof Z. Gajos, and Elena L. Glassman. "Proxy Tasks and Subjective Measures Can Be Misleading in Evaluating Explainable AI Systems." *IUI '20: Proceedings of the 25th International Conference on Intelligent User Interfaces*, March 17, 2020, 454--64. https://doi.org/10.1145/3377325.3377498.
+* Caliskan, Aylin, Joanna J. Bryson, and Arvind Narayanan. "Semantics Derived Automatically from Language Corpora Contain Human-Like Biases." *Science* 356, no. 6334 (April 14, 2017): 183--86. https://doi.org/10.1126/science.aal4230.
+* Chouldechova, Alexandra. "Fair Prediction with Disparate Impact: A Study of Bias in Recidivism Prediction Instruments." *Big Data* 5, no. 2 (June 1, 2017): 153--63. https://doi.org/10.1089/big.2016.0047.
+* Cobbe, Jennifer, Michelle Seng Lee, and Jatinder Singh. "Reviewable Automated Decision-Making: A Framework for Accountable Algorithmic Systems." *FAccT '21: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency*, March 1, 2021, 598--609. https://doi.org/10.1145/3442188.3445921.
+* Costanza-Chock, Sasha. *Design Justice: Community-Led Practices to Build the Worlds We Need*. Cambridge: The MIT Press, 2020.
+* Davis, Janet, and Lisa P. Nathan. "Value Sensitive Design: Applications, Adaptations, and Critiques." Edited by Jeroen van den Hoven, Pieter E. Vermaas, and Ibo van de Poel. *Handbook of Ethics, Values, and Technological Design*, January 1, 2015, 11--40. https://doi.org/10.1007/978-94-007-6970-0_3.
+* Dcass, Microsoft. "Community Jury." Microsoft Learn's Azure Application Architecture Guide, 2023. https://learn.microsoft.com/en-us/azure/architecture/guide/responsible-innovation/community-jury/.
+* Dobbe, Roel, Thomas Krendl Gilbert, and Yonatan Mintz. "Hard Choices in Artificial Intelligence." *Artificial Intelligence* 300 (November 2021). https://doi.org/10.1016/j.artint.2021.103555.
+* Dwork, Cynthia. "Differential Privacy." *Automata, Languages and Programming*, 2006, 1--12. https://doi.org/10.1007/11787006_1.
+* Fairlearn. "Fairness in Machine Learning." Fairlearn 0.8.0 Documentation, n.d. https://fairlearn.org/v0.8/user_guide/fairness_in_machine_learning.html#.
+* Fazelpour, Sina, and Maria De-Arteaga. "Diversity in Sociotechnical Machine Learning Systems." *Big Data and Society* 9, no. 1 (2022). https://doi.org/10.1177/20539517221082027.
+* Fazelpour, Sina, and Zachary C. Lipton. "Algorithmic Fairness from a Non-Ideal Perspective." *AIES '20: Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society*, February 7, 2020, 57--63. https://doi.org/10.1145/3375627.3375828.
+* Franklin, Jade S., Karan Bhanot, Mohamed Ghalwash, Kristin P. Bennett, Jamie McCusker, and Deborah L. McGuinness. "An Ontology for Fairness Metrics." *AIES '22: Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society*, July 2022, 265--75. https://doi.org/10.1145/3514094.3534137.
+* Friedman, Batya, and David G. Hendry. *Value Sensitive Design: Shaping Technology with Moral Imagination*. Cambridge, MA: The MIT Press, 2019.
+* Friedman, Batya, David G. Hendry, and Alan Borning. "A Survey of Value Sensitive Design Methods." *Foundations and Trends in Human-Computer Interaction* 11, no. 2 (November 22, 2017): 63--125. https://doi.org/10.1561/1100000015.
+* Fry, Hannah. *Hello World: Being Human in the Age of Algorithms*. New York: W.W. Norton & Company, 2018.
+* Givens, Alexandra Reeve, and Meredith Ringel Morris. "Centering Disability Perspectives in Algorithmic Fairness, Accountability, & Transparency." *FAT* '20: Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency*, January 27, 2020, 684--684. https://doi.org/10.1145/3351095.3375686.
+* Google Developers. "Overview of Debugging ML Models." Google Developers Machine Learning Foundational Courses, n.d. https://developers.google.com/machine-learning/testing-debugging/common/overview.
+* Green, Ben. "Escaping the Impossibility of Fairness: From Formal to Substantive Algorithmic Fairness." *Philosophy and Technology* 35, no. 90 (October 8, 2022). https://doi.org/10.1007/s13347-022-00584-6.
+* Hall, Patrick. "Strategies for Model Debugging." Towards Data Science, November 8, 2019. https://towardsdatascience.com/strategies-for-model-debugging-aa822f1097ce.
+* Hart, Diane, Gabi Diercks-O'Brien, and Adrian Powell. "Exploring Stakeholder Engagement in Impact Evaluation Planning in Educational Development Work." *Evaluation* 15, no. 3 (2009): 285--306. https://doi.org/10.1177/1356389009105882.
+* Harvard University Privacy Tools Project. "Differential Privacy." Harvard University, n.d. https://privacytools.seas.harvard.edu/differential-privacy.
+* Hasan, Ali, Shea Brown, Jovana Davidovic, Benjamin Lange, and Mitt Regan. "Algorithmic Bias and Risk Assessments: Lessons from Practice." *Digital Society* 1 (2022). https://doi.org/10.1007/s44206-022-00017-z.
+* Hastie, Trevor, Robert Tibshirani, and Jerome Friedman. *The Elements of Statistical Learning: Data Mining, Inference, and Prediction*. 2nd ed. Springer-Verlag, 2009.
+* Hendricks, Sharief, Nailah Conrad, Tania S. Douglas, and Tinashe Mutsvangwa. "A Modified Stakeholder Participation Assessment Framework for Design Thinking in Health Innovation." *Healthcare* 6, no. 3 (September 2018): 191--96. https://doi.org/10.1016/j.hjdsi.2018.06.003.
+* Hutson, Matthew. "Measuring AI's Carbon Footprint: New Tools Track and Reduce Emissions from Machine Learning." IEEE Spectrum, November 22, 2022. https://spectrum.ieee.org/ai-carbon-footprint.
+* IBM. "IBM's Principles of Chaos Engineering." IBM, n.d. https://www.ibm.com/cloud/architecture/architecture/practices/chaos-engineering-principles/.
+* IEEE Computer Society. "Software Engineering Body of Knowledge Version 3: IEEE Computer Society." IEEE Computer Society. Accessed January 21, 2023. https://www.computer.org/education/bodies-of-knowledge/software-engineering/v3.
+* "ISO/IEC TR 24027:2021." ISO, November 2021. https://www.iso.org/standard/77607.html.
+* Jacobs, Abigail Z., and Hanna Wallach. "Measurement and Fairness." *FAccT '21: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency*, March 2021, 375--85. https://doi.org/10.1145/3442188.3445901.
+* Jo, Eun Seo, and Timnit Gebru. "Lessons from Archives: Strategies for Collecting Sociocultural Data in Machine Learning." *FAT* '20: Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency*, January 2020, 306--16. https://doi.org/10.1145/3351095.3372829.
+* Jordan, Sara R. "Designing Artificial Intelligence Review Boards: Creating Risk Metrics for Review of AI." *2019 IEEE International Symposium on Technology and Society (ISTAS)*, 2019. https://doi.org/10.1109/istas48451.2019.8937942.
+* Kay, Matthew, Cynthia Matuszek, and Sean A. Munson. "Unequal Representation and Gender Stereotypes in Image Search Results for Occupations." *CHI '15: Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems*, April 18, 2015, 3819--28. https://doi.org/10.1145/2702123.2702520.
+* Kroll, Joshua A. "Outlining Traceability: A Principle for Operationalizing Accountability in Computing Systems." *FAccT '21: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency*, March 1, 2021, 758--71. https://doi.org/10.1145/3442188.3445937.
+* Lamba, Hemank, Kit T. Rodolfa, and Rayid Ghani. "An Empirical Comparison of Bias Reduction Methods on Real-World Problems in High-Stakes Policy Settings." *ACM SIGKDD Explorations Newsletter* 23, no. 1 (May 29, 2021): 69--85. https://doi.org/10.1145/3468507.3468518.
+* Landers, Richard N., and Tara S. Behrend. "Auditing the AI Auditors: A Framework for Evaluating Fairness and Bias in High Stakes AI Predictive Models." *American Psychologist* 78, no. 1 (2023): 36--49. https://doi.org/10.1037/amp0000972.
+* Loi, Michele, and Christoph Heitz. "Is Calibration a Fairness Requirement?" *FAccT '22: 2022 ACM Conference on Fairness, Accountability, and Transparency*, June 2022, 2026--34. https://doi.org/10.1145/3531146.3533245.
+* Machanavajjhala, Ashwin, Johannes Gehrke, Daniel Kifer, and Muthuramakrishnan Venkitasubramaniam. "L-Diversity: Privacy beyond K-Anonymity." *22nd International Conference on Data Engineering (ICDE'06)*, 2006. https://doi.org/10.1109/icde.2006.1.
+* Margetis, George, Stavroula Ntoa, Margherita Antona, and Constantine Stephanidis. "Human-Centered Design of Artificial Intelligence." Essay. In *Handbook of Human Factors and Ergonomics*, edited by Gavriel Salvendy and Waldemar Karwowski, 5th ed., 1085--1106. S: John Wiley & Sons, 2021.
+* MathWorks. "Explore Fairness Metrics for Credit Scoring Model." MATLAB & Simulink, 2023. https://www.mathworks.com/help/risk/explore-fairness-metrics-for-credit-scoring-model.html.
+* McGraw, Gary, Harold Figueroa, Victor Shepardson, and Richie Bonett. "BIML Interactive Machine Learning Risk Framework." Berryville Institute of Machine Learning (BIML), 2022. https://berryvilleiml.com/interactive/.
+* Mehrabi, Ninareh, Fred Morstatter, Nripsuta Saxena, Kristina Lerman, and Aram Galstyan. "A Survey on Bias and Fairness in Machine Learning." *ACM Computing Surveys* 54, no. 6 (July 2021): 1--35. https://doi.org/10.1145/3457607.
+* Metcalf, Jacob, and Kate Crawford. "Where Are Human Subjects in Big Data Research? The Emerging Ethics Divide." *Big Data and Society* 3, no. 1 (Spring 2016). https://doi.org/10.1177/2053951716650211.
+* Microsoft Research. "AI Fairness Checklist." Microsoft, February 7, 2022. https://www.microsoft.com/en-us/research/project/ai-fairness-checklist/.
+* Mitchell, Margaret, Simone Wu, Andrew Zaldivar, Parker Barnes, Lucy Vasserman, Ben Hutchinson, Elena Spitzer, Inioluwa Deborah Raji, and Timnit Gebru. "Model Cards for Model Reporting." *FAT *19: Proceedings of the Conference on Fairness, Accountability, and Transparency*, January 2019, 220--29. https://doi.org/10.1145/3287560.3287596.
+* Mitre, Mitre Corporation. "Mitre/Advmlthreatmatrix: Adversarial Threat Landscape for AI Systems." GitHub, n.d. https://github.com/mitre/advmlthreatmatrix.
+* Moss, Emanuel, Elizabeth Watkins, Ranjit Singh, Madeleine Clare Elish, and Jacob Metcalf. "Assembling Accountability: Algorithmic Impact Assessment for the Public Interest." *SSRN*, July 8, 2021. https://doi.org/10.2139/ssrn.3877437.
+* Narayanan, Arvind. "Tl;DS * 21 Fairness Definition and Their Politics by Arvind Narayanan." Dora's world, July 19, 2019. https://shubhamjain0594.github.io/post/tlds-arvind-fairness-definitions/.
+* National Institute of Standards and Technology (NIST). "Cybersecurity Framework." NIST, 2023. https://www.nist.gov/cyberframework.
+* National Institutes of Health. "Definition of Human Subjects Research." NIH Central Resource for Grants and Funding Information, January 13, 2020. https://grants.nih.gov/policy/humansubjects/research.htm.
+* Noble, Safiya Umoja. *Algorithms of Oppression: How Search Engines Reinforce Racism*. New York, NY: New York University Press, 2018.
+* Obermeyer, Ziad, Brian Powers, Christine Vogeli, and Sendhil Mullainathan. "Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations." *Science* 366, no. 6464 (October 25, 2019): 447--53. https://doi.org/10.1126/science.aax2342.
+* Office for Human Research Protections (OHRP). "45 CFR 46." United States Department of Health and Human Services Office for Human Research Protections, March 10, 2021. https://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/index.html.
+* Passi, Samir, and Solon Barocas. "Problem Formulation and Fairness." *FAT* '19: Proceedings of the Conference on Fairness, Accountability, and Transparency*, January 2019, 39--48. https://doi.org/10.1145/3287560.3287567.
+* Patton, Jeff, Peter Economy, Martin Fowler, Alan Cooper, and Marty Cagan. *User Story Mapping: Discover the Whole Story, Build the Right Product*. O'Reilly, 2014.
+* Paulk, Mark C., Bill Curtis, Mary Beth Chrissis, and Charles V. Weber. "Capability Maturity Model, Version 1.1." *IEEE Software* 10, no. 4 (1993): 18--27. https://doi.org/10.1109/52.219617.
+* Paullada, Amandalynne, Inioluwa Deborah Raji, Emily M. Bender, Emily Denton, and Alex Hanna. "Data and Its (Dis)Contents: A Survey of Dataset Development and Use in Machine Learning Research." *Patterns* 2, no. 11 (2021): 100336. https://doi.org/10.1016/j.patter.2021.100336.
+* Piano, Luca, Fabio Garcea, Valentina Gatteschi, Fabrizio Lamberti, and Lia Morra. "Detecting Drift in Deep Learning: A Methodology Primer." *IT Professional* 24, no. 5 (2022): 53--60. https://doi.org/10.1109/mitp.2022.3191318.
+* Raji, Inioluwa Deborah, I. Elizabeth Kumar, Aaron Horowitz, and Andrew Selbst. "The Fallacy of AI Functionality." *FAccT '22: 2022 ACM Conference on Fairness, Accountability, and Transparency*, June 2022, 959--72. https://doi.org/10.1145/3531146.3533158.
+* Robinson, David G. *Voices in the Code: A Story About People, Their Values, and the Algorithm They Made*. New York: Russell Sage Foundation, 2022.
+* Saxena, Devansh, Karla Badillo-Urquiola, Pamela J. Wisniewski, and Shion Guha. "A Human-Centered Review of Algorithms Used within the U.S. Child Welfare System." *CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems*, April 23, 2020, 1--15. https://doi.org/10.1145/3313831.3376229.
+* Schiff, Daniel, Aladdin Ayesh, Laura Musikanski, and John C. Havens. "IEEE 7010: A New Standard for Assessing the Well-Being Implications of Artificial Intelligence." *2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, 2020. https://doi.org/10.1109/smc42975.2020.9283454.
+* Schmidt, Victor, Alexandra Luccioni, Alexandre Lacoste, and Thomas Dandres. "Machine Learning CO2 Impact Calculator." ML CO2 Impact, n.d. https://mlco2.github.io/impact/.
+* Schwartz, Roy, Jesse Dodge, Noah A. Smith, and Oren Etzioni. "Green AI." *Communications of the ACM* 63, no. 12 (December 2020): 54--63. https://doi.org/10.1145/3381831.
+* Selbst, Andrew D., Danah Boyd, Sorelle A. Friedler, Suresh Venkatasubramanian, and Janet Vertesi. "Fairness and Abstraction in Sociotechnical Systems." *FAT* '19: Proceedings of the Conference on Fairness, Accountability, and Transparency*, January 29, 2019, 59--68. https://doi.org/10.1145/3287560.3287598.
+* Shneiderman, Ben. *Human-Centered AI*. Oxford: Oxford University Press, 2022.
+* Shneiderman, Ben. "Human-Centered AI." *Issues in Science and Technology* 37, no. 2 (Winter 2021): 56--61. https://doi.org/https://issues.org/human-centered-ai/.
+* Shneiderman, Ben. "Tutorial: Human-Centered AI: Reliable, Safe and Trustworthy." *IUI '21 Companion: 26th International Conference on Intelligent User Interfaces * Companion*, April 14, 2021, 7--8. https://doi.org/10.1145/3397482.3453994.
+* Slack, Dylan, Sophie Hilgard, Emily Jia, Sameer Singh, and Himabindu Lakkaraju. "Fooling LIME and SHAP: Adversarial Attacks on Post Hoc Explanation Methods." *AIES '20: Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society*, February 7, 2020, 180--86. https://doi.org/10.1145/3375627.3375830.
+* Sloane, Mona, Emanuel Moss, Olaitan Awomolo, and Laura Forlano. "Participation Is Not a Design Fix for Machine Learning." *Equity and Access in Algorithms, Mechanisms, and Optimization*, October 2022. https://doi.org/10.1145/3551624.3555285.
+* "Statement on Principles for Responsible Algorithmic Systems." *Association for Computing Machinery (ACM)*, October 26, 2022. ACM Technology Policy Council. https://www.acm.org/binaries/content/assets/public-policy/final-joint-ai-statement-update.pdf.
+* Suresh, Harini, and John Guttag. "A Framework for Understanding Sources of Harm Throughout the Machine Learning Life Cycle." *Equity and Access in Algorithms, Mechanisms, and Optimization*, October 2021. https://doi.org/10.1145/3465416.3483305.
+* Sweeney, Latanya. "K-Anonymity: A Model for Protecting Privacy." *International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems* 10, no. 5 (2002): 557--70. https://doi.org/10.1142/s0218488502001648.
+* Thomas, Rachel L., and David Uminsky. "Reliance on Metrics Is a Fundamental Challenge for AI." *Patterns* 3, no. 5 (May 13, 2022): 100476. https://doi.org/10.1016/j.patter.2022.100476.
+* Thompson, Caitlin. "Who's Homeless Enough for Housing? In San Francisco, an Algorithm Decides." Coda, September 21, 2021. https://www.codastory.com/authoritarian-tech/san-francisco-homeless-algorithm/.
+* Umbrello, Steven, and Ibo van de Poel. "Mapping Value Sensitive Design onto AI for Social Good Principles." *AI and Ethics* 1, no. 3 (February 1, 2021): 283--96. https://doi.org/10.1007/s43681-021-00038-3.
+* Visengeriyeva, Larysa. "Visenger * Overview." GitHub, n.d. https://github.com/visenger.
+* Winter, Jenifer Sunrise, and Elizabeth Davidson. "Big Data Governance of Personal Health Information and Challenges to Contextual Integrity." *The Information Society: An International Journal* 35, no. 1 (2019): 36--51. https://doi.org/10.1080/01972243.2018.1542648.
+* Yang, Ke, Julia Stoyanovich, Abolfazl Asudeh, Bill Howe, HV Jagadish, and Gerome Miklau. "A Nutritional Label for Rankings." *SIGMOD '18: Proceedings of the 2018 International Conference on Management of Data*, May 27, 2018, 1773--76. https://doi.org/10.1145/3183713.3193568.
+* Zerilli, John, Alistair Knott, James Maclaurin, and Colin Gavaghan. "Algorithmic Decision-Making and the Control Problem." *Minds and Machines* 29, no. 4 (December 11, 2019): 555--78. https://doi.org/10.1007/s11023-019-09513-7. 
