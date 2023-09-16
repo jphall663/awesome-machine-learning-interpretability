@@ -101,7 +101,7 @@ This section features a selection of educational courses focused on ethical cons
 ### Glossaries and Dictionaries
 
 This section features a collection of either freely accessible or Internet Archive-accessible glossaries and dictionaries that are in any way geared toward defining terms in artificial intelligence. 
-* [The Language of Trustworthy AI: An In-Depth Glossary of Terms (NIST AIRC)) Glossary](https://airc.nist.gov/AI_RMF_Knowledge_Base/Glossary)
+* [The Language of Trustworthy AI: An In-Depth Glossary of Terms (NIST AIRC) Glossary](https://airc.nist.gov/AI_RMF_Knowledge_Base/Glossary)
 * [VAIR (Vocabulary of AI Risks)](https://delaramglp.github.io/vair/)
 
 ## Generative AI
