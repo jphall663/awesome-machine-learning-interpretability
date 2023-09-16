@@ -403,7 +403,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [NeurIPS Workshop on Ethical, Social and Governance Issues in AI](https://nips.cc/Conferences/)
 * [ICML Workshop on Fairness, Accountability, and Transparency in Machine Learning](https://icml.cc/)
 * [ACM FAccT (Fairness, Accountability, and Transparency)](https://facctconference.org/)
-  * * [FAT/ML (Fairness, Accountability, and Transparency in Machine Learning)](https://www.fatml.org/)
+  * [FAT/ML (Fairness, Accountability, and Transparency in Machine Learning)](https://www.fatml.org/)
 
 ## Additional Resources
 
@@ -412,7 +412,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [National Fair Housing Alliance Hackathon](https://nationalfairhousing.org/hackathon2023/)
 * [Twitter Algorithmic Bias](https://hackerone.com/twitter-algorithmic-bias?type=team)
 
-### Other Interpretability and Fairness Resources and Lists
+### Lists of Lists
 * [8 Principles of Responsible ML](https://ethical.institute/principles.html)
 * [ACM FAT* 2019 Youtube Playlist](https://www.youtube.com/playlist?list=PLXA0IWa3BpHk7fE8IH6wXNEfAZyr3A5Yb)
 * [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)
