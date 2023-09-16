@@ -321,8 +321,9 @@ This section curates specialized software tools aimed at fairness and explainabi
 
 ### Benchmarks
 * [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq)
-* [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
+* [HELM](https://crfm.stanford.edu/helm/latest/)
 * [OpenML Benchmarking Suites](https://www.openml.org/search?type=benchmark&study_type=task)
+* [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
 * [Winogender Schemas](https://github.com/rudinger/winogender-schemas)
 * [Real Toxicity Prompts (Allen Institute for AI)](https://allenai.org/data/real-toxicity-prompts)
 
@@ -335,6 +336,7 @@ This section curates specialized software tools aimed at fairness and explainabi
 
 * [Adult income dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
 * [All Lending Club loan data](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
+* [Amazon Open Data](https://registry.opendata.aws/amazon-reviews/)
 * [Balanced Faces in the Wild](https://ieee-dataport.org/documents/balanced-faces-wild)
 * [COMPAS Recidivism Risk Score Data and Analysis](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis)
 * [Data.gov](https://data.gov/)
@@ -343,6 +345,7 @@ This section curates specialized software tools aimed at fairness and explainabi
 * [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/)
 * [NYPD Stop, Question and Frisk Data](https://www.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page)
 * [Statlog (German Credit Data)](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
+* [UCI ML Data Repository](https://archive.ics.uci.edu/)
 * [Wikipedia Talk Labels: Personal Attacks](https://www.kaggle.com/datasets/jigsaw-team/wikipedia-talk-labels-personal-attacks)
 
 ### Auditing and Evaluation Resources
