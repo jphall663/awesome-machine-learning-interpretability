@@ -326,6 +326,9 @@ This section curates specialized software tools aimed at fairness and explainabi
 * [Real Toxicity Prompts (Allen Institute for AI)](https://allenai.org/data/real-toxicity-prompts)
 
 ### Best Practices
+* [MACHINE LEARNING QUICK REFERENCE: BEST PRACTICES](https://support.sas.com/rnd/app/data-mining/enterprise-miner/pdfs/Machine_Learning_Quick_Ref_Best_Practices.pdf)
+* [MACHINE LEARNING QUICK REFERENCE: ALGORITHMS](https://support.sas.com/rnd/app/data-mining/enterprise-miner/pdfs/Machine_Learning_Quick_Ref_Algorithms_Mar2017.pdf)
+* [H2O.ai Algorithms](https://github.com/h2oai/h2o-tutorials/blob/master/training/h2o_algos/h2o_algos_cheat_sheet_04_25_17.pdf)
   
 ### Common Datasets for Responsible AI
 
