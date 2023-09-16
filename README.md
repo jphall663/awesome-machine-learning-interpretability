@@ -321,7 +321,7 @@ This section curates specialized software tools aimed at fairness and explainabi
 ### Benchmarks
 * [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq)
 * [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
-* [OpenML Benchmarking Suites](https://openreview.net/forum?id=OCrD8ycKjG)
+* [OpenML Benchmarking Suites](https://www.openml.org/search?type=benchmark&study_type=task)
 * [Winogender Schemas](https://github.com/rudinger/winogender-schemas)
 * [Real Toxicity Prompts (Allen Institute for AI)](https://allenai.org/data/real-toxicity-prompts)
 
