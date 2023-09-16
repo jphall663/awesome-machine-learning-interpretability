@@ -335,8 +335,11 @@ This section curates specialized software tools aimed at fairness and explainabi
 
 * [Adult income dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
 * [All Lending Club loan data](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
-* [Census income classification with scikit-learn](https://shap.readthedocs.io/en/latest/example_notebooks/tabular_examples/model_agnostic/Census%20income%20classification%20with%20scikit-learn.html)
+* [Balanced Faces in the Wild](https://ieee-dataport.org/documents/balanced-faces-wild)
 * [COMPAS Recidivism Risk Score Data and Analysis](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis)
+* [Data.gov](https://data.gov/)
+* [FANNIE MAE Single Family Loan Performance](https://capitalmarkets.fanniemae.com/credit-risk-transfer/single-family-credit-risk-transfer/fannie-mae-single-family-loan-performance-data)
+* [Home Mortgage Disclosure Act (HMDA) Data](https://www.consumerfinance.gov/data-research/hmda/)
 * [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/)
 * [NYPD Stop, Question and Frisk Data](https://www.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page)
 * [Statlog (German Credit Data)](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
