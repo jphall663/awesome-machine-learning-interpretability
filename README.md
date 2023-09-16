@@ -85,7 +85,7 @@ This section contains books that are either freely downloadable or links to full
 * [Responsible Machine Learning](https://www.h2o.ai/resources/ebook/responsible-machine-learning/) (requires email for now)
 * [Trustworthy Machine Learning](http://www.trustworthymachinelearning.com/)
 
-### Classes
+### Open-ish Classes
 
 This section features a selection of educational courses focused on ethical considerations and best practices in emerging technologies like AI and machine learning. The classes range from introductory courses on data ethics to specialized training in fairness and trustworthy deep learning.
 
