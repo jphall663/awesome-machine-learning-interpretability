@@ -311,7 +311,6 @@ This section contains information related to the responsible use of generative A
 * [mlflow](https://mlflow.org/)
 * [mlmd](https://github.com/google/ml-metadata)
 * [modeldb](https://github.com/VertaAI/modeldb)
-* [whylabs](https://www.rsqrdai.org/)
 
 ### Domain-specific Software
 This section curates specialized software tools aimed at fairness and explainability within specific domains, such as in healthcare, finance, or social sciences.
