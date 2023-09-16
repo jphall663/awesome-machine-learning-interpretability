@@ -94,7 +94,7 @@ This section features a selection of educational courses focused on ethical cons
 * [Certified Ethical Emerging Technologist](https://certnexus.com/certification/ceet/)
 * [Fairness in Machine Learning](https://fairmlclass.github.io/)
 * [Fast.ai Data Ethics course](http://ethics.fast.ai/syllabus/#lesson-2-bias--fairness)
-* [Human-Center Machine Learning](http://courses.mpi-sws.org/hcml-ws18/)
+* [Human-Centered Machine Learning](http://courses.mpi-sws.org/hcml-ws18/)
 * [Introduction to Responsible Machine Learning](https://jphall663.github.io/GWU_rml/)
 * [Trustworthy Deep Learning](https://berkeley-deep-learning.github.io/cs294-131-s19/)
 
