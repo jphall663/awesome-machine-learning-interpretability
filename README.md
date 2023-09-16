@@ -422,6 +422,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Decision Points in AI Governance](https://cltc.berkeley.edu/wp-content/uploads/2020/05/Decision_Points_AI_Governance.pdf)
 * [From Principles to Practice: An interdisciplinary framework to operationalise AI ethics](https://www.ai-ethics-impact.org/resource/blob/1961130/c6db9894ee73aefa489d6249f5ee2b9f/aieig---report---download-hb-data.pdf)
 * [Google's Responsible AI Framework](https://cloud.google.com/responsible-ai)
+* [Microsoft Responsible AI Standard, v2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cmFl)
 * [MIT AI Ethics Reading Group](https://mitaiethics.github.io/)
 * [On the Responsibility of Technologists: A Prologue and Primer](https://algo-stats.info/2018/04/15/on-the-responsibility-of-technologists-a-prologue-and-primer/)
 * [Robust ML](https://www.robust-ml.org/)
