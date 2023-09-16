@@ -110,7 +110,8 @@ This section features a collection of either freely accessible or Internet Archi
 This section contains information related to the responsible use of generative AI.
 * [Andreessen Horowitz (a16z) AI Canon](https://a16z.com/ai-canon/)
 * [DAIR Prompt Engineering Guide](https://www.promptingguide.ai/)
-  * [DAIR Prompt Engineering Guide GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide)  
+  * [DAIR Prompt Engineering Guide GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide)
+* [Llama 2 Responsible Use Guide](https://ai.meta.com/llama/responsible-use-guide/) 
 * [PAI's Responsible Practices for Synthetic Media: A Framework for Collective Action (Partnership on AI)](https://syntheticmedia.partnershiponai.org/)
 
 ## Technical Resources
@@ -389,7 +390,6 @@ This section serves as a repository for policy documents, regulations, guideline
 * [General principles for the use of Artificial Intelligence in the financial sector](https://www.dnb.nl/media/jkbip2jc/general-principles-for-the-use-of-artificial-intelligence-in-the-financial-sector.pdf)
 * [Gouvernance des algorithmes d’intelligence artificielle dans le secteur financier (French)](https://acpr.banque-france.fr/sites/default/files/medias/documents/20200612_gouvernance_evaluation_ia.pdf)
 * [Innovation spotlight: Providing adverse action notices when using AI/ML models](https://www.consumerfinance.gov/about-us/blog/innovation-spotlight-providing-adverse-action-notices-when-using-ai-ml-models/)
-* [Meta AI's Responsible Use Guide](https://ai.meta.com/llama/responsible-use-guide/)
 * [Office of Management and Budget Guidance for Regulation of Artificial Intelligence Applications](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-06.pdf) (Finalized Nov. 2020)
 * [On Artificial Intelligence - A European approach to excellence and trust](https://ec.europa.eu/info/sites/info/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf)
 * [Opinion of the German Data Ethics Commission](https://www.bmjv.de/SharedDocs/Downloads/DE/Themen/Fokusthemen/Gutachten_DEK_EN.pdf?__blob=publicationFile&v=2)
