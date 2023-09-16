@@ -83,7 +83,7 @@ This section contains books that are either freely downloadable or links to full
 * [Fairness and Machine Learning](http://fairmlbook.org/)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 * [Machine Learning for High-Risk Applications: Approaches to Responsible AI](https://pages.dataiku.com/oreilly-responsible-ai)
-* [Responsible Machine Learning](https://www.h2o.ai/resources/ebook/responsible-machine-learning/) (requires email for now)
+* [Responsible Machine Learning](https://www.h2o.ai/resources/ebook/responsible-machine-learning/)
 * [Trustworthy Machine Learning](http://www.trustworthymachinelearning.com/)
 
 ### Open-ish Classes
