@@ -417,6 +417,7 @@ This section serves as a repository for policy documents, regulations, guideline
 
 ### Lists of Lists
 * [8 Principles of Responsible ML](https://ethical.institute/principles.html)
+* [A Living and Curated Collection of Explainable AI Methods](https://utwente-dmb.github.io/xai-papers/#/)
 * [ACM FAT* 2019 Youtube Playlist](https://www.youtube.com/playlist?list=PLXA0IWa3BpHk7fE8IH6wXNEfAZyr3A5Yb)
 * [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)
 * [AI Tools and Platforms](https://docs.google.com/spreadsheets/u/2/d/10pPQYmyNnYb6zshOKxBjJ704E0XUj2vJ9HCDfoZxAoA/htmlview#)
