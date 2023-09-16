@@ -28,6 +28,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 ### Evaluation and Standards
 
 * [Benchmarks](https://github.com/jphall663/awesome-machine-learning-interpretability#benchmarks)
+* [Best Practices]()
 * [Common or Useful Datasets](https://github.com/jphall663/awesome-machine-learning-interpretability#datasets-for-fairness-and-explainability)
 * [Auditing and Evaluation Resources](https://github.com/jphall663/awesome-machine-learning-interpretability#auditing-and-evaluation-resources)
 * [AI Incident Trackers](https://github.com/jphall663/awesome-machine-learning-interpretability#ai-incident-trackers)
@@ -320,6 +321,8 @@ This section curates specialized software tools aimed at fairness and explainabi
 * [OpenML Benchmarking Suites](https://openreview.net/forum?id=OCrD8ycKjG)
 * [Winogender Schemas](https://github.com/rudinger/winogender-schemas)
 * [Real Toxicity Prompts (Allen Institute for AI)](https://allenai.org/data/real-toxicity-prompts)
+
+### Best Practices
   
 ### Common Datasets for Responsible AI
 
@@ -391,8 +394,6 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Artificial Intelligence/Machine Learning (AI/ML)-Based: Software as a Medical Device (SaMD) Action Plan](https://www.fda.gov/media/145022/download) (Updated Jan. 2021)
 * [U.S. House of Representatives Resolution on AI Strategy](https://hurd.house.gov/sites/hurd.house.gov/files/HURDTX_AI%20Res.pdf)
 * [Using Artificial Intelligence and Algorithms](https://www.ftc.gov/news-events/blogs/business-blog/2020/04/using-artificial-intelligence-algorithms)
-
-### Best Practices
 
 ### Communities and Forums
 
