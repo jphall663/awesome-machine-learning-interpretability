@@ -44,7 +44,6 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 * [List-of-Lists](https://github.com/jphall663/awesome-machine-learning-interpretability#other-interpretability-and-fairness-resources-and-lists)
 
 ### Curated Bibliographies
-* [NIST Playbook_Measure_FullLaunch](https://github.com/jphall663/awesome-machine-learning-interpretability#nist-playbook-measure-fulllaunch)
 
 ## General Resources
 
@@ -458,3 +457,5 @@ This section serves as a repository for policy documents, regulations, guideline
 * [When Not to Trust Your Explanations](https://docs.google.com/presentation/d/10a0PNKwoV3a1XChzvY-T1mWudtzUIZi3sCMzVwGSYfM/edit)
 * [XAI Resources](https://github.com/pbiecek/xai_resources)
 * [You Created A Machine Learning Application Now Make Sure It's Secure](https://www.oreilly.com/ideas/you-created-a-machine-learning-application-now-make-sure-its-secure)
+
+### Curated Bibliographies
