@@ -111,7 +111,7 @@ This section contains information related to the responsible use of generative A
 * [Andreessen Horowitz (a16z) AI Canon](https://a16z.com/ai-canon/)
 * [DAIR Prompt Engineering Guide](https://www.promptingguide.ai/)
   * [DAIR Prompt Engineering Guide GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide)
-* [Llama 2 Responsible Use Guide](https://ai.meta.com/llama/responsible-use-guide/) 
+* [Llama 2 Responsible Use Guide](https://ai.meta.com/llama/responsible-use-guide/)
 * [PAI's Responsible Practices for Synthetic Media: A Framework for Collective Action (Partnership on AI)](https://syntheticmedia.partnershiponai.org/)
 
 ## Technical Resources
@@ -360,7 +360,7 @@ This section curates specialized software tools aimed at fairness and explainabi
 
 ## Community and Policy
 
-### Policy and Regulatory Frameworks
+### Official Policy, Frameworks and Guidance
 This section serves as a repository for policy documents, regulations, guidelines, and recommendations that govern the ethical and responsible use of artificial intelligence and machine learning technologies. From international legal frameworks to specific national laws, the resources cover a broad spectrum of topics such as fairness, privacy, ethics, and governance. 
 * [12 CFR Part 1002 - Equal Credit Opportunity Act (Regulation B)](https://www.consumerfinance.gov/policy-compliance/rulemaking/regulations/1002/)
 * [A Regulatory Framework for AI: Recommendations for PIPEDA Reform](https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/completed-consultations/consultation-ai/reg-fw_202011/)
@@ -381,6 +381,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Consultation on the OPC’s Proposals for ensuring appropriate regulation of artificial intelligence](https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/consultation-ai/pos_ai_202001/)
 * [Civil liability regime for artificial intelligence](https://www.europarl.europa.eu/doceo/document/TA-9-2020-0276_EN.pdf)
 * [Data Ethics Framework](https://strategy-staging.data.gov/assets/docs/data-ethics-framework-action-14-draft-2020-sep-2.pdf)
+* [De-identification Tools](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/tools)
 * [DEVELOPING FINANCIAL SECTOR RESILIENCE IN A DIGITAL WORLD: SELECTED THEMES IN TECHNOLOGY AND RELATED RISKS](https://www.osfi-bsif.gc.ca/Eng/Docs/tchrsk.pdf)
 * [Directive on Automated Decision Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
 * [Executive Order on Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government](https://www.whitehouse.gov/presidential-actions/executive-order-promoting-use-trustworthy-artificial-intelligence-federal-government/)
@@ -407,6 +408,32 @@ This section serves as a repository for policy documents, regulations, guideline
 * [U.S. House of Representatives Resolution on AI Strategy](https://hurd.house.gov/sites/hurd.house.gov/files/HURDTX_AI%20Res.pdf)
 * [Using Artificial Intelligence and Algorithms](https://www.ftc.gov/news-events/blogs/business-blog/2020/04/using-artificial-intelligence-algorithms)
 
+### Community Frameworks and Guidance 
+
+* [8 Principles of Responsible ML](https://ethical.institute/principles.html)
+* [ACM FAT* 2019 Youtube Playlist](https://www.youtube.com/playlist?list=PLXA0IWa3BpHk7fE8IH6wXNEfAZyr3A5Yb)
+* [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)
+* [AI Ethics Guidelines Global Inventory](https://algorithmwatch.org/en/project/ai-ethics-guidelines-global-inventory/)
+* [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](http://sameersingh.org/files/papers/allennlp-interpret-demo-emnlp19.pdf)
+* [BIML Interactive Machine Learning Risk Framework](https://berryvilleiml.com/interactive/)
+* [Data Feminism](https://mitpress.mit.edu/books/data-feminism)
+* [Dealing with Bias and Fairness in AI/ML/Data Science Systems](https://docs.google.com/presentation/d/17o_NzplYua5fcJFuGcy1V1-5GFAHk7oHAF4dN44NkUE)
+* [Debugging Machine Learning Models (ICLR workshop proceedings)](https://debug-ml-iclr2019.github.io/)
+* [Decision Points in AI Governance](https://cltc.berkeley.edu/wp-content/uploads/2020/05/Decision_Points_AI_Governance.pdf)
+* [From Principles to Practice: An interdisciplinary framework to operationalise AI ethics](https://www.ai-ethics-impact.org/resource/blob/1961130/c6db9894ee73aefa489d6249f5ee2b9f/aieig---report---download-hb-data.pdf)
+* [Google's Responsible AI Framework](https://cloud.google.com/responsible-ai)
+* [MIT AI Ethics Reading Group](https://mitaiethics.github.io/)
+* [On the Responsibility of Technologists: A Prologue and Primer](https://algo-stats.info/2018/04/15/on-the-responsibility-of-technologists-a-prologue-and-primer/)
+* [Robust ML](https://www.robust-ml.org/)
+* [Safe and Reliable Machine Learning](https://www.dropbox.com/s/sdu26h96bc0f4l7/FAT19-AI-Reliability-Final.pdf?dl=0)
+* [Sample AI Incident Response Checklist](https://bnh-ai.github.io/resources/)
+* [Ten Questions on AI Risk](https://fpf.org/wp-content/uploads/2020/06/Ten-Questions-on-AI-Risk-FPF.pdf)
+* [Testing and Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging)
+* [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
+* [Warning Signs: The Future of Privacy and Security in an Age of Machine Learning](https://fpf.org/wp-content/uploads/2019/09/FPF_WarningSigns_Report.pdf)
+* [When Not to Trust Your Explanations](https://docs.google.com/presentation/d/10a0PNKwoV3a1XChzvY-T1mWudtzUIZi3sCMzVwGSYfM/edit)
+* [You Created A Machine Learning Application Now Make Sure It's Secure](https://www.oreilly.com/ideas/you-created-a-machine-learning-application-now-make-sure-its-secure)
+  
 ### Communities and Forums
 
 ### Conferences and Workshops
@@ -425,51 +452,21 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Twitter Algorithmic Bias](https://hackerone.com/twitter-algorithmic-bias?type=team)
 
 ### Lists of Lists
-* [8 Principles of Responsible ML](https://ethical.institute/principles.html)
+
 * [A Living and Curated Collection of Explainable AI Methods](https://utwente-dmb.github.io/xai-papers/#/)
-* [ACM FAT* 2019 Youtube Playlist](https://www.youtube.com/playlist?list=PLXA0IWa3BpHk7fE8IH6wXNEfAZyr3A5Yb)
-* [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)
 * [AI Tools and Platforms](https://docs.google.com/spreadsheets/u/2/d/10pPQYmyNnYb6zshOKxBjJ704E0XUj2vJ9HCDfoZxAoA/htmlview#)
-* [AI Ethics Guidelines Global Inventory](https://algorithmwatch.org/en/project/ai-ethics-guidelines-global-inventory/)
-* [AI Incident Database](http://aiid.partnershiponai.org/)
-* [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](http://sameersingh.org/files/papers/allennlp-interpret-demo-emnlp19.pdf)
-* [Algorithms and prejudice](https://www.thesaturdaypaper.com.au/news/politics/2019/12/07/algorithms-and-prejudice/15756372009195)
-* [Awesome interpretable machine learning](https://github.com/lopusz/awesome-interpretable-machine-learning) ;)
+* [Awesome interpretable machine learning](https://github.com/lopusz/awesome-interpretable-machine-learning)
 * [Awesome machine learning operations](https://github.com/EthicalML/awesome-machine-learning-operations)
 * [Awful AI](https://github.com/daviddao/awful-ai)
 * [algoaware](https://www.algoaware.eu/)
-* [BIML Interactive Machine Learning Risk Framework](https://berryvilleiml.com/interactive/)
-* [Beyond Explainability: A Practical Guide to Managing Risk in Machine Learning Models](https://go.immuta.com/beyond-explainability-white-paper)
 * [criticalML](https://github.com/rockita/criticalML)
-* [Data Feminism](https://mitpress.mit.edu/books/data-feminism)
-* [Dealing with Bias and Fairness in AI/ML/Data Science Systems](https://docs.google.com/presentation/d/17o_NzplYua5fcJFuGcy1V1-5GFAHk7oHAF4dN44NkUE)
-* [Debugging Machine Learning Models (ICLR workshop proceedings)](https://debug-ml-iclr2019.github.io/)
-* [Decision Points in AI Governance](https://cltc.berkeley.edu/wp-content/uploads/2020/05/Decision_Points_AI_Governance.pdf)
-* [De-identification Tools](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/tools)
-* [Deep Insights into Explainability and Interpretability of Machine Learning Algorithms and Applications to Risk Management](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=303053)
 * [Distill](https://distill.pub)
-* [Faces in the Wild Benchmark Data](https://github.com/visionjo/facerec-bias-bfw)
 * [Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Scholarship](https://www.fatml.org/resources/relevant-scholarship)
-* [From Principles to Practice: An interdisciplinary framework to operationalise AI ethics](https://www.ai-ethics-impact.org/resource/blob/1961130/c6db9894ee73aefa489d6249f5ee2b9f/aieig---report---download-hb-data.pdf)
-* [How will the GDPR impact machine learning?](https://www.oreilly.com/radar/how-will-the-gdpr-impact-machine-learning/)
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
-* [Machine Learning: Considerations for fairly and transparently expanding access to credit](http://info.h2o.ai/rs/644-PKX-778/images/Machine%20Learning%20-%20Considerations%20for%20Fairly%20and%20Transparently%20Expanding%20Access%20to%20Credit.pdf)
-* [MIT AI Ethics Reading Group](https://mitaiethics.github.io/)
-* [On the Responsibility of Technologists: A Prologue and Primer](https://algo-stats.info/2018/04/15/on-the-responsibility-of-technologists-a-prologue-and-primer/)
 * [private-ai-resources](https://github.com/OpenMined/private-ai-resources)
-* [Problems with Shapley-value-based explanations as feature importance measures](https://arxiv.org/pdf/2002.11097v1.pdf)
-* [Real-World Model Debugging Strategies](https://medium.com/@jphall_22520/strategies-for-model-debugging-aa822f1097ce)
 * [ResponsibleAI](https://romanlutz.github.io/ResponsibleAI/)
-* [Robust ML](https://www.robust-ml.org/)
-* [Safe and Reliable Machine Learning](https://www.dropbox.com/s/sdu26h96bc0f4l7/FAT19-AI-Reliability-Final.pdf?dl=0)
-* [Sample AI Incident Response Checklist](https://bnh-ai.github.io/resources/)
-* [Ten Questions on AI Risk](https://fpf.org/wp-content/uploads/2020/06/Ten-Questions-on-AI-Risk-FPF.pdf)
-* [Testing and Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging)
-* [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
-* [Warning Signs: The Future of Privacy and Security in an Age of Machine Learning](https://fpf.org/wp-content/uploads/2019/09/FPF_WarningSigns_Report.pdf)
-* [When Not to Trust Your Explanations](https://docs.google.com/presentation/d/10a0PNKwoV3a1XChzvY-T1mWudtzUIZi3sCMzVwGSYfM/edit)
 * [XAI Resources](https://github.com/pbiecek/xai_resources)
-* [You Created A Machine Learning Application Now Make Sure It's Secure](https://www.oreilly.com/ideas/you-created-a-machine-learning-application-now-make-sure-its-secure)
+
 
 ### Curated Bibliographies
