@@ -398,11 +398,12 @@ This section serves as a repository for policy documents, regulations, guideline
 ### Communities and Forums
 
 ### Conferences and Workshops
-* [FAT/ML (Fairness, Accountability, and Transparency in Machine Learning)](https://www.fatml.org/)
+
 * [AIES (AAAI/ACM Conference on AI, Ethics, and Society)](https://www.aies-conference.com/)
 * [NeurIPS Workshop on Ethical, Social and Governance Issues in AI](https://nips.cc/Conferences/)
 * [ICML Workshop on Fairness, Accountability, and Transparency in Machine Learning](https://icml.cc/)
 * [ACM FAccT (Fairness, Accountability, and Transparency)](https://facctconference.org/)
+  * * [FAT/ML (Fairness, Accountability, and Transparency in Machine Learning)](https://www.fatml.org/)
 
 ## Additional Resources
 
