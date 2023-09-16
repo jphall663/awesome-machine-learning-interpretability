@@ -17,7 +17,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
 
 ### Technical Resources
 
-* [Responsible AI Software Packages](https://github.com/jphall663/awesome-machine-learning-interpretability#responsible-ai-software-packages)
+* [Open Source/Access Responsible AI Software Packages](https://github.com/jphall663/awesome-machine-learning-interpretability#responsible-ai-software-packages)
   * [Browser](https://github.com/jphall663/awesome-machine-learning-interpretability#browser)
   * [C/C++](https://github.com/jphall663/awesome-machine-learning-interpretability#cc)
   * [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python)
@@ -112,7 +112,7 @@ This section contains information related to the responsible use of generative A
 
 ## Technical Resources
 
-### Responsible AI Software Packages
+### Open Source/Access Responsible AI Software Packages
 
 #### Browser
 
