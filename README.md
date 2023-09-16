@@ -73,7 +73,7 @@ This section is a curated collection of guides and tutorials that simplify respo
 * [Visualizing and debugging deep convolutional networks](https://rohitghosh.github.io/2018/01/05/visualising-debugging-deep-neural-networks/)
 * [What does a CNN see?](https://colab.research.google.com/drive/1xM6UZ9OdpGDnHBljZ0RglHV_kBrZ4e-9)
 
-### Books
+### Free-ish Books
 
 This section contains books that are either freely downloadable or links to full Internet Archive scans of books that can be borrowed with a free account.
 
