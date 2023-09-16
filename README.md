@@ -23,6 +23,7 @@ If you want to contribute to this list (*and please do!*) read over the [contrib
   * [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python)
   * [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r) 
 * [Machine Learning Environment Management Tools](https://github.com/jphall663/awesome-machine-learning-interpretability#machine-learning-environment-management-tools)
+* [Domain-specific Software]()
 
 ### Evaluation and Standards
 
@@ -308,7 +309,7 @@ This section contains information related to the responsible use of generative A
 * [modeldb](https://github.com/VertaAI/modeldb)
 * [whylabs](https://www.rsqrdai.org/)
 
-### Software for Domain-specific Fairness/Explainability
+### Domain-specific Software
 This section curates specialized software tools aimed at fairness and explainability within specific domains, such as in healthcare, finance, or social sciences.
 
 ## Evaluation and Standards
