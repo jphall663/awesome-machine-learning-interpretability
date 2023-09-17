@@ -29,7 +29,7 @@ If something you contributed or found here is missing after our September 2023 r
 
 * **Miscellaneous Resources**
   * [Challenges and Competitions](https://github.com/jphall663/awesome-machine-learning-interpretability#challenges-and-competitions)
-  * [Curated Bibliogrpahies (WIP - please contribute !)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#curated-bibliogrpahies-wip---please-contribute-)
+  * [Curated Bibliogrpahies (WIP - please contribute !)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#curated-bibliographies-wip---please-contribute-)
   * [Generative AI Responsible Use Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#generative-ai-responsible-use-guidance)
   * [List-of-Lists](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#lists-of-lists)
 
@@ -259,7 +259,7 @@ This section contains challenges and competitions related to responsible ML.
 * [National Fair Housing Alliance Hackathon](https://nationalfairhousing.org/hackathon2023/)
 * [Twitter Algorithmic Bias](https://hackerone.com/twitter-algorithmic-bias?type=team)
 
-### Curated Bibliogrpahies (WIP - please contribute !)
+### Curated Bibliographies (WIP - please contribute !)
 
 We are seeking curated bibliographies related to responsible ML. 
 
