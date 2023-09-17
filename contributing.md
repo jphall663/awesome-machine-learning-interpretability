@@ -13,6 +13,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 * Search previous list entries before making a new one, as yours may be a duplicate.
 * Make sure the entry is useful before submitting. (That implies it is easily accessible, currently useful as software or a reference, and has undergone some type of professional review.)
+* Categories should have 10s - 100s of entries, not thousands. We track some papers in our [library](library.md), but are not necessarily seeking paper or preprint contributions at this time. (That's what arXiv is for, right?) 
 * Make an individual pull request for each added entry.
 * Add the new entry in alphabetical order in the appropriate category.
 * Use [title-casing](http://titlecase.com) (AP style).
