@@ -9,11 +9,12 @@ If you want to contribute to this list (*and please do!*), read over the [contri
 
 ### General Resources
 * [Comprehensive Software Examples and Tutorials](https://github.com/jphall663/awesome-machine-learning-interpretability#comprehensive-software-examples-and-tutorials)
-* [Free-ish Books](https://github.com/jphall663/awesome-machine-learning-interpretability#books)
-* [Open-ish Classes](https://github.com/jphall663/awesome-machine-learning-interpretability#classes)
+* [Free-ish Books](https://github.com/jphall663/awesome-machine-learning-interpretability#free-ish-books)
+* [Open-ish Classes](https://github.com/jphall663/awesome-machine-learning-interpretability#open-ish-classes)
 * [Glossaries and Dictionaries](https://github.com/jphall663/awesome-machine-learning-interpretability#glossaries-and-dictionaries)
   
 ### Generative AI
+* [Responsible Use Guidance]()
 
 ### Technical Resources
 
@@ -106,6 +107,7 @@ This section features a collection of either freely accessible or Internet Archi
 
 ## Generative AI
 
+### Responsible Use Guidance
 This section contains information related to the responsible use of generative AI.
 * [Andreessen Horowitz (a16z) AI Canon](https://a16z.com/ai-canon/)
 * [DAIR Prompt Engineering Guide](https://www.promptingguide.ai/)
