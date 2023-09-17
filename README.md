@@ -19,7 +19,7 @@ If some you posted or found here is missing after our September 2023 redeux, ple
   * [Auditing and Evaluation Resources (WIP - please contribute!)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#auditing-and-evaluation-resources-wip---please-contribute)
   * [Benchmarks](https://github.com/jphall663/awesome-machine-learning-interpretability#benchmarks)
   * [Best Practices](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#best-practices)
-  * [Common or Useful Datasets](https://github.com/jphall663/awesome-machine-learning-interpretability#datasets-for-fairness-and-explainability)
+  * [Common or Useful Datasets](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#common-or-useful-datasets)
 
 * **General Resources**
   * [Comprehensive Software Examples and Tutorials](https://github.com/jphall663/awesome-machine-learning-interpretability#comprehensive-software-examples-and-tutorials)
