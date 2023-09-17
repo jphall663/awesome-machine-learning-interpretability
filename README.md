@@ -52,7 +52,6 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)
 * [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](http://sameersingh.org/files/papers/allennlp-interpret-demo-emnlp19.pdf)
 * [BIML Interactive Machine Learning Risk Framework](https://berryvilleiml.com/interactive/)
-* [Data Feminism](https://mitpress.mit.edu/books/data-feminism)
 * [Dealing with Bias and Fairness in AI/ML/Data Science Systems](https://docs.google.com/presentation/d/17o_NzplYua5fcJFuGcy1V1-5GFAHk7oHAF4dN44NkUE)
 * [Debugging Machine Learning Models (ICLR workshop proceedings)](https://debug-ml-iclr2019.github.io/)
 * [Decision Points in AI Governance](https://cltc.berkeley.edu/wp-content/uploads/2020/05/Decision_Points_AI_Governance.pdf)
