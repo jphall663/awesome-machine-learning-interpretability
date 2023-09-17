@@ -10,15 +10,15 @@ If some you posted or found here is missing after our September 2023 redeux, ple
 ## Contents
 
 * **Community and Policy**
-  * [Community Frameworks and Guidance]()
-  * [Conferences and Workshops]()
-  * [Official Policy, Frameworks and Guidance]()
+  * [Community Frameworks and Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#community-frameworks-and-guidance)
+  * [Conferences and Workshops](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#conferences-and-workshops)
+  * [Official Policy, Frameworks and Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#official-policy-frameworks-and-guidance)
     
 * **Evaluation and Standards**
-  * [AI Incident Trackers](https://github.com/jphall663/awesome-machine-learning-interpretability#ai-incident-trackers)
-  * [Auditing and Evaluation Resources (WIP - please contribute!)]()
+  * [AI Incident Trackers](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#ai-incident-trackers)
+  * [Auditing and Evaluation Resources (WIP - please contribute!)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#auditing-and-evaluation-resources-wip---please-contribute)
   * [Benchmarks](https://github.com/jphall663/awesome-machine-learning-interpretability#benchmarks)
-  * [Best Practices]()
+  * [Best Practices](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#best-practices)
   * [Common or Useful Datasets](https://github.com/jphall663/awesome-machine-learning-interpretability#datasets-for-fairness-and-explainability)
 
 * **General Resources**
@@ -29,12 +29,12 @@ If some you posted or found here is missing after our September 2023 redeux, ple
 
 * **Miscellaneous Resources**
   * [Challenges and Competitions](https://github.com/jphall663/awesome-machine-learning-interpretability#challenges-and-competitions)
-  * [Curated Bibliogrpahies (WIP - please contribute !)]()
-  * [Generative AI Responsible Use Guidance]()
-  * [List-of-Lists](https://github.com/jphall663/awesome-machine-learning-interpretability#other-interpretability-and-fairness-resources-and-lists)
+  * [Curated Bibliogrpahies (WIP - please contribute !)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#curated-bibliogrpahies-wip---please-contribute-)
+  * [Generative AI Responsible Use Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#generative-ai-responsible-use-guidance)
+  * [List-of-Lists]([https://github.com/jphall663/awesome-machine-learning-interpretability#other-interpretability-and-fairness-resources-and-lists)
 
 * **Technical Resources**
-* [Domain-specific Software (WIP - please contribute !)]
+* [Domain-specific Software (WIP - please contribute !)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#domain-specific-software-wip---please-contribute-)
 * [Machine Learning Environment Management Tools](https://github.com/jphall663/awesome-machine-learning-interpretability#machine-learning-environment-management-tools)
 * [Open Source/Access Responsible AI Software Packages](https://github.com/jphall663/awesome-machine-learning-interpretability#responsible-ai-software-packages)
   * [Browser](https://github.com/jphall663/awesome-machine-learning-interpretability#browser)
