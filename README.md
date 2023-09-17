@@ -3,7 +3,7 @@
 
 An ongoing, curated list of practical and awesome responsible machine learning resources.
 
-If you want to contribute to this list (*and please do!*), read over the [contribution guidelines](contributing.md), send a [pull request](https://github.com/jphall663/awesome-machine-learning-interpretability/compare), or file an [issue](https://github.com/jphall663/awesome-machine-learning-interpretability/issues/new). Categories should have 10s - 100s of entries, not thousands. We track some papers in our [library](library.md), but are not necessarily seeking paper or preprint contributions at this time. (That's what arXiv is for.) 
+If you want to contribute to this list (*and please do!*), read over the [contribution guidelines](contributing.md), send a [pull request](https://github.com/jphall663/awesome-machine-learning-interpretability/compare), or file an [issue](https://github.com/jphall663/awesome-machine-learning-interpretability/issues/new). 
 
 ## Table of Contents
 
