@@ -121,7 +121,6 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Singapore Personal Data Protection Commission (PDPC) Model Artificial Intelligence Governance Framework](https://www.pdpc.gov.sg/Help-and-Resources/2020/01/Model-AI-Governance-Framework)
 * [SUPERVISORY GUIDANCE ON MODEL RISK MANAGEMENT](https://www.federalreserve.gov/supervisionreg/srletters/sr1107a1.pdf)
 * [Artificial Intelligence/Machine Learning (AI/ML)-Based: Software as a Medical Device (SaMD) Action Plan](https://www.fda.gov/media/145022/download) (Updated Jan. 2021)
-* [U.S. House of Representatives Resolution on AI Strategy](https://hurd.house.gov/sites/hurd.house.gov/files/HURDTX_AI%20Res.pdf)
 * [Using Artificial Intelligence and Algorithms](https://www.ftc.gov/news-events/blogs/business-blog/2020/04/using-artificial-intelligence-algorithms)
 
 ## Evaluation and Standards
