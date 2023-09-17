@@ -49,7 +49,6 @@ If something you contributed or found here is missing after our September 2023 r
 This section is for responsible ML guidance put forward by organizations or individuals, not for official government guidance.
 
 * [8 Principles of Responsible ML](https://ethical.institute/principles.html)
-* [ACM FAT* 2019 Youtube Playlist](https://www.youtube.com/playlist?list=PLXA0IWa3BpHk7fE8IH6wXNEfAZyr3A5Yb)
 * [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)
 * [AI Ethics Guidelines Global Inventory](https://algorithmwatch.org/en/project/ai-ethics-guidelines-global-inventory/)
 * [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](http://sameersingh.org/files/papers/allennlp-interpret-demo-emnlp19.pdf)
