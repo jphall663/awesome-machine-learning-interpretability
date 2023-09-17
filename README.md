@@ -50,7 +50,6 @@ This section is for responsible ML guidance put forward by organizations or indi
 
 * [8 Principles of Responsible ML](https://ethical.institute/principles.html)
 * [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)
-* [AI Ethics Guidelines Global Inventory](https://algorithmwatch.org/en/project/ai-ethics-guidelines-global-inventory/)
 * [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](http://sameersingh.org/files/papers/allennlp-interpret-demo-emnlp19.pdf)
 * [BIML Interactive Machine Learning Risk Framework](https://berryvilleiml.com/interactive/)
 * [Data Feminism](https://mitpress.mit.edu/books/data-feminism)
@@ -268,6 +267,7 @@ This section contains information related to the responsible use of generative A
 This section links to other lists of responsible ML or related resources.
 
 * [A Living and Curated Collection of Explainable AI Methods](https://utwente-dmb.github.io/xai-papers/#/)
+* [AI Ethics Guidelines Global Inventory](https://algorithmwatch.org/en/project/ai-ethics-guidelines-global-inventory/)
 * [AI Tools and Platforms](https://docs.google.com/spreadsheets/u/2/d/10pPQYmyNnYb6zshOKxBjJ704E0XUj2vJ9HCDfoZxAoA/htmlview#)
 * [Awesome interpretable machine learning](https://github.com/lopusz/awesome-interpretable-machine-learning)
 * [Awesome machine learning operations](https://github.com/EthicalML/awesome-machine-learning-operations)
