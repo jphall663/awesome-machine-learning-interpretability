@@ -36,7 +36,6 @@ If you want to contribute to this list (*and please do!*), read over the [contri
 ### Community and Policy
 
 * [Policy and Regulatory Frameworks](https://github.com/jphall663/awesome-machine-learning-interpretability#policy-and-regulatory-frameworks)
-* [Best Practices](https://github.com/jphall663/awesome-machine-learning-interpretability#best-practices)
 * [Communities and Forums](https://github.com/jphall663/awesome-machine-learning-interpretability#communities-and-forums)
 
 ### Additional Resources
