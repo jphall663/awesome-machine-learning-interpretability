@@ -36,7 +36,7 @@ If some you posted or found here is missing after our September 2023 redeux, ple
 * **Technical Resources**
   * [Domain-specific Software (WIP - please contribute !)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#domain-specific-software-wip---please-contribute-)
   * [Machine Learning Environment Management Tools](https://github.com/jphall663/awesome-machine-learning-interpretability#machine-learning-environment-management-tools)
-  * [Open Source/Access Responsible AI Software Packages](https://github.com/jphall663/awesome-machine-learning-interpretability#responsible-ai-software-packages)
+  * [Open Source/Access Responsible AI Software Packages](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#open-sourceaccess-responsible-ai-software-packages)
     * [Browser](https://github.com/jphall663/awesome-machine-learning-interpretability#browser)
     * [C/C++](https://github.com/jphall663/awesome-machine-learning-interpretability#cc)
     * [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python)
