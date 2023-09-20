@@ -11,7 +11,7 @@ If something you contributed or found here is missing after our September 2023 r
 
 * **Community and Policy**
   * [Community Frameworks and Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#community-frameworks-and-guidance)
-  * [Conferences and Workshops](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#conferences-and-workshops)
+  * [Conferences and Workshops (WIP - please contribute!)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#conferences-and-workshops-wip---please-contribute)
   * [Official Policy, Frameworks and Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#official-policy-frameworks-and-guidance)
     
 * **Evaluation and Standards**
@@ -66,7 +66,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [When Not to Trust Your Explanations](https://docs.google.com/presentation/d/10a0PNKwoV3a1XChzvY-T1mWudtzUIZi3sCMzVwGSYfM/edit)
 * [You Created A Machine Learning Application Now Make Sure It's Secure](https://www.oreilly.com/ideas/you-created-a-machine-learning-application-now-make-sure-its-secure)
 
-### Conferences and Workshops
+### Conferences and Workshops (WIP - please contribute!)
 
 This section is for conferences, workshops and other major events related to responsible ML.
 
