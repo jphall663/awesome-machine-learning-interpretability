@@ -28,7 +28,7 @@ If something you contributed or found here is missing after our September 2023 r
   * [Open-ish Classes](https://github.com/jphall663/awesome-machine-learning-interpretability#open-ish-classes)
 
 * **Miscellaneous Resources**
-  * [Challenges and Competitions](https://github.com/jphall663/awesome-machine-learning-interpretability#challenges-and-competitions)
+  * [Challenges and Competitions (WIP - please contribute!)](https://github.com/jphall663/awesome-machine-learning-interpretability#challenges-and-competitions-wip---please-contribute)
   * [Curated Bibliographies (WIP - please contribute !)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#curated-bibliographies-wip---please-contribute-)
   * [Generative AI Responsible Use Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#generative-ai-responsible-use-guidance)
   * [List-of-Lists](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#lists-of-lists)
@@ -240,7 +240,7 @@ This section features a selection of educational courses focused on ethical cons
 
 ## Miscellaneous Resources
 
-### Challenges and Competitions
+### Challenges and Competitions (WIP - please contribute!)
 
 This section contains challenges and competitions related to responsible ML. 
 
