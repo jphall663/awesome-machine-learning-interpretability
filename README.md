@@ -18,7 +18,7 @@ If something you contributed or found here is missing after our September 2023 r
   * [AI Incident Trackers](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#ai-incident-trackers)
   * [Auditing and Evaluation Resources (WIP - please contribute!)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#auditing-and-evaluation-resources-wip---please-contribute)
   * [Benchmarks](https://github.com/jphall663/awesome-machine-learning-interpretability#benchmarks)
-  * [Best Practices](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#best-practices)
+  * [Best Practices (WIP - please contribute!)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#best-practices-wip---please-contribute)
   * [Common or Useful Datasets](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#common-or-useful-datasets)
 
 * **General Resources**
@@ -149,7 +149,7 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 * [Winogender Schemas](https://github.com/rudinger/winogender-schemas)
 * [Real Toxicity Prompts (Allen Institute for AI)](https://allenai.org/data/real-toxicity-prompts)
 
-### Best Practices
+### Best Practices (WIP - please contribute!)
 
 This section contains best practice guidance for ML practitioners.
 
