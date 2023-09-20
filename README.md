@@ -95,6 +95,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Booker Wyden Health Care Letters](https://www.scribd.com/document/437954989/Booker-Wyden-Health-Care-Letters#download)
 * [California Consumer Privacy Act (CCPA)](https://oag.ca.gov/privacy/ccpa)
 * [California Privacy Rights Act (CPRA)](https://www.oag.ca.gov/system/files/initiatives/pdfs/19-0021A1%20%28Consumer%20Privacy%20-%20Version%203%29_1.pdf)
+* [Can’t lose what you never had: Claims about digital ownership and creation in the age of generative AI](https://www.ftc.gov/business-guidance/blog/2023/08/cant-lose-what-you-never-had-claims-about-digital-ownership-creation-age-generative-ai)
 * [Civil liability regime for artificial intelligence](https://www.europarl.europa.eu/doceo/document/TA-9-2020-0276_EN.pdf)
 * [De-identification Tools](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/tools)
 * [DEVELOPING FINANCIAL SECTOR RESILIENCE IN A DIGITAL WORLD: SELECTED THEMES IN TECHNOLOGY AND RELATED RISKS](https://www.osfi-bsif.gc.ca/Eng/Docs/tchrsk.pdf)
