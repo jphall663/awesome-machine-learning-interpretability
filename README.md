@@ -141,6 +141,7 @@ We are seeking contributions related to auditing and evaluating ML systems for t
 
 This section contains benchmarks or datasets used for benchmarks for ML systems, particularly those related to responsible ML desiderata.
 
+* [benchm-ml](https://github.com/szilard/benchm-ml)
 * [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq)
 * [HELM](https://crfm.stanford.edu/helm/latest/)
 * [OpenML Benchmarking Suites](https://www.openml.org/search?type=benchmark&study_type=task)
