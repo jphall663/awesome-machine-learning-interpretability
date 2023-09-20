@@ -163,7 +163,7 @@ This section contains best practice guidance for ML practitioners.
 This section contains datasets that are commonly used in responsible ML evaulations or repositories of interesting/important data sources:
 
 * [Adult income dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
-* [Balanced Faces in the Wild](https://ieee-dataport.org/documents/balanced-faces-wild)
+* [Balanced Faces in the Wild](https://github.com/visionjo/facerec-bias-bfw)
 * [COMPAS Recidivism Risk Score Data and Analysis](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis)
 * Data Repositories:
   * [All Lending Club loan data](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
