@@ -252,6 +252,12 @@ This section contains challenges and competitions related to responsible ML.
 
 We are seeking curated bibliographies related to responsible ML. 
 
+#### BibTeX:
+
+* [_Proposed Guidelines for Responsible Use of Explainable Machine Learning_(presentation, bibliography)](https://github.com/jphall663/kdd_2019/blob/master/bibliography.bib)
+* [_Proposed Guidelines for Responsible Use of Explainable Machine Learning_(paper, bibliography)](https://github.com/jphall663/responsible_xai/blob/master/responsible_xai.bib)
+* [_A Responsible Machine Learning Workflow_(paper, bibliography)](https://github.com/h2oai/article-information-2019/blob/master/back_up/article-information-2019.bib.bak)
+
 ### Generative AI Responsible Use Guidance
 
 This section contains information related to the responsible use of generative AI.
