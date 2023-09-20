@@ -132,6 +132,7 @@ This section is for repositories of information related to AI incidents and vuln
 ### Auditing and Evaluation Resources (WIP - please contribute!)
 
 We are seeking contributions related to auditing and evaluating ML systems for this section. 
+* [Independent Audit of AI Systems](https://forhumanity.center/independent-audit-of-ai-systems/)
 * [Real-World Strategies for Model Debugging](https://towardsdatascience.com/strategies-for-model-debugging-aa822f1097ce)
 * [Testing and Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging)
 
