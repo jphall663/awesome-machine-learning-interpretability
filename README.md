@@ -31,7 +31,7 @@ If something you contributed or found here is missing after our September 2023 r
   * [Challenges and Competitions (WIP - please contribute!)](https://github.com/jphall663/awesome-machine-learning-interpretability#challenges-and-competitions-wip---please-contribute)
   * [Curated Bibliographies (WIP - please contribute !)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#curated-bibliographies-wip---please-contribute-)
   * [Generative AI Responsible Use Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#generative-ai-responsible-use-guidance)
-  * [List-of-Lists](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#lists-of-lists)
+  * [List-of-Lists](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#list-of-lists)
 
 * **Technical Resources**
   * [Domain-specific Software (WIP - please contribute !)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#domain-specific-software-wip---please-contribute-)
@@ -280,12 +280,13 @@ This section contains information related to the responsible use of generative A
 * [Llama 2 Responsible Use Guide](https://ai.meta.com/llama/responsible-use-guide/)
 * [PAI's Responsible Practices for Synthetic Media: A Framework for Collective Action (Partnership on AI)](https://syntheticmedia.partnershiponai.org/)
 
-### Lists of Lists
+### List of Lists
 
 This section links to other lists of responsible ML or related resources.
 
 * [A Living and Curated Collection of Explainable AI Methods](https://utwente-dmb.github.io/xai-papers/#/)
 * [AI Ethics Guidelines Global Inventory](https://algorithmwatch.org/en/project/ai-ethics-guidelines-global-inventory/)
+* [AI Ethics Resources](https://www.fast.ai/posts/2018-09-24-ai-ethics-resources.html)
 * [AI Tools and Platforms](https://docs.google.com/spreadsheets/u/2/d/10pPQYmyNnYb6zshOKxBjJ704E0XUj2vJ9HCDfoZxAoA/htmlview#)
 * [Awesome interpretable machine learning](https://github.com/lopusz/awesome-interpretable-machine-learning)
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops)
