@@ -296,7 +296,7 @@ This section links to other lists of responsible ML or related resources.
 * [Distill](https://distill.pub)
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
-* [OECD-NIST Catalogue of AI Tools and Metrics](https://oecd.ai/en/)
+* [OECD-NIST Catalogue of AI Tools and Metrics](https://oecd.ai/en/catalogue/overview)
 * [private-ai-resources](https://github.com/OpenMined/private-ai-resources)
 * [ResponsibleAI](https://romanlutz.github.io/ResponsibleAI/)
 * [XAI Resources](https://github.com/pbiecek/xai_resources)
