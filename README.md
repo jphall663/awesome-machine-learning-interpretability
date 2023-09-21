@@ -261,6 +261,9 @@ We are seeking curated bibliographies related to responsible ML.
 * [Proposed Guidelines for Responsible Use of Explainable Machine Learning (paper, bibliography)](https://github.com/jphall663/responsible_xai/blob/master/responsible_xai.bib)
 * [A Responsible Machine Learning Workflow (paper, bibliography)](https://github.com/h2oai/article-information-2019/blob/master/back_up/article-information-2019.bib.bak)
 
+#### Web:
+* [Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Scholarship](https://www.fatml.org/resources/relevant-scholarship)
+
 ### Generative AI Responsible Use Guidance
 
 This section contains information related to the responsible use of generative AI.
@@ -285,7 +288,6 @@ This section links to other lists of responsible ML or related resources.
 * [Awful AI](https://github.com/daviddao/awful-ai)
 * [criticalML](https://github.com/rockita/criticalML)
 * [Distill](https://distill.pub)
-* [Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Scholarship](https://www.fatml.org/resources/relevant-scholarship)
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
 * [private-ai-resources](https://github.com/OpenMined/private-ai-resources)
