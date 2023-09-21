@@ -237,9 +237,9 @@ This section features a selection of educational courses focused on ethical cons
 
 * [An Introduction to Data Ethics](https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/an-introduction-to-data-ethics/)
 * [Certified Ethical Emerging Technologist](https://certnexus.com/certification/ceet/)
-* [CS109: Ethical Foundations of Computer Science](https://www.cs.utexas.edu/~ans/classes/cs109/schedule.html)
+* [CS103F: Ethical Foundations of Computer Science](https://www.cs.utexas.edu/~ans/classes/cs109/schedule.html)
 * [Fairness in Machine Learning](https://fairmlclass.github.io/)
-* [Fast.ai Data Ethics course](http://ethics.fast.ai/syllabus/#lesson-2-bias--fairness)
+* [Fast.ai Data Ethics course](http://ethics.fast.ai/syllabus)
 * [Human-Centered Machine Learning](http://courses.mpi-sws.org/hcml-ws18/)
 * [INFO 4270: ETHICS AND POLICY IN DATA SCIENCE](https://docs.google.com/document/d/1GV97qqvjQNvyM2I01vuRaAwHe9pQAZ9pbP7KkKveg1o/)
 * [Introduction to Responsible Machine Learning](https://jphall663.github.io/GWU_rml/)
