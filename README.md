@@ -71,9 +71,11 @@ This section is for responsible ML guidance put forward by organizations or indi
 
 This section is for conferences, workshops and other major events related to responsible ML.
 
-* [AIES (AAAI/ACM Conference on AI, Ethics, and Society)](https://www.aies-conference.com/)
+
 * [ACM FAccT (Fairness, Accountability, and Transparency)](https://facctconference.org/)
   * [FAT/ML (Fairness, Accountability, and Transparency in Machine Learning)](https://www.fatml.org/)
+* [AIES (AAAI/ACM Conference on AI, Ethics, and Society)](https://www.aies-conference.com/) 
+* [Black in AI](http://ai.stanford.edu/~tgebru/blackAI)
 
 ### Official Policy, Frameworks and Guidance
 
@@ -293,6 +295,7 @@ This section links to other lists of responsible ML or related resources.
 * [private-ai-resources](https://github.com/OpenMined/private-ai-resources)
 * [ResponsibleAI](https://romanlutz.github.io/ResponsibleAI/)
 * [XAI Resources](https://github.com/pbiecek/xai_resources)
+* [xaience](https://github.com/andreysharapov/xaience)
 
 ## Technical Resources
 
