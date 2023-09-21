@@ -338,7 +338,7 @@ This section contains open source or open access software used to implement resp
 
 * [acd](https://github.com/csinva/hierarchical_dnn_interpretations)
 * [aequitas](https://github.com/dssg/aequitas)
-* [AI Fairness 360](http://aif360.mybluemix.net)
+* [AI Fairness 360](https://github.com/Trusted-AI/AIF360)
 * [AI Explainability 360](https://github.com/IBM/AIX360)
 * [ALEPython](https://github.com/blent-ai/ALEPython)
 * [Aletheia](https://github.com/SelfExplainML/Aletheia)
