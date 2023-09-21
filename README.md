@@ -283,7 +283,6 @@ This section links to other lists of responsible ML or related resources.
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-machine-learning-operations)
 * [Awful AI](https://github.com/daviddao/awful-ai)
-* [algoaware](https://www.algoaware.eu/)
 * [criticalML](https://github.com/rockita/criticalML)
 * [Distill](https://distill.pub)
 * [Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Scholarship](https://www.fatml.org/resources/relevant-scholarship)
