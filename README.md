@@ -75,7 +75,7 @@ This section is for conferences, workshops and other major events related to res
 * [ACM FAccT (Fairness, Accountability, and Transparency)](https://facctconference.org/)
   * [FAT/ML (Fairness, Accountability, and Transparency in Machine Learning)](https://www.fatml.org/)
 * [AIES (AAAI/ACM Conference on AI, Ethics, and Society)](https://www.aies-conference.com/) 
-* [Black in AI](http://ai.stanford.edu/~tgebru/blackAI)
+* [Black in AI](https://blackinai.github.io/#/)
 
 ### Official Policy, Frameworks and Guidance
 
