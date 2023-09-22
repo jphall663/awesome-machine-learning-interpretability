@@ -433,6 +433,9 @@ This section contains open source or open access software used to implement resp
 * [xai](https://github.com/EthicalML/xai)
 * [xdeep](https://github.com/datamllab/xdeep)
 * [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)
+ 
+
+
 * [Bayesian Case Model](https://users.cs.duke.edu/~cynthia/code/BCM.zip)
 * [Bayesian Ors-Of-Ands](https://github.com/wangtongada/BOA)
 * [Bayesian Rule List (BRL)](https://users.cs.duke.edu/~cynthia/code/BRL_supplement_code.zip)
