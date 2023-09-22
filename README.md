@@ -158,6 +158,7 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 
 This section contains best practice guidance for ML practitioners.
 
+* [FATML Principles and Best Practices](https://www.fatml.org/resources/principles-and-best-practices)
 * [H2O.ai Algorithms](https://github.com/h2oai/h2o-tutorials/blob/master/training/h2o_algos/h2o_algos_cheat_sheet_04_25_17.pdf)
 * [Identifying and Overcoming Common Data Mining Mistakes](https://support.sas.com/resources/papers/proceedings/proceedings/forum2007/073-2007.pdf)
 * [MACHINE LEARNING QUICK REFERENCE: BEST PRACTICES](https://support.sas.com/rnd/app/data-mining/enterprise-miner/pdfs/Machine_Learning_Quick_Ref_Best_Practices.pdf)
