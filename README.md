@@ -71,7 +71,6 @@ This section is for responsible ML guidance put forward by organizations or indi
 
 This section is for conferences, workshops and other major events related to responsible ML.
 
-
 * [ACM FAccT (Fairness, Accountability, and Transparency)](https://facctconference.org/)
   * [FAT/ML (Fairness, Accountability, and Transparency in Machine Learning)](https://www.fatml.org/)
 * [AIES (AAAI/ACM Conference on AI, Ethics, and Society)](https://www.aies-conference.com/) 
@@ -106,8 +105,9 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Facial Recognition and Biometric Technology Moratorium Act of 2020](https://drive.google.com/file/d/1gkTcjFtieMQdsQ01dmDa49B6HY9ZyKr8/view)
 * [Four Principles of Explainable Artificial Intelligence ](https://www.nist.gov/system/files/documents/2020/08/17/NIST%20Explainable%20AI%20Draft%20NISTIR8312%20%281%29.pdf)
 * [General principles for the use of Artificial Intelligence in the financial sector](https://www.dnb.nl/media/jkbip2jc/general-principles-for-the-use-of-artificial-intelligence-in-the-financial-sector.pdf)
-* [Global AI Legislation Tracker](https://iapp.org/resources/article/global-ai-legislation-tracker/)
 * [Gouvernance des algorithmes d’intelligence artificielle dans le secteur financier (French)](https://acpr.banque-france.fr/sites/default/files/medias/documents/20200612_gouvernance_evaluation_ia.pdf)
+* [IAPP Global AI Legislation Tracker](https://iapp.org/resources/article/global-ai-legislation-tracker/)
+* [IAPP US State Privacy Legislation Tracker](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/)
 * [Innovation spotlight: Providing adverse action notices when using AI/ML models](https://www.consumerfinance.gov/about-us/blog/innovation-spotlight-providing-adverse-action-notices-when-using-ai-ml-models/)
 * [Office of Management and Budget Guidance for Regulation of Artificial Intelligence Applications](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-06.pdf) (Finalized Nov. 2020)
 * [NIST AI 100-1 Artificial Intelligence Risk Management Framework (NIST AI RMF 1.0)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
@@ -140,7 +140,6 @@ We are seeking contributions related to auditing and evaluating ML systems for t
 * [Independent Audit of AI Systems](https://forhumanity.center/independent-audit-of-ai-systems/)
 * [Real-World Strategies for Model Debugging](https://towardsdatascience.com/strategies-for-model-debugging-aa822f1097ce)
 * [Testing and Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging)
-
 
 ### Benchmarks
 
@@ -228,8 +227,12 @@ This section contains books that can be reasonably described as free.
 This section features a collection of either glossaries and dictionaries that are geared toward defining terms in ML.
 
 * [H2O.ai Glossary](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/glossary.html)
+* [IAPP Glossary of Privacy Terms](https://iapp.org/resources/glossary/)
+* [IAPP International Definitions of Artificial Intelligence](https://iapp.org/media/pdf/resource_center/international_definitions_of_ai.pdf)
+* [IAPP Key Terms for AI Governance](https://iapp.org/media/pdf/resource_center/key_terms_for_ai_governance.pdf)
 * [The Language of Trustworthy AI: An In-Depth Glossary of Terms (NIST AIRC) Glossary](https://airc.nist.gov/AI_RMF_Knowledge_Base/Glossary)
 * [VAIR (Vocabulary of AI Risks)](https://delaramglp.github.io/vair/)
+* [Stanford University HAI Artificial Intelligence Definitions](https://hai.stanford.edu/sites/default/files/2023-03/AI-Key-Terms-Glossary-Definition.pdf)
 
 ### Open-ish Classes
 
@@ -497,7 +500,6 @@ This section contains open source or open access software used to implement resp
 * [modelOriented](https://github.com/ModelOriented)
 * [modelStudio](https://github.com/ModelOriented/modelStudio)
 * [Monotonic](http://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html) [XGBoost](http://xgboost.readthedocs.io/en/latest/)
-* [pdp](https://bgreenwell.github.io/pdp/index.html)
 * [quantreg](https://cran.r-project.org/web/packages/quantreg/index.html)
 * [rpart](https://cran.r-project.org/web/packages/rpart/index.html)
 * [RuleFit](http://statweb.stanford.edu/~jhf/R_RuleFit.html)
