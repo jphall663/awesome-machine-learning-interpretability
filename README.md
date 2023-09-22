@@ -18,7 +18,6 @@ If something you contributed or found here is missing after our September 2023 r
   * [AI Incident Trackers](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#ai-incident-trackers)
   * [Auditing and Evaluation Resources (WIP - please contribute!)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#auditing-and-evaluation-resources-wip---please-contribute)
   * [Benchmarks](https://github.com/jphall663/awesome-machine-learning-interpretability#benchmarks)
-  * [Best Practices (WIP - please contribute!)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#best-practices-wip---please-contribute)
   * [Common or Useful Datasets](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#common-or-useful-datasets)
 
 * **General Resources**
@@ -57,8 +56,13 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Debugging Machine Learning Models (ICLR workshop proceedings)](https://debug-ml-iclr2019.github.io/)
 * [Decision Points in AI Governance](https://cltc.berkeley.edu/wp-content/uploads/2020/05/Decision_Points_AI_Governance.pdf)
 * [Distill](https://distill.pub)
+* [FATML Principles and Best Practices](https://www.fatml.org/resources/principles-and-best-practices)
 * [From Principles to Practice: An interdisciplinary framework to operationalise AI ethics](https://www.ai-ethics-impact.org/resource/blob/1961130/c6db9894ee73aefa489d6249f5ee2b9f/aieig---report---download-hb-data.pdf)
 * [Google's Responsible AI Framework](https://cloud.google.com/responsible-ai)
+* [H2O.ai Algorithms](https://github.com/h2oai/h2o-tutorials/blob/master/training/h2o_algos/h2o_algos_cheat_sheet_04_25_17.pdf)
+* [Identifying and Overcoming Common Data Mining Mistakes](https://support.sas.com/resources/papers/proceedings/proceedings/forum2007/073-2007.pdf)
+* [MACHINE LEARNING QUICK REFERENCE: BEST PRACTICES](https://support.sas.com/rnd/app/data-mining/enterprise-miner/pdfs/Machine_Learning_Quick_Ref_Best_Practices.pdf)
+* [MACHINE LEARNING QUICK REFERENCE: ALGORITHMS](https://support.sas.com/rnd/app/data-mining/enterprise-miner/pdfs/Machine_Learning_Quick_Ref_Algorithms_Mar2017.pdf)
 * [Microsoft Responsible AI Standard, v2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cmFl)
 * [Robust ML](https://www.robust-ml.org/)
 * [Safe and Reliable Machine Learning](https://www.dropbox.com/s/sdu26h96bc0f4l7/FAT19-AI-Reliability-Final.pdf?dl=0)
@@ -153,16 +157,6 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 * [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
 * [Winogender Schemas](https://github.com/rudinger/winogender-schemas)
 * [Real Toxicity Prompts (Allen Institute for AI)](https://allenai.org/data/real-toxicity-prompts)
-
-### Best Practices (WIP - please contribute!)
-
-This section contains best practice guidance for ML practitioners.
-
-* [FATML Principles and Best Practices](https://www.fatml.org/resources/principles-and-best-practices)
-* [H2O.ai Algorithms](https://github.com/h2oai/h2o-tutorials/blob/master/training/h2o_algos/h2o_algos_cheat_sheet_04_25_17.pdf)
-* [Identifying and Overcoming Common Data Mining Mistakes](https://support.sas.com/resources/papers/proceedings/proceedings/forum2007/073-2007.pdf)
-* [MACHINE LEARNING QUICK REFERENCE: BEST PRACTICES](https://support.sas.com/rnd/app/data-mining/enterprise-miner/pdfs/Machine_Learning_Quick_Ref_Best_Practices.pdf)
-* [MACHINE LEARNING QUICK REFERENCE: ALGORITHMS](https://support.sas.com/rnd/app/data-mining/enterprise-miner/pdfs/Machine_Learning_Quick_Ref_Algorithms_Mar2017.pdf)
 
 ### Common or Useful Datasets
 
