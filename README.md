@@ -461,7 +461,6 @@ This section contains open source or open access software used to implement resp
  
 #### R
 
-* [aif360](https://cran.r-project.org/web/packages/aif360/index.html)
 * [ALEPlot](https://cran.r-project.org/web/packages/ALEPlot/index.html)
 * [arules](https://cran.r-project.org/web/packages/arules/index.html)
 * [Causal SVM](https://github.com/shangtai/githubcausalsvm)
