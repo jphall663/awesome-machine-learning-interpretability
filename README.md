@@ -292,6 +292,7 @@ This section links to other lists of responsible ML or related resources.
 * [AI Ethics Resources](https://www.fast.ai/posts/2018-09-24-ai-ethics-resources.html)
 * [AI Tools and Platforms](https://docs.google.com/spreadsheets/u/2/d/10pPQYmyNnYb6zshOKxBjJ704E0XUj2vJ9HCDfoZxAoA/htmlview#)
 * [Awesome interpretable machine learning](https://github.com/lopusz/awesome-interpretable-machine-learning)
+* [Awesome-ML-Model-Governance](https://github.com/visenger/Awesome-ML-Model-Governance)
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-machine-learning-operations)
 * [Awful AI](https://github.com/daviddao/awful-ai)
