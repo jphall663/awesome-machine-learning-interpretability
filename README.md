@@ -158,7 +158,7 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 This section contains best practice guidance for ML practitioners.
 
 * [H2O.ai Algorithms](https://github.com/h2oai/h2o-tutorials/blob/master/training/h2o_algos/h2o_algos_cheat_sheet_04_25_17.pdf)
-* [_Identifying and Overcoming Common Data Mining Mistakes_](https://support.sas.com/resources/papers/proceedings/proceedings/forum2007/073-2007.pdf)
+* [Identifying and Overcoming Common Data Mining Mistakes](https://support.sas.com/resources/papers/proceedings/proceedings/forum2007/073-2007.pdf)
 * [MACHINE LEARNING QUICK REFERENCE: BEST PRACTICES](https://support.sas.com/rnd/app/data-mining/enterprise-miner/pdfs/Machine_Learning_Quick_Ref_Best_Practices.pdf)
 * [MACHINE LEARNING QUICK REFERENCE: ALGORITHMS](https://support.sas.com/rnd/app/data-mining/enterprise-miner/pdfs/Machine_Learning_Quick_Ref_Algorithms_Mar2017.pdf)
 
