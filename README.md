@@ -49,6 +49,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 
 * [8 Principles of Responsible ML](https://ethical.institute/principles.html)
 * [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)
+* [AI Snake Oil](https://www.aisnakeoil.com/)
 * [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](http://sameersingh.org/files/papers/allennlp-interpret-demo-emnlp19.pdf)
 * [Anthropic's Responsible Scaling Policy](https://www-files.anthropic.com/production/files/responsible-scaling-policy-1.0.pdf)
 * [BIML Interactive Machine Learning Risk Framework](https://berryvilleiml.com/interactive/)
