@@ -412,7 +412,6 @@ This section contains open source or open access software used to implement resp
 * [scikit-multiflow](https://scikit-multiflow.github.io/)
 * [shap](https://github.com/slundberg/shap)
 * [shapley](https://github.com/benedekrozemberczki/shapley)
-* [Skater](https://github.com/datascienceinc/Skater)
 * [tensorfow/cleverhans](https://github.com/tensorflow/cleverhans)
 * [tensorflow/lucid](https://github.com/tensorflow/lucid)
 * [tensorflow/fairness-indicators](https://github.com/tensorflow/fairness-indicators)
