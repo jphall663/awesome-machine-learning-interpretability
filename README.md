@@ -228,6 +228,7 @@ This section features a collection of either glossaries and dictionaries that ar
 * [IAPP International Definitions of Artificial Intelligence](https://iapp.org/media/pdf/resource_center/international_definitions_of_ai.pdf)
 * [IAPP Key Terms for AI Governance](https://iapp.org/media/pdf/resource_center/key_terms_for_ai_governance.pdf)
 * [The Language of Trustworthy AI: An In-Depth Glossary of Terms (NIST AIRC) Glossary](https://airc.nist.gov/AI_RMF_Knowledge_Base/Glossary)
+* [ISO: Information technology — Artificial intelligence — Artificial intelligence concepts and terminology](https://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_IEC_22989_2022_ed.1_id.74296_Publication_PDF_(en).zip)
 * [VAIR (Vocabulary of AI Risks)](https://delaramglp.github.io/vair/)
 * [Stanford University HAI Artificial Intelligence Definitions](https://hai.stanford.edu/sites/default/files/2023-03/AI-Key-Terms-Glossary-Definition.pdf)
 
