@@ -77,10 +77,20 @@ This section is for responsible ML guidance put forward by organizations or indi
 
 This section is for conferences, workshops and other major events related to responsible ML.
 
+* [AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/)
 * [ACM FAccT (Fairness, Accountability, and Transparency)](https://facctconference.org/)
   * [FAT/ML (Fairness, Accountability, and Transparency in Machine Learning)](https://www.fatml.org/)
+* [ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO)](https://eaamo.org/)
 * [AIES (AAAI/ACM Conference on AI, Ethics, and Society)](https://www.aies-conference.com/) 
 * [Black in AI](https://blackinai.github.io/#/)
+* [Computer Vision and Pattern Recognition (CVPR)](https://thecvf.com/)
+* [European Conference on Information Retrieval (ECIR)](https://ecir2023.org/)
+* [IEEE International Conference on Big Data](https://bigdataieee.org/BigData2022/)
+* [International Conference on Machine Learning (ICML)](https://icml.cc/)
+* [Joint Statistical Meetings (JSM)](https://www.amstat.org/)
+* [Knowledge, Discovery, and Data Mining (KDD)](https://kdd.org/)
+* [Neural Information Processing Systems (NeurIPs)](https://neurips.cc/)
+* [Open Data Science Conference (ODSC)](https://odsc.com/)
 
 ### Official Policy, Frameworks and Guidance
 
