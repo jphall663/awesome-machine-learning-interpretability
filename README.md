@@ -349,6 +349,7 @@ This section contains open source or open access ML environment management softw
 * [mlflow](https://mlflow.org/)
 * [mlmd](https://github.com/google/ml-metadata)
 * [modeldb](https://github.com/VertaAI/modeldb)
+* [neptune](https://neptune.ai/researchers)
 
 ### Open Source/Access Responsible AI Software Packages
 
