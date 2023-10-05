@@ -88,60 +88,60 @@ This section is for conferences, workshops and other major events related to res
 * [IEEE International Conference on Big Data](https://bigdataieee.org/BigData2022/)
 * [International Conference on Machine Learning (ICML)](https://icml.cc/)
   * 2021
-  * [Beyond first-order methods in machine learning systems](https://icml.cc/virtual/2021/workshop/8369), July 24, 2021
-  * [Human-AI Collaboration in Sequential Decision-Making](https://icml.cc/virtual/2021/workshop/8367), July 23, 2021
-  * [Machine Learning for Data: Automated Creation, Privacy, Bias](https://icml.cc/virtual/2021/workshop/8356), July 23, 2021
-  * [Over-parameterization: Pitfalls and Opportunities](https://icml.cc/virtual/2021/workshop/8357), July 24, 2021
-  * [ICML Workshop on Algorithmic Recourse](https://icml.cc/virtual/2021/workshop/8363), July 24, 2021
-  * [ICML Workshop on Human in the Loop Learning (HILL)](https://icml.cc/virtual/2021/workshop/8362), July 24, 2021
-  * [ICML Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI](https://icml.cc/virtual/2021/workshop/8355), July 23, 2021
-  * [Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning (ITR3)](https://icml.cc/virtual/2021/workshop/8365), July 24, 2021
-  * [International Workshop on Federated Learning for User Privacy and Data Confidentiality in Conjunction with ICML 2021 (FL-ICML'21)](https://icml.cc/virtual/2021/workshop/8359), July 24, 2021
-  * [Interpretable Machine Learning in Healthcare](https://icml.cc/virtual/2021/workshop/8358), July 23, 2021
-  * [Self-Supervised Learning for Reasoning and Perception](https://icml.cc/virtual/2021/workshop/8353), July 24, 2021
-  * [The Neglected Assumptions In Causal Inference](https://icml.cc/virtual/2021/workshop/8349), July 23, 2021
-  * [Theory and Practice of Differential Privacy](https://icml.cc/virtual/2021/workshop/8376), July 23, 2021
-  * [Uncertainty and Robustness in Deep Learning](https://icml.cc/virtual/2021/workshop/8374), July 23, 2021
-  * [Workshop on Computational Approaches to Mental Health @ ICML 2021](https://icml.cc/virtual/2021/workshop/8352), July 24, 2021
-  * [Workshop on Distribution-Free Uncertainty Quantification](https://icml.cc/virtual/2021/workshop/8373), July 24, 2021
-  * [Workshop on Socially Responsible Machine Learning](https://icml.cc/virtual/2021/workshop/8347), July 24, 2021
+    * [Beyond first-order methods in machine learning systems](https://icml.cc/virtual/2021/workshop/8369)
+    * [Human-AI Collaboration in Sequential Decision-Making](https://icml.cc/virtual/2021/workshop/8367)
+    * [Machine Learning for Data: Automated Creation, Privacy, Bias](https://icml.cc/virtual/2021/workshop/8356)
+    * [Over-parameterization: Pitfalls and Opportunities](https://icml.cc/virtual/2021/workshop/8357)
+    * [ICML Workshop on Algorithmic Recourse](https://icml.cc/virtual/2021/workshop/8363)
+    * [ICML Workshop on Human in the Loop Learning (HILL)](https://icml.cc/virtual/2021/workshop/8362)
+    * [ICML Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI](https://icml.cc/virtual/2021/workshop/8355)
+    * [Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning (ITR3)](https://icml.cc/virtual/2021/workshop/8365)
+    * [International Workshop on Federated Learning for User Privacy and Data Confidentiality in Conjunction with ICML 2021 (FL-ICML'21)](https://icml.cc/virtual/2021/workshop/8359)
+    * [Interpretable Machine Learning in Healthcare](https://icml.cc/virtual/2021/workshop/8358)
+    * [Self-Supervised Learning for Reasoning and Perception](https://icml.cc/virtual/2021/workshop/8353)
+    * [The Neglected Assumptions In Causal Inference](https://icml.cc/virtual/2021/workshop/8349)
+    * [Theory and Practice of Differential Privacy](https://icml.cc/virtual/2021/workshop/8376)
+    * [Uncertainty and Robustness in Deep Learning](https://icml.cc/virtual/2021/workshop/8374)
+    * [Workshop on Computational Approaches to Mental Health @ ICML 2021](https://icml.cc/virtual/2021/workshop/8352)
+    * [Workshop on Distribution-Free Uncertainty Quantification](https://icml.cc/virtual/2021/workshop/8373)
+    * [Workshop on Socially Responsible Machine Learning](https://icml.cc/virtual/2021/workshop/8347)
   * 2022
-  * [1st ICML 2022 Workshop on Safe Learning for Autonomous Driving (SL4AD)](https://icml.cc/virtual/2022/workshop/13475), July 22, 2022
-  * [2nd Workshop on Interpretable Machine Learning in Healthcare (IMLH)](https://icml.cc/virtual/2022/workshop/13449), July 23, 2022
-  * [DataPerf: Benchmarking Data for Data-Centric AI](https://icml.cc/virtual/2022/workshop/13477), July 22, 2022
-  * [Decision Awareness in Reinforcement Learning](https://icml.cc/virtual/2022/workshop/13463), July 22, 2022
-  * [Disinformation Countermeasures and Machine Learning (DisCoML)](https://icml.cc/virtual/2022/workshop/13446), July 23, 2022
-  * [Responsible Decision Making in Dynamic Environments](https://icml.cc/virtual/2022/workshop/13453), July 23, 2022
-  * [Spurious correlations, Invariance, and Stability (SCIS)](https://icml.cc/virtual/2022/workshop/13461), July 22, 2022
-  * [The 1st Workshop on Healthcare AI and COVID-19](https://icml.cc/virtual/2022/workshop/13469), July 22, 2022
-  * [Theory and Practice of Differential Privacy](https://icml.cc/virtual/2022/workshop/13448), July 22, 2022
-  * [Workshop on Human-Machine Collaboration and Teaming](https://icml.cc/virtual/2022/workshop/13478), July 23, 2022
+    * [1st ICML 2022 Workshop on Safe Learning for Autonomous Driving (SL4AD)](https://icml.cc/virtual/2022/workshop/13475)
+    * [2nd Workshop on Interpretable Machine Learning in Healthcare (IMLH)](https://icml.cc/virtual/2022/workshop/13449)
+    * [DataPerf: Benchmarking Data for Data-Centric AI](https://icml.cc/virtual/2022/workshop/13477)
+    * [Decision Awareness in Reinforcement Learning](https://icml.cc/virtual/2022/workshop/13463)
+    * [Disinformation Countermeasures and Machine Learning (DisCoML)](https://icml.cc/virtual/2022/workshop/13446)
+    * [Responsible Decision Making in Dynamic Environments](https://icml.cc/virtual/2022/workshop/13453)
+    * [Spurious correlations, Invariance, and Stability (SCIS)](https://icml.cc/virtual/2022/workshop/13461)
+    * [The 1st Workshop on Healthcare AI and COVID-19](https://icml.cc/virtual/2022/workshop/13469)
+    * [Theory and Practice of Differential Privacy](https://icml.cc/virtual/2022/workshop/13448)
+    * [Workshop on Human-Machine Collaboration and Teaming](https://icml.cc/virtual/2022/workshop/13478)
   * 2023
-  * [2nd ICML Workshop on New Frontiers in Adversarial Machine Learning](https://icml.cc/virtual/2023/workshop/21487), July 28, 2023
-  * [2nd Workshop on Formal Verification of Machine Learning](https://icml.cc/virtual/2023/workshop/21471), July 28, 2023
-  * [3rd Workshop on Interpretable Machine Learning in Healthcare (IMLH)](https://icml.cc/virtual/2023/workshop/21486), July 28, 2023
-  * [Challenges in Deployable Generative AI](https://icml.cc/virtual/2023/workshop/21481), July 28, 2023
-  * [“Could it have been different?” Counterfactuals in Minds and Machines](https://icml.cc/virtual/2023/workshop/21482), July 29, 2023
-  * [DMLR Workshop: Data-centric Machine Learning Research](https://icml.cc/virtual/2023/workshop/21492), July 29, 2023
-  * [Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities](https://icml.cc/virtual/2023/workshop/21473), July 28, 2023
-  * [Generative AI and Law (GenLaw)](https://icml.cc/virtual/2023/workshop/21490), July 29, 2023
-  * [Interactive Learning with Implicit Human Feedback](https://icml.cc/virtual/2023/workshop/21477), July 29, 2023
-  * [Neural Conversational AI Workshop - What’s left to TEACH (Trustworthy, Enhanced, Adaptable, Capable and Human-centric) chatbots?](https://icml.cc/virtual/2023/workshop/21485), July 29, 2023
-  * [The Second Workshop on Spurious Correlations, Invariance and Stability](https://icml.cc/virtual/2023/workshop/21493), July 29, 2023
+    * [2nd ICML Workshop on New Frontiers in Adversarial Machine Learning](https://icml.cc/virtual/2023/workshop/21487)
+    * [2nd Workshop on Formal Verification of Machine Learning](https://icml.cc/virtual/2023/workshop/21471)
+    * [3rd Workshop on Interpretable Machine Learning in Healthcare (IMLH)](https://icml.cc/virtual/2023/workshop/21486)
+    * [Challenges in Deployable Generative AI](https://icml.cc/virtual/2023/workshop/21481)
+    * [“Could it have been different?” Counterfactuals in Minds and Machines](https://icml.cc/virtual/2023/workshop/21482)
+    * [DMLR Workshop: Data-centric Machine Learning Research](https://icml.cc/virtual/2023/workshop/21492)
+    * [Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities](https://icml.cc/virtual/2023/workshop/21473)
+    * [Generative AI and Law (GenLaw)](https://icml.cc/virtual/2023/workshop/21490)
+    * [Interactive Learning with Implicit Human Feedback](https://icml.cc/virtual/2023/workshop/21477)
+    * [Neural Conversational AI Workshop - What’s left to TEACH (Trustworthy, Enhanced, Adaptable, Capable and Human-centric) chatbots?](https://icml.cc/virtual/2023/workshop/21485)
+    * [The Second Workshop on Spurious Correlations, Invariance and Stability](https://icml.cc/virtual/2023/workshop/21493)
 * [Joint Statistical Meetings (JSM)](https://www.amstat.org/)
 * [Knowledge, Discovery, and Data Mining (KDD)](https://kdd.org/)
 * [Neural Information Processing Systems (NeurIPs)](https://neurips.cc/)
   * 2023
-  * [AI meets Moral Philosophy and Moral Psychology: An Interdisciplinary Dialogue about Computational Ethics](https://neurips.cc/virtual/2023/workshop/66528), December 15, 2023
-  * [Algorithmic Fairness through the Lens of Time](https://neurips.cc/virtual/2023/workshop/66502), December 15, 2023
-  * [Attributing Model Behavior at Scale (ATTRIB)](https://neurips.cc/virtual/2023/workshop/66496), December 15, 2023
-  * [Backdoors in Deep Learning: The Good, the Bad, and the Ugly](https://neurips.cc/virtual/2023/workshop/66550), December 15, 2023
-  * [Computational Sustainability: Promises and Pitfalls from Theory to Deployment](https://neurips.cc/virtual/2023/workshop/66523), December 15, 2023
-  * [I Can’t Believe It’s Not Better (ICBINB): Failure Modes in the Age of Foundation Models](https://neurips.cc/virtual/2023/workshop/66506), December 16, 2023
-  * [Socially Responsible Language Modelling Research (SoLaR)](https://neurips.cc/virtual/2023/workshop/66526), December 16, 2023
-  * [Regulatable ML: Towards Bridging the Gaps between Machine Learning Research and Regulations](https://neurips.cc/virtual/2023/workshop/66512), December 16, 2023
-  * [Workshop on Distribution Shifts: New Frontiers with Foundation Models](https://neurips.cc/virtual/2023/workshop/66509), December 15, 2023
-  * [XAI in Action: Past, Present, and Future Applications](https://neurips.cc/virtual/2023/workshop/66529), December 16, 2023
+    * [AI meets Moral Philosophy and Moral Psychology: An Interdisciplinary Dialogue about Computational Ethics](https://neurips.cc/virtual/2023/workshop/66528)
+    * [Algorithmic Fairness through the Lens of Time](https://neurips.cc/virtual/2023/workshop/66502)
+    * [Attributing Model Behavior at Scale (ATTRIB)](https://neurips.cc/virtual/2023/workshop/66496)
+    * [Backdoors in Deep Learning: The Good, the Bad, and the Ugly](https://neurips.cc/virtual/2023/workshop/66550)
+    * [Computational Sustainability: Promises and Pitfalls from Theory to Deployment](https://neurips.cc/virtual/2023/workshop/66523)
+    * [I Can’t Believe It’s Not Better (ICBINB): Failure Modes in the Age of Foundation Models](https://neurips.cc/virtual/2023/workshop/66506)
+    * [Socially Responsible Language Modelling Research (SoLaR)](https://neurips.cc/virtual/2023/workshop/66526)
+    * [Regulatable ML: Towards Bridging the Gaps between Machine Learning Research and Regulations](https://neurips.cc/virtual/2023/workshop/66512)
+    * [Workshop on Distribution Shifts: New Frontiers with Foundation Models](https://neurips.cc/virtual/2023/workshop/66509)
+    * [XAI in Action: Past, Present, and Future Applications](https://neurips.cc/virtual/2023/workshop/66529)
 * [Open Data Science Conference (ODSC)](https://odsc.com/)
 
 ### Official Policy, Frameworks and Guidance
