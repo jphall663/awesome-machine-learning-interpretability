@@ -303,14 +303,33 @@ This section contains books that can be reasonably described as free.
 
 This section features a collection of either glossaries and dictionaries that are geared toward defining terms in ML.
 
+* [A.I. For Anyone: The A-Z of AI](https://www.aiforanyone.org/glossary)
+* [Alan Turing Institute: Data science and AI glossary](https://www.turing.ac.uk/news/data-science-and-ai-glossary)
+* [Appen Artificial Intelligence Glossary](https://appen.com/ai-glossary/)
+* [Brookings: The Brookings glossary of AI and emerging technologies](https://www.brookings.edu/articles/the-brookings-glossary-of-ai-and-emerging-technologies/)
+* [Center for Security and Emerging Technology: Glossary](https://cset.georgetown.edu/glossary/)
+* [CompTIA: Artificial Intelligence (AI) Terminology: A Glossary for Beginners](https://connect.comptia.org/content/articles/artificial-intelligence-terminology)
+* [Council of Europe Artificial Intelligence Glossary](https://www.coe.int/en/web/artificial-intelligence/glossary)
+* [Coursera: Artificial Intelligence (AI) Terms: A to Z Glossary](https://www.coursera.org/articles/ai-terms)
+* [Dataconomy: AI dictionary: Be a native speaker of Artificial Intelligence](https://dataconomy.com/2022/04/23/artificial-intelligence-terms-ai-glossary/)
+* [G2: 70+ A to Z Artificial Intelligence Terms in Technology](https://www.g2.com/articles/artificial-intelligence-terms)
+* [General Services Administration: AI Guide for Government: Key AI terminology](https://coe.gsa.gov/coe/ai-guide-for-government/what-is-ai-key-terminology/)
+* [Google Developers Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
 * [H2O.ai Glossary](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/glossary.html)
 * [IAPP Glossary of Privacy Terms](https://iapp.org/resources/glossary/)
 * [IAPP International Definitions of Artificial Intelligence](https://iapp.org/media/pdf/resource_center/international_definitions_of_ai.pdf)
 * [IAPP Key Terms for AI Governance](https://iapp.org/media/pdf/resource_center/key_terms_for_ai_governance.pdf)
-* [The Language of Trustworthy AI: An In-Depth Glossary of Terms (NIST AIRC) Glossary](https://airc.nist.gov/AI_RMF_Knowledge_Base/Glossary)
+* [IBM: AI glossary](https://www.ibm.com/cloud/architecture/architecture/practices/cognitive-glossary/)
 * [ISO: Information technology — Artificial intelligence — Artificial intelligence concepts and terminology](https://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_IEC_22989_2022_ed.1_id.74296_Publication_PDF_(en).zip)
-* [VAIR (Vocabulary of AI Risks)](https://delaramglp.github.io/vair/)
+* [MakeUseOf: A Glossary of AI Jargon: 29 AI Terms You Should Know](https://www.makeuseof.com/glossary-ai-jargon-terms/)
+* [Moveworks: AI Terms Glossary](https://www.moveworks.com/us/en/resources/ai-terms-glossary)
+* [NIST AIRC: The Language of Trustworthy AI: An In-Depth Glossary of Terms](https://airc.nist.gov/AI_RMF_Knowledge_Base/Glossary)
+* [Salesforce: AI From A to Z: The Generative AI Glossary for Business Leaders](https://www.salesforce.com/blog/generative-ai-glossary/)
 * [Stanford University HAI Artificial Intelligence Definitions](https://hai.stanford.edu/sites/default/files/2023-03/AI-Key-Terms-Glossary-Definition.pdf)
+* [TechTarget: Artificial intelligence glossary: 60+ terms to know](https://www.techtarget.com/whatis/feature/Artificial-intelligence-glossary-60-terms-to-know)
+* [TELUS International: 50 AI terms every beginner should know](https://www.telusinternational.com/insights/ai-data/article/50-beginner-ai-terms-you-should-know)
+* [VAIR (Vocabulary of AI Risks)](https://delaramglp.github.io/vair/)
+* [Wikipedia: Glossary of artificial intelligence](https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence)
 
 ### Open-ish Classes
 
