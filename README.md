@@ -223,9 +223,28 @@ This section is for repositories of information related to AI incidents and vuln
 ### Auditing and Evaluation Resources (WIP - please contribute!)
 
 We are seeking contributions related to auditing and evaluating ML systems for this section. 
+
+* [AuditBoard: 5 AI Auditing Frameworks to Encourage Accountability](https://www.auditboard.com/blog/ai-auditing-frameworks/)
+* [Auditing machine learning algorithms: A white paper for public auditors](https://www.auditingalgorithms.net/index.html)
+* [Campfire AI: How to audit your chatbot in 20 min. or less](https://www.thecampfire.ai/post/how-to-audit-your-chatbot-in-20-min-or-less)
+* [Censius: AI Audit](https://censius.ai/wiki/ai-audit)
+* [Crowe LLP: Internal auditor's AI safety checklist](https://www.crowe.com/insights/asset/i/internal-auditors-ai-safety-checklist)
+* [Haptic Networks: How to Perform an AI Audit for UK Organisations](https://www.haptic-networks.com/cyber-security/how-to-perform-an-ai-audit/)
+* [ICT Institute: A checklist for auditing AI systems](https://ictinstitute.nl/a-checklist-for-auditing-ai-systems/)
 * [Independent Audit of AI Systems](https://forhumanity.center/independent-audit-of-ai-systems/)
+* [Institute of Internal Auditors: Global Perspectives and Insights: The IIA's Artificial Intelligence Auditing Framework, Practical Applications, Part A Special Edition](https://www.theiia.org/globalassets/documents/content/articles/gpi/2017/december/gpi-artificial-intelligence-part-ii.pdf)
+* [ISACA: Auditing Artificial Intelligence](https://ec.europa.eu/futurium/en/system/files/ged/auditing-artificial-intelligence.pdf)
+* [ISACA: Auditing Guidelines for Artificial Intelligence](https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2020/volume-26/auditing-guidelines-for-artificial-intelligence)
+* [ForHumanity Body of Knowledge (BOK)](https://forhumanity.center/bok/)
+* [Government Accountability Office: Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities](https://www.gao.gov/products/gao-21-519sp)
 * [Real-World Strategies for Model Debugging](https://towardsdatascience.com/strategies-for-model-debugging-aa822f1097ce)
+* [Singapore's Companion to the Model AI Governance Framework – Implementation and Self-Assessment Guide for Organizations](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgisago.pdf)
+* [Singapore's Compendium of Use Cases: Practical Illustrations of the Model AI Governance Framework](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgaigovusecases.pdf)
+* [Singapore's Model Artificial Intelligence Governance Framework (Second Edition)](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)
+* [Taskade: AI Audit PBC Request Checklist Template](https://www.taskade.com/templates/engineering/audit-pbc-request-checklist)
+* [TechTarget: https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/](https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/)
 * [Testing and Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging)
+* [Unite.AI: How to perform an AI Audit in 2023](https://www.unite.ai/how-to-perform-an-ai-audit-in-2023/)
 
 ### Benchmarks
 
