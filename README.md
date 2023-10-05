@@ -244,7 +244,7 @@ We are seeking contributions related to auditing and evaluating ML systems for t
 * [Singapore's Compendium of Use Cases: Practical Illustrations of the Model AI Governance Framework](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgaigovusecases.pdf)
 * [Singapore's Model Artificial Intelligence Governance Framework (Second Edition)](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)
 * [Taskade: AI Audit PBC Request Checklist Template](https://www.taskade.com/templates/engineering/audit-pbc-request-checklist)
-* [TechTarget: https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/](https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/)
+* [TechTarget: 9 questions to ask when auditing your AI systems](https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/)
 * [Testing and Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging)
 * [Unite.AI: How to perform an AI Audit in 2023](https://www.unite.ai/how-to-perform-an-ai-audit-in-2023/)
 
