@@ -130,6 +130,9 @@ This section is for conferences, workshops and other major events related to res
     * [The Second Workshop on Spurious Correlations, Invariance and Stability](https://icml.cc/virtual/2023/workshop/21493)
 * [Joint Statistical Meetings (JSM)](https://www.amstat.org/)
 * [Knowledge, Discovery, and Data Mining (KDD)](https://kdd.org/)
+  * 2023
+    * [2nd ACM SIGKDD Workshop on Ethical Artificial Intelligence: Methods and Applications](https://charliezhaoyinpeng.github.io/EAI-KDD23/cfp/)
+    * [KDD Data Science for Social Good 2023](https://kdd-dssg.github.io/)
 * [Neural Information Processing Systems (NeurIPs)](https://neurips.cc/)
   * 2022
     * [5th Robot Learning Workshop: Trustworthy Robotics](https://neurips.cc/virtual/2022/workshop/49997)
