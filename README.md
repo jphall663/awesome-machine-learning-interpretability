@@ -280,13 +280,13 @@ This section contains datasets that are commonly used in responsible ML evaulati
 * [Adult income dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
 * [Balanced Faces in the Wild](https://github.com/visionjo/facerec-bias-bfw)
 * [COMPAS Recidivism Risk Score Data and Analysis](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis)
-* Data Repositories:
-  * [All Lending Club loan data](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
-  * [Amazon Open Data](https://registry.opendata.aws/amazon-reviews/)
-  * [Data.gov](https://data.gov/)
-  * [Home Mortgage Disclosure Act (HMDA) Data](https://www.consumerfinance.gov/data-research/hmda/)
-  * [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/)
-  * [UCI ML Data Repository](https://archive.ics.uci.edu/)
+  * **Data Repositories**:
+    * [All Lending Club loan data](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
+    * [Amazon Open Data](https://registry.opendata.aws/amazon-reviews/)
+    * [Data.gov](https://data.gov/)
+    * [Home Mortgage Disclosure Act (HMDA) Data](https://www.consumerfinance.gov/data-research/hmda/)
+    * [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/)
+    * [UCI ML Data Repository](https://archive.ics.uci.edu/)
 * [FANNIE MAE Single Family Loan Performance](https://capitalmarkets.fanniemae.com/credit-risk-transfer/single-family-credit-risk-transfer/fannie-mae-single-family-loan-performance-data)
 * [NYPD Stop, Question and Frisk Data](https://www.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page)
 * [Statlog (German Credit Data)](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
@@ -309,11 +309,11 @@ This section is a curated collection of guides and tutorials that simplify respo
 * [Interpretable Machine Learning using Counterfactuals](https://docs.seldon.io/projects/alibi/en/v0.2.0/examples/cf_mnist.html)
 * [Machine Learning Explainability by Kaggle Learn](https://www.kaggle.com/learn/machine-learning-explainability)
 * [Model Interpretability with DALEX](http://uc-r.github.io/dalex)
-* Model Interpretation series by Dipanjan (DJ) Sarkar:
-  * [The Importance of Human Interpretable Machine Learning](https://towardsdatascience.com/human-interpretable-machine-learning-part-1-the-need-and-importance-of-model-interpretation-2ed758f5f476)
-  * [Model Interpretation Strategies](https://towardsdatascience.com/explainable-artificial-intelligence-part-2-model-interpretation-strategies-75d4afa6b739)
-  * [Hands-on Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
-  * [Interpreting Deep Learning Models for Computer Vision](https://medium.com/google-developer-experts/interpreting-deep-learning-models-for-computer-vision-f95683e23c1d)
+  * **Model Interpretation series by Dipanjan (DJ) Sarkar**:
+    * [The Importance of Human Interpretable Machine Learning](https://towardsdatascience.com/human-interpretable-machine-learning-part-1-the-need-and-importance-of-model-interpretation-2ed758f5f476)
+    * [Model Interpretation Strategies](https://towardsdatascience.com/explainable-artificial-intelligence-part-2-model-interpretation-strategies-75d4afa6b739)
+    * [Hands-on Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
+    * [Interpreting Deep Learning Models for Computer Vision](https://medium.com/google-developer-experts/interpreting-deep-learning-models-for-computer-vision-f95683e23c1d)
 * [Partial Dependence Plots in R](https://journal.r-project.org/archive/2017/RJ-2017-016/)
 * [PiML-Toolbox](https://github.com/SelfExplainML/PiML-Toolbox/tree/main/examples)
 * [Saliency Maps for Deep Learning](https://medium.com/@thelastalias/saliency-maps-for-deep-learning-part-1-vanilla-gradient-1d0665de3284)
@@ -400,8 +400,8 @@ We are seeking curated bibliographies related to responsible ML.
   * [Proposed Guidelines for Responsible Use of Explainable Machine Learning (paper, bibliography)](https://github.com/jphall663/responsible_xai/blob/master/responsible_xai.bib)
   * [A Responsible Machine Learning Workflow (paper, bibliography)](https://github.com/h2oai/article-information-2019/blob/master/back_up/article-information-2019.bib.bak)
 
-**Web**:
-* [Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Scholarship](https://www.fatml.org/resources/relevant-scholarship)
+* **Web**:
+  * [Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Scholarship](https://www.fatml.org/resources/relevant-scholarship)
 
 ### Generative AI Responsible Use Guidance
 
