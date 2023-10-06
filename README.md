@@ -86,7 +86,7 @@ This section is for conferences, workshops and other major events related to res
 * [Black in AI](https://blackinai.github.io/#/)
 * [Computer Vision and Pattern Recognition (CVPR)](https://thecvf.com/)
 * [International Conference on Machine Learning (ICML)](https://icml.cc/)
-  * 2021:
+  * **2021**:
     * [Human-AI Collaboration in Sequential Decision-Making](https://icml.cc/virtual/2021/workshop/8367)
     * [Machine Learning for Data: Automated Creation, Privacy, Bias](https://icml.cc/virtual/2021/workshop/8356)
     * [ICML Workshop on Algorithmic Recourse](https://icml.cc/virtual/2021/workshop/8363)
@@ -102,7 +102,7 @@ This section is for conferences, workshops and other major events related to res
     * [Workshop on Computational Approaches to Mental Health @ ICML 2021](https://icml.cc/virtual/2021/workshop/8352)
     * [Workshop on Distribution-Free Uncertainty Quantification](https://icml.cc/virtual/2021/workshop/8373)
     * [Workshop on Socially Responsible Machine Learning](https://icml.cc/virtual/2021/workshop/8347)
-  * 2022:
+  * **2022**:
     * [1st ICML 2022 Workshop on Safe Learning for Autonomous Driving (SL4AD)](https://icml.cc/virtual/2022/workshop/13475)
     * [2nd Workshop on Interpretable Machine Learning in Healthcare (IMLH)](https://icml.cc/virtual/2022/workshop/13449)
     * [DataPerf: Benchmarking Data for Data-Centric AI](https://icml.cc/virtual/2022/workshop/13477)
@@ -112,7 +112,7 @@ This section is for conferences, workshops and other major events related to res
     * [The 1st Workshop on Healthcare AI and COVID-19](https://icml.cc/virtual/2022/workshop/13469)
     * [Theory and Practice of Differential Privacy](https://icml.cc/virtual/2022/workshop/13448)
     * [Workshop on Human-Machine Collaboration and Teaming](https://icml.cc/virtual/2022/workshop/13478)
-  * 2023:
+  * **2023**:
     * [2nd ICML Workshop on New Frontiers in Adversarial Machine Learning](https://icml.cc/virtual/2023/workshop/21487)
     * [2nd Workshop on Formal Verification of Machine Learning](https://icml.cc/virtual/2023/workshop/21471)
     * [3rd Workshop on Interpretable Machine Learning in Healthcare (IMLH)](https://icml.cc/virtual/2023/workshop/21486)
@@ -124,11 +124,11 @@ This section is for conferences, workshops and other major events related to res
     * [Neural Conversational AI Workshop - What’s left to TEACH (Trustworthy, Enhanced, Adaptable, Capable and Human-centric) chatbots?](https://icml.cc/virtual/2023/workshop/21485)
     * [The Second Workshop on Spurious Correlations, Invariance and Stability](https://icml.cc/virtual/2023/workshop/21493)
 * [Knowledge, Discovery, and Data Mining (KDD)](https://kdd.org/)
-  * 2023
+  * **2023**:
     * [2nd ACM SIGKDD Workshop on Ethical Artificial Intelligence: Methods and Applications](https://charliezhaoyinpeng.github.io/EAI-KDD23/cfp/)
     * [KDD Data Science for Social Good 2023](https://kdd-dssg.github.io/)
 * [Neural Information Processing Systems (NeurIPs)](https://neurips.cc/)
-  * 2022
+  * **2022**:
     * [5th Robot Learning Workshop: Trustworthy Robotics](https://neurips.cc/virtual/2022/workshop/49997)
     * [Algorithmic Fairness through the Lens of Causality and Privacy](https://neurips.cc/virtual/2022/workshop/49967)
     * [Causal Machine Learning for Real-World Impact](https://neurips.cc/virtual/2022/workshop/49993)
@@ -147,7 +147,7 @@ This section is for conferences, workshops and other major events related to res
     * [Tackling Climate Change with Machine Learning](https://neurips.cc/virtual/2022/workshop/49964)
     * [Trustworthy and Socially Responsible Machine Learning](https://neurips.cc/virtual/2022/workshop/49959)
     * [Workshop on Machine Learning Safety](https://neurips.cc/virtual/2022/workshop/49986)
-  * 2023
+  * **2023**: 
     * [AI meets Moral Philosophy and Moral Psychology: An Interdisciplinary Dialogue about Computational Ethics](https://neurips.cc/virtual/2023/workshop/66528)
     * [Algorithmic Fairness through the Lens of Time](https://neurips.cc/virtual/2023/workshop/66502)
     * [Attributing Model Behavior at Scale (ATTRIB)](https://neurips.cc/virtual/2023/workshop/66496)
@@ -395,13 +395,12 @@ This section contains challenges and competitions related to responsible ML.
 
 We are seeking curated bibliographies related to responsible ML. 
 
-#### BibTeX:
+* **BibTeX**:
+  * [Proposed Guidelines for Responsible Use of Explainable Machine Learning (presentation, bibliography)](https://github.com/jphall663/kdd_2019/blob/master/bibliography.bib)
+  * [Proposed Guidelines for Responsible Use of Explainable Machine Learning (paper, bibliography)](https://github.com/jphall663/responsible_xai/blob/master/responsible_xai.bib)
+  * [A Responsible Machine Learning Workflow (paper, bibliography)](https://github.com/h2oai/article-information-2019/blob/master/back_up/article-information-2019.bib.bak)
 
-* [Proposed Guidelines for Responsible Use of Explainable Machine Learning (presentation, bibliography)](https://github.com/jphall663/kdd_2019/blob/master/bibliography.bib)
-* [Proposed Guidelines for Responsible Use of Explainable Machine Learning (paper, bibliography)](https://github.com/jphall663/responsible_xai/blob/master/responsible_xai.bib)
-* [A Responsible Machine Learning Workflow (paper, bibliography)](https://github.com/h2oai/article-information-2019/blob/master/back_up/article-information-2019.bib.bak)
-
-#### Web:
+**Web**:
 * [Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Scholarship](https://www.fatml.org/resources/relevant-scholarship)
 
 ### Generative AI Responsible Use Guidance
