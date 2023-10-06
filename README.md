@@ -11,12 +11,12 @@ If something you contributed or found here is missing after our September 2023 r
 
 * **Community and Policy**
   * [Community Frameworks and Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#community-frameworks-and-guidance)
-  * [Conferences and Workshops (WIP - please contribute!)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#conferences-and-workshops-wip---please-contribute)
+  * [Conferences and Workshops (WIP - please contribute!)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#conferences-and-workshops)
   * [Official Policy, Frameworks and Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#official-policy-frameworks-and-guidance)
     
 * **Evaluation and Standards**
   * [AI Incident Trackers](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#ai-incident-trackers)
-  * [Auditing and Evaluation Resources (WIP - please contribute!)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#auditing-and-evaluation-resources-wip---please-contribute)
+  * [Auditing and Evaluation Resources (WIP - please contribute!)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#auditing-and-evaluation-resources)
   * [Benchmarks](https://github.com/jphall663/awesome-machine-learning-interpretability#benchmarks)
   * [Common or Useful Datasets](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#common-or-useful-datasets)
 
@@ -27,13 +27,13 @@ If something you contributed or found here is missing after our September 2023 r
   * [Open-ish Classes](https://github.com/jphall663/awesome-machine-learning-interpretability#open-ish-classes)
 
 * **Miscellaneous Resources**
-  * [Challenges and Competitions (WIP - please contribute!)](https://github.com/jphall663/awesome-machine-learning-interpretability#challenges-and-competitions-wip---please-contribute)
-  * [Curated Bibliographies (WIP - please contribute !)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#curated-bibliographies-wip---please-contribute-)
+  * [Challenges and Competitions (WIP - please contribute!)](https://github.com/jphall663/awesome-machine-learning-interpretability#challenges-and-competitions)
+  * [Curated Bibliographies (WIP - please contribute !)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#curated-bibliographies)
   * [Generative AI Responsible Use Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#generative-ai-responsible-use-guidance)
   * [List of Lists](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#list-of-lists)
 
 * **Technical Resources**
-  * [Domain-specific Software (WIP - please contribute !)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#domain-specific-software-wip---please-contribute-)
+  * [Domain-specific Software (WIP - please contribute !)](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#domain-specific-software)
   * [Machine Learning Environment Management Tools](https://github.com/jphall663/awesome-machine-learning-interpretability#machine-learning-environment-management-tools)
   * [Open Source/Access Responsible AI Software Packages](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#open-sourceaccess-responsible-ai-software-packages)
     * [Browser](https://github.com/jphall663/awesome-machine-learning-interpretability#browser)
@@ -49,6 +49,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 
 * [8 Principles of Responsible ML](https://ethical.institute/principles.html)
 * [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)
+* [AI Verify](https://aiverifyfoundation.sg/what-is-ai-verify/)
 * [AI Snake Oil](https://www.aisnakeoil.com/)
 * [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](http://sameersingh.org/files/papers/allennlp-interpret-demo-emnlp19.pdf)
 * [Anthropic's Responsible Scaling Policy](https://www-files.anthropic.com/production/files/responsible-scaling-policy-1.0.pdf)
@@ -73,25 +74,21 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [When Not to Trust Your Explanations](https://docs.google.com/presentation/d/10a0PNKwoV3a1XChzvY-T1mWudtzUIZi3sCMzVwGSYfM/edit)
 * [You Created A Machine Learning Application Now Make Sure It's Secure](https://www.oreilly.com/ideas/you-created-a-machine-learning-application-now-make-sure-its-secure)
 
-### Conferences and Workshops (WIP - please contribute!)
+### Conferences and Workshops
 
 This section is for conferences, workshops and other major events related to responsible ML.
 
 * [AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/)
 * [ACM FAccT (Fairness, Accountability, and Transparency)](https://facctconference.org/)
+  * [FAT/ML (Fairness, Accountability, and Transparency in Machine Learning)](https://www.fatml.org/) 
 * [ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO)](https://eaamo.org/)
 * [AIES (AAAI/ACM Conference on AI, Ethics, and Society)](https://www.aies-conference.com/) 
 * [Black in AI](https://blackinai.github.io/#/)
 * [Computer Vision and Pattern Recognition (CVPR)](https://thecvf.com/)
-* [European Conference on Information Retrieval (ECIR)](https://ecir2023.org/)
-* [FAT/ML (Fairness, Accountability, and Transparency in Machine Learning)](https://www.fatml.org/)
-* [IEEE International Conference on Big Data](https://bigdataieee.org/BigData2022/)
 * [International Conference on Machine Learning (ICML)](https://icml.cc/)
-  * 2021
-    * [Beyond first-order methods in machine learning systems](https://icml.cc/virtual/2021/workshop/8369)
+  * 2021:
     * [Human-AI Collaboration in Sequential Decision-Making](https://icml.cc/virtual/2021/workshop/8367)
     * [Machine Learning for Data: Automated Creation, Privacy, Bias](https://icml.cc/virtual/2021/workshop/8356)
-    * [Over-parameterization: Pitfalls and Opportunities](https://icml.cc/virtual/2021/workshop/8357)
     * [ICML Workshop on Algorithmic Recourse](https://icml.cc/virtual/2021/workshop/8363)
     * [ICML Workshop on Human in the Loop Learning (HILL)](https://icml.cc/virtual/2021/workshop/8362)
     * [ICML Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI](https://icml.cc/virtual/2021/workshop/8355)
@@ -105,30 +102,27 @@ This section is for conferences, workshops and other major events related to res
     * [Workshop on Computational Approaches to Mental Health @ ICML 2021](https://icml.cc/virtual/2021/workshop/8352)
     * [Workshop on Distribution-Free Uncertainty Quantification](https://icml.cc/virtual/2021/workshop/8373)
     * [Workshop on Socially Responsible Machine Learning](https://icml.cc/virtual/2021/workshop/8347)
-  * 2022
+  * 2022:
     * [1st ICML 2022 Workshop on Safe Learning for Autonomous Driving (SL4AD)](https://icml.cc/virtual/2022/workshop/13475)
     * [2nd Workshop on Interpretable Machine Learning in Healthcare (IMLH)](https://icml.cc/virtual/2022/workshop/13449)
     * [DataPerf: Benchmarking Data for Data-Centric AI](https://icml.cc/virtual/2022/workshop/13477)
-    * [Decision Awareness in Reinforcement Learning](https://icml.cc/virtual/2022/workshop/13463)
     * [Disinformation Countermeasures and Machine Learning (DisCoML)](https://icml.cc/virtual/2022/workshop/13446)
     * [Responsible Decision Making in Dynamic Environments](https://icml.cc/virtual/2022/workshop/13453)
     * [Spurious correlations, Invariance, and Stability (SCIS)](https://icml.cc/virtual/2022/workshop/13461)
     * [The 1st Workshop on Healthcare AI and COVID-19](https://icml.cc/virtual/2022/workshop/13469)
     * [Theory and Practice of Differential Privacy](https://icml.cc/virtual/2022/workshop/13448)
     * [Workshop on Human-Machine Collaboration and Teaming](https://icml.cc/virtual/2022/workshop/13478)
-  * 2023
+  * 2023:
     * [2nd ICML Workshop on New Frontiers in Adversarial Machine Learning](https://icml.cc/virtual/2023/workshop/21487)
     * [2nd Workshop on Formal Verification of Machine Learning](https://icml.cc/virtual/2023/workshop/21471)
     * [3rd Workshop on Interpretable Machine Learning in Healthcare (IMLH)](https://icml.cc/virtual/2023/workshop/21486)
     * [Challenges in Deployable Generative AI](https://icml.cc/virtual/2023/workshop/21481)
     * [“Could it have been different?” Counterfactuals in Minds and Machines](https://icml.cc/virtual/2023/workshop/21482)
-    * [DMLR Workshop: Data-centric Machine Learning Research](https://icml.cc/virtual/2023/workshop/21492)
     * [Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities](https://icml.cc/virtual/2023/workshop/21473)
     * [Generative AI and Law (GenLaw)](https://icml.cc/virtual/2023/workshop/21490)
     * [Interactive Learning with Implicit Human Feedback](https://icml.cc/virtual/2023/workshop/21477)
     * [Neural Conversational AI Workshop - What’s left to TEACH (Trustworthy, Enhanced, Adaptable, Capable and Human-centric) chatbots?](https://icml.cc/virtual/2023/workshop/21485)
     * [The Second Workshop on Spurious Correlations, Invariance and Stability](https://icml.cc/virtual/2023/workshop/21493)
-* [Joint Statistical Meetings (JSM)](https://www.amstat.org/)
 * [Knowledge, Discovery, and Data Mining (KDD)](https://kdd.org/)
   * 2023
     * [2nd ACM SIGKDD Workshop on Ethical Artificial Intelligence: Methods and Applications](https://charliezhaoyinpeng.github.io/EAI-KDD23/cfp/)
@@ -140,17 +134,13 @@ This section is for conferences, workshops and other major events related to res
     * [Causal Machine Learning for Real-World Impact](https://neurips.cc/virtual/2022/workshop/49993)
     * [Challenges in Deploying and Monitoring Machine Learning Systems](https://neurips.cc/virtual/2022/workshop/49982)
     * [Cultures of AI and AI for Culture](https://neurips.cc/virtual/2022/workshop/49983)
-    * [Decentralization and Trustworthy Machine Learning in Web3: Methodologies, Platforms, and Applications](https://neurips.cc/virtual/2022/workshop/50001)
     * [Empowering Communities: A Participatory Approach to AI for Mental Health](https://neurips.cc/virtual/2022/workshop/49984)
     * [Federated Learning: Recent Advances and New Challenges](https://neurips.cc/virtual/2022/workshop/50002)
-    * [Foundation Models for Decision Making](https://neurips.cc/virtual/2022/workshop/49988)
     * [Gaze meets ML](https://neurips.cc/virtual/2022/workshop/49990)
-    * [Graph Learning for Industrial Applications: Finance, Crime Detection, Medicine and Social Media](https://neurips.cc/virtual/2022/workshop/50007)
     * [HCAI@NeurIPS 2022, Human Centered AI](https://neurips.cc/virtual/2022/workshop/50008)
     * [Human Evaluation of Generative Models](https://neurips.cc/virtual/2022/workshop/49978)
     * [Human in the Loop Learning (HiLL) Workshop at NeurIPS 2022](https://neurips.cc/virtual/2022/workshop/49957)
     * [I Can’t Believe It’s Not Better: Understanding Deep Learning Through Empirical Falsification](https://neurips.cc/virtual/2022/workshop/49960)
-    * [INTERPOLATE — First Workshop on Interpolation Regularizers and Beyond](https://neurips.cc/virtual/2022/workshop/49985)
     * [Learning Meaningful Representations of Life](https://neurips.cc/virtual/2022/workshop/49966)
     * [Machine Learning for Autonomous Driving](https://neurips.cc/virtual/2022/workshop/49981)
     * [Progress and Challenges in Building Trustworthy Embodied AI](https://neurips.cc/virtual/2022/workshop/49972)
@@ -168,7 +158,6 @@ This section is for conferences, workshops and other major events related to res
     * [Regulatable ML: Towards Bridging the Gaps between Machine Learning Research and Regulations](https://neurips.cc/virtual/2023/workshop/66512)
     * [Workshop on Distribution Shifts: New Frontiers with Foundation Models](https://neurips.cc/virtual/2023/workshop/66509)
     * [XAI in Action: Past, Present, and Future Applications](https://neurips.cc/virtual/2023/workshop/66529)
-* [Open Data Science Conference (ODSC)](https://odsc.com/)
 
 ### Official Policy, Frameworks and Guidance
 
@@ -230,7 +219,8 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Questions and Answers to Clarify and Provide a Common Interpretation of the Uniform Guidelines on Employee Selection Procedures](https://www.eeoc.gov/laws/guidance/questions-and-answers-clarify-and-provide-common-interpretation-uniform-guidelines)
 * [Questions from the Commission on Protecting Privacy and Preventing Discrimination](https://auditor.utah.gov/wp-content/uploads/sites/6/2021/02/Office-of-the-State-Auditor-Questions-to-help-Procuring-Agencies-_-Entities-with-Software-Procurement-Feb-1-2021-Final.pdf)
 * [RE: Use of External Consumer Data and Information Sources in Underwriting for Life Insurance](https://www.dfs.ny.gov/industry_guidance/circular_letters/cl2019_01)
-* [Singapore Personal Data Protection Commission (PDPC) Model Artificial Intelligence Governance Framework](https://www.pdpc.gov.sg/Help-and-Resources/2020/01/Model-AI-Governance-Framework)
+* [Singapore's Compendium of Use Cases: Practical Illustrations of the Model AI Governance Framework](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgaigovusecases.pdf)
+* [Singapore's Model Artificial Intelligence Governance Framework (Second Edition)](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)
 * [Supervisory Guidance on Model Risk Management](https://www.federalreserve.gov/supervisionreg/srletters/sr1107a1.pdf)
 * [Using Artificial Intelligence and Algorithms](https://www.ftc.gov/news-events/blogs/business-blog/2020/04/using-artificial-intelligence-algorithms)
 
@@ -246,13 +236,12 @@ This section is for repositories of information related to AI incidents and vuln
 * [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
 * [Verica Open Incident Database (VOID)](https://www.thevoid.community/)
 
-### Auditing and Evaluation Resources (WIP - please contribute!)
+### Auditing and Evaluation Resources
 
 We are seeking contributions related to auditing and evaluating ML systems for this section. 
 
 * [AuditBoard: 5 AI Auditing Frameworks to Encourage Accountability](https://www.auditboard.com/blog/ai-auditing-frameworks/)
 * [Auditing machine learning algorithms: A white paper for public auditors](https://www.auditingalgorithms.net/index.html)
-* [Campfire AI: How to audit your chatbot in 20 min. or less](https://www.thecampfire.ai/post/how-to-audit-your-chatbot-in-20-min-or-less)
 * [Censius: AI Audit](https://censius.ai/wiki/ai-audit)
 * [Crowe LLP: Internal auditor's AI safety checklist](https://www.crowe.com/insights/asset/i/internal-auditors-ai-safety-checklist)
 * [Haptic Networks: How to Perform an AI Audit for UK Organisations](https://www.haptic-networks.com/cyber-security/how-to-perform-an-ai-audit/)
@@ -267,8 +256,6 @@ We are seeking contributions related to auditing and evaluating ML systems for t
 * [Real-World Strategies for Model Debugging](https://towardsdatascience.com/strategies-for-model-debugging-aa822f1097ce)
 * [RecoSense: Phases of an AI Data Audit – Assessing Opportunity in the Enterprise](https://recosenselabs.com/blog/phases-of-an-ai-data-audit-assessing-opportunity-in-the-enterprise)
 * [Singapore's Companion to the Model AI Governance Framework – Implementation and Self-Assessment Guide for Organizations](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgisago.pdf)
-* [Singapore's Compendium of Use Cases: Practical Illustrations of the Model AI Governance Framework](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgaigovusecases.pdf)
-* [Singapore's Model Artificial Intelligence Governance Framework (Second Edition)](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)
 * [Taskade: AI Audit PBC Request Checklist Template](https://www.taskade.com/templates/engineering/audit-pbc-request-checklist)
 * [TechTarget: 9 questions to ask when auditing your AI systems](https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/)
 * [Testing and Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging)
@@ -396,7 +383,7 @@ This section features a selection of educational courses focused on ethical cons
 
 ## Miscellaneous Resources
 
-### Challenges and Competitions (WIP - please contribute!)
+### Challenges and Competitions
 
 This section contains challenges and competitions related to responsible ML. 
 
@@ -404,7 +391,7 @@ This section contains challenges and competitions related to responsible ML.
 * [National Fair Housing Alliance Hackathon](https://nationalfairhousing.org/hackathon2023/)
 * [Twitter Algorithmic Bias](https://hackerone.com/twitter-algorithmic-bias?type=team)
 
-### Curated Bibliographies (WIP - please contribute !)
+### Curated Bibliographies
 
 We are seeking curated bibliographies related to responsible ML. 
 
@@ -456,7 +443,7 @@ This section links to other lists of responsible ML or related resources.
 
 ## Technical Resources
 
-### Domain-specific Software (WIP - please contribute !)
+### Domain-specific Software
 
 This section curates specialized software tools aimed at responsible ML within specific domains, such as in healthcare, finance, or social sciences.
 
