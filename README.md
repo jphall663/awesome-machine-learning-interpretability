@@ -550,6 +550,7 @@ This section contains open source or open access software used to implement resp
 * [Optimal Sparse Decision Trees](https://github.com/xiyanghu/OSDT)
 * [parity-fairness](https://pypi.org/project/parity-fairness/)
 * [PDPbox](https://github.com/SauceCat/PDPbox)
+* [PiML-Toolbox](https://github.com/SelfExplainML/PiML-Toolbox)
 * [ProtoPNet](https://github.com/cfchen-duke/)
 * [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown)
 * [PyCEbox](https://github.com/AustinRochford/PyCEbox)
