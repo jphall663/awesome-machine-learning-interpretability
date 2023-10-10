@@ -315,7 +315,7 @@ This section is a curated collection of guides and tutorials that simplify respo
     * [Hands-on Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
     * [Interpreting Deep Learning Models for Computer Vision](https://medium.com/google-developer-experts/interpreting-deep-learning-models-for-computer-vision-f95683e23c1d)
 * [Partial Dependence Plots in R](https://journal.r-project.org/archive/2017/RJ-2017-016/)
-* [PiML-Toolbox](https://github.com/SelfExplainML/PiML-Toolbox/tree/main/examples)
+* [PiML-Toolbox Examples](https://github.com/SelfExplainML/PiML-Toolbox/tree/main/examples)
 * [Saliency Maps for Deep Learning](https://medium.com/@thelastalias/saliency-maps-for-deep-learning-part-1-vanilla-gradient-1d0665de3284)
 * [Visualizing ML Models with LIME](http://uc-r.github.io/lime)
 * [Visualizing and debugging deep convolutional networks](https://rohitghosh.github.io/2018/01/05/visualising-debugging-deep-neural-networks/)
