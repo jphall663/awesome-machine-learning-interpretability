@@ -576,6 +576,7 @@ This section contains open source or open access software used to implement resp
 * [shapley](https://github.com/benedekrozemberczki/shapley)
 * [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
 * [skope-rules](https://github.com/scikit-learn-contrib/skope-rules)
+* [solas-ai-disparity](https://github.com/SolasAI/solas-ai-disparity)
 * [Super-sparse Linear Integer models (SLIMs)](https://github.com/ustunb/slim-python)
 * [tensorflow/lattice](https://github.com/tensorflow/lattice)
 * [tensorflow/lucid](https://github.com/tensorflow/lucid)
