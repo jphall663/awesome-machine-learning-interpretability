@@ -623,6 +623,7 @@ This section contains open source or open access software used to implement resp
 * [woe](https://github.com/boredbird/woe)
 * [xai](https://github.com/EthicalML/xai)
 * [xdeep](https://github.com/datamllab/xdeep)
+* [xplique](https://github.com/deel-ai/xplique)
 * [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)
  
 #### R
