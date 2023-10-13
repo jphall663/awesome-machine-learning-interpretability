@@ -265,11 +265,8 @@ We are seeking contributions related to auditing and evaluating ML systems for t
 
 This section contains benchmarks or datasets used for benchmarks for ML systems, particularly those related to responsible ML desiderata.
 
-* [Anchors: High-Precision Model-Agnostic Explanations](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf)
-  * [marcotcr/anchor](https://github.com/marcotcr/anchor)
 * [benchm-ml](https://github.com/szilard/benchm-ml)
 * [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq)
-* [ExplainaBoard](https://github.com/neulab/ExplainaBoard)
 * [HELM](https://crfm.stanford.edu/helm/latest/)
 * [Nvidia MLPerf](https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/)
 * [OpenML Benchmarking Suites](https://www.openml.org/search?type=benchmark&study_type=task)
@@ -544,6 +541,7 @@ This section contains open source or open access software used to implement resp
 * [eli5](https://github.com/TeamHG-Memex/eli5)
 * [explabox](https://github.com/MarcelRobeer/explabox)
 * [Explainable Boosting Machine (EBM)/GA2M](https://github.com/interpretml/interpret)
+* [ExplainaBoard](https://github.com/neulab/ExplainaBoard)
 * [explainerdashboard](https://github.com/oegedijk/explainerdashboard)
 * [fair-classification](https://github.com/mbilalzafar/fair-classification)
 * [fairml](https://github.com/adebayoj/fairml)
