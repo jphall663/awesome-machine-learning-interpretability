@@ -327,7 +327,7 @@ This section is a curated collection of guides and tutorials that simplify respo
 
 ### Free-ish Books
 
-This section contains books that can be reasonably described as free.
+This section contains books that can be reasonably described as free, including some "historical" books dealing broadly with ethical and responsible tech.
 
 * [César A. Hidalgo, Diana Orghian, Jordi Albo-Canals, Filipa de Almeida, and Natalia Martin, 2021, *How Humans Judge Machines*](https://archive.org/details/mit_press_book_9780262363266)
 * [Charles Perrow, 1984, *Normal Accidents: Living with High-Risk Technologies*](https://archive.org/details/normalaccidentsl0000perr)
@@ -344,11 +344,11 @@ This section contains books that can be reasonably described as free.
 * [Morton E. Winston and Ralph D. Edelbach, 2003, *Society, Ethics, and Technology*, Second Edition](https://archive.org/details/societyethicstec0000unse)
 * [Morton E. Winston and Ralph D. Edelbach, 2006, *Society, Ethics, and Technology*, Third Edition](https://archive.org/details/societyethicstec00edel)
 * [Patrick Hall and Navdeep Gill, 2019, *An Introduction to Machine Learning Interpretability: An Applied Perspective on Fairness, Accountability, Transparency, and Explainable AI*, Second Edition](https://h2o.ai/content/dam/h2o/en/marketing/documents/2019/08/An-Introduction-to-Machine-Learning-Interpretability-Second-Edition.pdf)
+* [Patrick Hall, Navdeep Gill, and Benjamin Cox, 2021, *Responsible Machine Learning: Actionable Strategies for Mitigating Risks & Driving Adoption*](https://info.h2o.ai/rs/644-PKX-778/images/OReilly_Responsible_ML_eBook.pdf)
 * [Patrick Hall, James Curtis, Parul Pandey, and Agus Sudjianto, 2023, *Machine Learning for High-Risk Applications: Approaches to Responsible AI*](https://pages.dataiku.com/oreilly-responsible-ai)
 * [Paula Boddington, 2017, *Towards a Code of Ethics for Artificial Intelligence*](https://archive.org/details/towardscodeofeth0000bodd)
 * [Przemyslaw Biecek and Tomasz Burzykowski, 2020, *Explanatory Model Analysis: Explore, Explain, and Examine Predictive Models. With examples in R and Python*](https://ema.drwhy.ai/)
 * [Raymond E. Spier, 2003, *Science and Technology Ethics*](https://archive.org/details/sciencetechnolog0000unse_k7m6)
-* [Responsible Machine Learning](https://www.h2o.ai/resources/ebook/responsible-machine-learning/)
 * [Richard A. Spinello, 1995, *Ethical Aspects of Information Technology*](https://archive.org/details/ethicalaspectsof00spin)
 * [Richard A. Spinello, 1997, *Case Studies in Information and Computer Ethics*](https://archive.org/details/unset0000unse_l0l0)
 * [Richard A. Spinello, 2003, *Case Studies in Information Technology Ethics*, Second Edition](https://archive.org/details/casestudiesininf02edspin)
