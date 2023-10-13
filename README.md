@@ -271,6 +271,7 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 * [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq)
 * [ExplainaBoard](https://github.com/neulab/ExplainaBoard)
 * [HELM](https://crfm.stanford.edu/helm/latest/)
+* [Nvidia MLPerf](https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/)
 * [OpenML Benchmarking Suites](https://www.openml.org/search?type=benchmark&study_type=task)
 * [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
 * [Winogender Schemas](https://github.com/rudinger/winogender-schemas)
