@@ -330,6 +330,8 @@ This section is a curated collection of guides and tutorials that simplify respo
 This section contains books that can be reasonably described as free.
 
 * [César A. Hidalgo, Diana Orghian, Jordi Albo-Canals, Filipa de Almeida, and Natalia Martin, 2021, *How Humans Judge Machines*](https://archive.org/details/mit_press_book_9780262363266)
+* [Charles Perrow, 1984, *Normal Accidents: Living with High-Risk Technologies*](https://archive.org/details/normalaccidentsl0000perr)
+* [Charles Perrow, 1999, *Normal Accidents: Living with High-Risk Technologies with a New Afterword and a Postscript on the Y2K Problem*](https://archive.org/details/normalaccidentsl00perr)
 * [Christoph Molnar, 2021, *Interpretable Machine Learning: A Guide for Making Black Box Models Explainable*](https://christophm.github.io/interpretable-ml-book/)
    * [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book)
 * [Deborah G. Johnson and Keith W. Miller, 2009, *Computer Ethics: Analyzing Information Technology*, Fourth Edition](https://archive.org/details/computerethicsan0004edjohn)
