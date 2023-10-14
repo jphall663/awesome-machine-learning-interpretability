@@ -66,6 +66,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [MACHINE LEARNING QUICK REFERENCE: BEST PRACTICES](https://support.sas.com/rnd/app/data-mining/enterprise-miner/pdfs/Machine_Learning_Quick_Ref_Best_Practices.pdf)
 * [MACHINE LEARNING QUICK REFERENCE: ALGORITHMS](https://support.sas.com/rnd/app/data-mining/enterprise-miner/pdfs/Machine_Learning_Quick_Ref_Algorithms_Mar2017.pdf)
 * [Microsoft Responsible AI Standard, v2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cmFl)
+* [NewsGuard AI Tracking Center](https://www.newsguardtech.com/special-reports/ai-tracking-center/)
 * [Robust ML](https://www.robust-ml.org/)
 * [Safe and Reliable Machine Learning](https://www.dropbox.com/s/sdu26h96bc0f4l7/FAT19-AI-Reliability-Final.pdf?dl=0)
 * [Sample AI Incident Response Checklist](https://bnh-ai.github.io/resources/)
