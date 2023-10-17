@@ -433,6 +433,81 @@ We are seeking curated bibliographies related to responsible ML.
 * **Web**:
   * [Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Scholarship](https://www.fatml.org/resources/relevant-scholarship)
 
+- **Ethical ML**
+  - Foundational Theories
+  - Case Studies
+  - Ethical Guidelines
+
+- **Algorithmic Bias**
+  - Sources of Bias
+  - Mitigation Strategies
+  - Impact Assessment
+
+- **Regulation and Policy**
+  - Current Legislation
+  - Policy Proposals
+  - Enforcement and Oversight
+
+- **Social Impact of ML**
+  - Positive Impacts
+  - Negative Impacts
+  - Societal Discussions
+
+- **Explainability and Interpretability**
+  - Technical Approaches
+  - User Experience
+  - Legal Requirements
+
+- **ML in Healthcare**
+  - Clinical Applications
+  - Ethical Considerations
+  - Regulatory Landscape
+
+- **Data Privacy**
+  - Anonymization Techniques
+  - Legal Frameworks
+  - Privacy vs Utility
+
+- **Cultural and Geographical Context**
+  - Localized Practices
+  - Cross-Cultural Studies
+  - Cultural Sensitivity
+
+- **Sociotechnical Systems**
+  - Integration Challenges
+  - System Theory
+  - Ethnographic Studies
+
+- **Human-Centered ML**
+  - User-Centric Design
+  - Human-in-the-Loop
+  - Cognitive Psychology
+
+- **Historical Perspectives**
+  - Early Computational Models
+  - Historical Context
+  - Future Histories
+
+- **Environmental Impact**
+  - Energy Consumption
+  - Sustainable Practices
+  - Ecological Ethics
+
+- **Feminist Approaches to ML**
+  - Gender Bias
+  - Feminist Theory
+  - Empowerment
+
+- **Indigenous Perspectives**
+  - Data Sovereignty
+  - Cultural Respect
+  - Case Studies
+
+- **Accessibility and Inclusion**
+  - Adaptive Technologies
+  - Design Principles
+  - User Studies
+
 ### Generative AI Responsible Use Guidance
 
 This section contains information related to the responsible use of generative AI.
