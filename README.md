@@ -224,6 +224,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Singapore's Model Artificial Intelligence Governance Framework (Second Edition)](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)
 * [Supervisory Guidance on Model Risk Management](https://www.federalreserve.gov/supervisionreg/srletters/sr1107a1.pdf)
 * [Using Artificial Intelligence and Algorithms](https://www.ftc.gov/news-events/blogs/business-blog/2020/04/using-artificial-intelligence-algorithms)
+* [U.S. Web Design System (USWDS) Design principles](https://designsystem.digital.gov/design-principles/)
 
 ## Evaluation and Standards
 
