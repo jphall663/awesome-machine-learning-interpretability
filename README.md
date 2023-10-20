@@ -520,6 +520,7 @@ This section contains information related to the responsible use of generative A
 * [Ethical and social risks of harm from Language Models](https://www.deepmind.com/publications/ethical-and-social-risks-of-harm-from-language-models)
 * [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
 * [Google Privacy & Terms, Generative AI Prohibited Use Policy](https://policies.google.com/terms/generative-ai/use-policy)
+* [JohnSnowLabs / langtest](https://github.com/JohnSnowLabs/langtest)
 * [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
 * [Llama 2 Responsible Use Guide](https://ai.meta.com/llama/responsible-use-guide/)
 * [Open Sourcing Highly Capable Foundation Models](https://www.governance.ai/research-paper/open-sourcing-highly-capable-foundation-models)
