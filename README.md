@@ -424,87 +424,12 @@ This section contains challenges and competitions related to responsible ML.
 
 ### Curated Bibliographies
 
-We are seeking curated bibliographies related to responsible ML. 
-
-* **Accessibility and Inclusion**
-  * Adaptive Technologies
-  * Design Principles
-  * User Studies
-
-* **Algorithmic Bias**
-  * Sources of Bias
-  * Mitigation Strategies
-  * Impact Assessment
+We are seeking curated bibliographies related to responsible ML across various topics, see [issue 115](https://github.com/jphall663/awesome-machine-learning-interpretability/issues/115). 
 
 * **BibTeX**:
   * [Proposed Guidelines for Responsible Use of Explainable Machine Learning (presentation, bibliography)](https://github.com/jphall663/kdd_2019/blob/master/bibliography.bib)
   * [Proposed Guidelines for Responsible Use of Explainable Machine Learning (paper, bibliography)](https://github.com/jphall663/responsible_xai/blob/master/responsible_xai.bib)
   * [A Responsible Machine Learning Workflow (paper, bibliography)](https://github.com/h2oai/article-information-2019/blob/master/back_up/article-information-2019.bib.bak)
-
-* **Cultural and Geographical Context**
-  * Localized Practices
-  * Cross-Cultural Studies
-  * Cultural Sensitivity
-
-* **Data Privacy**
-  * Anonymization Techniques
-  * Legal Frameworks
-  * Privacy vs Utility
-
-* **Environmental Impact**
-  * Energy Consumption
-  * Sustainable Practices
-  * Ecological Ethics
-
-* **Ethical ML**
-  * Foundational Theories
-  * Case Studies
-  * Ethical Guidelines
-
-* **Explainability and Interpretability**
-  * Technical Approaches
-  * User Experience
-  * Legal Requirements
-
-* **Feminist Approaches to ML**
-  * Gender Bias
-  * Feminist Theory
-  * Empowerment
-
-* **Historical Perspectives**
-  * Early Computational Models
-  * Historical Context
-  * Future Histories
-
-* **Human-Centered ML**
-  * User-Centric Design
-  * Human-in-the-Loop
-  * Cognitive Psychology
-
-* **Indigenous Perspectives**
-  * Data Sovereignty
-  * Cultural Respect
-  * Case Studies
-
-* **ML in Healthcare**
-  * Clinical Applications
-  * Ethical Considerations
-  * Regulatory Landscape
-
-* **Regulation and Policy**
-  * Current Legislation
-  * Policy Proposals
-  * Enforcement and Oversight
-
-* **Social Impact of ML**
-  * Positive Impacts
-  * Negative Impacts
-  * Societal Discussions
-
-* **Sociotechnical Systems**
-  * Integration Challenges
-  * System Theory
-  * Ethnographic Studies
  
 * **Web**:
   * [Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Scholarship](https://www.fatml.org/resources/relevant-scholarship)
