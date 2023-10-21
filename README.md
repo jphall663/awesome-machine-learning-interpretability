@@ -372,7 +372,7 @@ This section contains books that can be reasonably described as free, including 
 
 ### Glossaries and Dictionaries
 
-This section features a collection of either glossaries and dictionaries that are geared toward defining terms in ML, including some "historical" dictionaries.
+This section features a collection of glossaries and dictionaries that are geared toward defining terms in ML, including some "historical" dictionaries.
 
 * [A.I. For Anyone: The A-Z of AI](https://www.aiforanyone.org/glossary)
 * [Alan Turing Institute: Data science and AI glossary](https://www.turing.ac.uk/news/data-science-and-ai-glossary)
