@@ -221,6 +221,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [NIST Four Principles of Explainable Artificial Intelligence, Draft NISTIR 8312, 2020-08-17](https://www.nist.gov/system/files/documents/2020/08/17/NIST%20Explainable%20AI%20Draft%20NISTIR8312%20%281%29.pdf)
 * [NIST Four Principles of Explainable Artificial Intelligence, NISTIR 8312, 2021-09-29](https://www.nist.gov/publications/four-principles-explainable-artificial-intelligence)
 * [Office of Management and Budget Guidance for Regulation of Artificial Intelligence Applications, finalized November 2020](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-06.pdf)
+* [Office of Science and Technology Policy's Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
 * [Office of the Comptroller of the Currency (OCC) 2021 Model Risk Management Handbook](https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/model-risk-management/index-model-risk-management.html)
 * [Online Privacy Act of 2023](https://eshoo.house.gov/sites/evo-subsites/eshoo.house.gov/files/evo-media-document/4.12.23-opa.pdf)
 * [Online Safety Bill (United Kingdom)](https://bills.parliament.uk/bills/3137)
