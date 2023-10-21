@@ -227,6 +227,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Office of Management and Budget, Guidance for Regulation of Artificial Intelligence Applications, finalized November 2020](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-06.pdf)
 * [Office of Science and Technology Policy, Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
 * [Office of the Comptroller of the Currency (OCC), 2021 Model Risk Management Handbook](https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/model-risk-management/index-model-risk-management.html)
+* [Online Harms White Paper: Full government response to the consultation (United Kingdom)](https://www.gov.uk/government/consultations/online-harms-white-paper)
 * [Online Privacy Act of 2023](https://eshoo.house.gov/sites/evo-subsites/eshoo.house.gov/files/evo-media-document/4.12.23-opa.pdf)
 * [Online Safety Bill (United Kingdom)](https://bills.parliament.uk/bills/3137)
 * [Principles of Artificial Intelligence Ethics for the Intelligence Community](https://www.intel.gov/principles-of-artificial-intelligence-ethics-for-the-intelligence-community)
