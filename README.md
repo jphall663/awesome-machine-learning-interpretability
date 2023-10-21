@@ -355,6 +355,7 @@ This section contains books that can be reasonably described as free, including 
 * [Deborah G. Johnson and Keith W. Miller, 2009, *Computer Ethics: Analyzing Information Technology*, Fourth Edition](https://archive.org/details/computerethicsan0004edjohn)
 * [George Reynolds, 2002, *Ethics in Information Technology*](https://archive.org/details/ethicsininformat00reyn)
 * [George Reynolds, 2002, *Ethics in Information Technology*, Instructor's Edition](https://archive.org/details/ethicsininformat0000reyn)
+* [Kenneth Vaux (editor), 1970, *Who Shall Live? Medicine, Technology, Ethics*](https://archive.org/details/whoshalllivemedi0000hous)
 * [Kush R. Varshney, 2022, *Trustworthy Machine Learning: Concepts for Developing Accurate, Fair, Robust, Explainable, Transparent, Inclusive, Empowering, and Beneficial Machine Learning Systems*](http://www.trustworthymachinelearning.com/)
 * [Marsha Cook Woodbury, 2003, *Computer and Information Ethics*](https://archive.org/details/computerinformat0000wood_q3r6)
 * [M. David Ermann, Mary B. Williams, and Claudio Gutierrez, 1990, *Computers, Ethics, and Society*](https://archive.org/details/computersethicss0000unse)
