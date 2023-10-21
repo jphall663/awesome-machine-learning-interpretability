@@ -421,7 +421,7 @@ This section features a selection of educational courses focused on ethical cons
 * [Fast.ai Data Ethics course](http://ethics.fast.ai/syllabus)
 * [Human-Centered Machine Learning](http://courses.mpi-sws.org/hcml-ws18/)
 * [Introduction to AI Ethics](https://www.kaggle.com/code/var0101/introduction-to-ai-ethics)
-* [INFO 4270: ETHICS AND POLICY IN DATA SCIENCE](https://docs.google.com/document/d/1GV97qqvjQNvyM2I01vuRaAwHe9pQAZ9pbP7KkKveg1o/)
+* [INFO 4270: Ethics and Policy in Data Science](https://docs.google.com/document/d/1GV97qqvjQNvyM2I01vuRaAwHe9pQAZ9pbP7KkKveg1o/)
 * [Introduction to Responsible Machine Learning](https://jphall663.github.io/GWU_rml/)
 * [Machine Learning Fairness by Google](https://developers.google.com/machine-learning/crash-course/fairness/video-lecture)
 * [Trustworthy Deep Learning](https://berkeley-deep-learning.github.io/cs294-131-s19/)
