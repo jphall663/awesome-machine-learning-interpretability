@@ -455,13 +455,14 @@ We are seeking curated bibliographies related to responsible ML across various t
   * [Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Scholarship](https://www.fatml.org/resources/relevant-scholarship)
 
 
-### Generative AI Responsible Use Guidance
+### Generative AI Responsible Use Guidance and Tools
 
 This section contains information related to the responsible use of generative AI.
 
 * [Andreessen Horowitz (a16z) AI Canon](https://a16z.com/ai-canon/)
 * * [DAIR Prompt Engineering Guide](https://www.promptingguide.ai/)
   * [DAIR Prompt Engineering Guide GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide)
+* [Beyond Memorization: Violating Privacy via Inference with Large Language Models](https://llm-privacy.org)
 * [Ethical and social risks of harm from Language Models](https://www.deepmind.com/publications/ethical-and-social-risks-of-harm-from-language-models)
 * [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
 * [Google Privacy & Terms, Generative AI Prohibited Use Policy](https://policies.google.com/terms/generative-ai/use-policy)
