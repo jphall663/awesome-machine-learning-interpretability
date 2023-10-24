@@ -29,7 +29,7 @@ If something you contributed or found here is missing after our September 2023 r
 * **Miscellaneous Resources**
   * [Challenges and Competitions](https://github.com/jphall663/awesome-machine-learning-interpretability#challenges-and-competitions)
   * [Curated Bibliographies](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#curated-bibliographies)
-  * [Generative AI Responsible Use Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#generative-ai-responsible-use-guidance)
+  * [Generative AI Responsible Use Guidance and Tools](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#generative-ai-responsible-use-guidance-and-tools)
   * [List of Lists](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#list-of-lists)
 
 * **Technical Resources**
