@@ -12,7 +12,7 @@ If something you contributed or found here is missing after our September 2023 r
 * **Community and Policy**
   * [Community Frameworks and Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#community-frameworks-and-guidance)
   * [Conferences and Workshops](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#conferences-and-workshops)
-  * [Official Policy, Frameworks and Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#official-policy-frameworks-and-guidance)
+  * [Official Policy, Frameworks, and Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#official-policy-frameworks-and-guidance)
     
 * **Evaluation and Standards**
   * [AI Incident Trackers](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#ai-incident-trackers)
@@ -161,7 +161,7 @@ This section is for conferences, workshops and other major events related to res
     * [Workshop on Distribution Shifts: New Frontiers with Foundation Models](https://neurips.cc/virtual/2023/workshop/66509)
     * [XAI in Action: Past, Present, and Future Applications](https://neurips.cc/virtual/2023/workshop/66529)
 
-### Official Policy, Frameworks and Guidance
+### Official Policy, Frameworks, and Guidance
 
 This section serves as a repository for policy documents, regulations, guidelines, and recommendations that govern the ethical and responsible use of artificial intelligence and machine learning technologies. From international legal frameworks to specific national laws, the resources cover a broad spectrum of topics such as fairness, privacy, ethics, and governance. 
 
@@ -243,6 +243,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Singapore's Compendium of Use Cases: Practical Illustrations of the Model AI Governance Framework](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgaigovusecases.pdf)
 * [Singapore's Model Artificial Intelligence Governance Framework (Second Edition)](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)
 * [Supervisory Guidance on Model Risk Management](https://www.federalreserve.gov/supervisionreg/srletters/sr1107a1.pdf)
+* [UNESCO, Artificial Intelligence: examples of ethical dilemmas](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases)
 * [Using Artificial Intelligence and Algorithms](https://www.ftc.gov/news-events/blogs/business-blog/2020/04/using-artificial-intelligence-algorithms)
 * [U.S. Web Design System (USWDS) Design principles](https://designsystem.digital.gov/design-principles/)
 
