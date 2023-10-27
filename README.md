@@ -273,6 +273,7 @@ This section is for repositories of information related to AI incidents and vuln
 * [AI Vulnerability Database (AVID)](https://avidml.org/)
 * [AIAAIC](https://www.aiaaic.org/)
 * [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
+* [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
 * [Verica Open Incident Database (VOID)](https://www.thevoid.community/)
 
 ### Auditing and Evaluation Resources
