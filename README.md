@@ -280,6 +280,8 @@ This section serves as a repository for policy documents, regulations, guideline
   * [DOE AI Risk Management Playbook (AIRMP)](https://www.energy.gov/ai/doe-ai-risk-management-playbook-airmp)
   * [DOE AI Use Case Inventory (DOE Use Cases Releasable to Public in Accordance with E.O. 13960)](https://www.energy.gov/sites/default/files/2023-07/DOE_2023_AI_Use_Case_Inventory_0.pdf)
   * [DOE Digital Climate Solutions Inventory](https://www.energy.gov/sites/default/files/2022-09/Digital_Climate_Solutions_Inventory.pdf)
+* [United States Department of Justice, Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974) 
+* [United States Department of Justice, Overview of The Privacy Act of 1974 (2020 Edition)](https://www.justice.gov/opcl/overview-privacy-act-1974-2020-edition) 
 * [United States Patent and Trademark Office (USPTO), Public Views on Artificial Intelligence and Intellectual Property Policy](https://www.uspto.gov/sites/default/files/documents/USPTO_AI-Report_2020-10-07.pdf)
 * [Using Artificial Intelligence and Algorithms](https://www.ftc.gov/news-events/blogs/business-blog/2020/04/using-artificial-intelligence-algorithms)
 * [U.S. Web Design System (USWDS) Design principles](https://designsystem.digital.gov/design-principles/)
