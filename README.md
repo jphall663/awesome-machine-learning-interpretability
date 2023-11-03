@@ -205,6 +205,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Congressional Research Service, Artificial Intelligence: Overview, Recent Advances, and Considerations for the 118th Congress](https://www.energy.gov/sites/default/files/2023-09/Artificial%20Intelligence%20Overview%2C%20Recent%20Advances%2C%20and%20Considerations%20for%20the%20118th%20Congress.pdf)
 * [Consumer Data Protection Act (Code of Virginia)](https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/)
 * [Data Availability and Transparency Act 2022 (Australia)](https://www.datacommissioner.gov.au/law/dat-act)
+* [data.gov, Privacy Policy and Data Policy](https://data.gov/privacy-policy/)
 * [De-identification Tools](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/tools)
 * [Department for Science, Innovation and Technology, Frontier AI: capabilities and risks - discussion paper (United Kingdom)](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper)
 * [Department of Commerce, Intellectual property](https://www.commerce.gov/issues/intellectual-property)
