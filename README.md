@@ -483,7 +483,7 @@ We are seeking curated bibliographies related to responsible ML across various t
 This section contains information related to the responsible use of generative AI.
 
 * [Andreessen Horowitz (a16z) AI Canon](https://a16z.com/ai-canon/)
-* * [DAIR Prompt Engineering Guide](https://www.promptingguide.ai/)
+* [DAIR Prompt Engineering Guide](https://www.promptingguide.ai/)
   * [DAIR Prompt Engineering Guide GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide)
 * [Beyond Memorization: Violating Privacy via Inference with Large Language Models](https://llm-privacy.org)
 * [Ethical and social risks of harm from Language Models](https://www.deepmind.com/publications/ethical-and-social-risks-of-harm-from-language-models)
