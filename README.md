@@ -194,6 +194,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [A Primer on Artificial Intelligence in Securities Markets](https://www.cftc.gov/media/2846/LabCFTC_PrimerArtificialIntelligence102119/download)
 * [AWS Data Privacy FAQ](https://aws.amazon.com/compliance/data-privacy-faq/)
 * [AWS Privacy Notice](https://aws.amazon.com/privacy/)
+* [AWS, What is Data Governance?](https://aws.amazon.com/what-is/data-governance/)
 * [Biometric Information Privacy Act](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57)
 * [Booker Wyden Health Care Letters](https://www.scribd.com/document/437954989/Booker-Wyden-Health-Care-Letters#download)
 * [California Consumer Privacy Act (CCPA)](https://oag.ca.gov/privacy/ccpa)
