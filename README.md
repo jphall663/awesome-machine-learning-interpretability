@@ -302,6 +302,7 @@ We are seeking contributions related to auditing and evaluating ML systems for t
 * [Taskade: AI Audit PBC Request Checklist Template](https://www.taskade.com/templates/engineering/audit-pbc-request-checklist)
 * [TechTarget: 9 questions to ask when auditing your AI systems](https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/)
 * [Testing and Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging)
+* [Testing the Reliability, Validity, and Equity of Terrorism Risk Assessment Instruments](https://www.homeaffairs.gov.au/foi/files/2023/fa-230400097-document-released-part-1.PDF)
 * [Unite.AI: How to perform an AI Audit in 2023](https://www.unite.ai/how-to-perform-an-ai-audit-in-2023/)
 
 ### Benchmarks
