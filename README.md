@@ -15,7 +15,7 @@ If something you contributed or found here is missing after our September 2023 r
   * [Official Policy, Frameworks, and Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#official-policy-frameworks-and-guidance)
     
 * **Evaluation and Standards**
-  * [AI Incident Trackers](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#ai-incident-trackers)
+  * [AI Safety Collaborations](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#ai-safety-collaborations)
   * [Auditing and Evaluation Resources](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#auditing-and-evaluation-resources)
   * [Benchmarks](https://github.com/jphall663/awesome-machine-learning-interpretability#benchmarks)
   * [Common or Useful Datasets](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#common-or-useful-datasets)
@@ -76,6 +76,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [May 2021, Truth, Lies, and Automation: How Language Models Could Change Disinformation](https://cset.georgetown.edu/publication/truth-lies-and-automation/)
   * [March 2021, Key Concepts in AI Safety: An Overview](https://cset.georgetown.edu/publication/key-concepts-in-ai-safety-an-overview/)
   * [February 2021, Trusted Partners: Human-Machine Teaming and the Future of Military AI](https://cset.georgetown.edu/publication/trusted-partners/)
+* [Data & Society, AI Red-Teaming Is Not a One-Stop Solution to AI Harms: Recommendations for Using Red-Teaming for AI Accountability](https://datasociety.net/wp-content/uploads/2023/10/Recommendations-for-Using-Red-Teaming-for-AI-Accountability-PolicyBrief.pdf)
 * [Dealing with Bias and Fairness in AI/ML/Data Science Systems](https://docs.google.com/presentation/d/17o_NzplYua5fcJFuGcy1V1-5GFAHk7oHAF4dN44NkUE)
 * [Debugging Machine Learning Models (ICLR workshop proceedings)](https://debug-ml-iclr2019.github.io/)
 * [Decision Points in AI Governance](https://cltc.berkeley.edu/wp-content/uploads/2020/05/Decision_Points_AI_Governance.pdf)
@@ -228,6 +229,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Consumer Data Protection Act (Code of Virginia)](https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/)
 * [Data Availability and Transparency Act 2022 (Australia)](https://www.datacommissioner.gov.au/law/dat-act)
 * [data.gov, Privacy Policy and Data Policy](https://data.gov/privacy-policy/)
+* [Defense Technical Information Center, Computer Security Technology Planning Study, October 1, 1972](https://apps.dtic.mil/sti/citations/AD0758206)
 * [De-identification Tools](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/tools)
 * [Department for Science, Innovation and Technology, Frontier AI: capabilities and risks - discussion paper (United Kingdom)](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper)
 * [Department of Commerce, Intellectual property](https://www.commerce.gov/issues/intellectual-property)
@@ -307,19 +309,24 @@ This section serves as a repository for policy documents, regulations, guideline
 * [United States Department of Justice, Overview of The Privacy Act of 1974 (2020 Edition)](https://www.justice.gov/opcl/overview-privacy-act-1974-2020-edition) 
 * [United States Patent and Trademark Office (USPTO), Public Views on Artificial Intelligence and Intellectual Property Policy](https://www.uspto.gov/sites/default/files/documents/USPTO_AI-Report_2020-10-07.pdf)
 * [Using Artificial Intelligence and Algorithms](https://www.ftc.gov/news-events/blogs/business-blog/2020/04/using-artificial-intelligence-algorithms)
+* [U.S. Army Concepts Analysis Agency, Proceedings of the Thirteenth Annual U.S. Army Operations Research Symposium, Volume 1, October 29 to November 1, 1974](https://apps.dtic.mil/sti/pdfs/ADA007126.pdf)
 * [U.S. Web Design System (USWDS) Design principles](https://designsystem.digital.gov/design-principles/)
 
 ## Evaluation and Standards
 
-### AI Incident Trackers
+### AI Safety Collaborations
 
-This section is for repositories of information related to AI incidents and vulnerabilities. These resources should enable ML practitioners to learn from past mistakes, not just highlight failures. 
+This section houses initiatives, networks, repositories, and publications that facilitate collective and interdisciplinary efforts to enhance AI safety. It includes platforms where experts and practitioners come together to share insights, identify potential vulnerabilities, and collaborate on developing robust safeguards for AI systems, including AI incident trackers.
 
 * [AI Incident Database (Responsible AI Collaborative)](https://incidentdatabase.ai/)
 * [AI Vulnerability Database (AVID)](https://avidml.org/)
 * [AIAAIC](https://www.aiaaic.org/)
 * [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
+* [Microsoft AI Red Team building future of safer AI](https://www.microsoft.com/en-us/security/blog/2023/08/07/microsoft-ai-red-team-building-future-of-safer-ai/)
 * [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
+* [OpenAI Red Teaming Network](https://openai.com/blog/red-teaming-network)
+* [Organization and Training of a Cyber Security Team](http://ieeexplore.ieee.org/document/1245662)
+* [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2209.07858)
 * [Verica Open Incident Database (VOID)](https://www.thevoid.community/)
 
 ### Auditing and Evaluation Resources
@@ -343,6 +350,7 @@ We are seeking contributions related to auditing and evaluating ML systems for t
 * [Government Accountability Office: Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities](https://www.gao.gov/products/gao-21-519sp)
 * [Real-World Strategies for Model Debugging](https://towardsdatascience.com/strategies-for-model-debugging-aa822f1097ce)
 * [RecoSense: Phases of an AI Data Audit – Assessing Opportunity in the Enterprise](https://recosenselabs.com/blog/phases-of-an-ai-data-audit-assessing-opportunity-in-the-enterprise)
+* [Red Teaming of Advanced Information Assurance Concepts](https://ieeexplore.ieee.org/document/821513)
 * [Singapore's Companion to the Model AI Governance Framework – Implementation and Self-Assessment Guide for Organizations](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgisago.pdf)
 * [Taskade: AI Audit PBC Request Checklist Template](https://www.taskade.com/templates/engineering/audit-pbc-request-checklist)
 * [TechTarget: 9 questions to ask when auditing your AI systems](https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/)
