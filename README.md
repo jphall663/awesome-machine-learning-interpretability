@@ -67,6 +67,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [H2O.ai Algorithms](https://github.com/h2oai/h2o-tutorials/blob/master/training/h2o_algos/h2o_algos_cheat_sheet_04_25_17.pdf)
 * [Identifying and Overcoming Common Data Mining Mistakes](https://support.sas.com/resources/papers/proceedings/proceedings/forum2007/073-2007.pdf)
 * [Infocomm Media Development Authority (Singapore), First of its kind Generative AI Evaluation Sandbox for Trusted AI by AI Verify Foundation and IMDA](https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/generative-ai-evaluation-sandbox)
+* [Larry G. Wlosinski, April 30, 2021, Information System Contingency Planning Guidance](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-3/information-system-contingency-planning-guidance)
 * [Machine Learning Attack_Cheat_Sheet](https://resources.oreilly.com/examples/0636920415947/-/blob/master/Attack_Cheat_Sheet.png)
 * [Machine Learning Quick Reference: Algorithms](https://support.sas.com/rnd/app/data-mining/enterprise-miner/pdfs/Machine_Learning_Quick_Ref_Algorithms_Mar2017.pdf)
 * [Machine Learning Quick Reference: Best Practices](https://support.sas.com/rnd/app/data-mining/enterprise-miner/pdfs/Machine_Learning_Quick_Ref_Best_Practices.pdf)* 
