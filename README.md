@@ -81,6 +81,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Debugging Machine Learning Models (ICLR workshop proceedings)](https://debug-ml-iclr2019.github.io/)
 * [Decision Points in AI Governance](https://cltc.berkeley.edu/wp-content/uploads/2020/05/Decision_Points_AI_Governance.pdf)
 * [Distill](https://distill.pub)
+* [explainX: Explainable AI Framework for Data Scientists](https://github.com/explainX/explainx)
 * [FATML Principles and Best Practices](https://www.fatml.org/resources/principles-and-best-practices)
 * [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/)
 * [From Principles to Practice: An interdisciplinary framework to operationalise AI ethics](https://www.ai-ethics-impact.org/resource/blob/1961130/c6db9894ee73aefa489d6249f5ee2b9f/aieig---report---download-hb-data.pdf)
