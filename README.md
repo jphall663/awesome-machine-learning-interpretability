@@ -737,6 +737,7 @@ This section contains open source or open access software used to implement resp
 * [tf-explain](https://github.com/sicara/tf-explain)
 * [Themis](https://github.com/LASER-UMASS/Themis)
 * [themis-ml](https://github.com/cosmicBboy/themis-ml)
+* [TorchUncertainty](https://github.com/ENSTA-U2IS/torch-uncertainty)
 * [treeinterpreter](https://github.com/andosa/treeinterpreter)
 * [woe](https://github.com/boredbird/woe)
 * [xai](https://github.com/EthicalML/xai)
