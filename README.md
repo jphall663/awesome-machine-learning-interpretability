@@ -339,6 +339,7 @@ We are seeking contributions related to auditing and evaluating ML systems for t
 * [Auditing machine learning algorithms: A white paper for public auditors](https://www.auditingalgorithms.net/index.html)
 * [Censius: AI Audit](https://censius.ai/wiki/ai-audit)
 * [Crowe LLP: Internal auditor's AI safety checklist](https://www.crowe.com/insights/asset/i/internal-auditors-ai-safety-checklist)
+* [Propensity Modelling - Using h2o and DALEX to Estimate the Likelihood of Purchasing a Financial Product](https://github.com/DiegoUsaiUK/Propensity_Modelling)
 * [Haptic Networks: How to Perform an AI Audit for UK Organisations](https://www.haptic-networks.com/cyber-security/how-to-perform-an-ai-audit/)
 * [ICT Institute: A checklist for auditing AI systems](https://ictinstitute.nl/a-checklist-for-auditing-ai-systems/)
 * [IEEE P3119 Standard for the Procurement of Artificial Intelligence and Automated Decision Systems](https://standards.ieee.org/ieee/3119/10729/)
