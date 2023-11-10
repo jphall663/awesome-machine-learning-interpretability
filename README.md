@@ -9,39 +9,35 @@ If something you contributed or found here is missing after our September 2023 r
 
 ## Contents
 
-* **Community and Policy**
-  * [Community Frameworks and Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#community-frameworks-and-guidance)
-  * [Conferences and Workshops](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#conferences-and-workshops)
-  * [Official Policy, Frameworks, and Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#official-policy-frameworks-and-guidance)
-    
-* **Evaluation and Standards**
-  * [AI Safety Collaborations](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#ai-safety-collaborations)
-  * [Auditing and Evaluation Resources](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#auditing-and-evaluation-resources)
-  * [Benchmarks](https://github.com/jphall663/awesome-machine-learning-interpretability#benchmarks)
-  * [Common or Useful Datasets](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#common-or-useful-datasets)
+* **Community and Official Guidance Resources** 
+  * [Community Frameworks and Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability#community-frameworks-and-guidance)
+  * [Conferences and Workshops](https://github.com/jphall663/awesome-machine-learning-interpretability#conferences-and-workshops)
+  * [Official Policy, Frameworks, and Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability#official-policy-frameworks-and-guidance)
 
-* **General Resources**
+* **Education Resources**
   * [Comprehensive Software Examples and Tutorials](https://github.com/jphall663/awesome-machine-learning-interpretability#comprehensive-software-examples-and-tutorials)
   * [Free-ish Books](https://github.com/jphall663/awesome-machine-learning-interpretability#free-ish-books)
   * [Glossaries and Dictionaries](https://github.com/jphall663/awesome-machine-learning-interpretability#glossaries-and-dictionaries)
   * [Open-ish Classes](https://github.com/jphall663/awesome-machine-learning-interpretability#open-ish-classes)
 
 * **Miscellaneous Resources**
+  * [AI Incident Information Sharing Resources](https://github.com/jphall663/awesome-machine-learning-interpretability#ai-incident-information-sharing-resources)
   * [Challenges and Competitions](https://github.com/jphall663/awesome-machine-learning-interpretability#challenges-and-competitions)
-  * [Curated Bibliographies](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#curated-bibliographies)
-  * [Generative AI Responsible Use Guidance and Tools](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#generative-ai-responsible-use-guidance-and-tools)
-  * [List of Lists](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#list-of-lists)
+  * [Curated Bibliographies](https://github.com/jphall663/awesome-machine-learning-interpretability#curated-bibliographies)
+  * [List of Lists](https://github.com/jphall663/awesome-machine-learning-interpretability#list-of-lists)
 
 * **Technical Resources**
-  * [Domain-specific Software](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#domain-specific-software)
+  * [Benchmarks](https://github.com/jphall663/awesome-machine-learning-interpretability#benchmarks)
+  * [Common or Useful Datasets](https://github.com/jphall663/awesome-machine-learning-interpretability#common-or-useful-datasets)
+  * [Domain-specific Software](https://github.com/jphall663/awesome-machine-learning-interpretability#domain-specific-software)
   * [Machine Learning Environment Management Tools](https://github.com/jphall663/awesome-machine-learning-interpretability#machine-learning-environment-management-tools)
-  * [Open Source/Access Responsible AI Software Packages](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/README.md#open-sourceaccess-responsible-ai-software-packages)
+  * [Open Source/Access Responsible AI Software Packages](https://github.com/jphall663/awesome-machine-learning-interpretability#open-sourceaccess-responsible-ai-software-packages)
     * [Browser](https://github.com/jphall663/awesome-machine-learning-interpretability#browser)
     * [C/C++](https://github.com/jphall663/awesome-machine-learning-interpretability#cc)
     * [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python)
     * [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r) 
 
-## Community and Policy
+## Community and Official Guidance Resources
 
 ### Community Frameworks and Guidance 
 
@@ -49,15 +45,18 @@ This section is for responsible ML guidance put forward by organizations or indi
 
 * [8 Principles of Responsible ML](https://ethical.institute/principles.html)
 * [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)
-* [AI Verify](https://aiverifyfoundation.sg/what-is-ai-verify/)
+* [AI Verify](https://aiverifyfoundation.sg/what-is-ai-verify/):
+  * [AI Verify Foundation](https://aiverifyfoundation.sg/what-is-ai-verify/)
+  * [AI Verify Foundation, Cataloguing LLM Evaluations](https://aiverifyfoundation.sg/downloads/Cataloguing_LLM_Evaluations.pdf)
+  * [AI Verify Foundation, Generative AI: Implications for Trust and Governance](https://aiverifyfoundation.sg/downloads/Discussion_Paper.pdf) 
 * [AI Snake Oil](https://www.aisnakeoil.com/)
-* [AI Verify Foundation](https://aiverifyfoundation.sg/what-is-ai-verify/)
-* [AI Verify Foundation, Cataloguing LLM Evaluations](https://aiverifyfoundation.sg/downloads/Cataloguing_LLM_Evaluations.pdf)
-* [AI Verify Foundation, Generative AI: Implications for Trust and Governance](https://aiverifyfoundation.sg/downloads/Discussion_Paper.pdf)
 * [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](http://sameersingh.org/files/papers/allennlp-interpret-demo-emnlp19.pdf)
+* [Andreessen Horowitz (a16z) AI Canon](https://a16z.com/ai-canon/)
 * [Anthropic's Responsible Scaling Policy](https://www-files.anthropic.com/production/files/responsible-scaling-policy-1.0.pdf)
+* [AuditBoard: 5 AI Auditing Frameworks to Encourage Accountability](https://www.auditboard.com/blog/ai-auditing-frameworks/)
+* [Auditing machine learning algorithms: A white paper for public auditors](https://www.auditingalgorithms.net/index.html)
 * [BIML Interactive Machine Learning Risk Framework](https://berryvilleiml.com/interactive/)
-* Center for Security and Emerging Technology (CSET)
+* Center for Security and Emerging Technology (CSET):
   * [November 7, 2023, The Executive Order on Safe, Secure, and Trustworthy AI: Decoding Biden’s AI Policy Roadmap](https://cset.georgetown.edu/article/eo-14410-on-safe-secure-and-trustworthy-ai-trackers/)
   * [October 2023, Decoding Intentions: Artificial Intelligence and Costly Signals](https://cset.georgetown.edu/publication/decoding-intentions/)
   * [August 11, 2023, Understanding AI Harms: An Overview](https://cset.georgetown.edu/article/understanding-ai-harms-an-overview/)
@@ -76,34 +75,76 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [May 2021, Truth, Lies, and Automation: How Language Models Could Change Disinformation](https://cset.georgetown.edu/publication/truth-lies-and-automation/)
   * [March 2021, Key Concepts in AI Safety: An Overview](https://cset.georgetown.edu/publication/key-concepts-in-ai-safety-an-overview/)
   * [February 2021, Trusted Partners: Human-Machine Teaming and the Future of Military AI](https://cset.georgetown.edu/publication/trusted-partners/)
+* [Censius: AI Audit](https://censius.ai/wiki/ai-audit)
+* [Crowe LLP: Internal auditor's AI safety checklist](https://www.crowe.com/insights/asset/i/internal-auditors-ai-safety-checklist)
+* [DAIR Prompt Engineering Guide](https://www.promptingguide.ai/)
+  * [DAIR Prompt Engineering Guide GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide)
 * [Data & Society, AI Red-Teaming Is Not a One-Stop Solution to AI Harms: Recommendations for Using Red-Teaming for AI Accountability](https://datasociety.net/wp-content/uploads/2023/10/Recommendations-for-Using-Red-Teaming-for-AI-Accountability-PolicyBrief.pdf)
 * [Dealing with Bias and Fairness in AI/ML/Data Science Systems](https://docs.google.com/presentation/d/17o_NzplYua5fcJFuGcy1V1-5GFAHk7oHAF4dN44NkUE)
 * [Debugging Machine Learning Models (ICLR workshop proceedings)](https://debug-ml-iclr2019.github.io/)
 * [Decision Points in AI Governance](https://cltc.berkeley.edu/wp-content/uploads/2020/05/Decision_Points_AI_Governance.pdf)
 * [Distill](https://distill.pub)
+* [Ethical and social risks of harm from Language Models](https://www.deepmind.com/publications/ethical-and-social-risks-of-harm-from-language-models)
+* [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
 * [explainX: Explainable AI Framework for Data Scientists](https://github.com/explainX/explainx)
 * [FATML Principles and Best Practices](https://www.fatml.org/resources/principles-and-best-practices)
+* [ForHumanity Body of Knowledge (BOK)](https://forhumanity.center/bok/)
 * [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/)
 * [From Principles to Practice: An interdisciplinary framework to operationalise AI ethics](https://www.ai-ethics-impact.org/resource/blob/1961130/c6db9894ee73aefa489d6249f5ee2b9f/aieig---report---download-hb-data.pdf)
-* [Google's Responsible AI Framework](https://cloud.google.com/responsible-ai)
+Google:
+  * [Google, Closing the AI accountability gap: defining an end-to-end framework for internal algorithmic auditing](https://dl.acm.org/doi/abs/10.1145/3351095.3372873)
+  * [Google, Data governance in the cloud - part 1 - People and processes](https://cloud.google.com/blog/products/data-analytics/data-governance-and-operating-model-for-analytics-pt1)
+  * [Google, Data Governance in the Cloud - part 2 - Tools](https://cloud.google.com/blog/products/data-analytics/data-governance-in-the-cloud-part-2-tools)
+  * [Google, Generative AI Prohibited Use Policy](https://policies.google.com/terms/generative-ai/use-policy)
+  * [Google, Principles and best practices for data governance in the cloud](https://services.google.com/fh/files/misc/principles_best_practices_for_data-governance.pdf)
+  * [Google, Responsible AI Framework](https://cloud.google.com/responsible-ai)
+  * [Google, Testing and Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging)
 * [H2O.ai Algorithms](https://github.com/h2oai/h2o-tutorials/blob/master/training/h2o_algos/h2o_algos_cheat_sheet_04_25_17.pdf)
+* [Haptic Networks: How to Perform an AI Audit for UK Organisations](https://www.haptic-networks.com/cyber-security/how-to-perform-an-ai-audit/)
+* [Frontier Model Forum: What is Red Teaming?](https://www.frontiermodelforum.org/uploads/2023/10/FMF-AI-Red-Teaming.pdf)
+* [ICT Institute: A checklist for auditing AI systems](https://ictinstitute.nl/a-checklist-for-auditing-ai-systems/)
+* IEEE: 
+  * [IEEE P3119 Standard for the Procurement of Artificial Intelligence and Automated Decision Systems](https://standards.ieee.org/ieee/3119/10729/)
+  * [IEEE Std 1012-1998 Standard for Software Verification and Validation](https://people.eecs.ku.edu/~hossein/Teaching/Stds/1012.pdf)
+* [Independent Audit of AI Systems](https://forhumanity.center/independent-audit-of-ai-systems/)
 * [Identifying and Overcoming Common Data Mining Mistakes](https://support.sas.com/resources/papers/proceedings/proceedings/forum2007/073-2007.pdf)
 * [Infocomm Media Development Authority (Singapore), First of its kind Generative AI Evaluation Sandbox for Trusted AI by AI Verify Foundation and IMDA](https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/generative-ai-evaluation-sandbox)
+* [Institute of Internal Auditors: Artificial Intelligence Auditing Framework, Practical Applications, Part A, Special Edition](https://www.theiia.org/globalassets/documents/content/articles/gpi/2017/december/gpi-artificial-intelligence-part-ii.pdf)
+* [ISACA: Auditing Artificial Intelligence](https://ec.europa.eu/futurium/en/system/files/ged/auditing-artificial-intelligence.pdf)
+* [ISACA: Auditing Guidelines for Artificial Intelligence](https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2020/volume-26/auditing-guidelines-for-artificial-intelligence)
+* [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
 * [Larry G. Wlosinski, April 30, 2021, Information System Contingency Planning Guidance](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-3/information-system-contingency-planning-guidance)
+* [Llama 2 Responsible Use Guide](https://ai.meta.com/llama/responsible-use-guide/)
 * [Machine Learning Attack_Cheat_Sheet](https://resources.oreilly.com/examples/0636920415947/-/blob/master/Attack_Cheat_Sheet.png)
 * [Machine Learning Quick Reference: Algorithms](https://support.sas.com/rnd/app/data-mining/enterprise-miner/pdfs/Machine_Learning_Quick_Ref_Algorithms_Mar2017.pdf)
 * [Machine Learning Quick Reference: Best Practices](https://support.sas.com/rnd/app/data-mining/enterprise-miner/pdfs/Machine_Learning_Quick_Ref_Best_Practices.pdf)* 
-* [Microsoft Responsible AI Standard, v2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cmFl)
+* Microsoft: 
+  * [Microsoft AI Red Team building future of safer AI](https://www.microsoft.com/en-us/security/blog/2023/08/07/microsoft-ai-red-team-building-future-of-safer-ai/)
+  * [Microsoft Responsible AI Standard, v2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cmFl)
 * [NewsGuard AI Tracking Center](https://www.newsguardtech.com/special-reports/ai-tracking-center/)
+* [Open Sourcing Highly Capable Foundation Models](https://www.governance.ai/research-paper/open-sourcing-highly-capable-foundation-models)
+* [OpenAI Red Teaming Network](https://openai.com/blog/red-teaming-network)
+* [Organization and Training of a Cyber Security Team](http://ieeexplore.ieee.org/document/1245662)
+* [PAI's Responsible Practices for Synthetic Media: A Framework for Collective Action (Partnership on AI)](https://syntheticmedia.partnershiponai.org/)
+* [Real-World Strategies for Model Debugging](https://towardsdatascience.com/strategies-for-model-debugging-aa822f1097ce)
+* [RecoSense: Phases of an AI Data Audit – Assessing Opportunity in the Enterprise](https://recosenselabs.com/blog/phases-of-an-ai-data-audit-assessing-opportunity-in-the-enterprise)
+* [Red Teaming of Advanced Information Assurance Concepts](https://ieeexplore.ieee.org/document/821513)
+* [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2209.07858)
 * [Robust ML](https://www.robust-ml.org/)
 * [Safe and Reliable Machine Learning](https://www.dropbox.com/s/sdu26h96bc0f4l7/FAT19-AI-Reliability-Final.pdf?dl=0)
 * [Sample AI Incident Response Checklist](https://bnh-ai.github.io/resources/)
+* [SHRM Generative Artificial Intelligence (AI) Chatbot Usage Policy](https://www.shrm.org/resourcesandtools/tools-and-samples/policies/pages/chatgpt-generative-ai-usage.aspx)
 * [Stanford University, Responsible AI at Stanford: Enabling innovation through AI best practices](https://uit.stanford.edu/security/responsibleai)
+* [The Rise of Generative AI and the Coming Era of Social Media Manipulation 3.0: Next-Generation Chinese Astroturfing and Coping with Ubiquitous AI](https://www.rand.org/pubs/perspectives/PEA2679-1.html)
+* [Taskade: AI Audit PBC Request Checklist Template](https://www.taskade.com/templates/engineering/audit-pbc-request-checklist)
+* [TechTarget: 9 questions to ask when auditing your AI systems](https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/)
 * [TRIAGE: Characterizing and auditing training data for improved regression](https://github.com/seedatnabeel/TRIAGE)
 * [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
+* [Unite.AI: How to perform an AI Audit in 2023](https://www.unite.ai/how-to-perform-an-ai-audit-in-2023/)
 * [University of California, Berkeley, Information Security Office, How to Write an Effective Website Privacy Statement](https://security.berkeley.edu/how-write-effective-website-privacy-statement)
 * [Warning Signs: The Future of Privacy and Security in an Age of Machine Learning](https://fpf.org/wp-content/uploads/2019/09/FPF_WarningSigns_Report.pdf)
 * [When Not to Trust Your Explanations](https://docs.google.com/presentation/d/10a0PNKwoV3a1XChzvY-T1mWudtzUIZi3sCMzVwGSYfM/edit)
+* [Why We Need to Know More: Exploring the State of AI Incident Documentation Practices](https://dl.acm.org/doi/fullHtml/10.1145/3600211.3604700)
 * [You Created A Machine Learning Application Now Make Sure It's Secure](https://www.oreilly.com/ideas/you-created-a-machine-learning-application-now-make-sure-its-secure)
 
 ### Conferences and Workshops
@@ -202,6 +243,7 @@ This section is for conferences, workshops and other major events related to res
     * [Regulatable ML: Towards Bridging the Gaps between Machine Learning Research and Regulations](https://neurips.cc/virtual/2023/workshop/66512)
     * [Workshop on Distribution Shifts: New Frontiers with Foundation Models](https://neurips.cc/virtual/2023/workshop/66509)
     * [XAI in Action: Past, Present, and Future Applications](https://neurips.cc/virtual/2023/workshop/66529)
+   * [Oxford Generative AI Summit Slides](https://drive.google.com/drive/folders/1WQPaL-ozhZbZaDichFm4gWZQpGwriT32)
 
 ### Official Policy, Frameworks, and Guidance
 
@@ -265,12 +307,10 @@ This section serves as a repository for policy documents, regulations, guideline
   * [2023-02-01 Security Principles: Addressing underlying causes of risk in complex systems](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/02/security-principles-addressing-underlying-causes-risk-complex-systems)
   * [2023-06-29 Generative AI Raises Competition Concerns](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/06/generative-ai-raises-competition-concerns)
 * [FTC Privacy Policy](https://www.ftc.gov/policy-notices/privacy-policy)
+* [Government Accountability Office: Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities](https://www.gao.gov/products/gao-21-519sp)
 * [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
   * [Article 22 EU GDPR "Automated individual decision-making, including profiling"](https://www.privacy-regulation.eu/en/article-22-automated-individual-decision-making-including-profiling-GDPR.htm)
 * [General principles for the use of Artificial Intelligence in the financial sector](https://www.dnb.nl/media/jkbip2jc/general-principles-for-the-use-of-artificial-intelligence-in-the-financial-sector.pdf)
-* [Google, Data governance in the cloud - part 1 - People and processes](https://cloud.google.com/blog/products/data-analytics/data-governance-and-operating-model-for-analytics-pt1)
-* [Google, Data Governance in the Cloud - part 2 - Tools](https://cloud.google.com/blog/products/data-analytics/data-governance-in-the-cloud-part-2-tools)
-* [Google, Principles and best practices for data governance in the cloud](https://services.google.com/fh/files/misc/principles_best_practices_for_data-governance.pdf)
 * [Gouvernance des algorithmes d’intelligence artificielle dans le secteur financier (France)](https://acpr.banque-france.fr/sites/default/files/medias/documents/20200612_gouvernance_evaluation_ia.pdf)
 * [IAPP Global AI Legislation Tracker](https://iapp.org/resources/article/global-ai-legislation-tracker/)
 * [IAPP US State Privacy Legislation Tracker](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/)
@@ -299,9 +339,11 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Questions and Answers to Clarify and Provide a Common Interpretation of the Uniform Guidelines on Employee Selection Procedures](https://www.eeoc.gov/laws/guidance/questions-and-answers-clarify-and-provide-common-interpretation-uniform-guidelines)
 * [Questions from the Commission on Protecting Privacy and Preventing Discrimination](https://auditor.utah.gov/wp-content/uploads/sites/6/2021/02/Office-of-the-State-Auditor-Questions-to-help-Procuring-Agencies-_-Entities-with-Software-Procurement-Feb-1-2021-Final.pdf)
 * [RE: Use of External Consumer Data and Information Sources in Underwriting for Life Insurance](https://www.dfs.ny.gov/industry_guidance/circular_letters/cl2019_01)
+* [Singapore's Companion to the Model AI Governance Framework – Implementation and Self-Assessment Guide for Organizations](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgisago.pdf)
 * [Singapore's Compendium of Use Cases: Practical Illustrations of the Model AI Governance Framework](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgaigovusecases.pdf)
 * [Singapore's Model Artificial Intelligence Governance Framework (Second Edition)](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)
 * [Supervisory Guidance on Model Risk Management](https://www.federalreserve.gov/supervisionreg/srletters/sr1107a1.pdf)
+* [Testing the Reliability, Validity, and Equity of Terrorism Risk Assessment Instruments](https://www.homeaffairs.gov.au/foi/files/2023/fa-230400097-document-released-part-1.PDF)
 * [UNESCO, Artificial Intelligence: examples of ethical dilemmas](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases)
 * [United States Department of Energy Artificial Intelligence and Technology Office](https://www.energy.gov/ai/artificial-intelligence-technology-office)
   * [DOE AI Risk Management Playbook (AIRMP)](https://www.energy.gov/ai/doe-ai-risk-management-playbook-airmp)
@@ -314,89 +356,8 @@ This section serves as a repository for policy documents, regulations, guideline
 * [U.S. Army Concepts Analysis Agency, Proceedings of the Thirteenth Annual U.S. Army Operations Research Symposium, Volume 1, October 29 to November 1, 1974](https://apps.dtic.mil/sti/pdfs/ADA007126.pdf)
 * [U.S. Web Design System (USWDS) Design principles](https://designsystem.digital.gov/design-principles/)
 
-## Evaluation and Standards
 
-### AI Safety Collaborations
-
-This section houses initiatives, networks, repositories, and publications that facilitate collective and interdisciplinary efforts to enhance AI safety. It includes platforms where experts and practitioners come together to share insights, identify potential vulnerabilities, and collaborate on developing robust safeguards for AI systems, including AI incident trackers.
-
-* [AI Incident Database (Responsible AI Collaborative)](https://incidentdatabase.ai/)
-* [AI Vulnerability Database (AVID)](https://avidml.org/)
-* [AIAAIC](https://www.aiaaic.org/)
-* [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
-* [Microsoft AI Red Team building future of safer AI](https://www.microsoft.com/en-us/security/blog/2023/08/07/microsoft-ai-red-team-building-future-of-safer-ai/)
-* [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
-* [OpenAI Red Teaming Network](https://openai.com/blog/red-teaming-network)
-* [Organization and Training of a Cyber Security Team](http://ieeexplore.ieee.org/document/1245662)
-* [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2209.07858)
-* [Verica Open Incident Database (VOID)](https://www.thevoid.community/)
-
-### Auditing and Evaluation Resources
-
-We are seeking contributions related to auditing and evaluating ML systems for this section. 
-
-* [AuditBoard: 5 AI Auditing Frameworks to Encourage Accountability](https://www.auditboard.com/blog/ai-auditing-frameworks/)
-* [Auditing machine learning algorithms: A white paper for public auditors](https://www.auditingalgorithms.net/index.html)
-* [Censius: AI Audit](https://censius.ai/wiki/ai-audit)
-* [Crowe LLP: Internal auditor's AI safety checklist](https://www.crowe.com/insights/asset/i/internal-auditors-ai-safety-checklist)
-* [Propensity Modelling - Using h2o and DALEX to Estimate the Likelihood of Purchasing a Financial Product](https://github.com/DiegoUsaiUK/Propensity_Modelling)
-* [Haptic Networks: How to Perform an AI Audit for UK Organisations](https://www.haptic-networks.com/cyber-security/how-to-perform-an-ai-audit/)
-* [ICT Institute: A checklist for auditing AI systems](https://ictinstitute.nl/a-checklist-for-auditing-ai-systems/)
-* [IEEE P3119 Standard for the Procurement of Artificial Intelligence and Automated Decision Systems](https://standards.ieee.org/ieee/3119/10729/)
-* [IEEE Std 1012-1998 Standard for Software Verification and Validation](https://people.eecs.ku.edu/~hossein/Teaching/Stds/1012.pdf)
-* [Independent Audit of AI Systems](https://forhumanity.center/independent-audit-of-ai-systems/)
-* [Institute of Internal Auditors: Artificial Intelligence Auditing Framework, Practical Applications, Part A, Special Edition](https://www.theiia.org/globalassets/documents/content/articles/gpi/2017/december/gpi-artificial-intelligence-part-ii.pdf)
-* [InterpretME](https://github.com/SDM-TIB/InterpretME)
-* [ISACA: Auditing Artificial Intelligence](https://ec.europa.eu/futurium/en/system/files/ged/auditing-artificial-intelligence.pdf)
-* [ISACA: Auditing Guidelines for Artificial Intelligence](https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2020/volume-26/auditing-guidelines-for-artificial-intelligence)
-* [ForHumanity Body of Knowledge (BOK)](https://forhumanity.center/bok/)
-* [Google: Closing the AI accountability gap: defining an end-to-end framework for internal algorithmic auditing](https://dl.acm.org/doi/abs/10.1145/3351095.3372873)
-* [Government Accountability Office: Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities](https://www.gao.gov/products/gao-21-519sp)
-* [Real-World Strategies for Model Debugging](https://towardsdatascience.com/strategies-for-model-debugging-aa822f1097ce)
-* [RecoSense: Phases of an AI Data Audit – Assessing Opportunity in the Enterprise](https://recosenselabs.com/blog/phases-of-an-ai-data-audit-assessing-opportunity-in-the-enterprise)
-* [Red Teaming of Advanced Information Assurance Concepts](https://ieeexplore.ieee.org/document/821513)
-* [shreya-28 / Secure-ML, Secure Machine Learning](https://github.com/shreya-28/Secure-ML)
-* [Singapore's Companion to the Model AI Governance Framework – Implementation and Self-Assessment Guide for Organizations](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgisago.pdf)
-* [Taskade: AI Audit PBC Request Checklist Template](https://www.taskade.com/templates/engineering/audit-pbc-request-checklist)
-* [TechTarget: 9 questions to ask when auditing your AI systems](https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/)
-* [Testing and Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging)
-* [Testing the Reliability, Validity, and Equity of Terrorism Risk Assessment Instruments](https://www.homeaffairs.gov.au/foi/files/2023/fa-230400097-document-released-part-1.PDF)
-* [Unite.AI: How to perform an AI Audit in 2023](https://www.unite.ai/how-to-perform-an-ai-audit-in-2023/)
-
-### Benchmarks
-
-This section contains benchmarks or datasets used for benchmarks for ML systems, particularly those related to responsible ML desiderata.
-
-* [benchm-ml](https://github.com/szilard/benchm-ml)
-* [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq)
-* [HELM](https://crfm.stanford.edu/helm/latest/)
-* [Nvidia MLPerf](https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/)
-* [OpenML Benchmarking Suites](https://www.openml.org/search?type=benchmark&study_type=task)
-* [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
-* [Winogender Schemas](https://github.com/rudinger/winogender-schemas)
-* [Real Toxicity Prompts (Allen Institute for AI)](https://allenai.org/data/real-toxicity-prompts)
-
-### Common or Useful Datasets
-
-This section contains datasets that are commonly used in responsible ML evaulations or repositories of interesting/important data sources:
-
-* [Adult income dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
-* [Balanced Faces in the Wild](https://github.com/visionjo/facerec-bias-bfw)
-* [COMPAS Recidivism Risk Score Data and Analysis](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis)
-  * **Data Repositories**:
-    * [All Lending Club loan data](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
-    * [Amazon Open Data](https://registry.opendata.aws/amazon-reviews/)
-    * [Data.gov](https://data.gov/)
-    * [Home Mortgage Disclosure Act (HMDA) Data](https://www.consumerfinance.gov/data-research/hmda/)
-    * [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/)
-    * [UCI ML Data Repository](https://archive.ics.uci.edu/)
-* [Data Provenance Explorer](https://www.dataprovenance.org/)
-* [FANNIE MAE Single Family Loan Performance](https://capitalmarkets.fanniemae.com/credit-risk-transfer/single-family-credit-risk-transfer/fannie-mae-single-family-loan-performance-data)
-* [NYPD Stop, Question and Frisk Data](https://www.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page)
-* [Statlog (German Credit Data)](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
-* [Wikipedia Talk Labels: Personal Attacks](https://www.kaggle.com/datasets/jigsaw-team/wikipedia-talk-labels-personal-attacks)
-
-## General Resources
+## Educational Resources
 
 ### Comprehensive Software Examples and Tutorials
 
@@ -523,6 +484,17 @@ This section features a selection of educational courses focused on ethical cons
 
 ## Miscellaneous Resources
 
+### AI Incident Information Sharing Resources
+
+This section houses initiatives, networks, repositories, and publications that facilitate collective and interdisciplinary efforts to enhance AI safety. It includes platforms where experts and practitioners come together to share insights, identify potential vulnerabilities, and collaborate on developing robust safeguards for AI systems, including AI incident trackers.
+
+* [AI Incident Database (Responsible AI Collaborative)](https://incidentdatabase.ai/)
+* [AI Vulnerability Database (AVID)](https://avidml.org/)
+* [AIAAIC](https://www.aiaaic.org/)
+* [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
+* [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
+* [Verica Open Incident Database (VOID)](https://www.thevoid.community/)
+
 ### Challenges and Competitions
 
 This section contains challenges and competitions related to responsible ML. 
@@ -542,28 +514,6 @@ We are seeking curated bibliographies related to responsible ML across various t
  
 * **Web**:
   * [Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Scholarship](https://www.fatml.org/resources/relevant-scholarship)
-
-
-### Generative AI Responsible Use Guidance and Tools
-
-This section contains information related to the responsible use of generative AI.
-
-* [Andreessen Horowitz (a16z) AI Canon](https://a16z.com/ai-canon/)
-* [DAIR Prompt Engineering Guide](https://www.promptingguide.ai/)
-  * [DAIR Prompt Engineering Guide GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide)
-* [Beyond Memorization: Violating Privacy via Inference with Large Language Models](https://llm-privacy.org)
-* [Ethical and social risks of harm from Language Models](https://www.deepmind.com/publications/ethical-and-social-risks-of-harm-from-language-models)
-* [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
-* [Frontier Model Forum: What is Red Teaming?](https://www.frontiermodelforum.org/uploads/2023/10/FMF-AI-Red-Teaming.pdf)
-* [Google Privacy & Terms, Generative AI Prohibited Use Policy](https://policies.google.com/terms/generative-ai/use-policy)
-* [JohnSnowLabs / langtest](https://github.com/JohnSnowLabs/langtest)
-* [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
-* [Llama 2 Responsible Use Guide](https://ai.meta.com/llama/responsible-use-guide/)
-* [Open Sourcing Highly Capable Foundation Models](https://www.governance.ai/research-paper/open-sourcing-highly-capable-foundation-models)
-* [PAI's Responsible Practices for Synthetic Media: A Framework for Collective Action (Partnership on AI)](https://syntheticmedia.partnershiponai.org/)
-* [SHRM Generative Artificial Intelligence (AI) Chatbot Usage Policy](https://www.shrm.org/resourcesandtools/tools-and-samples/policies/pages/chatgpt-generative-ai-usage.aspx)
-* [The Rise of Generative AI and the Coming Era of Social Media Manipulation 3.0: Next-Generation Chinese Astroturfing and Coping with Ubiquitous AI](https://www.rand.org/pubs/perspectives/PEA2679-1.html)
-* [Why We Need to Know More: Exploring the State of AI Incident Documentation Practices](https://dl.acm.org/doi/fullHtml/10.1145/3600211.3604700)
 
 ### List of Lists
 
@@ -590,6 +540,39 @@ This section links to other lists of responsible ML or related resources.
 * [xaience](https://github.com/andreysharapov/xaience)
 
 ## Technical Resources
+
+### Benchmarks
+
+This section contains benchmarks or datasets used for benchmarks for ML systems, particularly those related to responsible ML desiderata.
+
+* [benchm-ml](https://github.com/szilard/benchm-ml)
+* [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq)
+* [HELM](https://crfm.stanford.edu/helm/latest/)
+* [Nvidia MLPerf](https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/)
+* [OpenML Benchmarking Suites](https://www.openml.org/search?type=benchmark&study_type=task)
+* [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
+* [Winogender Schemas](https://github.com/rudinger/winogender-schemas)
+* [Real Toxicity Prompts (Allen Institute for AI)](https://allenai.org/data/real-toxicity-prompts)
+
+### Common or Useful Datasets
+
+This section contains datasets that are commonly used in responsible ML evaulations or repositories of interesting/important data sources:
+
+* [Adult income dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
+* [Balanced Faces in the Wild](https://github.com/visionjo/facerec-bias-bfw)
+* [COMPAS Recidivism Risk Score Data and Analysis](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis)
+  * **Data Repositories**:
+    * [All Lending Club loan data](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
+    * [Amazon Open Data](https://registry.opendata.aws/amazon-reviews/)
+    * [Data.gov](https://data.gov/)
+    * [Home Mortgage Disclosure Act (HMDA) Data](https://www.consumerfinance.gov/data-research/hmda/)
+    * [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/)
+    * [UCI ML Data Repository](https://archive.ics.uci.edu/)
+* [Data Provenance Explorer](https://www.dataprovenance.org/)
+* [FANNIE MAE Single Family Loan Performance](https://capitalmarkets.fanniemae.com/credit-risk-transfer/single-family-credit-risk-transfer/fannie-mae-single-family-loan-performance-data)
+* [NYPD Stop, Question and Frisk Data](https://www.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page)
+* [Statlog (German Credit Data)](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
+* [Wikipedia Talk Labels: Personal Attacks](https://www.kaggle.com/datasets/jigsaw-team/wikipedia-talk-labels-personal-attacks)
 
 ### Domain-specific Software
 
@@ -621,6 +604,7 @@ This section contains open source or open access software used to implement resp
 
 * [Born-again Tree Ensembles](https://github.com/vidalt/BA-Trees)
 * [Certifiably Optimal RulE ListS](https://github.com/nlarusstone/corels)
+* [Secure-ML](https://github.com/shreya-28/Secure-ML)
 
 #### Python
 
@@ -683,9 +667,11 @@ This section contains open source or open access software used to implement resp
 * [Integrated-Gradients](https://github.com/ankurtaly/Integrated-Gradients)
 * [interpret](https://github.com/interpretml/interpret)
 * [interpret_with_rules](https://github.com/clips/interpret_with_rules)
+* [InterpretME](https://github.com/SDM-TIB/InterpretME)
 * [Keras-vis](https://github.com/raghakot/keras-vis)
 * [keract](https://github.com/philipperemy/keract/)
 * [L2X](https://github.com/Jianbo-Lab/L2X)
+* [langtest](https://github.com/JohnSnowLabs/langtest)
 * [learning-fair-representations](https://github.com/zjelveh/learning-fair-representations)
 * [lime](https://github.com/marcotcr/lime)
 * [LiFT](https://github.com/linkedin/LiFT)
