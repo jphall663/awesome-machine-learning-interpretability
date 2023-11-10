@@ -357,7 +357,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [U.S. Web Design System (USWDS) Design principles](https://designsystem.digital.gov/design-principles/)
 
 
-## Educational Resources
+## Education Resources
 
 ### Comprehensive Software Examples and Tutorials
 
