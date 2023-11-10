@@ -624,6 +624,7 @@ This section contains open source or open access software used to implement resp
 
 #### Python
 
+* [12wang3 / mllp, Multilayer Logical Perceptrons](https://github.com/12wang3/mllp)
 * [abhinav-bohra / Privacy-Preserving-ML, Privacy-preserving SVM assuming public model private data scenario](https://github.com/abhinav-bohra/Privacy-Preserving-ML)
 * [acd](https://github.com/csinva/hierarchical_dnn_interpretations)
 * [aequitas](https://github.com/dssg/aequitas)
