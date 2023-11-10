@@ -607,8 +607,6 @@ This section contains open source or open access software used to implement resp
 
 #### Python
 
-* [12wang3 / mllp, Multilayer Logical Perceptrons](https://github.com/12wang3/mllp)
-* [abhinav-bohra / Privacy-Preserving-ML, Privacy-preserving SVM assuming public model private data scenario](https://github.com/abhinav-bohra/Privacy-Preserving-ML)
 * [acd](https://github.com/csinva/hierarchical_dnn_interpretations)
 * [aequitas](https://github.com/dssg/aequitas)
 * [AI Fairness 360](https://github.com/Trusted-AI/AIF360)
@@ -681,6 +679,7 @@ This section contains open source or open access software used to implement resp
 * [MLextend](http://rasbt.github.io/mlxtend/)
 * [ml-fairness-gym](https://github.com/google/ml-fairness-gym)
 * [ml_privacy_meter](https://github.com/privacytrustlab/ml_privacy_meter)
+* [mllp](https://github.com/12wang3/mllp)
 * [Monotonic](http://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html) [XGBoost](http://xgboost.readthedocs.io/en/latest/)
 * [Multilayer Logical Perceptron (MLLP)](https://github.com/12wang3/mllp)
 * [OptBinning](https://github.com/guillermo-navas-palencia/optbinning)
@@ -688,6 +687,7 @@ This section contains open source or open access software used to implement resp
 * [parity-fairness](https://pypi.org/project/parity-fairness/)
 * [PDPbox](https://github.com/SauceCat/PDPbox)
 * [PiML-Toolbox](https://github.com/SelfExplainML/PiML-Toolbox)
+* [Privacy-Preserving-ML](https://github.com/abhinav-bohra/Privacy-Preserving-ML)
 * [ProtoPNet](https://github.com/cfchen-duke/)
 * [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown)
 * [PyCEbox](https://github.com/AustinRochford/PyCEbox)
