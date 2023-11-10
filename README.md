@@ -98,6 +98,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Safe and Reliable Machine Learning](https://www.dropbox.com/s/sdu26h96bc0f4l7/FAT19-AI-Reliability-Final.pdf?dl=0)
 * [Sample AI Incident Response Checklist](https://bnh-ai.github.io/resources/)
 * [Stanford University, Responsible AI at Stanford: Enabling innovation through AI best practices](https://uit.stanford.edu/security/responsibleai)
+* [TRIAGE: Characterizing and auditing training data for improved regression](https://github.com/seedatnabeel/TRIAGE)
 * [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
 * [University of California, Berkeley, Information Security Office, How to Write an Effective Website Privacy Statement](https://security.berkeley.edu/how-write-effective-website-privacy-statement)
 * [Warning Signs: The Future of Privacy and Security in an Age of Machine Learning](https://fpf.org/wp-content/uploads/2019/09/FPF_WarningSigns_Report.pdf)
@@ -351,6 +352,7 @@ We are seeking contributions related to auditing and evaluating ML systems for t
 * [Real-World Strategies for Model Debugging](https://towardsdatascience.com/strategies-for-model-debugging-aa822f1097ce)
 * [RecoSense: Phases of an AI Data Audit – Assessing Opportunity in the Enterprise](https://recosenselabs.com/blog/phases-of-an-ai-data-audit-assessing-opportunity-in-the-enterprise)
 * [Red Teaming of Advanced Information Assurance Concepts](https://ieeexplore.ieee.org/document/821513)
+* [shreya-28 / Secure-ML, Secure Machine Learning](https://github.com/shreya-28/Secure-ML)
 * [Singapore's Companion to the Model AI Governance Framework – Implementation and Self-Assessment Guide for Organizations](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgisago.pdf)
 * [Taskade: AI Audit PBC Request Checklist Template](https://www.taskade.com/templates/engineering/audit-pbc-request-checklist)
 * [TechTarget: 9 questions to ask when auditing your AI systems](https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/)
@@ -415,6 +417,7 @@ This section is a curated collection of guides and tutorials that simplify respo
     * [Interpreting Deep Learning Models for Computer Vision](https://medium.com/google-developer-experts/interpreting-deep-learning-models-for-computer-vision-f95683e23c1d)
 * [Partial Dependence Plots in R](https://journal.r-project.org/archive/2017/RJ-2017-016/)
 * [PiML-Toolbox Examples](https://github.com/SelfExplainML/PiML-Toolbox/tree/main/examples)
+* [Reliable-and-Trustworthy-AI-Notebooks](https://github.com/ClementSicard/Reliable-and-Trustworthy-AI-Notebooks)
 * [Saliency Maps for Deep Learning](https://medium.com/@thelastalias/saliency-maps-for-deep-learning-part-1-vanilla-gradient-1d0665de3284)
 * [Visualizing ML Models with LIME](http://uc-r.github.io/lime)
 * [Visualizing and debugging deep convolutional networks](https://rohitghosh.github.io/2018/01/05/visualising-debugging-deep-neural-networks/)
@@ -505,6 +508,7 @@ This section features a selection of educational courses focused on ethical cons
 * [Coursera, Google Cloud, Introduction to Generative AI](https://www.coursera.org/learn/introduction-to-generative-ai)
 * [Coursera, Vanderbilt University, Prompt Engineering for ChatGPT](https://www.coursera.org/learn/prompt-engineering)
 * [CS103F: Ethical Foundations of Computer Science](https://www.cs.utexas.edu/~ans/classes/cs109/schedule.html)
+* [ETH Zürich ReliableAI 2022 Course Project repository](https://github.com/angelognazzo/Reliable-Trustworthy-AI)	
 * [Fairness in Machine Learning](https://fairmlclass.github.io/)
 * [Fast.ai Data Ethics course](http://ethics.fast.ai/syllabus)
 * [Human-Centered Machine Learning](http://courses.mpi-sws.org/hcml-ws18/)
@@ -617,6 +621,7 @@ This section contains open source or open access software used to implement resp
 
 #### Python
 
+* [abhinav-bohra / Privacy-Preserving-ML, Privacy-preserving SVM assuming public model private data scenario](https://github.com/abhinav-bohra/Privacy-Preserving-ML)
 * [acd](https://github.com/csinva/hierarchical_dnn_interpretations)
 * [aequitas](https://github.com/dssg/aequitas)
 * [AI Fairness 360](https://github.com/Trusted-AI/AIF360)
@@ -707,6 +712,7 @@ This section contains open source or open access software used to implement resp
 * [robustness](https://github.com/MadryLab/robustness)
 * [RISE](https://github.com/eclique/RISE)
 * [Risk-SLIM](https://github.com/ustunb/risk-SLIM)
+* [RTAI-DeepPoly-Project](https://github.com/ClementSicard/RTAI-DeepPoly-Project)
 * [sage](https://github.com/iancovert/sage/)
 * [SALib](https://github.com/SALib/SALib)
 * Scikit-learn
