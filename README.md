@@ -701,7 +701,6 @@ This section contains open source or open access software used to implement resp
 * [robustness](https://github.com/MadryLab/robustness)
 * [RISE](https://github.com/eclique/RISE)
 * [Risk-SLIM](https://github.com/ustunb/risk-SLIM)
-* [RTAI-DeepPoly-Project](https://github.com/ClementSicard/RTAI-DeepPoly-Project)
 * [sage](https://github.com/iancovert/sage/)
 * [SALib](https://github.com/SALib/SALib)
 * Scikit-learn
