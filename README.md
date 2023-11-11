@@ -91,7 +91,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [ForHumanity Body of Knowledge (BOK)](https://forhumanity.center/bok/)
 * [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/)
 * [From Principles to Practice: An interdisciplinary framework to operationalise AI ethics](https://www.ai-ethics-impact.org/resource/blob/1961130/c6db9894ee73aefa489d6249f5ee2b9f/aieig---report---download-hb-data.pdf)
-Google:
+* Google:
   * [Google, Closing the AI accountability gap: defining an end-to-end framework for internal algorithmic auditing](https://dl.acm.org/doi/abs/10.1145/3351095.3372873)
   * [Google, Data governance in the cloud - part 1 - People and processes](https://cloud.google.com/blog/products/data-analytics/data-governance-and-operating-model-for-analytics-pt1)
   * [Google, Data Governance in the Cloud - part 2 - Tools](https://cloud.google.com/blog/products/data-analytics/data-governance-in-the-cloud-part-2-tools)
