@@ -110,8 +110,9 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Identifying and Overcoming Common Data Mining Mistakes](https://support.sas.com/resources/papers/proceedings/proceedings/forum2007/073-2007.pdf)
 * [Infocomm Media Development Authority (Singapore), First of its kind Generative AI Evaluation Sandbox for Trusted AI by AI Verify Foundation and IMDA](https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/generative-ai-evaluation-sandbox)
 * [Institute of Internal Auditors: Artificial Intelligence Auditing Framework, Practical Applications, Part A, Special Edition](https://www.theiia.org/globalassets/documents/content/articles/gpi/2017/december/gpi-artificial-intelligence-part-ii.pdf)
-* [ISACA: Auditing Artificial Intelligence](https://ec.europa.eu/futurium/en/system/files/ged/auditing-artificial-intelligence.pdf)
-* [ISACA: Auditing Guidelines for Artificial Intelligence](https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2020/volume-26/auditing-guidelines-for-artificial-intelligence)
+* ISACA:
+  * [ISACA: Auditing Artificial Intelligence](https://ec.europa.eu/futurium/en/system/files/ged/auditing-artificial-intelligence.pdf)
+  * [ISACA: Auditing Guidelines for Artificial Intelligence](https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2020/volume-26/auditing-guidelines-for-artificial-intelligence)
 * [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
 * [Larry G. Wlosinski, April 30, 2021, Information System Contingency Planning Guidance](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-3/information-system-contingency-planning-guidance)
 * [Llama 2 Responsible Use Guide](https://ai.meta.com/llama/responsible-use-guide/)
@@ -291,7 +292,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Federal Consumer Online Privacy Rights Act (COPRA)](https://www.consumerprivacyact.com/federal/)
 * [Federal Reserve Bank of Dallas, Regulation B, Equal Credit Opportunity, Credit Scoring Interpretations: Withdrawl of Proposed Business Credit Amendments, June 3, 1982](https://fraser.stlouisfed.org/files/docs/historical/frbdal/circulars/frbdallas_circ_19820603_no82-063.pdf)
 * [FHA model risk management/model governance guidance](https://www.fhfa.gov/SupervisionRegulation/AdvisoryBulletins/Pages/Model-Risk-Management-Guidance.aspx)
-* [FTC Business Blog](https://www.ftc.gov/business-guidance/blog)
+* [FTC Business Blog](https://www.ftc.gov/business-guidance/blog):
   * [2020-04-08 Using Artificial Intelligence and Algorithms](https://www.ftc.gov/business-guidance/blog/2020/04/using-artificial-intelligence-and-algorithms)
   * [2021-01-11 Facing the facts about facial recognition](https://www.ftc.gov/business-guidance/blog/2021/01/facing-facts-about-facial-recognition)
   * [2021-04-19 Aiming for truth, fairness, and equity in your company’s use of AI](https://www.ftc.gov/business-guidance/blog/2021/04/aiming-truth-fairness-equity-your-companys-use-ai)
@@ -344,7 +345,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Supervisory Guidance on Model Risk Management](https://www.federalreserve.gov/supervisionreg/srletters/sr1107a1.pdf)
 * [Testing the Reliability, Validity, and Equity of Terrorism Risk Assessment Instruments](https://www.homeaffairs.gov.au/foi/files/2023/fa-230400097-document-released-part-1.PDF)
 * [UNESCO, Artificial Intelligence: examples of ethical dilemmas](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases)
-* [United States Department of Energy Artificial Intelligence and Technology Office](https://www.energy.gov/ai/artificial-intelligence-technology-office)
+* [United States Department of Energy Artificial Intelligence and Technology Office](https://www.energy.gov/ai/artificial-intelligence-technology-office):
   * [DOE AI Risk Management Playbook (AIRMP)](https://www.energy.gov/ai/doe-ai-risk-management-playbook-airmp)
   * [DOE AI Use Case Inventory (DOE Use Cases Releasable to Public in Accordance with E.O. 13960)](https://www.energy.gov/sites/default/files/2023-07/DOE_2023_AI_Use_Case_Inventory_0.pdf)
   * [DOE Digital Climate Solutions Inventory](https://www.energy.gov/sites/default/files/2022-09/Digital_Climate_Solutions_Inventory.pdf)
