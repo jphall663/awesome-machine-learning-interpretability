@@ -665,7 +665,7 @@ This section contains open source or open access software used to implement resp
 * [fairness_measures_code](https://github.com/megantosh/fairness_measures_code)
 * [Falling Rule List (FRL)](https://users.cs.duke.edu/~cynthia/code/falling_rule_list.zip)
 * [foolbox](https://github.com/bethgelab/foolbox)
-* [Giskard: The testing framework dedicated to ML models, from tabular to LLMs](https://github.com/Giskard-AI/giskard)
+* [Giskard](https://github.com/Giskard-AI/giskard)
 * [Grad-CAM](https://github.com/topics/grad-cam) (GitHub topic)
 * [gplearn](https://github.com/trevorstephens/gplearn)
 * H2O-3
