@@ -539,6 +539,7 @@ This section links to other lists of responsible ML or related resources.
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-machine-learning-operations)
 * [Awful AI](https://github.com/daviddao/awful-ai)
 * [criticalML](https://github.com/rockita/criticalML)
+* [lopusz / awesome-interpretable-machine-learning](https://github.com/lopusz/awesome-interpretable-machine-learning)
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
 * [OECD-NIST Catalogue of AI Tools and Metrics](https://oecd.ai/en/catalogue/overview)
