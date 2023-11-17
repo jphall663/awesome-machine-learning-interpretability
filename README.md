@@ -607,6 +607,7 @@ This section contains open source or open access software used to implement resp
 
 * [DiscriLens](https://github.com/wangqianwen0418/DiscriLens)
 * [manifold](https://github.com/uber/manifold)
+* [PAIR-code / facets](https://github.com/PAIR-code/facets)
 * [TensorBoard Projector](http://projector.tensorflow.org)
 * [What-if Tool](https://pair-code.github.io/what-if-tool/index.html#about)
 
