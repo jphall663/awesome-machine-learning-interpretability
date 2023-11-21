@@ -606,6 +606,7 @@ This section contains open source or open access software used to implement resp
 
 #### Browser
 
+* [BiasAware: Dataset Bias Detection](https://huggingface.co/spaces/avid-ml/biasaware)
 * [DiscriLens](https://github.com/wangqianwen0418/DiscriLens)![](https://img.shields.io/github/stars/wangqianwen0418/DiscriLens?style=social)
 * [manifold](https://github.com/uber/manifold)![](https://img.shields.io/github/stars/uber/manifold?style=social)
 * [PAIR-code / facets](https://github.com/PAIR-code/facets)![](https://img.shields.io/github/stars/PAIR-code/facets?style=social)
