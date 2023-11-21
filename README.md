@@ -44,6 +44,7 @@ If something you contributed or found here is missing after our September 2023 r
 This section is for responsible ML guidance put forward by organizations or individuals, not for official government guidance.
 
 * [8 Principles of Responsible ML](https://ethical.institute/principles.html)
+* [A Brief Overview of AI Governance for Responsible Machine Learning Systems](https://arxiv.org/pdf/2211.13130.pdf)
 * [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)
 * [AI Verify](https://aiverifyfoundation.sg/what-is-ai-verify/):
   * [AI Verify Foundation](https://aiverifyfoundation.sg/what-is-ai-verify/)
