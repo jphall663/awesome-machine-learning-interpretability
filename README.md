@@ -703,7 +703,7 @@ This section contains open source or open access software used to implement resp
 * [PDPbox](https://github.com/SauceCat/PDPbox)
 * [PiML-Toolbox](https://github.com/SelfExplainML/PiML-Toolbox)
 * [Privacy-Preserving-ML](https://github.com/abhinav-bohra/Privacy-Preserving-ML)![](https://img.shields.io/github/stars/abhinav-bohra/Privacy-Preserving-ML?style=social)
-* [ProtoPNet](https://github.com/cfchen-duke/)![](https://img.shields.io/github/stars/cfchen-duke/?style=social)
+* [ProtoPNet](https://github.com/cfchen-duke/)![](https://img.shields.io/github/stars/cfchen-duke?style=social)
 * [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown)![](https://img.shields.io/github/stars/MI2DataLab/pyBreakDown?style=social)
 * [PyCEbox](https://github.com/AustinRochford/PyCEbox)![](https://img.shields.io/github/stars/AustinRochford/PyCEbox?style=social)
 * [pyGAM](https://github.com/dswah/pyGAM)![](https://img.shields.io/github/stars/dswah/pyGAM?style=social)
