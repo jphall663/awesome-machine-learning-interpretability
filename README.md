@@ -594,10 +594,10 @@ This section curates specialized software tools aimed at responsible ML within s
 This section contains open source or open access ML environment management software.
 
 * [dvc](https://dvc.org/)
-* [gigantum](https://github.com/gigantum)
+* [gigantum](https://github.com/gigantum)![](https://img.shields.io/github/stars/gigantum?style=social)
 * [mlflow](https://mlflow.org/)
-* [mlmd](https://github.com/google/ml-metadata)
-* [modeldb](https://github.com/VertaAI/modeldb)
+* [mlmd](https://github.com/google/ml-metadata)![](https://img.shields.io/github/stars/google/ml-metadata?style=social)
+* [modeldb](https://github.com/VertaAI/modeldb)![](https://img.shields.io/github/stars/VertaAI/modeldb?style=social)
 * [neptune](https://neptune.ai/researchers)
 
 ### Open Source/Access Responsible AI Software Packages
@@ -606,32 +606,32 @@ This section contains open source or open access software used to implement resp
 
 #### Browser
 
-* [DiscriLens](https://github.com/wangqianwen0418/DiscriLens)
-* [manifold](https://github.com/uber/manifold)
-* [PAIR-code / facets](https://github.com/PAIR-code/facets)
+* [DiscriLens](https://github.com/wangqianwen0418/DiscriLens)![](https://img.shields.io/github/stars/wangqianwen0418/DiscriLens?style=social)
+* [manifold](https://github.com/uber/manifold)![](https://img.shields.io/github/stars/uber/manifold?style=social)
+* [PAIR-code / facets](https://github.com/PAIR-code/facets)![](https://img.shields.io/github/stars/PAIR-code/facets?style=social)
 * [TensorBoard Projector](http://projector.tensorflow.org)
 * [What-if Tool](https://pair-code.github.io/what-if-tool/index.html#about)
 
 #### C/C++
 
-* [Born-again Tree Ensembles](https://github.com/vidalt/BA-Trees)
-* [Certifiably Optimal RulE ListS](https://github.com/nlarusstone/corels)
-* [Secure-ML](https://github.com/shreya-28/Secure-ML)
+* [Born-again Tree Ensembles](https://github.com/vidalt/BA-Trees)![](https://img.shields.io/github/stars/vidalt/BA-Trees?style=social)
+* [Certifiably Optimal RulE ListS](https://github.com/nlarusstone/corels)![](https://img.shields.io/github/stars/nlarusstone/corels?style=social)
+* [Secure-ML](https://github.com/shreya-28/Secure-ML)![](https://img.shields.io/github/stars/shreya-28/Secure-ML?style=social)
 
 #### Python
 
-* [acd](https://github.com/csinva/hierarchical_dnn_interpretations)
-* [aequitas](https://github.com/dssg/aequitas)
-* [AI Fairness 360](https://github.com/Trusted-AI/AIF360)
-* [AI Explainability 360](https://github.com/IBM/AIX360)
-* [ALEPython](https://github.com/blent-ai/ALEPython)
-* [Aletheia](https://github.com/SelfExplainML/Aletheia)
-* [allennlp](https://github.com/allenai/allennlp)
-* [algofairness](https://github.com/algofairness)
-* [Alibi](https://github.com/SeldonIO/alibi)
-* [anchor](https://github.com/marcotcr/anchor)
+* [acd](https://github.com/csinva/hierarchical_dnn_interpretations)![](https://img.shields.io/github/stars/csinva/hierarchical_dnn_interpretations?style=social)
+* [aequitas](https://github.com/dssg/aequitas)![](https://img.shields.io/github/stars/dssg/aequitas?style=social)
+* [AI Fairness 360](https://github.com/Trusted-AI/AIF360)![](https://img.shields.io/github/stars/Trusted-AI/AIF360?style=social)
+* [AI Explainability 360](https://github.com/IBM/AIX360)![](https://img.shields.io/github/stars/IBM/AIX360?style=social)
+* [ALEPython](https://github.com/blent-ai/ALEPython)![](https://img.shields.io/github/stars/blent-ai/ALEPython?style=social)
+* [Aletheia](https://github.com/SelfExplainML/Aletheia)![](https://img.shields.io/github/stars/SelfExplainML/Aletheia?style=social)
+* [allennlp](https://github.com/allenai/allennlp)![](https://img.shields.io/github/stars/allenai/allennlp?style=social)
+* [algofairness](https://github.com/algofairness)![](https://img.shields.io/github/stars/algofairness?style=social)
+* [Alibi](https://github.com/SeldonIO/alibi)![](https://img.shields.io/github/stars/SeldonIO/alibi?style=social)
+* [anchor](https://github.com/marcotcr/anchor)![](https://img.shields.io/github/stars/marcotcr/anchor?style=social)
 * [Bayesian Case Model](https://users.cs.duke.edu/~cynthia/code/BCM.zip)
-* [Bayesian Ors-Of-Ands](https://github.com/wangtongada/BOA)
+* [Bayesian Ors-Of-Ands](https://github.com/wangtongada/BOA)![](https://img.shields.io/github/stars/wangtongada/BOA?style=social)
 * [Bayesian Rule List (BRL)](https://users.cs.duke.edu/~cynthia/code/BRL_supplement_code.zip)
 * [BlackBoxAuditing](https://github.com/algofairness/BlackBoxAuditing)![](https://img.shields.io/github/stars/algofairness/BlackBoxAuditing?style=social)
 * [casme](https://github.com/kondiz/casme)![](https://img.shields.io/github/stars/kondiz/casme?style=social)
