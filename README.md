@@ -421,6 +421,7 @@ This section contains books that can be reasonably described as free, including 
 * [Patrick Hall, James Curtis, Parul Pandey, and Agus Sudjianto, 2023, *Machine Learning for High-Risk Applications: Approaches to Responsible AI*](https://pages.dataiku.com/oreilly-responsible-ai)
 * [Paula Boddington, 2017, *Towards a Code of Ethics for Artificial Intelligence*](https://archive.org/details/towardscodeofeth0000bodd)
 * [Przemyslaw Biecek and Tomasz Burzykowski, 2020, *Explanatory Model Analysis: Explore, Explain, and Examine Predictive Models. With examples in R and Python*](https://ema.drwhy.ai/)
+* [Przemyslaw Biecek, 2023, *Adversarial Model Analysis*](https://ama.drwhy.ai/)
 * [Raymond E. Spier (editor), 2003, *Science and Technology Ethics*](https://archive.org/details/sciencetechnolog0000unse_k7m6)
 * [Richard A. Spinello, 1995, *Ethical Aspects of Information Technology*](https://archive.org/details/ethicalaspectsof00spin)
 * [Richard A. Spinello, 1997, *Case Studies in Information and Computer Ethics*](https://archive.org/details/unset0000unse_l0l0)
