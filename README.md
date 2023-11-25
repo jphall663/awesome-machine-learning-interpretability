@@ -653,7 +653,7 @@ This section contains open source or open access software used to implement resp
 * [dianna](https://github.com/dianna-ai/dianna)![](https://img.shields.io/github/stars/dianna-ai/dianna?style=social)
 * [DiCE](https://github.com/interpretml/DiCE)![](https://img.shields.io/github/stars/interpretml/DiCE?style=social)
 * [DoWhy](https://github.com/microsoft/dowhy)![](https://img.shields.io/github/stars/microsoft/dowhy?style=social)
-* [dtreeviz](https://github.com/parrt/dtreeviz)![](https://img.shields.io/github/parrt/dtreeviz?style=social)
+* [dtreeviz](https://github.com/parrt/dtreeviz)![](https://img.shields.io/github/stars/parrt/dtreeviz?style=social)
 * [ecco](https://github.com/jalammar/ecco)![](https://img.shields.io/github/stars/jalammar/ecco?style=social)
 * [eli5](https://github.com/TeamHG-Memex/eli5)![](https://img.shields.io/github/stars/TeamHG-Memex/eli5?style=social)
 * [explabox](https://github.com/MarcelRobeer/explabox)![](https://img.shields.io/github/stars/MarcelRobeer/explabox?style=social)
