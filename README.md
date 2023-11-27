@@ -45,7 +45,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 
 * [8 Principles of Responsible ML](https://ethical.institute/principles.html)
 * [A Brief Overview of AI Governance for Responsible Machine Learning Systems](https://arxiv.org/pdf/2211.13130.pdf)
-* [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)
+* [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)![](https://img.shields.io/github/stars/mitre/advmlthreatmatrix?style=social)
 * [AI Verify](https://aiverifyfoundation.sg/what-is-ai-verify/):
   * [AI Verify Foundation](https://aiverifyfoundation.sg/what-is-ai-verify/)
   * [AI Verify Foundation, Cataloguing LLM Evaluations](https://aiverifyfoundation.sg/downloads/Cataloguing_LLM_Evaluations.pdf)
@@ -82,7 +82,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Censius: AI Audit](https://censius.ai/wiki/ai-audit)
 * [Crowe LLP: Internal auditor's AI safety checklist](https://www.crowe.com/insights/asset/i/internal-auditors-ai-safety-checklist)
 * [DAIR Prompt Engineering Guide](https://www.promptingguide.ai/)
-  * [DAIR Prompt Engineering Guide GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide)
+  * [DAIR Prompt Engineering Guide GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide)![](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide?style=social)
 * [Data Provenance Explorer](https://www.dataprovenance.org/)
 * [Data & Society, AI Red-Teaming Is Not a One-Stop Solution to AI Harms: Recommendations for Using Red-Teaming for AI Accountability](https://datasociety.net/wp-content/uploads/2023/10/Recommendations-for-Using-Red-Teaming-for-AI-Accountability-PolicyBrief.pdf)
 * [Dealing with Bias and Fairness in AI/ML/Data Science Systems](https://docs.google.com/presentation/d/17o_NzplYua5fcJFuGcy1V1-5GFAHk7oHAF4dN44NkUE)
@@ -104,7 +104,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [Google, Responsible AI Framework](https://cloud.google.com/responsible-ai)
   * [Google, Responsible AI practices](https://ai.google/responsibility/responsible-ai-practices/)
   * [Google, Testing and Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging)
-* [H2O.ai Algorithms](https://github.com/h2oai/h2o-tutorials/blob/master/training/h2o_algos/h2o_algos_cheat_sheet_04_25_17.pdf)
+* [H2O.ai Algorithms](https://github.com/h2oai/h2o-tutorials/blob/master/training/h2o_algos/h2o_algos_cheat_sheet_04_25_17.pdf)![](https://img.shields.io/github/stars/h2oai/h2o-tutorials?style=social)
 * [Haptic Networks: How to Perform an AI Audit for UK Organisations](https://www.haptic-networks.com/cyber-security/how-to-perform-an-ai-audit/)
 * [Frontier Model Forum: What is Red Teaming?](https://www.frontiermodelforum.org/uploads/2023/10/FMF-AI-Red-Teaming.pdf)
 * [ICT Institute: A checklist for auditing AI systems](https://ictinstitute.nl/a-checklist-for-auditing-ai-systems/)
@@ -371,13 +371,13 @@ This section serves as a repository for policy documents, regulations, guideline
 
 This section is a curated collection of guides and tutorials that simplify responsible ML implementation. It spans from basic model interpretability to advanced fairness techniques. Suitable for both novices and experts, the resources cover topics like COMPAS fairness analyses and explainable machine learning via counterfactuals. 
 
-* [COMPAS Analysis Using Aequitas](https://github.com/dssg/aequitas/blob/master/docs/source/examples/compas_demo.ipynb)
-* [Explaining Quantitative Measures of Fairness (with SHAP)](https://github.com/slundberg/shap/blob/master/notebooks/overviews/Explaining%20quantitative%20measures%20of%20fairness.ipynb)
+* [COMPAS Analysis Using Aequitas](https://github.com/dssg/aequitas/blob/master/docs/source/examples/compas_demo.ipynb)![](https://img.shields.io/github/stars/dssg/aequitas?style=social)
+* [Explaining Quantitative Measures of Fairness (with SHAP)](https://github.com/slundberg/shap/blob/master/notebooks/overviews/Explaining%20quantitative%20measures%20of%20fairness.ipynb)![](https://img.shields.io/github/stars/slundberg/shap?style=social)
 * [Getting a Window into your Black Box Model](http://projects.rajivshah.com/inter/ReasonCode_NFL.html)
 * [H20.ai, From GLM to GBM Part 1](https://www.h2o.ai/blog/from-glm-to-gbm-part-1/)
 * [H20.ai, From GLM to GBM Part 2](https://www.h2o.ai/blog/from-glm-to-gbm-part-2/)
 * [IML](https://mybinder.org/v2/gh/christophM/iml/master?filepath=./notebooks/tutorial-intro.ipynb)
-* [Interpretable Machine Learning with Python](https://github.com/jphall663/interpretable_machine_learning_with_python)
+* [Interpretable Machine Learning with Python](https://github.com/jphall663/interpretable_machine_learning_with_python)![](https://img.shields.io/github/stars/jphall663/interpretable_machine_learning_with_python?style=social)
 * [Interpreting Machine Learning Models with the iml Package](http://uc-r.github.io/iml-pkg)
 * [Interpretable Machine Learning using Counterfactuals](https://docs.seldon.io/projects/alibi/en/v0.2.0/examples/cf_mnist.html)
 * [Machine Learning Explainability by Kaggle Learn](https://www.kaggle.com/learn/machine-learning-explainability)
@@ -390,8 +390,8 @@ This section is a curated collection of guides and tutorials that simplify respo
 * [Partial Dependence Plots in R](https://journal.r-project.org/archive/2017/RJ-2017-016/)
 * PiML:
   * [PiML Medium Tutorials](https://piml.medium.com)
-  * [PiML-Toolbox Examples](https://github.com/SelfExplainML/PiML-Toolbox/tree/main/examples) 
-* [Reliable-and-Trustworthy-AI-Notebooks](https://github.com/ClementSicard/Reliable-and-Trustworthy-AI-Notebooks)
+  * [PiML-Toolbox Examples](https://github.com/SelfExplainML/PiML-Toolbox/tree/main/examples)![](https://img.shields.io/github/stars/SelfExplainML/PiML-Toolbox?style=social)
+* [Reliable-and-Trustworthy-AI-Notebooks](https://github.com/ClementSicard/Reliable-and-Trustworthy-AI-Notebooks)![](https://img.shields.io/github/stars/ClementSicard/Reliable-and-Trustworthy-AI-Notebooks?style=social)
 * [Saliency Maps for Deep Learning](https://medium.com/@thelastalias/saliency-maps-for-deep-learning-part-1-vanilla-gradient-1d0665de3284)
 * [Visualizing ML Models with LIME](http://uc-r.github.io/lime)
 * [Visualizing and debugging deep convolutional networks](https://rohitghosh.github.io/2018/01/05/visualising-debugging-deep-neural-networks/)
@@ -405,7 +405,7 @@ This section contains books that can be reasonably described as free, including 
 * [Charles Perrow, 1984, *Normal Accidents: Living with High-Risk Technologies*](https://archive.org/details/normalaccidentsl0000perr)
 * [Charles Perrow, 1999, *Normal Accidents: Living with High-Risk Technologies with a New Afterword and a Postscript on the Y2K Problem*](https://archive.org/details/normalaccidentsl00perr)
 * [Christoph Molnar, 2021, *Interpretable Machine Learning: A Guide for Making Black Box Models Explainable*](https://christophm.github.io/interpretable-ml-book/)
-   * [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book)
+   * [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book)![](https://img.shields.io/github/stars/christophM/interpretable-ml-book?style=social)
 * [Deborah G. Johnson and Keith W. Miller, 2009, *Computer Ethics: Analyzing Information Technology*, Fourth Edition](https://archive.org/details/computerethicsan0004edjohn)
 * [Ed Dreby and Keith Helmuth (contributors) and Judy Lumb (editor), 2009, *Fueling Our Future: A Dialogue about Technology, Ethics, Public Policy, and Remedial Action*](https://archive.org/details/fuelingourfuture0000unse/mode/2up)
 * [George Reynolds, 2002, *Ethics in Information Technology*](https://archive.org/details/ethicsininformat00reyn)
@@ -485,7 +485,7 @@ This section features a selection of educational courses focused on ethical cons
 * [Coursera, Google Cloud, Introduction to Generative AI](https://www.coursera.org/learn/introduction-to-generative-ai)
 * [Coursera, Vanderbilt University, Prompt Engineering for ChatGPT](https://www.coursera.org/learn/prompt-engineering)
 * [CS103F: Ethical Foundations of Computer Science](https://www.cs.utexas.edu/~ans/classes/cs109/schedule.html)
-* [ETH Zürich ReliableAI 2022 Course Project repository](https://github.com/angelognazzo/Reliable-Trustworthy-AI)	
+* [ETH Zürich ReliableAI 2022 Course Project repository](https://github.com/angelognazzo/Reliable-Trustworthy-AI)![](https://img.shields.io/github/stars/angelognazzo/Reliable-Trustworthy-AI?style=social)
 * [Fairness in Machine Learning](https://fairmlclass.github.io/)
 * [Fast.ai Data Ethics course](http://ethics.fast.ai/syllabus)
 * [Human-Centered Machine Learning](http://courses.mpi-sws.org/hcml-ws18/)
@@ -521,9 +521,9 @@ This section contains challenges and competitions related to responsible ML.
 We are seeking curated bibliographies related to responsible ML across various topics, see [issue 115](https://github.com/jphall663/awesome-machine-learning-interpretability/issues/115). 
 
 * **BibTeX**:
-  * [Proposed Guidelines for Responsible Use of Explainable Machine Learning (presentation, bibliography)](https://github.com/jphall663/kdd_2019/blob/master/bibliography.bib)
-  * [Proposed Guidelines for Responsible Use of Explainable Machine Learning (paper, bibliography)](https://github.com/jphall663/responsible_xai/blob/master/responsible_xai.bib)
-  * [A Responsible Machine Learning Workflow (paper, bibliography)](https://github.com/h2oai/article-information-2019/blob/master/back_up/article-information-2019.bib.bak)
+* [Proposed Guidelines for Responsible Use of Explainable Machine Learning (presentation, bibliography)](https://github.com/jphall663/kdd_2019/blob/master/bibliography.bib)![](https://img.shields.io/github/stars/jphall663/kdd_2019?style=social)
+* [Proposed Guidelines for Responsible Use of Explainable Machine Learning (paper, bibliography)](https://github.com/jphall663/responsible_xai/blob/master/responsible_xai.bib)![](https://img.shields.io/github/stars/jphall663/responsible_xai?style=social)
+* [A Responsible Machine Learning Workflow (paper, bibliography)](https://github.com/h2oai/article-information-2019/blob/master/back_up/article-information-2019.bib.bak)![](https://img.shields.io/github/stars/h2oai/article-information-2019?style=social)
  
 * **Web**:
   * [Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Scholarship](https://www.fatml.org/resources/relevant-scholarship)
@@ -536,22 +536,22 @@ This section links to other lists of responsible ML or related resources.
 * [AI Ethics Guidelines Global Inventory](https://algorithmwatch.org/en/project/ai-ethics-guidelines-global-inventory/)
 * [AI Ethics Resources](https://www.fast.ai/posts/2018-09-24-ai-ethics-resources.html)
 * [AI Tools and Platforms](https://docs.google.com/spreadsheets/u/2/d/10pPQYmyNnYb6zshOKxBjJ704E0XUj2vJ9HCDfoZxAoA/htmlview#)
-* [Awesome interpretable machine learning](https://github.com/lopusz/awesome-interpretable-machine-learning)
-* [Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/)
-* [Awesome-ML-Model-Governance](https://github.com/visenger/Awesome-ML-Model-Governance)
-* [Awesome MLOps](https://github.com/visenger/awesome-mlops)
-* [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-machine-learning-operations)
-* [Awful AI](https://github.com/daviddao/awful-ai)
-* [criticalML](https://github.com/rockita/criticalML)
-* [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)
-* [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
+* [Awesome interpretable machine learning](https://github.com/lopusz/awesome-interpretable-machine-learning)![](https://img.shields.io/github/stars/lopusz/awesome-interpretable-machine-learning?style=social)
+* [Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/)![](https://img.shields.io/github/stars/wangyongjie-ntu/Awesome-explainable-AI?style=social)
+* [Awesome-ML-Model-Governance](https://github.com/visenger/Awesome-ML-Model-Governance)![](https://img.shields.io/github/stars/visenger/Awesome-ML-Model-Governance?style=social)
+* [Awesome MLOps](https://github.com/visenger/awesome-mlops)![](https://img.shields.io/github/stars/visenger/awesome-mlops?style=social)
+* [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-machine-learning-operations)![](https://img.shields.io/github/stars/EthicalML/awesome-machine-learning-operations?style=social)
+* [Awful AI](https://github.com/daviddao/awful-ai)![](https://img.shields.io/github/stars/daviddao/awful-ai?style=social)
+* [criticalML](https://github.com/rockita/criticalML)![](https://img.shields.io/github/stars/rockita/criticalML?style=social)
+* [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)![](https://img.shields.io/github/stars/radames/Machine-Learning-Ethics-References?style=social)
+* [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)![](https://img.shields.io/github/stars/h2oai/mli-resources?style=social)
 * [OECD-NIST Catalogue of AI Tools and Metrics](https://oecd.ai/en/catalogue/overview)
-* [OpenAI Cookbook](https://github.com/openai/openai-cookbook/tree/main)
-* [private-ai-resources](https://github.com/OpenMined/private-ai-resources)
+* [OpenAI Cookbook](https://github.com/openai/openai-cookbook/tree/main)![](https://img.shields.io/github/stars/openai/openai-cookbook?style=social)
+* [private-ai-resources](https://github.com/OpenMined/private-ai-resources)![](https://img.shields.io/github/stars/OpenMined/private-ai-resources?style=social)
 * [ResponsibleAI](https://romanlutz.github.io/ResponsibleAI/)
 * [Worldwide AI ethics: A review of 200 guidelines and recommendations for AI governance](https://doi.org/10.1016/j.patter.2023.100857)
-* [XAI Resources](https://github.com/pbiecek/xai_resources)
-* [xaience](https://github.com/andreysharapov/xaience)
+* [XAI Resources](https://github.com/pbiecek/xai_resources)![](https://img.shields.io/github/stars/pbiecek/xai_resources?style=social)
+* [xaience](https://github.com/andreysharapov/xaience)![](https://img.shields.io/github/stars/andreysharapov/xaience?style=social)
 
 ## Technical Resources
 
@@ -559,13 +559,13 @@ This section links to other lists of responsible ML or related resources.
 
 This section contains benchmarks or datasets used for benchmarks for ML systems, particularly those related to responsible ML desiderata.
 
-* [benchm-ml](https://github.com/szilard/benchm-ml)
-* [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq)
+* [benchm-ml](https://github.com/szilard/benchm-ml)![](https://img.shields.io/github/stars/szilard/benchm-ml?style=social)
+* [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq)![](https://img.shields.io/github/stars/nyu-mll/bbq?style=social)
 * [HELM](https://crfm.stanford.edu/helm/latest/)
 * [Nvidia MLPerf](https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/)
 * [OpenML Benchmarking Suites](https://www.openml.org/search?type=benchmark&study_type=task)
-* [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
-* [Winogender Schemas](https://github.com/rudinger/winogender-schemas)
+* [TruthfulQA](https://github.com/sylinrl/TruthfulQA)![](https://img.shields.io/github/stars/sylinrl/TruthfulQA?style=social)
+* [Winogender Schemas](https://github.com/rudinger/winogender-schemas)![](https://img.shields.io/github/stars/rudinger/winogender-schemas?style=social)
 * [Real Toxicity Prompts (Allen Institute for AI)](https://allenai.org/data/real-toxicity-prompts)
 
 ### Common or Useful Datasets
@@ -573,7 +573,7 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 This section contains datasets that are commonly used in responsible ML evaulations or repositories of interesting/important data sources:
 
 * [Adult income dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
-* [Balanced Faces in the Wild](https://github.com/visionjo/facerec-bias-bfw)
+* [Balanced Faces in the Wild](https://github.com/visionjo/facerec-bias-bfw)![](https://img.shields.io/github/stars/visionjo/facerec-bias-bfw?style=social)
 * [COMPAS Recidivism Risk Score Data and Analysis](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis)
   * **Data Repositories**:
     * [All Lending Club loan data](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
