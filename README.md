@@ -521,9 +521,9 @@ This section contains challenges and competitions related to responsible ML.
 We are seeking curated bibliographies related to responsible ML across various topics, see [issue 115](https://github.com/jphall663/awesome-machine-learning-interpretability/issues/115). 
 
 * **BibTeX**:
-* [Proposed Guidelines for Responsible Use of Explainable Machine Learning (presentation, bibliography)](https://github.com/jphall663/kdd_2019/blob/master/bibliography.bib)![](https://img.shields.io/github/stars/jphall663/kdd_2019?style=social)
-* [Proposed Guidelines for Responsible Use of Explainable Machine Learning (paper, bibliography)](https://github.com/jphall663/responsible_xai/blob/master/responsible_xai.bib)![](https://img.shields.io/github/stars/jphall663/responsible_xai?style=social)
-* [A Responsible Machine Learning Workflow (paper, bibliography)](https://github.com/h2oai/article-information-2019/blob/master/back_up/article-information-2019.bib.bak)![](https://img.shields.io/github/stars/h2oai/article-information-2019?style=social)
+  * [Proposed Guidelines for Responsible Use of Explainable Machine Learning (presentation, bibliography)](https://github.com/jphall663/kdd_2019/blob/master/bibliography.bib)![](https://img.shields.io/github/stars/jphall663/kdd_2019?style=social)
+  * [Proposed Guidelines for Responsible Use of Explainable Machine Learning (paper, bibliography)](https://github.com/jphall663/responsible_xai/blob/master/responsible_xai.bib)![](https://img.shields.io/github/stars/jphall663/responsible_xai?style=social)
+  * [A Responsible Machine Learning Workflow (paper, bibliography)](https://github.com/h2oai/article-information-2019/blob/master/back_up/article-information-2019.bib.bak)![](https://img.shields.io/github/stars/h2oai/article-information-2019?style=social)
  
 * **Web**:
   * [Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) Scholarship](https://www.fatml.org/resources/relevant-scholarship)
