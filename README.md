@@ -132,6 +132,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Open Sourcing Highly Capable Foundation Models](https://www.governance.ai/research-paper/open-sourcing-highly-capable-foundation-models)
 * [OpenAI Red Teaming Network](https://openai.com/blog/red-teaming-network)
 * [Organization and Training of a Cyber Security Team](http://ieeexplore.ieee.org/document/1245662)
+* [Our Data Our Selves, Data Use Policy](https://ourdataourselves.tacticaltech.org/data-use-policy/)
 * [PAI's Responsible Practices for Synthetic Media: A Framework for Collective Action (Partnership on AI)](https://syntheticmedia.partnershiponai.org/)
 * [PwC's Responsible AI](https://www.pwc.com/gx/en/issues/data-and-analytics/artificial-intelligence/what-is-responsible-ai.html)
 * [Real-World Strategies for Model Debugging](https://towardsdatascience.com/strategies-for-model-debugging-aa822f1097ce)
@@ -332,6 +333,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [National Institute of Standards and Technology (NIST), NIST Special Publication 800-30 Revision 1, Guide for Conducting Risk Assessments](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf)
 * [National Science and Technology Council (NSTC), Select Committee on Artificial Intelligence, National Artificial Intelligence Research and Development Strategic Plan 2023 Update](https://www.whitehouse.gov/wp-content/uploads/2023/05/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf)
 * [New York City Automated Decision Systems Task Force Report (November 2019)](https://www.nyc.gov/assets/adstaskforce/downloads/pdf/ADS-Report-11192019.pdf)
+* [OECD, Open, Useful and Re-usable data (OURdata) Index: 2019 - Policy Paper](https://www.oecd.org/gov/digital-government/policy-paper-ourdata-index-2019.htm)
 * [Office of the Director of National Intelligence (ODNI), The AIM Initiative: A Strategy for Augmenting Intelligence Using Machines](https://www.dni.gov/files/ODNI/documents/AIM-Strategy.pdf)
 * [Office of Management and Budget, Guidance for Regulation of Artificial Intelligence Applications, finalized November 2020](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-06.pdf)
 * [Office of Science and Technology Policy, Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
@@ -358,7 +360,8 @@ This section serves as a repository for policy documents, regulations, guideline
   * [DOE AI Risk Management Playbook (AIRMP)](https://www.energy.gov/ai/doe-ai-risk-management-playbook-airmp)
   * [DOE AI Use Case Inventory (DOE Use Cases Releasable to Public in Accordance with E.O. 13960)](https://www.energy.gov/sites/default/files/2023-07/DOE_2023_AI_Use_Case_Inventory_0.pdf)
   * [DOE Digital Climate Solutions Inventory](https://www.energy.gov/sites/default/files/2022-09/Digital_Climate_Solutions_Inventory.pdf)
-* [United States Department of Justice, Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974) 
+* [United States Department of Homeland Security, Use of Commercial Generative Artificial Intelligence (AI) Tools](https://www.dhs.gov/sites/default/files/2023-11/23_1114_cio_use_generative_ai_tools.pdf)
+* [United States Department of Justice, Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974)
 * [United States Department of Justice, Overview of The Privacy Act of 1974 (2020 Edition)](https://www.justice.gov/opcl/overview-privacy-act-1974-2020-edition) 
 * [United States Patent and Trademark Office (USPTO), Public Views on Artificial Intelligence and Intellectual Property Policy](https://www.uspto.gov/sites/default/files/documents/USPTO_AI-Report_2020-10-07.pdf)
 * [Using Artificial Intelligence and Algorithms](https://www.ftc.gov/news-events/blogs/business-blog/2020/04/using-artificial-intelligence-algorithms)
@@ -791,20 +794,20 @@ This section contains open source or open access software used to implement resp
 * [ingredients](https://github.com/ModelOriented/ingredients)![](https://img.shields.io/github/stars/ModelOriented/ingredients?style=social)
 * [intepret](https://cran.r-project.org/web/packages/interpret/index.html)
 * [lightgbmExplainer](https://github.com/lantanacamara/lightgbmExplainer)![](https://img.shields.io/github/stars/lantanacamara/lightgbmExplainer?style=social)
-* [lime](https://github.com/thomasp85/lime)![](https://img.shields.io/github/stars/thomasp85/lime?style=social)
-* [live](https://cran.r-project.org/web/packages/live/index.html)
-* [mcr](https://github.com/aaronjfisher/mcr)![](https://img.shields.io/github/stars/aaronjfisher/mcr?style=social)
-* [modelDown](https://cran.r-project.org/web/packages/modelDown/index.html)
-* [modelOriented](https://github.com/ModelOriented)![](https://img.shields.io/github/stars/ModelOriented?style=social)
-* [modelStudio](https://github.com/ModelOriented/modelStudio)![](https://img.shields.io/github/stars/ModelOriented/modelStudio?style=social)
-* [Monotonic](http://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html) [XGBoost](http://xgboost.readthedocs.io/en/latest/)
-* [quantreg](https://cran.r-project.org/web/packages/quantreg/index.html)
-* [rpart](https://cran.r-project.org/web/packages/rpart/index.html)
-* [RuleFit](http://statweb.stanford.edu/~jhf/R_RuleFit.html)
+* [lime](https://github.com/thomasp85/lime)![](https://img.shields.io/github/stars/thomasp85/lime?style=social) R port of the Python lime package.
+* [live](https://cran.r-project.org/web/packages/live/index.html) Helps to understand key factors that drive the decision made by complicated predictive model (black box model).
+* [mcr](https://github.com/aaronjfisher/mcr)![](https://img.shields.io/github/stars/aaronjfisher/mcr?style=social) An R package for Model Reliance and Model Class Reliance.
+* [modelDown](https://cran.r-project.org/web/packages/modelDown/index.html) Website generator with HTML summaries for predictive models.
+* [modelOriented](https://github.com/ModelOriented)![](https://img.shields.io/github/stars/ModelOriented?style=social) GitHub repositories of Warsaw-based MI².AI.
+* [modelStudio](https://github.com/ModelOriented/modelStudio)![](https://img.shields.io/github/stars/ModelOriented/modelStudio?style=social) Automates the explanatory analysis of machine learning predictive models. 
+* [Monotonic](http://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html) [XGBoost](http://xgboost.readthedocs.io/en/latest/) Enforces consistent, directional relationships between features and predicted outcomes, enhancing model performance by aligning with prior data expectations.
+* [quantreg](https://cran.r-project.org/web/packages/quantreg/index.html) Estimation and inference methods for models for conditional quantile functions.
+* [rpart](https://cran.r-project.org/web/packages/rpart/index.html) Recursive partitioning for classification, regression and survival trees.
+* [RuleFit](http://statweb.stanford.edu/~jhf/R_RuleFit.html) Implements the learning method and interpretational tools described in *Predictive Learning via Rule Ensembles*.
 * [Scalable Bayesian Rule Lists (SBRL)](https://users.cs.duke.edu/~cynthia/code/sbrl_1.0.tar.gz)
-* [shapFlex](https://github.com/nredell/shapFlex)![](https://img.shields.io/github/stars/nredell/shapFlex?style=social)
-* [shapleyR](https://github.com/redichh/ShapleyR)![](https://img.shields.io/github/stars/redichh/ShapleyR?style=social)
-* [shapper](https://cran.r-project.org/web/packages/shapper/index.html)
-* [smbinning](https://cran.r-project.org/web/packages/smbinning/index.html)
-* [vip](https://github.com/koalaverse/vip)![](https://img.shields.io/github/stars/koalaverse/vip?style=social)
-* [xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer)![](https://img.shields.io/github/stars/AppliedDataSciencePartners/xgboostExplainer?style=social)
+* [shapFlex](https://github.com/nredell/shapFlex)![](https://img.shields.io/github/stars/nredell/shapFlex?style=social) Computes stochastic Shapley values for machine learning models to interpret them and evaluate fairness, including causal constraints in the feature space.
+* [shapleyR](https://github.com/redichh/ShapleyR)![](https://img.shields.io/github/stars/redichh/ShapleyR?style=social) An R package that provides some functionality to use mlr tasks and models to generate shapley values.
+* [shapper](https://cran.r-project.org/web/packages/shapper/index.html) Provides SHAP explanations of machine learning models.
+* [smbinning](https://cran.r-project.org/web/packages/smbinning/index.html) A set of functions to build a scoring model from beginning to end.
+* [vip](https://github.com/koalaverse/vip)![](https://img.shields.io/github/stars/koalaverse/vip?style=social) An R package for constructing variable importance plots (VIPs).
+* [xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer)![](https://img.shields.io/github/stars/AppliedDataSciencePartners/xgboostExplainer?style=social) An R package that makes xgboost models fully interpretable.
