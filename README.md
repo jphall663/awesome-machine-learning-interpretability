@@ -719,6 +719,7 @@ This section contains open source or open access software used to implement resp
 * [pyGAM](https://github.com/dswah/pyGAM)![](https://img.shields.io/github/stars/dswah/pyGAM?style=social)
 * [pymc3](https://github.com/pymc-devs/pymc3)![](https://img.shields.io/github/stars/pymc-devs/pymc3?style=social)
 * [pySS3](https://github.com/sergioburdisso/pyss3)![](https://img.shields.io/github/stars/sergioburdisso/pyss3?style=social)
+* [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam)![](https://img.shields.io/github/stars/jacobgil/pytorch-grad-cam?style=social)
 * [pytorch-innvestigate](https://github.com/fgxaos/pytorch-innvestigate)![](https://img.shields.io/github/stars/fgxaos/pytorch-innvestigate?style=social)
 * [rationale](https://github.com/taolei87/rcnn/tree/master/code/rationale)![](https://img.shields.io/github/stars/taolei87/rcnn?style=social)
 * [responsibly](https://github.com/ResponsiblyAI/responsibly)![](https://img.shields.io/github/stars/ResponsiblyAI/responsibly?style=social)
