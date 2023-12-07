@@ -97,6 +97,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/)
 * [From Principles to Practice: An interdisciplinary framework to operationalise AI ethics](https://www.ai-ethics-impact.org/resource/blob/1961130/c6db9894ee73aefa489d6249f5ee2b9f/aieig---report---download-hb-data.pdf)
 * [Gage Repeatability and Reproducibility](https://asq.org/quality-resources/gage-repeatability)
+* [Georgetown University Library's Artificial Intelligence (Generative) Resources](https://guides.library.georgetown.edu/ai)
 * Google:
   * [Closing the AI accountability gap: defining an end-to-end framework for internal algorithmic auditing](https://dl.acm.org/doi/abs/10.1145/3351095.3372873)
   * [Data governance in the cloud - part 1 - People and processes](https://cloud.google.com/blog/products/data-analytics/data-governance-and-operating-model-for-analytics-pt1)
@@ -613,7 +614,7 @@ This section contains open source or open access ML environment management softw
 
 ### Open Source/Access Responsible AI Software Packages
 
-This section contains open source or open access software used to implement responsible ML.
+This section contains open source or open access software used to implement responsible ML. Whenever a description is provided, the software's own description is provided and framed by quotation marks. If quotation marks are missing, it means we have lightly edited or paraphrased the software's own description.
 
 #### Browser
 
@@ -800,20 +801,20 @@ This section contains open source or open access software used to implement resp
 * [ingredients](https://github.com/ModelOriented/ingredients)![](https://img.shields.io/github/stars/ModelOriented/ingredients?style=social)
 * [intepret](https://cran.r-project.org/web/packages/interpret/index.html)
 * [lightgbmExplainer](https://github.com/lantanacamara/lightgbmExplainer)![](https://img.shields.io/github/stars/lantanacamara/lightgbmExplainer?style=social)
-* [lime](https://github.com/thomasp85/lime)![](https://img.shields.io/github/stars/thomasp85/lime?style=social) R port of the Python lime package.
-* [live](https://cran.r-project.org/web/packages/live/index.html) Helps to understand key factors that drive the decision made by complicated predictive model (black box model).
-* [mcr](https://github.com/aaronjfisher/mcr)![](https://img.shields.io/github/stars/aaronjfisher/mcr?style=social) An R package for Model Reliance and Model Class Reliance.
-* [modelDown](https://cran.r-project.org/web/packages/modelDown/index.html) Website generator with HTML summaries for predictive models.
-* [modelOriented](https://github.com/ModelOriented)![](https://img.shields.io/github/stars/ModelOriented?style=social) GitHub repositories of Warsaw-based MI².AI.
-* [modelStudio](https://github.com/ModelOriented/modelStudio)![](https://img.shields.io/github/stars/ModelOriented/modelStudio?style=social) Automates the explanatory analysis of machine learning predictive models. 
-* [Monotonic](http://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html) [XGBoost](http://xgboost.readthedocs.io/en/latest/) Enforces consistent, directional relationships between features and predicted outcomes, enhancing model performance by aligning with prior data expectations.
-* [quantreg](https://cran.r-project.org/web/packages/quantreg/index.html) Estimation and inference methods for models for conditional quantile functions.
-* [rpart](https://cran.r-project.org/web/packages/rpart/index.html) Recursive partitioning for classification, regression and survival trees.
-* [RuleFit](http://statweb.stanford.edu/~jhf/R_RuleFit.html) Implements the learning method and interpretational tools described in *Predictive Learning via Rule Ensembles*.
+* [lime](https://github.com/thomasp85/lime)![](https://img.shields.io/github/stars/thomasp85/lime?style=social) - "R port of the Python lime package."
+* [live](https://cran.r-project.org/web/packages/live/index.html) - "Helps to understand key factors that drive the decision made by complicated predictive model (black box model)."
+* [mcr](https://github.com/aaronjfisher/mcr)![](https://img.shields.io/github/stars/aaronjfisher/mcr?style=social) - "An R package for Model Reliance and Model Class Reliance."
+* [modelDown](https://cran.r-project.org/web/packages/modelDown/index.html) - "Website generator with HTML summaries for predictive models."
+* [modelOriented](https://github.com/ModelOriented)![](https://img.shields.io/github/stars/ModelOriented?style=social) - GitHub repositories of Warsaw-based MI².AI.
+* [modelStudio](https://github.com/ModelOriented/modelStudio)![](https://img.shields.io/github/stars/ModelOriented/modelStudio?style=social) - "Automates the explanatory analysis of machine learning predictive models."
+* [Monotonic](http://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html) [XGBoost](http://xgboost.readthedocs.io/en/latest/) - Enforces consistent, directional relationships between features and predicted outcomes, enhancing model performance by aligning with prior data expectations.
+* [quantreg](https://cran.r-project.org/web/packages/quantreg/index.html) - "Estimation and inference methods for models for conditional quantile functions."
+* [rpart](https://cran.r-project.org/web/packages/rpart/index.html) - "Recursive partitioning for classification, regression and survival trees."
+* [RuleFit](http://statweb.stanford.edu/~jhf/R_RuleFit.html) - "Implements the learning method and interpretational tools described in *Predictive Learning via Rule Ensembles*."
 * [Scalable Bayesian Rule Lists (SBRL)](https://users.cs.duke.edu/~cynthia/code/sbrl_1.0.tar.gz)
-* [shapFlex](https://github.com/nredell/shapFlex)![](https://img.shields.io/github/stars/nredell/shapFlex?style=social) Computes stochastic Shapley values for machine learning models to interpret them and evaluate fairness, including causal constraints in the feature space.
-* [shapleyR](https://github.com/redichh/ShapleyR)![](https://img.shields.io/github/stars/redichh/ShapleyR?style=social) An R package that provides some functionality to use mlr tasks and models to generate shapley values.
-* [shapper](https://cran.r-project.org/web/packages/shapper/index.html) Provides SHAP explanations of machine learning models.
-* [smbinning](https://cran.r-project.org/web/packages/smbinning/index.html) A set of functions to build a scoring model from beginning to end.
-* [vip](https://github.com/koalaverse/vip)![](https://img.shields.io/github/stars/koalaverse/vip?style=social) An R package for constructing variable importance plots (VIPs).
-* [xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer)![](https://img.shields.io/github/stars/AppliedDataSciencePartners/xgboostExplainer?style=social) An R package that makes xgboost models fully interpretable.
+* [shapFlex](https://github.com/nredell/shapFlex)![](https://img.shields.io/github/stars/nredell/shapFlex?style=social) - Computes stochastic Shapley values for machine learning models to interpret them and evaluate fairness, including causal constraints in the feature space.
+* [shapleyR](https://github.com/redichh/ShapleyR)![](https://img.shields.io/github/stars/redichh/ShapleyR?style=social) - "An R package that provides some functionality to use mlr tasks and models to generate shapley values."
+* [shapper](https://cran.r-project.org/web/packages/shapper/index.html) - "Provides SHAP explanations of machine learning models."
+* [smbinning](https://cran.r-project.org/web/packages/smbinning/index.html) - "A set of functions to build a scoring model from beginning to end."
+* [vip](https://github.com/koalaverse/vip)![](https://img.shields.io/github/stars/koalaverse/vip?style=social) - "An R package for constructing variable importance plots (VIPs)."
+* [xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer)![](https://img.shields.io/github/stars/AppliedDataSciencePartners/xgboostExplainer?style=social) - "An R package that makes xgboost models fully interpretable."
