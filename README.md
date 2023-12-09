@@ -606,6 +606,7 @@ This section curates specialized software tools aimed at responsible ML within s
 
 This section contains open source or open access ML environment management software.
 
+* [Brendan Bycroft's LLM Visualization](https://bbycroft.net/llm)
 * [dvc](https://dvc.org/)
 * [gigantum](https://github.com/gigantum)![](https://img.shields.io/github/stars/gigantum?style=social)
 * [mlflow](https://mlflow.org/)
