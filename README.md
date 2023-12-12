@@ -775,6 +775,7 @@ This section contains open source or open access software used to implement resp
 * [xai](https://github.com/EthicalML/xai)![](https://img.shields.io/github/stars/EthicalML/xai?style=social)
 * [xdeep](https://github.com/datamllab/xdeep)![](https://img.shields.io/github/stars/datamllab/xdeep?style=social)
 * [xplique](https://github.com/deel-ai/xplique)![](https://img.shields.io/github/stars/deel-ai/xplique?style=social)
+* [ydata-profiling](https://github.com/ydataai/ydata-profiling)![](https://img.shields.io/github/stars/ydataai/ydata-profiling?style=social)
 * [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)![](https://img.shields.io/github/stars/DistrictDataLabs/yellowbrick?style=social)
  
 #### R
