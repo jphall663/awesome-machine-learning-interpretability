@@ -763,20 +763,20 @@ This section contains open source or open access software used to implement resp
 * [tensorfuzz](https://github.com/brain-research/tensorfuzz)![](https://img.shields.io/github/stars/brain-research/tensorfuzz?style=social)
 * [TensorWatch](https://github.com/microsoft/tensorwatch)![](https://img.shields.io/github/stars/microsoft/tensorwatch?style=social)
 * [TextFooler](https://github.com/jind11/TextFooler)![](https://img.shields.io/github/stars/jind11/TextFooler?style=social)
-* [text_explainability](https://text-explainability.readthedocs.io/)
-* [text_sensitivity](https://text-sensitivity.readthedocs.io/)
-* [tf-explain](https://github.com/sicara/tf-explain)![](https://img.shields.io/github/stars/sicara/tf-explain?style=social)
-* [Themis](https://github.com/LASER-UMASS/Themis)![](https://img.shields.io/github/stars/LASER-UMASS/Themis?style=social)
-* [themis-ml](https://github.com/cosmicBboy/themis-ml)![](https://img.shields.io/github/stars/cosmicBboy/themis-ml?style=social)
-* [TorchUncertainty](https://github.com/ENSTA-U2IS/torch-uncertainty)![](https://img.shields.io/github/stars/ENSTA-U2IS/torch-uncertainty?style=social)
-* [treeinterpreter](https://github.com/andosa/treeinterpreter)![](https://img.shields.io/github/stars/andosa/treeinterpreter?style=social)
-* [TRIAGE](https://github.com/seedatnabeel/TRIAGE)![](https://img.shields.io/github/stars/seedatnabeel/TRIAGE?style=social)
-* [woe](https://github.com/boredbird/woe)![](https://img.shields.io/github/stars/boredbird/woe?style=social)
-* [xai](https://github.com/EthicalML/xai)![](https://img.shields.io/github/stars/EthicalML/xai?style=social)
-* [xdeep](https://github.com/datamllab/xdeep)![](https://img.shields.io/github/stars/datamllab/xdeep?style=social)
-* [xplique](https://github.com/deel-ai/xplique)![](https://img.shields.io/github/stars/deel-ai/xplique?style=social)
-* [ydata-profiling](https://github.com/ydataai/ydata-profiling)![](https://img.shields.io/github/stars/ydataai/ydata-profiling?style=social)
-* [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)![](https://img.shields.io/github/stars/DistrictDataLabs/yellowbrick?style=social)
+* [text_explainability](https://text-explainability.readthedocs.io/) - "text_explainability provides a generic architecture from which well-known state-of-the-art explainability approaches for text can be composed."
+* [text_sensitivity](https://text-sensitivity.readthedocs.io/) - "Uses the generic architecture of text_explainability to also include tests of safety (how safe it the model in production, i.e. types of inputs it can handle), robustness (how generalizable the model is in production, e.g. stability when adding typos, or the effect of adding random unrelated data) and fairness (if equal individuals are treated equally by the model, e.g. subgroup fairness on sex and nationality)."
+* [tf-explain](https://github.com/sicara/tf-explain)![](https://img.shields.io/github/stars/sicara/tf-explain?style=social) - "Implements interpretability methods as Tensorflow 2.x callbacks to ease neural network's understanding."
+* [Themis](https://github.com/LASER-UMASS/Themis)![](https://img.shields.io/github/stars/LASER-UMASS/Themis?style=social) - "A testing-based approach for measuring discrimination in a software system."
+* [themis-ml](https://github.com/cosmicBboy/themis-ml)![](https://img.shields.io/github/stars/cosmicBboy/themis-ml?style=social) - "A Python library built on top of pandas and sklearnthat implements fairness-aware machine learning algorithms."
+* [TorchUncertainty](https://github.com/ENSTA-U2IS/torch-uncertainty)![](https://img.shields.io/github/stars/ENSTA-U2IS/torch-uncertainty?style=social) - "A package designed to help you leverage uncertainty quantification techniques and make your deep neural networks more reliable."
+* [treeinterpreter](https://github.com/andosa/treeinterpreter)![](https://img.shields.io/github/stars/andosa/treeinterpreter?style=social) - "Package for interpreting scikit-learn's decision tree and random forest predictions."
+* [TRIAGE](https://github.com/seedatnabeel/TRIAGE)![](https://img.shields.io/github/stars/seedatnabeel/TRIAGE?style=social) - "This repository contains the implementation of TRIAGE, a "Data-Centric AI" framework for data characterization tailored for regression."
+* [woe](https://github.com/boredbird/woe)![](https://img.shields.io/github/stars/boredbird/woe?style=social) - "Tools for WoE Transformation mostly used in ScoreCard Model for credit rating."
+* [xai](https://github.com/EthicalML/xai)![](https://img.shields.io/github/stars/EthicalML/xai?style=social) - "A Machine Learning library that is designed with AI explainability in its core."
+* [xdeep](https://github.com/datamllab/xdeep)![](https://img.shields.io/github/stars/datamllab/xdeep?style=social) - "An open source Python library for Interpretable Machine Learning."
+* [xplique](https://github.com/deel-ai/xplique)![](https://img.shields.io/github/stars/deel-ai/xplique?style=social) - "A Python toolkit dedicated to explainability. The goal of this library is to gather the state of the art of Explainable AI to help you understand your complex neural network models."
+* [ydata-profiling](https://github.com/ydataai/ydata-profiling)![](https://img.shields.io/github/stars/ydataai/ydata-profiling?style=social) - "Provide[s] a one-line Exploratory Data Analysis (EDA) experience in a consistent and fast solution."
+* [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)![](https://img.shields.io/github/stars/DistrictDataLabs/yellowbrick?style=social) - "A suite of visual diagnostic tools called "Visualizers" that extend the scikit-learn API to allow human steering of the model selection process."
  
 #### R
 
