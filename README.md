@@ -780,35 +780,35 @@ This section contains open source or open access software used to implement resp
  
 #### R
 
-* [ALEPlot](https://cran.r-project.org/web/packages/ALEPlot/index.html)
-* [arules](https://cran.r-project.org/web/packages/arules/index.html)
-* [Causal SVM](https://github.com/shangtai/githubcausalsvm)![](https://img.shields.io/github/stars/shangtai/githubcausalsvm?style=social)
-* [DALEX](https://github.com/ModelOriented/DALEX)![](https://img.shields.io/github/stars/ModelOriented/DALEX?style=social)
-* [DALEXtra](https://cran.r-project.org/web/packages/DALEXtra/index.html)
-* [DrWhyAI](https://github.com/ModelOriented/DrWhy)![](https://img.shields.io/github/stars/ModelOriented/DrWhy?style=social)
-* [elasticnet](https://cran.r-project.org/web/packages/elasticnet/index.html)
-* [ExplainPrediction](https://github.com/rmarko/ExplainPrediction)![](https://img.shields.io/github/stars/rmarko/ExplainPrediction?style=social)
-* [Explainable Boosting Machine (EBM)/GA2M](https://cran.r-project.org/web/packages/interpret/index.html)
-* [fairmodels](https://github.com/ModelOriented/fairmodels)![](https://img.shields.io/github/stars/ModelOriented/fairmodels?style=social)
-* [fairness](https://cran.r-project.org/web/packages/fairness/index.html)
-* [fastshap](https://github.com/bgreenwell/fastshap)![](https://img.shields.io/github/stars/bgreenwell/fastshap?style=social)
-* [featureImportance](https://github.com/giuseppec/featureImportance)![](https://img.shields.io/github/stars/giuseppec/featureImportance?style=social)
-* [flashlight](https://github.com/mayer79/flashlight)![](https://img.shields.io/github/stars/mayer79/flashlight?style=social)
-* [forestmodel](https://cran.r-project.org/web/packages/forestmodel/index.html)
-* [fscaret](https://cran.r-project.org/web/packages/fscaret/)
-* [gam](https://cran.r-project.org/web/packages/gam/index.html)
-* [glm2](https://cran.r-project.org/web/packages/glm2/)
-* [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html)
+* [ALEPlot](https://cran.r-project.org/web/packages/ALEPlot/index.html) - "Visualizes the main effects of individual predictor variables and their second-order interaction effects in black-box supervised learning models."
+* [arules](https://cran.r-project.org/web/packages/arules/index.html) - "Provides the infrastructure for representing, manipulating and analyzing transaction data and patterns (frequent itemsets and association rules). Also provides C implementations of the association mining algorithms Apriori and Eclat. Hahsler, Gruen and Hornik (2005)."
+* [Causal SVM](https://github.com/shangtai/githubcausalsvm)![](https://img.shields.io/github/stars/shangtai/githubcausalsvm?style=social) - "We present a new machine learning approach to estimate whether a treatment has an effect on an individual, in the setting of the classical potential outcomes framework with binary outcomes."
+* [DALEX](https://github.com/ModelOriented/DALEX)![](https://img.shields.io/github/stars/ModelOriented/DALEX?style=social) - "moDel Agnostic Language for Exploration and eXplanation."
+* [DALEXtra: Extension for 'DALEX' Package](https://cran.r-project.org/web/packages/DALEXtra/index.html) - "Provides wrapper of various machine learning models."
+* [DrWhyAI](https://github.com/ModelOriented/DrWhy)![](https://img.shields.io/github/stars/ModelOriented/DrWhy?style=social) - "DrWhy is [a] collection of tools for eXplainable AI (XAI). It's based on shared principles and simple grammar for exploration, explanation and visualisation of predictive models."
+* [elasticnet](https://cran.r-project.org/web/packages/elasticnet/index.html) - "Provides functions for fitting the entire solution path of the Elastic-Net and also provides functions for doing sparse PCA."
+* [ExplainPrediction](https://github.com/rmarko/ExplainPrediction)![](https://img.shields.io/github/stars/rmarko/ExplainPrediction?style=social) - "Generates explanations for classification and regression models and visualizes them."
+* [Explainable Boosting Machine (EBM)/GA2M](https://cran.r-project.org/web/packages/interpret/index.html) - "Package for training interpretable machine learning models."
+* [fairmodels](https://github.com/ModelOriented/fairmodels)![](https://img.shields.io/github/stars/ModelOriented/fairmodels?style=social) - "Flexible tool for bias detection, visualization, and mitigation. Use models explained with DALEX and calculate fairness classification metrics based on confusion matrices using fairness_check() or try newly developed module for regression models using fairness_check_regression()."
+* [fairness](https://cran.r-project.org/web/packages/fairness/index.html) - "Offers calculation, visualization and comparison of algorithmic fairness metrics."
+* [fastshap](https://github.com/bgreenwell/fastshap)![](https://img.shields.io/github/stars/bgreenwell/fastshap?style=social) - "The goal of fastshap is to provide an efficient and speedy approach (at least relative to other implementations) for computing approximate Shapley values, which help explain the predictions from any machine learning model."
+* [featureImportance](https://github.com/giuseppec/featureImportance)![](https://img.shields.io/github/stars/giuseppec/featureImportance?style=social) - "An extension for the mlr package and allows to compute the permutation feature importance in a model-agnostic manner."
+* [flashlight](https://github.com/mayer79/flashlight)![](https://img.shields.io/github/stars/mayer79/flashlight?style=social) - "The goal of this package is [to] shed light on black box machine learning models."
+* [forestmodel](https://cran.r-project.org/web/packages/forestmodel/index.html) - "Produces forest plots using 'ggplot2' from models produced by functions such as stats::lm(), stats::glm() and survival::coxph()."
+* [fscaret](https://cran.r-project.org/web/packages/fscaret/) - "Automated feature selection using variety of models provided by 'caret' package."
+* [gam](https://cran.r-project.org/web/packages/gam/index.html) - "Functions for fitting and working with generalized additive models, as described in chapter 7 of "Statistical Models in S" (Chambers and Hastie (eds), 1991), and "Generalized Additive Models" (Hastie and Tibshirani, 1990)."
+* [glm2](https://cran.r-project.org/web/packages/glm2/) - "Fits generalized linear models using the same model specification as glm in the stats package, but with a modified default fitting method that provides greater stability for models that may fail to converge using glm."
+* [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html) - "Extremely efficient procedures for fitting the entire lasso or elastic-net regularization path for linear regression, logistic and multinomial regression models, Poisson regression, Cox model, multiple-response Gaussian, and the grouped multinomial regression."
 * H2O-3
-  * [Penalized Generalized Linear Models](http://docs.h2o.ai/h2o/latest-stable/h2o-r/docs/reference/h2o.glm.html)
-  * [Monotonic GBM](http://docs.h2o.ai/h2o/latest-stable/h2o-r/docs/reference/h2o.gbm.html)
-  * [Sparse Principal Components (GLRM)](http://docs.h2o.ai/h2o/latest-stable/h2o-r/docs/reference/h2o.glrm.html)
-* [iBreakDown](https://github.com/ModelOriented/iBreakDown)![](https://img.shields.io/github/stars/ModelOriented/iBreakDown?style=social)
-* [ICEbox](https://cran.r-project.org/web/packages/ICEbox/index.html)
-* [iml](https://github.com/christophM/iml)![](https://img.shields.io/github/stars/christophM/iml?style=social)
-* [ingredients](https://github.com/ModelOriented/ingredients)![](https://img.shields.io/github/stars/ModelOriented/ingredients?style=social)
-* [intepret](https://cran.r-project.org/web/packages/interpret/index.html)
-* [lightgbmExplainer](https://github.com/lantanacamara/lightgbmExplainer)![](https://img.shields.io/github/stars/lantanacamara/lightgbmExplainer?style=social)
+  * [Penalized Generalized Linear Models](http://docs.h2o.ai/h2o/latest-stable/h2o-r/docs/reference/h2o.glm.html) - "Fits a generalized linear model, specified by a response variable, a set of predictors, and a description of the error distribution."
+  * [Monotonic GBM](http://docs.h2o.ai/h2o/latest-stable/h2o-r/docs/reference/h2o.gbm.html) - "Builds gradient boosted classification trees and gradient boosted regression trees on a parsed data set."
+  * [Sparse Principal Components (GLRM)](http://docs.h2o.ai/h2o/latest-stable/h2o-r/docs/reference/h2o.glrm.html) - "Builds a generalized low rank decomposition of an H2O data frame."
+* [iBreakDown](https://github.com/ModelOriented/iBreakDown)![](https://img.shields.io/github/stars/ModelOriented/iBreakDown?style=social) - "A model agnostic tool for explanation of predictions from black boxes ML models."
+* [ICEbox: Individual Conditional Expectation Plot Toolbox](https://cran.r-project.org/web/packages/ICEbox/index.html) - "Implements Individual Conditional Expectation (ICE) plots, a tool for visualizing the model estimated by any supervised learning algorithm."
+* [iml](https://github.com/christophM/iml)![](https://img.shields.io/github/stars/christophM/iml?style=social) - "An R package that interprets the behavior and explains predictions of machine learning models."
+* [ingredients](https://github.com/ModelOriented/ingredients)![](https://img.shields.io/github/stars/ModelOriented/ingredients?style=social) - "A collection of tools for assessment of feature importance and feature effects."
+* [interpret: Fit Interpretable Machine Learning Models](https://cran.r-project.org/web/packages/interpret/index.html) - "Package for training interpretable machine learning models."
+* [lightgbmExplainer](https://github.com/lantanacamara/lightgbmExplainer)![](https://img.shields.io/github/stars/lantanacamara/lightgbmExplainer?style=social) - "An R package that makes LightGBM models fully interpretable."
 * [lime](https://github.com/thomasp85/lime)![](https://img.shields.io/github/stars/thomasp85/lime?style=social) - "R port of the Python lime package."
 * [live](https://cran.r-project.org/web/packages/live/index.html) - "Helps to understand key factors that drive the decision made by complicated predictive model (black box model)."
 * [mcr](https://github.com/aaronjfisher/mcr)![](https://img.shields.io/github/stars/aaronjfisher/mcr?style=social) - "An R package for Model Reliance and Model Class Reliance."
