@@ -265,7 +265,7 @@ This section is for conferences, workshops and other major events related to res
     * [Regulatable ML: Towards Bridging the Gaps between Machine Learning Research and Regulations](https://neurips.cc/virtual/2023/workshop/66512)
     * [Workshop on Distribution Shifts: New Frontiers with Foundation Models](https://neurips.cc/virtual/2023/workshop/66509)
     * [XAI in Action: Past, Present, and Future Applications](https://neurips.cc/virtual/2023/workshop/66529)
-   * [Oxford Generative AI Summit Slides](https://drive.google.com/drive/folders/1WQPaL-ozhZbZaDichFm4gWZQpGwriT32)
+  * [Oxford Generative AI Summit Slides](https://drive.google.com/drive/folders/1WQPaL-ozhZbZaDichFm4gWZQpGwriT32)
 
 ### Official Policy, Frameworks, and Guidance
 
