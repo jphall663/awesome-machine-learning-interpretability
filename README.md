@@ -739,15 +739,15 @@ This section contains open source or open access software used to implement resp
 * [responsibly](https://github.com/ResponsiblyAI/responsibly)![](https://img.shields.io/github/stars/ResponsiblyAI/responsibly?style=social)
 * [revise-tool](https://github.com/princetonvisualai/revise-tool)![](https://img.shields.io/github/stars/princetonvisualai/revise-tool?style=social)
 * [robustness](https://github.com/MadryLab/robustness)![](https://img.shields.io/github/stars/MadryLab/robustness?style=social)
-* [RISE](https://github.com/eclique/RISE)![](https://img.shields.io/github/stars/eclique/RISE?style=social)
-* [Risk-SLIM](https://github.com/ustunb/risk-SLIM)![](https://img.shields.io/github/stars/ustunb/risk-SLIM?style=social)
-* [sage](https://github.com/iancovert/sage/)![](https://img.shields.io/github/stars/iancovert/sage?style=social)
-* [SALib](https://github.com/SALib/SALib)![](https://img.shields.io/github/stars/SALib/SALib?style=social)
+* [RISE](https://github.com/eclique/RISE)![](https://img.shields.io/github/stars/eclique/RISE?style=social) - "contains source code necessary to reproduce some of the main results in the paper: [Vitali Petsiuk](http://cs-people.bu.edu/vpetsiuk/), [Abir Das](http://cs-people.bu.edu/dasabir/), [Kate Saenko](http://ai.bu.edu/ksaenko.html) (BMVC, 2018) [and] [RISE: Randomized Input Sampling for Explanation of Black-box Models](https://arxiv.org/abs/1806.07421)."
+* [Risk-SLIM](https://github.com/ustunb/risk-SLIM)![](https://img.shields.io/github/stars/ustunb/risk-SLIM?style=social) - "a machine learning method to fit simple customized risk scores in python."
+* [SAGE](https://github.com/iancovert/sage/)![](https://img.shields.io/github/stars/iancovert/sage?style=social) - "SAGE (Shapley Additive Global importancE) is a game-theoretic approach for understanding black-box machine learning models. It quantifies each feature's importance based on how much predictive power it contributes, and it accounts for complex feature interactions using the Shapley value."
+* [SALib](https://github.com/SALib/SALib)![](https://img.shields.io/github/stars/SALib/SALib?style=social) - "Python implementations of commonly used sensitivity analysis methods. Useful in systems modeling to calculate the effects of model inputs or exogenous factors on outputs of interest."
 * Scikit-learn
-  * [Decision Trees](http://scikit-learn.org/stable/modules/tree.html)
-  * [Generalized Linear Models](http://scikit-learn.org/stable/modules/linear_model.html)
-  * [Sparse Principal Components](http://scikit-learn.org/stable/modules/decomposition.html#sparse-principal-components-analysis-sparsepca-and-minibatchsparsepca)
-* [scikit-fairness](https://github.com/koaning/scikit-fairness)![](https://img.shields.io/github/stars/koaning/scikit-fairness?style=social)
+  * [Decision Trees](http://scikit-learn.org/stable/modules/tree.html) - "a non-parametric supervised learning method used for classification and regression."
+  * [Generalized Linear Models](http://scikit-learn.org/stable/modules/linear_model.html) - "a set of methods intended for regression in which the target value is expected to be a linear combination of the features."
+  * [Sparse Principal Components](http://scikit-learn.org/stable/modules/decomposition.html#sparse-principal-components-analysis-sparsepca-and-minibatchsparsepca) - "a variant of [principal component analysis, PCA], with the goal of extracting the set of sparse components that best reconstruct the data."
+* [scikit-fairness](https://github.com/koaning/scikit-fairness)![](https://img.shields.io/github/stars/koaning/scikit-fairness?style=social) - Historical link. Merged with [fairlearn](https://fairlearn.org/).
 * [scikit-multiflow](https://scikit-multiflow.github.io/) - "a machine learning package for streaming data in Python."
 * [shap](https://github.com/slundberg/shap)![](https://img.shields.io/github/stars/slundberg/shap?style=social) - "a game theoretic approach to explain the output of any machine learning model. It connects optimal credit allocation with local explanations using the classic Shapley values from game theory and their related extensions"
 * [shapley](https://github.com/benedekrozemberczki/shapley)![](https://img.shields.io/github/stars/benedekrozemberczki/shapley?style=social) - "a Python library for evaluating binary classifiers in a machine learning ensemble."
