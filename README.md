@@ -129,6 +129,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [ISACA: Capability Maturity Model Integration Resources](https://cmmiinstitute.com/)
 * [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
 * [Larry G. Wlosinski, April 30, 2021, Information System Contingency Planning Guidance](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-3/information-system-contingency-planning-guidance)
+* [Library of Congress, LC Labs AI Planning Framework](https://github.com/LibraryOfCongress/labs-ai-framework)![](https://img.shields.io/github/stars/LibraryOfCongress/labs-ai-framework?style=social)
 * [Llama 2 Responsible Use Guide](https://ai.meta.com/llama/responsible-use-guide/)
 * [LLM Visualization](https://bbycroft.net/llm)
 * [Machine Learning Attack_Cheat_Sheet](https://resources.oreilly.com/examples/0636920415947/-/blob/master/Attack_Cheat_Sheet.png)
