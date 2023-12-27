@@ -329,6 +329,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [2022-05-20 Security Beyond Prevention: The Importance of Effective Breach Disclosures](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2022/05/security-beyond-prevention-importance-effective-breach-disclosures)
   * [2023-02-01 Security Principles: Addressing underlying causes of risk in complex systems](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/02/security-principles-addressing-underlying-causes-risk-complex-systems)
   * [2023-06-29 Generative AI Raises Competition Concerns](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/06/generative-ai-raises-competition-concerns)
+  * [2023-12-19 Coming face to face with Rite Aid’s allegedly unfair use of facial recognition technology](https://www.ftc.gov/business-guidance/blog/2023/12/coming-face-face-rite-aids-allegedly-unfair-use-facial-recognition-technology)
 * [FTC Privacy Policy](https://www.ftc.gov/policy-notices/privacy-policy)
 * [Government Accountability Office: Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities](https://www.gao.gov/products/gao-21-519sp)
 * [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
