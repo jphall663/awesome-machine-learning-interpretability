@@ -644,56 +644,56 @@ This section contains open source or open access software used to implement resp
 
 #### Python
 
-* [acd](https://github.com/csinva/hierarchical_dnn_interpretations)![](https://img.shields.io/github/stars/csinva/hierarchical_dnn_interpretations?style=social)
-* [aequitas](https://github.com/dssg/aequitas)![](https://img.shields.io/github/stars/dssg/aequitas?style=social)
-* [AI Fairness 360](https://github.com/Trusted-AI/AIF360)![](https://img.shields.io/github/stars/Trusted-AI/AIF360?style=social)
-* [AI Explainability 360](https://github.com/IBM/AIX360)![](https://img.shields.io/github/stars/IBM/AIX360?style=social)
-* [ALEPython](https://github.com/blent-ai/ALEPython)![](https://img.shields.io/github/stars/blent-ai/ALEPython?style=social)
-* [Aletheia](https://github.com/SelfExplainML/Aletheia)![](https://img.shields.io/github/stars/SelfExplainML/Aletheia?style=social)
-* [allennlp](https://github.com/allenai/allennlp)![](https://img.shields.io/github/stars/allenai/allennlp?style=social)
+* [acd](https://github.com/csinva/hierarchical_dnn_interpretations)![](https://img.shields.io/github/stars/csinva/hierarchical_dnn_interpretations?style=social) - "Produces hierarchical interpretations for a single prediction made by a pytorch neural network. Official code for *Hierarchical interpretations for neural network predictions*."
+* [aequitas](https://github.com/dssg/aequitas)![](https://img.shields.io/github/stars/dssg/aequitas?style=social) - "Aequitas is an open-source bias audit toolkit for data scientists, machine learning researchers, and policymakers to audit machine learning models for discrimination and bias, and to make informed and equitable decisions around developing and deploying predictive tools."
+* [AI Fairness 360](https://github.com/Trusted-AI/AIF360)![](https://img.shields.io/github/stars/Trusted-AI/AIF360?style=social) - "A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models."
+* [AI Explainability 360](https://github.com/IBM/AIX360)![](https://img.shields.io/github/stars/IBM/AIX360?style=social) - "Interpretability and explainability of data and machine learning models."
+* [ALEPython](https://github.com/blent-ai/ALEPython)![](https://img.shields.io/github/stars/blent-ai/ALEPython?style=social) - "Python Accumulated Local Effects package."
+* [Aletheia](https://github.com/SelfExplainML/Aletheia)![](https://img.shields.io/github/stars/SelfExplainML/Aletheia?style=social) - "A Python package for unwrapping ReLU DNNs."
+* [allennlp](https://github.com/allenai/allennlp)![](https://img.shields.io/github/stars/allenai/allennlp?style=social) - "An open-source NLP research library, built on PyTorch."
 * [algofairness](https://github.com/algofairness)![](https://img.shields.io/github/stars/algofairness?style=social)
-* [Alibi](https://github.com/SeldonIO/alibi)![](https://img.shields.io/github/stars/SeldonIO/alibi?style=social)
-* [anchor](https://github.com/marcotcr/anchor)![](https://img.shields.io/github/stars/marcotcr/anchor?style=social)
+* [Alibi](https://github.com/SeldonIO/alibi)![](https://img.shields.io/github/stars/SeldonIO/alibi?style=social) - "Alibi is an open source Python library aimed at machine learning model inspection and interpretation. The focus of the library is to provide high-quality implementations of black-box, white-box, local and global explanation methods for classification and regression models."
+* [anchor](https://github.com/marcotcr/anchor)![](https://img.shields.io/github/stars/marcotcr/anchor?style=social) - "Code for 'High-Precision Model-Agnostic Explanations' paper."
 * [Bayesian Case Model](https://users.cs.duke.edu/~cynthia/code/BCM.zip)
-* [Bayesian Ors-Of-Ands](https://github.com/wangtongada/BOA)![](https://img.shields.io/github/stars/wangtongada/BOA?style=social)
+* [Bayesian Ors-Of-Ands](https://github.com/wangtongada/BOA)![](https://img.shields.io/github/stars/wangtongada/BOA?style=social) - "This code implements the Bayesian or-of-and algorithm as described in the BOA paper. We include the tictactoe dataset in the correct formatting to be used by this code."
 * [Bayesian Rule List (BRL)](https://users.cs.duke.edu/~cynthia/code/BRL_supplement_code.zip)
-* [BlackBoxAuditing](https://github.com/algofairness/BlackBoxAuditing)![](https://img.shields.io/github/stars/algofairness/BlackBoxAuditing?style=social)
-* [casme](https://github.com/kondiz/casme)![](https://img.shields.io/github/stars/kondiz/casme?style=social)
-* [Causal Discovery Toolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox)![](https://img.shields.io/github/stars/FenTechSolutions/CausalDiscoveryToolbox?style=social)
-* [captum](https://github.com/pytorch/captum)![](https://img.shields.io/github/stars/pytorch/captum?style=social)
-* [causalml](https://github.com/uber/causalml)![](https://img.shields.io/github/stars/uber/causalml?style=social)
-* [cdt15](https://github.com/cdt15)![](https://img.shields.io/github/stars/cdt15?style=social)
-* [checklist](https://github.com/marcotcr/checklist)![](https://img.shields.io/github/stars/marcotcr/checklist?style=social)
-* [cleverhans](https://github.com/cleverhans-lab/cleverhans)![](https://img.shields.io/github/stars/cleverhans-lab/cleverhans?style=social)
-* [contextual-AI](https://github.com/SAP/contextual-ai)![](https://img.shields.io/github/stars/SAP/contextual-ai?style=social)
-* [ContrastiveExplanation (Foil Trees)](https://github.com/MarcelRobeer/ContrastiveExplanation)![](https://img.shields.io/github/stars/MarcelRobeer/ContrastiveExplanation?style=social)
-* [counterfit](https://github.com/Azure/counterfit/)![](https://img.shields.io/github/stars/Azure/counterfit?style=social)
-* [dalex](https://github.com/ModelOriented/DALEX)![](https://img.shields.io/github/stars/ModelOriented/DALEX?style=social)
-* [debiaswe](https://github.com/tolga-b/debiaswe)![](https://img.shields.io/github/stars/tolga-b/debiaswe?style=social)
-* [DeepExplain](https://github.com/marcoancona/DeepExplain)![](https://img.shields.io/github/stars/marcoancona/DeepExplain?style=social)
-* [deeplift](https://github.com/kundajelab/deeplift)![](https://img.shields.io/github/stars/kundajelab/deeplift?style=social)
-* [deepvis](https://github.com/yosinski/deep-visualization-toolbox)![](https://img.shields.io/github/stars/yosinski/deep-visualization-toolbox?style=social)
-* [dianna](https://github.com/dianna-ai/dianna)![](https://img.shields.io/github/stars/dianna-ai/dianna?style=social)
-* [DiCE](https://github.com/interpretml/DiCE)![](https://img.shields.io/github/stars/interpretml/DiCE?style=social)
-* [DoWhy](https://github.com/microsoft/dowhy)![](https://img.shields.io/github/stars/microsoft/dowhy?style=social)
-* [dtreeviz](https://github.com/parrt/dtreeviz)![](https://img.shields.io/github/stars/parrt/dtreeviz?style=social)
-* [ecco](https://github.com/jalammar/ecco)![](https://img.shields.io/github/stars/jalammar/ecco?style=social)
-* [eli5](https://github.com/TeamHG-Memex/eli5)![](https://img.shields.io/github/stars/TeamHG-Memex/eli5?style=social)
-* [explabox](https://github.com/MarcelRobeer/explabox)![](https://img.shields.io/github/stars/MarcelRobeer/explabox?style=social)
-* [Explainable Boosting Machine (EBM)/GA2M](https://github.com/interpretml/interpret)![](https://img.shields.io/github/stars/interpretml/interpret?style=social)
-* [ExplainaBoard](https://github.com/neulab/ExplainaBoard)![](https://img.shields.io/github/stars/neulab/ExplainaBoard?style=social)
-* [explainerdashboard](https://github.com/oegedijk/explainerdashboard)![](https://img.shields.io/github/stars/oegedijk/explainerdashboard?style=social)
-* [explainX](https://github.com/explainX/explainx)![](https://img.shields.io/github/stars/explainX/explainx?style=social)
-* [fair-classification](https://github.com/mbilalzafar/fair-classification)![](https://img.shields.io/github/stars/mbilalzafar/fair-classification?style=social)
-* [fairml](https://github.com/adebayoj/fairml)![](https://img.shields.io/github/stars/adebayoj/fairml?style=social)
-* [fairlearn](https://github.com/fairlearn/fairlearn)![](https://img.shields.io/github/stars/fairlearn/fairlearn?style=social)
-* [fairness-comparison](https://github.com/algofairness/fairness-comparison)![](https://img.shields.io/github/stars/algofairness/fairness-comparison?style=social)
-* [fairness_measures_code](https://github.com/megantosh/fairness_measures_code)![](https://img.shields.io/github/stars/megantosh/fairness_measures_code?style=social)
+* [BlackBoxAuditing](https://github.com/algofairness/BlackBoxAuditing)![](https://img.shields.io/github/stars/algofairness/BlackBoxAuditing?style=social) - "Research code for auditing and exploring black box machine-learning models."
+* [casme](https://github.com/kondiz/casme)![](https://img.shields.io/github/stars/kondiz/casme?style=social) - "contains the code originally forked from the ImageNet training in PyTorch that is modified to present the performance of classifier-agnostic saliency map extraction, a practical algorithm to train a classifier-agnostic saliency mapping by simultaneously training a classifier and a saliency mapping."
+* [Causal Discovery Toolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox)![](https://img.shields.io/github/stars/FenTechSolutions/CausalDiscoveryToolbox?style=social) - "Package for causal inference in graphs and in the pairwise settings. Tools for graph structure recovery and dependencies are included."
+* [captum](https://github.com/pytorch/captum)![](https://img.shields.io/github/stars/pytorch/captum?style=social) - "Model interpretability and understanding for PyTorch."
+* [causalml](https://github.com/uber/causalml)![](https://img.shields.io/github/stars/uber/causalml?style=social) - "Uplift modeling and causal inference with machine learning algorithms."
+* [cdt15, Causal Discovery Lab., Shiga University](https://github.com/cdt15)![](https://img.shields.io/github/stars/cdt15?style=social)
+* [checklist](https://github.com/marcotcr/checklist)![](https://img.shields.io/github/stars/marcotcr/checklist?style=social) - "Beyond Accuracy: Behavioral Testing of NLP models with CheckList."
+* [cleverhans](https://github.com/cleverhans-lab/cleverhans)![](https://img.shields.io/github/stars/cleverhans-lab/cleverhans?style=social) - "An adversarial example library for constructing attacks, building defenses, and benchmarking both."
+* [contextual-AI](https://github.com/SAP/contextual-ai)![](https://img.shields.io/github/stars/SAP/contextual-ai?style=social) - "Contextual AI adds explainability to different stages of machine learning pipelines - data, training, and inference - thereby addressing the trust gap between such ML systems and their users. It does not refer to a specific algorithm or ML method — instead, it takes a human-centric view and approach to AI."
+* [ContrastiveExplanation (Foil Trees)](https://github.com/MarcelRobeer/ContrastiveExplanation)![](https://img.shields.io/github/stars/MarcelRobeer/ContrastiveExplanation?style=social) - "provides an explanation for why an instance had the current outcome (fact) rather than a targeted outcome of interest (foil). These counterfactual explanations limit the explanation to the features relevant in distinguishing fact from foil, thereby disregarding irrelevant features."
+* [counterfit](https://github.com/Azure/counterfit/)![](https://img.shields.io/github/stars/Azure/counterfit?style=social) - "a CLI that provides a generic automation layer for assessing the security of ML models."
+* [dalex](https://github.com/ModelOriented/DALEX)![](https://img.shields.io/github/stars/ModelOriented/DALEX?style=social) - "moDel Agnostic Language for Exploration and eXplanation."
+* [debiaswe](https://github.com/tolga-b/debiaswe)![](https://img.shields.io/github/stars/tolga-b/debiaswe?style=social) - "Remove problematic gender bias from word embeddings."
+* [DeepExplain](https://github.com/marcoancona/DeepExplain)![](https://img.shields.io/github/stars/marcoancona/DeepExplain?style=social) - "provides a unified framework for state-of-the-art gradient and perturbation-based attribution methods. It can be used by researchers and practitioners for better undertanding the recommended existing models, as well for benchmarking other attribution methods."
+* [DeepLIFT](https://github.com/kundajelab/deeplift)![](https://img.shields.io/github/stars/kundajelab/deeplift?style=social) - "This repository implements the methods in 'Learning Important Features Through Propagating Activation Differences' by Shrikumar, Greenside & Kundaje, as well as other commonly-used methods such as gradients, gradient-times-input (equivalent to a version of Layerwise Relevance Propagation for ReLU networks), guided backprop and integrated gradients."
+* [deepvis](https://github.com/yosinski/deep-visualization-toolbox)![](https://img.shields.io/github/stars/yosinski/deep-visualization-toolbox?style=social) - "the code required to run the Deep Visualization Toolbox, as well as to generate the neuron-by-neuron visualizations using regularized optimization."
+* [DIANNA](https://github.com/dianna-ai/dianna)![](https://img.shields.io/github/stars/dianna-ai/dianna?style=social) - "DIANNA is a Python package that brings explainable AI (XAI) to your research project. It wraps carefully selected XAI methods in a simple, uniform interface. It's built by, with and for (academic) researchers and research software engineers working on machine learning projects."
+* [DiCE](https://github.com/interpretml/DiCE)![](https://img.shields.io/github/stars/interpretml/DiCE?style=social) - "Generate Diverse Counterfactual Explanations for any machine learning model."
+* [DoWhy](https://github.com/microsoft/dowhy)![](https://img.shields.io/github/stars/microsoft/dowhy?style=social) - "DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks."
+* [dtreeviz](https://github.com/parrt/dtreeviz)![](https://img.shields.io/github/stars/parrt/dtreeviz?style=social) - "A python library for decision tree visualization and model interpretation."
+* [ecco](https://github.com/jalammar/ecco)![](https://img.shields.io/github/stars/jalammar/ecco?style=social) - "Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT, RoBERTA, T5, and T0)."
+* [eli5](https://github.com/TeamHG-Memex/eli5)![](https://img.shields.io/github/stars/TeamHG-Memex/eli5?style=social) - "A library for debugging/inspecting machine learning classifiers and explaining their predictions."
+* [explabox](https://github.com/MarcelRobeer/explabox)![](https://img.shields.io/github/stars/MarcelRobeer/explabox?style=social) - "aims to support data scientists and machine learning (ML) engineers in explaining, testing and documenting AI/ML models, developed in-house or acquired externally. The explabox turns your ingestibles (AI/ML model and/or dataset) into digestibles (statistics, explanations or sensitivity insights)."
+* [Explainable Boosting Machine (EBM)/GA2M](https://github.com/interpretml/interpret)![](https://img.shields.io/github/stars/interpretml/interpret?style=social) - "an open-source package that incorporates state-of-the-art machine learning interpretability techniques under one roof. With this package, you can train interpretable glassbox models and explain blackbox systems. InterpretML helps you understand your model's global behavior, or understand the reasons behind individual predictions."
+* [ExplainaBoard](https://github.com/neulab/ExplainaBoard)![](https://img.shields.io/github/stars/neulab/ExplainaBoard?style=social) - "a tool that inspects your system outputs, identifies what is working and what is not working, and helps inspire you with ideas of where to go next."
+* [explainerdashboard](https://github.com/oegedijk/explainerdashboard)![](https://img.shields.io/github/stars/oegedijk/explainerdashboard?style=social) - "Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models."
+* [explainX](https://github.com/explainX/explainx)![](https://img.shields.io/github/stars/explainX/explainx?style=social) - "Explainable AI framework for data scientists. Explain & debug any blackbox machine learning model with a single line of code."
+* [fair-classification](https://github.com/mbilalzafar/fair-classification)![](https://img.shields.io/github/stars/mbilalzafar/fair-classification?style=social) - "Python code for training fair logistic regression classifiers."
+* [fairml](https://github.com/adebayoj/fairml)![](https://img.shields.io/github/stars/adebayoj/fairml?style=social) - "a python toolbox auditing the machine learning models for bias."
+* [fairlearn](https://github.com/fairlearn/fairlearn)![](https://img.shields.io/github/stars/fairlearn/fairlearn?style=social) - "a Python package that empowers developers of artificial intelligence (AI) systems to assess their system's fairness and mitigate any observed unfairness issues. Fairlearn contains mitigation algorithms as well as metrics for model assessment. Besides the source code, this repository also contains Jupyter notebooks with examples of Fairlearn usage."
+* [fairness-comparison](https://github.com/algofairness/fairness-comparison)![](https://img.shields.io/github/stars/algofairness/fairness-comparison?style=social) - "meant to facilitate the benchmarking of fairness aware machine learning algorithms."
+* [fairness_measures_code](https://github.com/megantosh/fairness_measures_code)![](https://img.shields.io/github/stars/megantosh/fairness_measures_code?style=social) - "contains implementations of measures used to quantify discrimination."
 * [Falling Rule List (FRL)](https://users.cs.duke.edu/~cynthia/code/falling_rule_list.zip)
-* [foolbox](https://github.com/bethgelab/foolbox)![](https://img.shields.io/github/stars/bethgelab/foolbox?style=social)
-* [Giskard](https://github.com/Giskard-AI/giskard)![](https://img.shields.io/github/stars/Giskard-AI/giskard?style=social)
+* [foolbox](https://github.com/bethgelab/foolbox)![](https://img.shields.io/github/stars/bethgelab/foolbox?style=social) - "A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX."
+* [Giskard](https://github.com/Giskard-AI/giskard)![](https://img.shields.io/github/stars/Giskard-AI/giskard?style=social) - "The testing framework dedicated to ML models, from tabular to LLMs. Scan AI models to detect risks of biases, performance issues and errors. In 4 lines of code."
 * [Grad-CAM](https://github.com/topics/grad-cam) (GitHub topic)
-* [gplearn](https://github.com/trevorstephens/gplearn)![](https://img.shields.io/github/stars/trevorstephens/gplearn?style=social)
+* [gplearn](https://github.com/trevorstephens/gplearn)![](https://img.shields.io/github/stars/trevorstephens/gplearn?style=social) - "implements Genetic Programming in Python, with a scikit-learn inspired and compatible API."
 * H2O-3
   * [Penalized Generalized Linear Models](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/modeling.html#h2ogeneralizedlinearestimator)
   * [Monotonic GBM](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/modeling.html#h2ogradientboostingestimator)
