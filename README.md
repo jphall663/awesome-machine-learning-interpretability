@@ -625,22 +625,22 @@ This section contains open source or open access ML environment management softw
 
 ### Open Source/Access Responsible AI Software Packages
 
-This section contains open source or open access software used to implement responsible ML. Whenever a description is provided, the software's own description is provided and framed by quotation marks. If quotation marks are missing, it means we have lightly edited or paraphrased the software's own description.
+This section contains open source or open access software used to implement responsible ML. As much as possible, descriptions are quoted verbatim from the respective repositories themselves. In rare instances, we provide our own descriptions (unmarked by quotes).
 
 #### Browser
 
-* [BiasAware: Dataset Bias Detection](https://huggingface.co/spaces/avid-ml/biasaware)
-* [DiscriLens](https://github.com/wangqianwen0418/DiscriLens)![](https://img.shields.io/github/stars/wangqianwen0418/DiscriLens?style=social)
-* [manifold](https://github.com/uber/manifold)![](https://img.shields.io/github/stars/uber/manifold?style=social)
-* [PAIR-code / facets](https://github.com/PAIR-code/facets)![](https://img.shields.io/github/stars/PAIR-code/facets?style=social)
+* [BiasAware: Dataset Bias Detection](https://huggingface.co/spaces/avid-ml/biasaware) - "BiasAware is a specialized tool for detecting and quantifying biases within datasets used for Natural Language Processing (NLP) tasks."
+* [DiscriLens](https://github.com/wangqianwen0418/DiscriLens)![](https://img.shields.io/github/stars/wangqianwen0418/DiscriLens?style=social) - "Discrimination in Machine Learning."
+* [manifold](https://github.com/uber/manifold)![](https://img.shields.io/github/stars/uber/manifold?style=social) - "A model-agnostic visual debugging tool for machine learning."
+* [PAIR-code / facets](https://github.com/PAIR-code/facets)![](https://img.shields.io/github/stars/PAIR-code/facets?style=social) - "Visualizations for machine learning datasets."
 * [TensorBoard Projector](http://projector.tensorflow.org)
-* [What-if Tool](https://pair-code.github.io/what-if-tool/index.html#about)
+* [What-if Tool](https://pair-code.github.io/what-if-tool/index.html#about) - "Visually probe the behavior of trained machine learning models, with minimal coding."
 
 #### C/C++
 
-* [Born-again Tree Ensembles](https://github.com/vidalt/BA-Trees)![](https://img.shields.io/github/stars/vidalt/BA-Trees?style=social)
-* [Certifiably Optimal RulE ListS](https://github.com/nlarusstone/corels)![](https://img.shields.io/github/stars/nlarusstone/corels?style=social)
-* [Secure-ML](https://github.com/shreya-28/Secure-ML)![](https://img.shields.io/github/stars/shreya-28/Secure-ML?style=social)
+* [Born-again Tree Ensembles](https://github.com/vidalt/BA-Trees)![](https://img.shields.io/github/stars/vidalt/BA-Trees?style=social) - "Born-Again Tree Ensembles: Transforms a random forest into a single, minimal-size, tree with exactly the same prediction function in the entire feature space (ICML 2020)."
+* [Certifiably Optimal RulE ListS](https://github.com/nlarusstone/corels)![](https://img.shields.io/github/stars/nlarusstone/corels?style=social) - "CORELS is a custom discrete optimization technique for building rule lists over a categorical feature space."
+* [Secure-ML](https://github.com/shreya-28/Secure-ML)![](https://img.shields.io/github/stars/shreya-28/Secure-ML?style=social) - "Secure Linear Regression in the Semi-Honest Two-Party Setting."
 
 #### Python
 
