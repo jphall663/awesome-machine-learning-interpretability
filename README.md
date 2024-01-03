@@ -632,19 +632,23 @@ This section contains open source or open access software used to implement resp
 
 #### Browser
 
-* [DiscriLens](https://github.com/wangqianwen0418/DiscriLens)![](https://img.shields.io/github/stars/wangqianwen0418/DiscriLens?style=social) - "Discrimination in Machine Learning."
-* [Hugging Face, BiasAware: Dataset Bias Detection](https://huggingface.co/spaces/avid-ml/biasaware) - "BiasAware is a specialized tool for detecting and quantifying biases within datasets used for Natural Language Processing (NLP) tasks."
-* [manifold](https://github.com/uber/manifold)![](https://img.shields.io/github/stars/uber/manifold?style=social) - "A model-agnostic visual debugging tool for machine learning."
-* [PAIR-code / datacardsplaybook](https://github.com/PAIR-code/datacardsplaybook)![](https://img.shields.io/github/stars/PAIR-code/datacardsplaybook?style=social) - "The Data Cards Playbook helps dataset producers and publishers adopt a people-centered approach to transparency in dataset documentation."
-* [PAIR-code / facets](https://github.com/PAIR-code/facets)![](https://img.shields.io/github/stars/PAIR-code/facets?style=social) - "Visualizations for machine learning datasets."
-* [TensorBoard Projector](http://projector.tensorflow.org)
-* [What-if Tool](https://pair-code.github.io/what-if-tool/index.html#about) - "Visually probe the behavior of trained machine learning models, with minimal coding."
+| Name | Description |
+|------|-------------|
+| [DiscriLens](https://github.com/wangqianwen0418/DiscriLens)![](https://img.shields.io/github/stars/wangqianwen0418/DiscriLens?style=social) | "Discrimination in Machine Learning."
+| [Hugging Face, BiasAware: Dataset Bias Detection](https://huggingface.co/spaces/avid-ml/biasaware) | "BiasAware is a specialized tool for detecting and quantifying biases within datasets used for Natural Language Processing (NLP) tasks."
+| [manifold](https://github.com/uber/manifold)![](https://img.shields.io/github/stars/uber/manifold?style=social) | "A model-agnostic visual debugging tool for machine learning."
+| [PAIR-code / datacardsplaybook](https://github.com/PAIR-code/datacardsplaybook)![](https://img.shields.io/github/stars/PAIR-code/datacardsplaybook?style=social) | "The Data Cards Playbook helps dataset producers and publishers adopt a people-centered approach to transparency in dataset documentation."
+| [PAIR-code / facets](https://github.com/PAIR-code/facets)![](https://img.shields.io/github/stars/PAIR-code/facets?style=social) | "Visualizations for machine learning datasets."
+| [TensorBoard Projector](http://projector.tensorflow.org)
+| [What-if Tool](https://pair-code.github.io/what-if-tool/index.html#about) | "Visually probe the behavior of trained machine learning models, with minimal coding."
 
 #### C/C++
 
-* [Born-again Tree Ensembles](https://github.com/vidalt/BA-Trees)![](https://img.shields.io/github/stars/vidalt/BA-Trees?style=social) - "Born-Again Tree Ensembles: Transforms a random forest into a single, minimal-size, tree with exactly the same prediction function in the entire feature space (ICML 2020)."
-* [Certifiably Optimal RulE ListS](https://github.com/nlarusstone/corels)![](https://img.shields.io/github/stars/nlarusstone/corels?style=social) - "CORELS is a custom discrete optimization technique for building rule lists over a categorical feature space."
-* [Secure-ML](https://github.com/shreya-28/Secure-ML)![](https://img.shields.io/github/stars/shreya-28/Secure-ML?style=social) - "Secure Linear Regression in the Semi-Honest Two-Party Setting."
+| Name | Description |
+|------|-------------|
+| [Born-again Tree Ensembles](https://github.com/vidalt/BA-Trees)![](https://img.shields.io/github/stars/vidalt/BA-Trees?style=social) | "Born-Again Tree Ensembles: Transforms a random forest into a single, minimal-size, tree with exactly the same prediction function in the entire feature space (ICML 2020)."
+| [Certifiably Optimal RulE ListS](https://github.com/nlarusstone/corels)![](https://img.shields.io/github/stars/nlarusstone/corels?style=social) | "CORELS is a custom discrete optimization technique for building rule lists over a categorical feature space."
+| [Secure-ML](https://github.com/shreya-28/Secure-ML)![](https://img.shields.io/github/stars/shreya-28/Secure-ML?style=social) | "Secure Linear Regression in the Semi-Honest Two-Party Setting."
 
 #### Python
 
