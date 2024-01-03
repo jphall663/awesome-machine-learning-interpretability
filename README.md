@@ -113,6 +113,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [H2O.ai Algorithms](https://github.com/h2oai/h2o-tutorials/blob/master/training/h2o_algos/h2o_algos_cheat_sheet_04_25_17.pdf)![](https://img.shields.io/github/stars/h2oai/h2o-tutorials?style=social)
 * [Haptic Networks: How to Perform an AI Audit for UK Organisations](https://www.haptic-networks.com/cyber-security/how-to-perform-an-ai-audit/)
 * [Hogan Lovells, The AI Act is coming: EU reaches political agreement on comprehensive regulation of artificial intelligence](https://www.engage.hoganlovells.com/knowledgeservices/news/the-ai-act-is-coming-eu-reaches-political-agreement-on-comprehensive-regulation-of-artificial-intelligence?nav=FRbANEucS95NMLRN47z%2BeeOgEFCt8EGQ71hKXzqW2Ec%3D&key=BcJlhLtdCv6%2FJTDZxvL23TQa3JHL2AIGr93BnQjo2SkGJpG9xDX7S2thDpAQsCconWHAwe6cJTmX%2FZxLGrXbZz2L%2BEiiz68X&uid=iZAX%2FROFT6Q%3D)
+* [Hugging Face, The Landscape of ML Documentation Tools](https://huggingface.co/docs/hub/model-card-landscape-analysis)
 * [IAPP EU AI Act Cheat Sheet](https://iapp.org/media/pdf/resource_center/eu_ai_act_cheat_sheet.pdf)
 * [ICT Institute: A checklist for auditing AI systems](https://ictinstitute.nl/a-checklist-for-auditing-ai-systems/)
 * IEEE: 
@@ -146,6 +147,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Organization and Training of a Cyber Security Team](http://ieeexplore.ieee.org/document/1245662)
 * [Our Data Our Selves, Data Use Policy](https://ourdataourselves.tacticaltech.org/data-use-policy/)
 * [PAI's Responsible Practices for Synthetic Media: A Framework for Collective Action (Partnership on AI)](https://syntheticmedia.partnershiponai.org/)
+* [Partnership on AI, ABOUT ML Reference Document](https://partnershiponai.org/paper/about-ml-reference-document/)
 * [PwC's Responsible AI](https://www.pwc.com/gx/en/issues/data-and-analytics/artificial-intelligence/what-is-responsible-ai.html)
 * [Real-World Strategies for Model Debugging](https://towardsdatascience.com/strategies-for-model-debugging-aa822f1097ce)
 * [RecoSense: Phases of an AI Data Audit – Assessing Opportunity in the Enterprise](https://recosenselabs.com/blog/phases-of-an-ai-data-audit-assessing-opportunity-in-the-enterprise)
@@ -604,6 +606,7 @@ This section contains datasets that are commonly used in responsible ML evaulati
     * [UCI ML Data Repository](https://archive.ics.uci.edu/)
 * [FANNIE MAE Single Family Loan Performance](https://capitalmarkets.fanniemae.com/credit-risk-transfer/single-family-credit-risk-transfer/fannie-mae-single-family-loan-performance-data)
 * [NYPD Stop, Question and Frisk Data](https://www.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page)
+* [socialfoundations / folktables](https://github.com/socialfoundations/folktables)![](https://img.shields.io/github/stars/socialfoundations/folktables?style=social)
 * [Statlog (German Credit Data)](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
 * [Wikipedia Talk Labels: Personal Attacks](https://www.kaggle.com/datasets/jigsaw-team/wikipedia-talk-labels-personal-attacks)
 
@@ -629,9 +632,10 @@ This section contains open source or open access software used to implement resp
 
 #### Browser
 
-* [BiasAware: Dataset Bias Detection](https://huggingface.co/spaces/avid-ml/biasaware) - "BiasAware is a specialized tool for detecting and quantifying biases within datasets used for Natural Language Processing (NLP) tasks."
 * [DiscriLens](https://github.com/wangqianwen0418/DiscriLens)![](https://img.shields.io/github/stars/wangqianwen0418/DiscriLens?style=social) - "Discrimination in Machine Learning."
+* [Hugging Face, BiasAware: Dataset Bias Detection](https://huggingface.co/spaces/avid-ml/biasaware) - "BiasAware is a specialized tool for detecting and quantifying biases within datasets used for Natural Language Processing (NLP) tasks."
 * [manifold](https://github.com/uber/manifold)![](https://img.shields.io/github/stars/uber/manifold?style=social) - "A model-agnostic visual debugging tool for machine learning."
+* [PAIR-code / datacardsplaybook](https://github.com/PAIR-code/datacardsplaybook)![](https://img.shields.io/github/stars/PAIR-code/datacardsplaybook?style=social) - "The Data Cards Playbook helps dataset producers and publishers adopt a people-centered approach to transparency in dataset documentation."
 * [PAIR-code / facets](https://github.com/PAIR-code/facets)![](https://img.shields.io/github/stars/PAIR-code/facets?style=social) - "Visualizations for machine learning datasets."
 * [TensorBoard Projector](http://projector.tensorflow.org)
 * [What-if Tool](https://pair-code.github.io/what-if-tool/index.html#about) - "Visually probe the behavior of trained machine learning models, with minimal coding."
