@@ -11,31 +11,31 @@ If something you contributed or found here is missing after our September 2023 r
 
 * **Community and Official Guidance Resources** 
   * [Community Frameworks and Guidance](#community-frameworks-and-guidance)
-  * [Conferences and Workshops](https://github.com/jphall663/awesome-machine-learning-interpretability#conferences-and-workshops)
-  * [Official Policy, Frameworks, and Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability#official-policy-frameworks-and-guidance)
+  * [Conferences and Workshops](#conferences-and-workshops)
+  * [Official Policy, Frameworks, and Guidance](#official-policy-frameworks-and-guidance)
 
 * **Education Resources**
-  * [Comprehensive Software Examples and Tutorials](https://github.com/jphall663/awesome-machine-learning-interpretability#comprehensive-software-examples-and-tutorials)
-  * [Free-ish Books](https://github.com/jphall663/awesome-machine-learning-interpretability#free-ish-books)
-  * [Glossaries and Dictionaries](https://github.com/jphall663/awesome-machine-learning-interpretability#glossaries-and-dictionaries)
-  * [Open-ish Classes](https://github.com/jphall663/awesome-machine-learning-interpretability#open-ish-classes)
+  * [Comprehensive Software Examples and Tutorials](#comprehensive-software-examples-and-tutorials)
+  * [Free-ish Books](#free-ish-books)
+  * [Glossaries and Dictionaries](#glossaries-and-dictionaries)
+  * [Open-ish Classes](#open-ish-classes)
 
 * **Miscellaneous Resources**
-  * [AI Incident Information Sharing Resources](https://github.com/jphall663/awesome-machine-learning-interpretability#ai-incident-information-sharing-resources)
-  * [Challenges and Competitions](https://github.com/jphall663/awesome-machine-learning-interpretability#challenges-and-competitions)
-  * [Curated Bibliographies](https://github.com/jphall663/awesome-machine-learning-interpretability#curated-bibliographies)
-  * [List of Lists](https://github.com/jphall663/awesome-machine-learning-interpretability#list-of-lists)
+  * [AI Incident Information Sharing Resources](#ai-incident-information-sharing-resources)
+  * [Challenges and Competitions](#challenges-and-competitions)
+  * [Curated Bibliographies](#curated-bibliographies)
+  * [List of Lists](#list-of-lists)
 
 * **Technical Resources**
-  * [Benchmarks](https://github.com/jphall663/awesome-machine-learning-interpretability#benchmarks)
-  * [Common or Useful Datasets](https://github.com/jphall663/awesome-machine-learning-interpretability#common-or-useful-datasets)
-  * [Domain-specific Software](https://github.com/jphall663/awesome-machine-learning-interpretability#domain-specific-software)
-  * [Machine Learning Environment Management Tools](https://github.com/jphall663/awesome-machine-learning-interpretability#machine-learning-environment-management-tools)
-  * [Open Source/Access Responsible AI Software Packages](https://github.com/jphall663/awesome-machine-learning-interpretability#open-sourceaccess-responsible-ai-software-packages)
-    * [Browser](https://github.com/jphall663/awesome-machine-learning-interpretability#browser)
-    * [C/C++](https://github.com/jphall663/awesome-machine-learning-interpretability#cc)
-    * [Python](https://github.com/jphall663/awesome-machine-learning-interpretability#python)
-    * [R](https://github.com/jphall663/awesome-machine-learning-interpretability#r) 
+  * [Benchmarks](#benchmarks)
+  * [Common or Useful Datasets](#common-or-useful-datasets)
+  * [Domain-specific Software](#domain-specific-software)
+  * [Machine Learning Environment Management Tools](#machine-learning-environment-management-tools)
+  * [Open Source/Access Responsible AI Software Packages](#open-sourceaccess-responsible-ai-software-packages)
+    * [Browser](#browser)
+    * [C/C++](#cc)
+    * [Python](#python)
+    * [R](#r) 
 
 ## Community and Official Guidance Resources
 
