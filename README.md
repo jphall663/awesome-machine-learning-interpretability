@@ -10,7 +10,7 @@ If something you contributed or found here is missing after our September 2023 r
 ## Contents
 
 * **Community and Official Guidance Resources** 
-  * [Community Frameworks and Guidance](community-frameworks-and-guidance)
+  * [Community Frameworks and Guidance](#community-frameworks-and-guidance)
   * [Conferences and Workshops](https://github.com/jphall663/awesome-machine-learning-interpretability#conferences-and-workshops)
   * [Official Policy, Frameworks, and Guidance](https://github.com/jphall663/awesome-machine-learning-interpretability#official-policy-frameworks-and-guidance)
 
