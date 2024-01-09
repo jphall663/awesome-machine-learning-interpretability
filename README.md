@@ -707,7 +707,7 @@ This section contains open source or open access software used to implement resp
 | [Falling Rule List (FRL)](https://users.cs.duke.edu/~cynthia/code/falling_rule_list.zip) |
 | [foolbox](https://github.com/bethgelab/foolbox)![](https://img.shields.io/github/stars/bethgelab/foolbox?style=social) | "A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX.” |
 | [Giskard](https://github.com/Giskard-AI/giskard)![](https://img.shields.io/github/stars/Giskard-AI/giskard?style=social) | "The testing framework dedicated to ML models, from tabular to LLMs. Scan AI models to detect risks of biases, performance issues and errors. In 4 lines of code.” |
-| [Grad-CAM](https://github.com/topics/grad-cam) (GitHub topic) |
+| [Grad-CAM](https://github.com/topics/grad-cam) (GitHub topic) | Grad-CAM is a technique for making convolutional neural networks more transparent by visualizing the regions of input that are important for predictions in computer vision models. |
 | [gplearn](https://github.com/trevorstephens/gplearn)![](https://img.shields.io/github/stars/trevorstephens/gplearn?style=social) | "implements Genetic Programming in Python, with a scikit-learn inspired and compatible API.” |
 | H2O-3 [Penalized Generalized Linear Models](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/modeling.html#h2ogeneralizedlinearestimator) | "Fits a generalized linear model, specified by a response variable, a set of predictors, and a description of the error distribution." |
 | H2O-3 [Monotonic GBM](http://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/modeling.html#h2ogradientboostingestimator) | "Builds gradient boosted classification trees and gradient boosted regression trees on a parsed data set." |
