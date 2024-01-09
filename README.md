@@ -665,7 +665,7 @@ This section contains open source or open access software used to implement resp
 | [ALEPython](https://github.com/blent-ai/ALEPython)![](https://img.shields.io/github/stars/blent-ai/ALEPython?style=social) | "Python Accumulated Local Effects package.” |
 | [Aletheia](https://github.com/SelfExplainML/Aletheia)![](https://img.shields.io/github/stars/SelfExplainML/Aletheia?style=social) | "A Python package for unwrapping ReLU DNNs.” |
 | [allennlp](https://github.com/allenai/allennlp)![](https://img.shields.io/github/stars/allenai/allennlp?style=social) | "An open-source NLP research library, built on PyTorch.” |
-| [algofairness](https://github.com/algofairness)![](https://img.shields.io/github/stars/algofairness?style=social) |
+| [algofairness](https://github.com/algofairness)![](https://img.shields.io/github/stars/algofairness?style=social) | See [Algorithmic Fairness][http://fairness.haverford.edu/). |
 | [Alibi](https://github.com/SeldonIO/alibi)![](https://img.shields.io/github/stars/SeldonIO/alibi?style=social) | "Alibi is an open source Python library aimed at machine learning model inspection and interpretation. The focus of the library is to provide high-quality implementations of black-box, white-box, local and global explanation methods for classification and regression models.” |
 | [anchor](https://github.com/marcotcr/anchor)![](https://img.shields.io/github/stars/marcotcr/anchor?style=social) | "Code for 'High-Precision Model-Agnostic Explanations' paper.” |
 | [Bayesian Case Model](https://users.cs.duke.edu/~cynthia/code/BCM.zip) |
