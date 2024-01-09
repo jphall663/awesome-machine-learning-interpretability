@@ -620,13 +620,15 @@ This section curates specialized software tools aimed at responsible ML within s
 
 This section contains open source or open access ML environment management software.
 
-* [Brendan Bycroft's LLM Visualization](https://bbycroft.net/llm)
-* [dvc](https://dvc.org/)
-* [gigantum](https://github.com/gigantum)![](https://img.shields.io/github/stars/gigantum?style=social)
-* [mlflow](https://mlflow.org/)
-* [mlmd](https://github.com/google/ml-metadata)![](https://img.shields.io/github/stars/google/ml-metadata?style=social)
-* [modeldb](https://github.com/VertaAI/modeldb)![](https://img.shields.io/github/stars/VertaAI/modeldb?style=social)
-* [neptune](https://neptune.ai/researchers)
+| Resource | Description |
+|----------|-------|
+| [Brendan Bycroft's LLM Visualization](https://bbycroft.net/llm) |  |
+| [dvc](https://dvc.org/) | "Manage and version images, audio, video, and text files in storage and organize your ML modeling process into a reproducible workflow." |
+| [gigantum](https://github.com/gigantum) ![gigantum stars](https://img.shields.io/github/stars/gigantum?style=social) | "Building a better way to create, collaborate, and share data-driven science." |
+| [mlflow](https://mlflow.org/) | "An open source platform for the machine learning lifecycle." |
+| [mlmd](https://github.com/google/ml-metadata) ![mlmd stars](https://img.shields.io/github/stars/google/ml-metadata?style=social) | "For recording and retrieving metadata associated with ML developer and data scientist workflows." |
+| [modeldb](https://github.com/VertaAI/modeldb) ![modeldb stars](https://img.shields.io/github/stars/VertaAI/modeldb?style=social) | "Open Source ML Model Versioning, Metadata, and Experiment Management." |
+| [neptune](https://neptune.ai/researchers) | "A single place to manage all your model metadata." |
 
 ### Open Source/Access Responsible AI Software Packages
 
