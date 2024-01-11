@@ -83,7 +83,6 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Crowe LLP: Internal auditor's AI safety checklist](https://www.crowe.com/insights/asset/i/internal-auditors-ai-safety-checklist)
 * [DAIR Prompt Engineering Guide](https://www.promptingguide.ai/)
   * [DAIR Prompt Engineering Guide GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide)![](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide?style=social)
-* [The Data Cards Playbook](https://sites.research.google/datacardsplaybook/)
 * [Data Provenance Explorer](https://www.dataprovenance.org/)
 * [Data & Society, AI Red-Teaming Is Not a One-Stop Solution to AI Harms: Recommendations for Using Red-Teaming for AI Accountability](https://datasociety.net/wp-content/uploads/2023/10/Recommendations-for-Using-Red-Teaming-for-AI-Accountability-PolicyBrief.pdf)
 * [Dealing with Bias and Fairness in AI/ML/Data Science Systems](https://docs.google.com/presentation/d/17o_NzplYua5fcJFuGcy1V1-5GFAHk7oHAF4dN44NkUE)
@@ -102,6 +101,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Georgetown University Library's Artificial Intelligence (Generative) Resources](https://guides.library.georgetown.edu/ai)
 * Google:
   * [Closing the AI accountability gap: defining an end-to-end framework for internal algorithmic auditing](https://dl.acm.org/doi/abs/10.1145/3351095.3372873)
+  * [The Data Cards Playbook](https://sites.research.google/datacardsplaybook/)
   * [Data governance in the cloud - part 1 - People and processes](https://cloud.google.com/blog/products/data-analytics/data-governance-and-operating-model-for-analytics-pt1)
   * [Data Governance in the Cloud - part 2 - Tools](https://cloud.google.com/blog/products/data-analytics/data-governance-in-the-cloud-part-2-tools)
   * [Evaluating social and ethical risks from generative AI](https://deepmind.google/discover/blog/evaluating-social-and-ethical-risks-from-generative-ai/)
@@ -128,6 +128,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [ISACA: Auditing Artificial Intelligence](https://ec.europa.eu/futurium/en/system/files/ged/auditing-artificial-intelligence.pdf)
   * [ISACA: Auditing Guidelines for Artificial Intelligence](https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2020/volume-26/auditing-guidelines-for-artificial-intelligence)
   * [ISACA: Capability Maturity Model Integration Resources](https://cmmiinstitute.com/)
+* [Know Your Data](https://knowyourdata.withgoogle.com/)
 * [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
 * [Larry G. Wlosinski, April 30, 2021, Information System Contingency Planning Guidance](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-3/information-system-contingency-planning-guidance)
 * [Library of Congress, LC Labs AI Planning Framework](https://github.com/LibraryOfCongress/labs-ai-framework)![](https://img.shields.io/github/stars/LibraryOfCongress/labs-ai-framework?style=social)
@@ -138,6 +139,8 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Machine Learning Quick Reference: Best Practices](https://support.sas.com/rnd/app/data-mining/enterprise-miner/pdfs/Machine_Learning_Quick_Ref_Best_Practices.pdf)
 * [Manifest MLBOM Wiki](https://github.com/manifest-cyber/mlbom)
   * [Towards Traceability in Data Ecosystems using a Bill of Materials Model](https://arxiv.org/pdf/1904.04253.pdf)
+* Meta:
+  * [System cards](https://ai.meta.com/tools/system-cards/)
 * Microsoft: 
   * [Microsoft AI Red Team building future of safer AI](https://www.microsoft.com/en-us/security/blog/2023/08/07/microsoft-ai-red-team-building-future-of-safer-ai/)
   * [Microsoft Responsible AI Standard, v2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cmFl)
@@ -167,6 +170,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Unite.AI: How to perform an AI Audit in 2023](https://www.unite.ai/how-to-perform-an-ai-audit-in-2023/)
 * [University of California, Berkeley, Center for Long-Term Cybersecurity, A Taxonomy of Trustworthiness for Artificial Intelligence](https://cltc.berkeley.edu/wp-content/uploads/2023/12/Taxonomy_of_AI_Trustworthiness_tables.pdf)
 * [University of California, Berkeley, Information Security Office, How to Write an Effective Website Privacy Statement](https://security.berkeley.edu/how-write-effective-website-privacy-statement)
+* [University of Washington Tech Policy Lab, Data Statements](https://techpolicylab.uw.edu/data-statements/)
 * [Warning Signs: The Future of Privacy and Security in an Age of Machine Learning](https://fpf.org/wp-content/uploads/2019/09/FPF_WarningSigns_Report.pdf)
 * [When Not to Trust Your Explanations](https://docs.google.com/presentation/d/10a0PNKwoV3a1XChzvY-T1mWudtzUIZi3sCMzVwGSYfM/edit)
 * [Why We Need to Know More: Exploring the State of AI Incident Documentation Practices](https://dl.acm.org/doi/fullHtml/10.1145/3600211.3604700)
@@ -586,6 +590,7 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 
 * [benchm-ml](https://github.com/szilard/benchm-ml)![](https://img.shields.io/github/stars/szilard/benchm-ml?style=social)
 * [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq)![](https://img.shields.io/github/stars/nyu-mll/bbq?style=social)
+* [GEM](https://gem-benchmark.com/)
 * [HELM](https://crfm.stanford.edu/helm/latest/)
 * [Nvidia MLPerf](https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/)
 * [OpenML Benchmarking Suites](https://www.openml.org/search?type=benchmark&study_type=task)
@@ -644,6 +649,7 @@ This section contains open source or open access software used to implement resp
 | [manifold](https://github.com/uber/manifold)![](https://img.shields.io/github/stars/uber/manifold?style=social) | "A model-agnostic visual debugging tool for machine learning." |
 | [PAIR-code / datacardsplaybook](https://github.com/PAIR-code/datacardsplaybook)![](https://img.shields.io/github/stars/PAIR-code/datacardsplaybook?style=social) | "The Data Cards Playbook helps dataset producers and publishers adopt a people-centered approach to transparency in dataset documentation." |
 | [PAIR-code / facets](https://github.com/PAIR-code/facets)![](https://img.shields.io/github/stars/PAIR-code/facets?style=social) | "Visualizations for machine learning datasets." |
+| [PAIR-code / knowyourdata](https://github.com/pair-code/knowyourdata)![](https://img.shields.io/github/stars/PAIR-code/knowyourdata?style=social) | "A tool to help researchers and product teams understand datasets with the goal of improving data quality, and mitigating fairness and bias issues." |
 | [TensorBoard Projector](http://projector.tensorflow.org) | "Using the TensorBoard Embedding Projector, you can graphically represent high dimensional embeddings. This can be helpful in visualizing, examining, and understanding your embedding layers." |
 | [What-if Tool](https://pair-code.github.io/what-if-tool/index.html#about) | "Visually probe the behavior of trained machine learning models, with minimal coding." |
 
