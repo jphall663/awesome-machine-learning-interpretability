@@ -59,6 +59,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [AWS Data Privacy FAQ](https://aws.amazon.com/compliance/data-privacy-faq/)
 * [AWS Privacy Notice](https://aws.amazon.com/privacy/)
 * [AWS, What is Data Governance?](https://aws.amazon.com/what-is/data-governance/)
+* [Brendan Bycroft's LLM Visualization](https://bbycroft.net/llm) 
 * [BIML Interactive Machine Learning Risk Framework](https://berryvilleiml.com/interactive/)
 * Center for Security and Emerging Technology (CSET):
   * [CSET's Harm Taxonomy for the AI Incident Database](https://github.com/georgetown-cset/CSET-AIID-harm-taxonomy)![](https://img.shields.io/github/stars/georgetown-cset/CSET-AIID-harm-taxonomy?style=social)
@@ -630,7 +631,6 @@ This section contains open source or open access ML environment management softw
 
 | Resource | Description |
 |----------|-------|
-| [Brendan Bycroft's LLM Visualization](https://bbycroft.net/llm) | Interactive walkthrough of the nano-GPT large language model, showing its process of sorting a sequence of tokens. |
 | [dvc](https://dvc.org/) | "Manage and version images, audio, video, and text files in storage and organize your ML modeling process into a reproducible workflow." |
 | [gigantum](https://github.com/gigantum) ![gigantum stars](https://img.shields.io/github/stars/gigantum?style=social) | "Building a better way to create, collaborate, and share data-driven science." |
 | [mlflow](https://mlflow.org/) | "An open source platform for the machine learning lifecycle." |
