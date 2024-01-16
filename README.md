@@ -126,7 +126,9 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [Towards Traceability in Data Ecosystems using a Bill of Materials Model](https://arxiv.org/pdf/1904.04253.pdf)
 * Meta:
   * [System cards](https://ai.meta.com/tools/system-cards/)
-* Microsoft: 
+* Microsoft:
+  * [Azure AI Content Safety](https://azure.microsoft.com/en-us/products/ai-services/ai-content-safety)
+     * [Harm categories in Azure AI Content Safety](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/harm-categories?tabs=warning)
   * [Microsoft AI Red Team building future of safer AI](https://www.microsoft.com/en-us/security/blog/2023/08/07/microsoft-ai-red-team-building-future-of-safer-ai/)
   * [Microsoft Responsible AI Standard, v2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cmFl)
 * [NewsGuard AI Tracking Center](https://www.newsguardtech.com/special-reports/ai-tracking-center/)
