@@ -287,7 +287,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [data.gov, Privacy Policy and Data Policy](https://data.gov/privacy-policy/)
 * [Defense Technical Information Center, Computer Security Technology Planning Study, October 1, 1972](https://apps.dtic.mil/sti/citations/AD0758206)
 * [De-identification Tools](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/tools)
-* [Deoartnebt fir Science, Innovation and Technology, The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)
+* [Department for Science, Innovation and Technology, The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)
 * [Department for Science, Innovation and Technology, Frontier AI: capabilities and risks - discussion paper (United Kingdom)](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper)
 * [Department of Commerce, Intellectual property](https://www.commerce.gov/issues/intellectual-property)
 * [Department of Defense, AI Principles: Recommendations on the Ethical Use of Artificial Intelligence](https://media.defense.gov/2019/Oct/31/2002204458/-1/-1/0/DIB_AI_PRINCIPLES_PRIMARY_DOCUMENT.PDF)
