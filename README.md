@@ -578,17 +578,17 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 
 | Repository | Description |
 | --- | --- |
-| [benchm-ml](https://github.com/szilard/benchm-ml) ![](https://img.shields.io/github/stars/szilard/benchm-ml?style=social) |  |
-| [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq) ![](https://img.shields.io/github/stars/nyu-mll/bbq?style=social) |  |
-| [GEM](https://gem-benchmark.com/) |  |
-| [HELM](https://crfm.stanford.edu/helm/latest/) |  |
-| [Nvidia MLPerf](https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/) |  |
-| [OpenML Benchmarking Suites](https://www.openml.org/search?type=benchmark&study_type=task) |  |
-| [TrustLLM-Benchmark](https://trustllmbenchmark.github.io/TrustLLM-Website/index.html) |  |
-| [Trust-LLM-Benchmark Leaderboard](https://trustllmbenchmark.github.io/TrustLLM-Website/leaderboard.html) |  |
-| [TruthfulQA](https://github.com/sylinrl/TruthfulQA) ![](https://img.shields.io/github/stars/sylinrl/TruthfulQA?style=social) |  |
-| [Winogender Schemas](https://github.com/rudinger/winogender-schemas) ![](https://img.shields.io/github/stars/rudinger/winogender-schemas?style=social) |  |
-| [Real Toxicity Prompts (Allen Institute for AI)](https://allenai.org/data/real-toxicity-prompts) |  |
+| [benchm-ml](https://github.com/szilard/benchm-ml) ![](https://img.shields.io/github/stars/szilard/benchm-ml?style=social) | "A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.)." |
+| [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq) ![](https://img.shields.io/github/stars/nyu-mll/bbq?style=social) | "Repository for the Bias Benchmark for QA dataset." |
+| [GEM](https://gem-benchmark.com/) | "GEM is a benchmark environment for Natural Language Generation with a focus on its Evaluation, both through human annotations and automated Metrics." |
+| [HELM](https://crfm.stanford.edu/helm/latest/) | "A holistic framework for evaluating foundation models." |
+| [Nvidia MLPerf](https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/) | "MLPerf™ benchmarks—developed by MLCommons, a consortium of AI leaders from academia, research labs, and industry—are designed to provide unbiased evaluations of training and inference performance for hardware, software, and services." |
+| [OpenML Benchmarking Suites](https://www.openml.org/search?type=benchmark&study_type=task) | OpenML's collection of over two dozen benchmarking suites. |
+| [TrustLLM-Benchmark](https://trustllmbenchmark.github.io/TrustLLM-Website/index.html) | "A Comprehensive Study of Trustworthiness in Large Language Models." |
+| [Trust-LLM-Benchmark Leaderboard](https://trustllmbenchmark.github.io/TrustLLM-Website/leaderboard.html) | A series of sortable leaderboards of LLMs based on different trustworthiness criteria. |
+| [TruthfulQA](https://github.com/sylinrl/TruthfulQA) ![](https://img.shields.io/github/stars/sylinrl/TruthfulQA?style=social) | "TruthfulQA: Measuring How Models Imitate Human Falsehoods." |
+| [Winogender Schemas](https://github.com/rudinger/winogender-schemas) ![](https://img.shields.io/github/stars/rudinger/winogender-schemas?style=social) | "Data for evaluating gender bias in coreference resolution systems." |
+| [Real Toxicity Prompts (Allen Institute for AI)](https://allenai.org/data/real-toxicity-prompts) | "A dataset of 100k sentence snippets from the web for researchers to further address the risk of neural toxic degeneration in models." |
 
 ### Common or Useful Datasets
 
