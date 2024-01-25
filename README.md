@@ -134,6 +134,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [Microsoft Responsible AI Standard, v2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cmFl)
 * [NewsGuard AI Tracking Center](https://www.newsguardtech.com/special-reports/ai-tracking-center/)
 * [OpenAI Cookbook, How to implement LLM guardrails](https://cookbook.openai.com/examples/how_to_use_guardrails)
+* [OpenAI, Evals](https://github.com/openai/evals)![](https://img.shields.io/github/stars/openai/evals?style=social)
 * [OpenAI Red Teaming Network](https://openai.com/blog/red-teaming-network)
 * [Open Sourcing Highly Capable Foundation Models](https://www.governance.ai/research-paper/open-sourcing-highly-capable-foundation-models)
 * [Organization and Training of a Cyber Security Team](http://ieeexplore.ieee.org/document/1245662)
