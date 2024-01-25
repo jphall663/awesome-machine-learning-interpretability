@@ -59,6 +59,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [AWS Data Privacy FAQ](https://aws.amazon.com/compliance/data-privacy-faq/)
 * [AWS Privacy Notice](https://aws.amazon.com/privacy/)
 * [AWS, What is Data Governance?](https://aws.amazon.com/what-is/data-governance/)
+* [Berryville Institute of Machine Learning, Architectural Risk Analysis of Large Language Models (requires free account login)](https://berryvilleiml.com/results/BIML-LLM24.pdf)
 * [Brendan Bycroft's LLM Visualization](https://bbycroft.net/llm) 
 * [BIML Interactive Machine Learning Risk Framework](https://berryvilleiml.com/interactive/)
 * Center for Security and Emerging Technology (CSET):
