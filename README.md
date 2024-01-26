@@ -78,6 +78,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Ethical and social risks of harm from Language Models](https://www.deepmind.com/publications/ethical-and-social-risks-of-harm-from-language-models)
 * [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
 * [Extracting Training Data from ChatGPT](https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html)
+* [Fairly's Global AI Regulations Map](https://github.com/fairlyAI/global-ai-regulations-map/blob/dev/README.md)![](https://img.shields.io/github/stars/fairlyAI/global-ai-regulations-map?style=social)
 * [FATML Principles and Best Practices](https://www.fatml.org/resources/principles-and-best-practices)
 * [ForHumanity Body of Knowledge (BOK)](https://forhumanity.center/bok/)
 * [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/)
