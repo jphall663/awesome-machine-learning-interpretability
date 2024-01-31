@@ -34,6 +34,7 @@ If something you contributed or found here is missing after our September 2023 r
   * [Open Source/Access Responsible AI Software Packages](#open-sourceaccess-responsible-ai-software-packages)
     * [Browser](#browser)
     * [C/C++](#cc)
+    * [JavaScript](#javascript)
     * [Python](#python)
     * [R](#r) 
 
@@ -655,6 +656,12 @@ This section contains open source or open access software used to implement resp
 | [Born-again Tree Ensembles](https://github.com/vidalt/BA-Trees)![](https://img.shields.io/github/stars/vidalt/BA-Trees?style=social) | "Born-Again Tree Ensembles: Transforms a random forest into a single, minimal-size, tree with exactly the same prediction function in the entire feature space (ICML 2020)." |
 | [Certifiably Optimal RulE ListS](https://github.com/nlarusstone/corels)![](https://img.shields.io/github/stars/nlarusstone/corels?style=social) | "CORELS is a custom discrete optimization technique for building rule lists over a categorical feature space." |
 | [Secure-ML](https://github.com/shreya-28/Secure-ML)![](https://img.shields.io/github/stars/shreya-28/Secure-ML?style=social) | "Secure Linear Regression in the Semi-Honest Two-Party Setting." |
+
+#### JavaScript
+
+| Name | Description |
+|------|-------------|
+| [LDNOOBW](https://github.com/LDNOOBW)![](https://img.shields.io/github/stars/LDNOOBW?style=social) | "List of Dirty, Naughty, Obscene, and Otherwise Bad Words" |
 
 #### Python
 
