@@ -582,7 +582,7 @@ This section links to other lists of responsible ML or related resources.
 
 This section contains benchmarks or datasets used for benchmarks for ML systems, particularly those related to responsible ML desiderata.
 
-| Repository | Description |
+| Resource | Description |
 | --- | --- |
 | [benchm-ml](https://github.com/szilard/benchm-ml) ![](https://img.shields.io/github/stars/szilard/benchm-ml?style=social) | "A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.)." |
 | [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq) ![](https://img.shields.io/github/stars/nyu-mll/bbq?style=social) | "Repository for the Bias Benchmark for QA dataset." |
