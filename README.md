@@ -134,6 +134,7 @@ This section is for responsible ML guidance put forward by organizations or indi
      * [Harm categories in Azure AI Content Safety](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/harm-categories?tabs=warning)
   * [Microsoft AI Red Team building future of safer AI](https://www.microsoft.com/en-us/security/blog/2023/08/07/microsoft-ai-red-team-building-future-of-safer-ai/)
   * [Microsoft Responsible AI Standard, v2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cmFl)
+* [model-cards-and-datasheets](https://github.com/ivylee/model-cards-and-datasheets)![](https://img.shields.io/github/stars/ivylee/model-cards-and-datasheets?style=social)
 * [NewsGuard AI Tracking Center](https://www.newsguardtech.com/special-reports/ai-tracking-center/)
 * [OpenAI Cookbook, How to implement LLM guardrails](https://cookbook.openai.com/examples/how_to_use_guardrails)
 * [OpenAI, Evals](https://github.com/openai/evals)![](https://img.shields.io/github/stars/openai/evals?style=social)
