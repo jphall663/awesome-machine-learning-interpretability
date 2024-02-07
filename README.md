@@ -591,6 +591,7 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 | [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq) ![](https://img.shields.io/github/stars/nyu-mll/bbq?style=social) | "Repository for the Bias Benchmark for QA dataset." |
 | [GEM](https://gem-benchmark.com/) | "GEM is a benchmark environment for Natural Language Generation with a focus on its Evaluation, both through human annotations and automated Metrics." |
 | [HELM](https://crfm.stanford.edu/helm/latest/) | "A holistic framework for evaluating foundation models." |
+| [i-gallegos, Fair-LLM-Benchmark](https://github.com/i-gallegos/Fair-LLM-Benchmark)![](https://img.shields.io/github/stars/i-gallegos/Fair-LLM-Benchmark?style=social) | "Bias and Fairness in Large Language Models: A Survey" |
 | [Nvidia MLPerf](https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/) | "MLPerf™ benchmarks—developed by MLCommons, a consortium of AI leaders from academia, research labs, and industry—are designed to provide unbiased evaluations of training and inference performance for hardware, software, and services." |
 | [OpenML Benchmarking Suites](https://www.openml.org/search?type=benchmark&study_type=task) | OpenML's collection of over two dozen benchmarking suites. |
 | [TrustLLM-Benchmark](https://trustllmbenchmark.github.io/TrustLLM-Website/index.html) | "A Comprehensive Study of Trustworthiness in Large Language Models." |
