@@ -560,6 +560,7 @@ This section links to other lists of responsible ML or related resources.
 * [AI Ethics Guidelines Global Inventory](https://algorithmwatch.org/en/project/ai-ethics-guidelines-global-inventory/)
 * [AI Ethics Resources](https://www.fast.ai/posts/2018-09-24-ai-ethics-resources.html)
 * [AI Tools and Platforms](https://docs.google.com/spreadsheets/u/2/d/10pPQYmyNnYb6zshOKxBjJ704E0XUj2vJ9HCDfoZxAoA/htmlview#)
+* [Awesome AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)![](https://img.shields.io/github/stars/EthicalML/awesome-artificial-intelligence-guidelines?style=social)
 * [Awesome interpretable machine learning](https://github.com/lopusz/awesome-interpretable-machine-learning)![](https://img.shields.io/github/stars/lopusz/awesome-interpretable-machine-learning?style=social)
 * [Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI/)![](https://img.shields.io/github/stars/wangyongjie-ntu/Awesome-explainable-AI?style=social)
 * [Awesome-ML-Model-Governance](https://github.com/visenger/Awesome-ML-Model-Governance)![](https://img.shields.io/github/stars/visenger/Awesome-ML-Model-Governance?style=social)
