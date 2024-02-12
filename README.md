@@ -11,6 +11,7 @@ If something you contributed or found here is missing after our September 2023 r
 
 * **Community and Official Guidance Resources** 
   * [Community Frameworks and Guidance](#community-frameworks-and-guidance)
+    * [LLM Red Teaming Resources](#llm-red-teaming-resources)
   * [Conferences and Workshops](#conferences-and-workshops)
   * [Official Policy, Frameworks, and Guidance](#official-policy-frameworks-and-guidance)
 
@@ -171,6 +172,18 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [When Not to Trust Your Explanations](https://docs.google.com/presentation/d/10a0PNKwoV3a1XChzvY-T1mWudtzUIZi3sCMzVwGSYfM/edit)
 * [Why We Need to Know More: Exploring the State of AI Incident Documentation Practices](https://dl.acm.org/doi/fullHtml/10.1145/3600211.3604700)
 * [You Created A Machine Learning Application Now Make Sure It's Secure](https://www.oreilly.com/ideas/you-created-a-machine-learning-application-now-make-sure-its-secure)
+
+#### LLM Red Teaming Resources
+
+* [@dotey on X/Twitter exploring GPT prompt security and prevention measures](https://x.com/dotey/status/1724623497438155031?s=20)
+* [0xeb / GPT-analyst](https://github.com/0xeb/gpt-analyst/)![](https://img.shields.io/github/stars/0xeb/gpt-analyst?style=social)
+* [0xk1h0 / ChatGPT "DAN" (and other "Jailbreaks")](https://github.com/0xk1h0/ChatGPT_DAN)![](https://github.com/0xk1h0/ChatGPT_DAN)![](https://img.shields.io/github/stars/0xk1h0/ChatGPT_DAN?style=social)
+* [coolaj86 / Chat GPT "DAN" (and other "Jailbreaks")](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516)![](https://img.shields.io/github/stars/coolaj86?style=social)
+* [Exploiting Novel GPT-4 APIs](https://arxiv.org/abs/2312.14302)
+* [Learn Prompting, Prompt Hacking](https://learnprompting.org/docs/category/-prompt-hacking)
+  * [MiesnerJacob / learn-prompting, Prompt Hacking](https://github.com/MiesnerJacob/learn-prompting/blob/main/08.%F0%9F%94%93%20Prompt%20Hacking.ipynb)![](https://img.shields.io/github/stars/MiesnerJacob/learn-prompting?style=social)
+* [r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/)
+* [Y Combinator, ChatGPT Grandma Exploit](https://news.ycombinator.com/item?id=35630801)
 
 ### Conferences and Workshops
 
