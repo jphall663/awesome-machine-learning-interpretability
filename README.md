@@ -11,6 +11,7 @@ If something you contributed or found here is missing after our September 2023 r
 
 * **Community and Official Guidance Resources** 
   * [Community Frameworks and Guidance](#community-frameworks-and-guidance)
+    * [Infographics and Cheat Sheets](#infographics-and-cheat-sheets)
     * [LLM Red Teaming Resources](#llm-red-teaming-resources)
   * [Conferences and Workshops](#conferences-and-workshops)
   * [Official Policy, Frameworks, and Guidance](#official-policy-frameworks-and-guidance)
@@ -172,6 +173,10 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [When Not to Trust Your Explanations](https://docs.google.com/presentation/d/10a0PNKwoV3a1XChzvY-T1mWudtzUIZi3sCMzVwGSYfM/edit)
 * [Why We Need to Know More: Exploring the State of AI Incident Documentation Practices](https://dl.acm.org/doi/fullHtml/10.1145/3600211.3604700)
 * [You Created A Machine Learning Application Now Make Sure It's Secure](https://www.oreilly.com/ideas/you-created-a-machine-learning-application-now-make-sure-its-secure)
+
+#### Infographics and Cheat Sheets
+
+* [Trustible, Is It AI? How different laws & frameworks define AI](https://www.trustible.ai/post/is-it-ai-how-different-laws-frameworks-define-ai)
 
 #### LLM Red Teaming Resources
 
