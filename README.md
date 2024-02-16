@@ -328,6 +328,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Developing Financial Sector Resilience in a Digital World: Selected Themes in Technology and Related Risks](https://www.osfi-bsif.gc.ca/Eng/Docs/tchrsk.pdf)
 * [The Digital Services Act package (EU Digital Services Act and Digital Markets Act)](https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package)
 * [Directive on Automated Decision Making (Canada)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
+* [(Draft Guideline) E-23 – Model Risk Management](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/draft-guideline-e-23-model-risk-management)
 * [EEOC Letter (from U.S. senators re: hiring software)](https://www.bennet.senate.gov/public/_cache/files/0/a/0a439d4b-e373-4451-84ed-ba333ce6d1dd/672D2E4304D63A04CC3465C3C8BF1D21.letter-to-chair-dhillon.pdf)
 * [European Commission, Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
 * [Executive Order 13960 (2020-12-03), Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government](https://www.federalregister.gov/documents/2020/12/08/2020-27065/promoting-the-use-of-trustworthy-artificial-intelligence-in-the-federal-government)
