@@ -68,7 +68,12 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [BIML Interactive Machine Learning Risk Framework](https://berryvilleiml.com/interactive/)
 * Center for Security and Emerging Technology (CSET):
   * [CSET's Harm Taxonomy for the AI Incident Database](https://github.com/georgetown-cset/CSET-AIID-harm-taxonomy)![](https://img.shields.io/github/stars/georgetown-cset/CSET-AIID-harm-taxonomy?style=social)
-  * [CSET Publications](https://cset.georgetown.edu/publications/) 
+  * [CSET Publications](https://cset.georgetown.edu/publications/)
+  * [Adding Structure to AI Harm: An Introduction to CSET's AI Harm Framework](https://cset.georgetown.edu/publication/adding-structure-to-ai-harm/)
+  * [AI Incident Collection: An Observational Study of the Great AI Experiment](https://cset.georgetown.edu/publication/ai-incident-collection-an-observational-study-of-the-great-ai-experiment/)
+  * [Repurposing the Wheel: Lessons for AI Standards](https://cset.georgetown.edu/publication/repurposing-the-wheel/)
+  * [Translating AI Risk Management Into Practice](https://cset.georgetown.edu/article/translating-ai-risk-management-into-practice/)
+  * [Understanding AI Harms: An Overview](https://cset.georgetown.edu/article/understanding-ai-harms-an-overview/)
 * [Censius: AI Audit](https://censius.ai/wiki/ai-audit)
 * [ChatGPT_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)![](https://img.shields.io/github/stars/LouisShark/chatgpt_system_prompt?style=social)
 * [CivAI, GenAI Toolkit for the NIST AI Risk Management Framework: Thinking Through the Risks of a GenAI Chatbot](https://www.civai.org/genai-toolkit-pdf)
@@ -104,6 +109,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [Responsible AI practices](https://ai.google/responsibility/responsible-ai-practices/)
   * [Testing and Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging)
 * [H2O.ai Algorithms](https://github.com/h2oai/h2o-tutorials/blob/master/training/h2o_algos/h2o_algos_cheat_sheet_04_25_17.pdf)![](https://img.shields.io/github/stars/h2oai/h2o-tutorials?style=social)
+* [HackerOne Blog](https://www.hackerone.com/vulnerability-and-security-testing-blog)
 * [Haptic Networks: How to Perform an AI Audit for UK Organisations](https://www.haptic-networks.com/cyber-security/how-to-perform-an-ai-audit/)
 * [Hogan Lovells, The AI Act is coming: EU reaches political agreement on comprehensive regulation of artificial intelligence](https://www.engage.hoganlovells.com/knowledgeservices/news/the-ai-act-is-coming-eu-reaches-political-agreement-on-comprehensive-regulation-of-artificial-intelligence?nav=FRbANEucS95NMLRN47z%2BeeOgEFCt8EGQ71hKXzqW2Ec%3D&key=BcJlhLtdCv6%2FJTDZxvL23TQa3JHL2AIGr93BnQjo2SkGJpG9xDX7S2thDpAQsCconWHAwe6cJTmX%2FZxLGrXbZz2L%2BEiiz68X&uid=iZAX%2FROFT6Q%3D)
 * [Hugging Face, The Landscape of ML Documentation Tools](https://huggingface.co/docs/hub/model-card-landscape-analysis)
@@ -141,6 +147,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [Microsoft Responsible AI Standard, v2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cmFl)
 * [model-cards-and-datasheets](https://github.com/ivylee/model-cards-and-datasheets)![](https://img.shields.io/github/stars/ivylee/model-cards-and-datasheets?style=social)
 * [NewsGuard AI Tracking Center](https://www.newsguardtech.com/special-reports/ai-tracking-center/)
+* [OpenAI, Building an early warning system for LLM-aided biological threat creation](https://openai.com/research/building-an-early-warning-system-for-llm-aided-biological-threat-creation)
 * [OpenAI Cookbook, How to implement LLM guardrails](https://cookbook.openai.com/examples/how_to_use_guardrails)
 * [OpenAI, Evals](https://github.com/openai/evals)![](https://img.shields.io/github/stars/openai/evals?style=social)
 * [OpenAI Red Teaming Network](https://openai.com/blog/red-teaming-network)
@@ -159,7 +166,9 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Safe and Reliable Machine Learning](https://www.dropbox.com/s/sdu26h96bc0f4l7/FAT19-AI-Reliability-Final.pdf?dl=0)
 * [Sample AI Incident Response Checklist](https://bnh-ai.github.io/resources/)
 * [SHRM Generative Artificial Intelligence (AI) Chatbot Usage Policy](https://www.shrm.org/resourcesandtools/tools-and-samples/policies/pages/chatgpt-generative-ai-usage.aspx)
+* [Special Competitive Studies Project and Johns Hopkins University Applied Physics Laboratory, Framework for Identifying Highly Consequential AI Use Cases](https://www.scsp.ai/wp-content/uploads/2023/11/SCSP_JHU-HCAI-Framework-Nov-6.pdf)
 * [Stanford University, Responsible AI at Stanford: Enabling innovation through AI best practices](https://uit.stanford.edu/security/responsibleai)
+* [Synack, The Complete Guide to Crowdsourced Security Testing, Government Edition](https://www.synack.com/wp-content/uploads/2022/09/Crowdsourced-Security-Landscape-Government.pdf)
 * [The Rise of Generative AI and the Coming Era of Social Media Manipulation 3.0: Next-Generation Chinese Astroturfing and Coping with Ubiquitous AI](https://www.rand.org/pubs/perspectives/PEA2679-1.html)
 * [Taskade: AI Audit PBC Request Checklist Template](https://www.taskade.com/templates/engineering/audit-pbc-request-checklist)
 * [TechTarget: 9 questions to ask when auditing your AI systems](https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/)
@@ -399,6 +408,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Supervisory Guidance on Model Risk Management](https://www.federalreserve.gov/supervisionreg/srletters/sr1107a1.pdf)
 * [Testing the Reliability, Validity, and Equity of Terrorism Risk Assessment Instruments](https://www.homeaffairs.gov.au/foi/files/2023/fa-230400097-document-released-part-1.PDF)
 * [UNESCO, Artificial Intelligence: examples of ethical dilemmas](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases)
+* [Office of the United Nations High Commissioner for Human Rights](https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/taxonomy-GenAI-Human-Rights-Harms.pdf) 
 * [United States Department of Energy Artificial Intelligence and Technology Office](https://www.energy.gov/ai/artificial-intelligence-technology-office):
   * [DOE AI Risk Management Playbook (AIRMP)](https://www.energy.gov/ai/doe-ai-risk-management-playbook-airmp)
   * [DOE AI Use Case Inventory (DOE Use Cases Releasable to Public in Accordance with E.O. 13960)](https://www.energy.gov/sites/default/files/2023-07/DOE_2023_AI_Use_Case_Inventory_0.pdf)
@@ -613,14 +623,19 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 | --- | --- |
 | [benchm-ml](https://github.com/szilard/benchm-ml) ![](https://img.shields.io/github/stars/szilard/benchm-ml?style=social) | "A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.)." |
 | [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq) ![](https://img.shields.io/github/stars/nyu-mll/bbq?style=social) | "Repository for the Bias Benchmark for QA dataset." |
+| [DecodingTrust](https://github.com/AI-secure/DecodingTrust)![](https://img.shields.io/github/stars/huggingface/evaluate?style=social) | "A Comprehensive Assessment of Trustworthiness in GPT Models." |
 | [GEM](https://gem-benchmark.com/) | "GEM is a benchmark environment for Natural Language Generation with a focus on its Evaluation, both through human annotations and automated Metrics." |
 | [HELM](https://crfm.stanford.edu/helm/latest/) | "A holistic framework for evaluating foundation models." |
+| [Hugging Face, evaluate](https://github.com/huggingface/evaluate)![](https://img.shields.io/github/stars/huggingface/evaluate?style=social) | "Evaluate: A library for easily evaluating machine learning models and datasets." |
 | [i-gallegos, Fair-LLM-Benchmark](https://github.com/i-gallegos/Fair-LLM-Benchmark)![](https://img.shields.io/github/stars/i-gallegos/Fair-LLM-Benchmark?style=social) | Benchmark from "Bias and Fairness in Large Language Models: A Survey" |
-| [Nvidia MLPerf](https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/) | "MLPerf™ benchmarks—developed by MLCommons, a consortium of AI leaders from academia, research labs, and industry—are designed to provide unbiased evaluations of training and inference performance for hardware, software, and services." |
+| [Nvidia MLPerf](https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/) | "MLPerf™ benchmarks—developed by MLCommons, a consortium of AI leaders from academia, research labs, and industry—are designed to provide unbiased evaluations of training and inference performance for hardware, software, and services." | 
 | [OpenML Benchmarking Suites](https://www.openml.org/search?type=benchmark&study_type=task) | OpenML's collection of over two dozen benchmarking suites. |
+| [SafetyPrompts.com](https://safetyprompts.com/) | "A Living Catalogue of Open Datasets for LLM Safety." |
+| [Sociotechnical Safety Evaluation Repository](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQObeTxvXtOs--zd98qG2xBHHuTTJOyNISBJPthZFr3at2LCrs3rcv73d4of1A78JV2eLuxECFXJY43/pubhtml) | An extensive spreadsheet of sociotechnical safety evaluations in a spreadsheet. |
 | [TrustLLM-Benchmark](https://trustllmbenchmark.github.io/TrustLLM-Website/index.html) | "A Comprehensive Study of Trustworthiness in Large Language Models." |
 | [Trust-LLM-Benchmark Leaderboard](https://trustllmbenchmark.github.io/TrustLLM-Website/leaderboard.html) | A series of sortable leaderboards of LLMs based on different trustworthiness criteria. |
 | [TruthfulQA](https://github.com/sylinrl/TruthfulQA) ![](https://img.shields.io/github/stars/sylinrl/TruthfulQA?style=social) | "TruthfulQA: Measuring How Models Imitate Human Falsehoods." |
+| [WAVES: Benchmarking the Robustness of Image Watermarks](https://wavesbench.github.io/) | "This paper investigates the weaknesses of image watermarking techniques." |
 | [Winogender Schemas](https://github.com/rudinger/winogender-schemas) ![](https://img.shields.io/github/stars/rudinger/winogender-schemas?style=social) | "Data for evaluating gender bias in coreference resolution systems." |
 | [Real Toxicity Prompts (Allen Institute for AI)](https://allenai.org/data/real-toxicity-prompts) | "A dataset of 100k sentence snippets from the web for researchers to further address the risk of neural toxic degeneration in models." |
 
@@ -762,6 +777,7 @@ This section contains open source or open access software used to implement resp
 | [L2X](https://github.com/Jianbo-Lab/L2X)![](https://img.shields.io/github/stars/Jianbo-Lab/L2X?style=social) | "Code for replicating the experiments in the paper [Learning to Explain: An Information-Theoretic Perspective on Model Interpretation](https://arxiv.org/pdf/1802.07814.pdf) at ICML 2018, by Jianbo Chen, Mitchell Stern, Martin J. Wainwright, Michael I. Jordan.” |
 | [langtest](https://github.com/JohnSnowLabs/langtest)![](https://img.shields.io/github/stars/JohnSnowLabs/langtest?style=social) | "LangTest: Deliver Safe & Effective Language Models"
 | [learning-fair-representations](https://github.com/zjelveh/learning-fair-representations)![](https://img.shields.io/github/stars/zjelveh/learning-fair-representations?style=social) | "Python numba implementation of Zemel et al. 2013 <http://www.cs.toronto.edu/~toni/Papers/icml-final.pdf>"
+| [lilac](https://github.com/lilacai/lilac)![](https://img.shields.io/github/stars/lilacai/lilac?style=social) | "Curate better data for LLMs." |
 | [lime](https://github.com/marcotcr/lime)![](https://img.shields.io/github/stars/marcotcr/lime?style=social) | "explaining what machine learning classifiers (or models) are doing. At the moment, we support explaining individual predictions for text classifiers or classifiers that act on tables (numpy arrays of numerical or categorical data) or images, with a package called lime (short for local interpretable model-agnostic explanations).” |
 | [LiFT](https://github.com/linkedin/LiFT)![](https://img.shields.io/github/stars/linkedin/LiFT?style=social) | "The LinkedIn Fairness Toolkit (LiFT) is a Scala/Spark library that enables the measurement of fairness and the mitigation of bias in large-scale machine learning workflows. The measurement module includes measuring biases in training data, evaluating fairness metrics for ML models, and detecting statistically significant differences in their performance across different subgroups.” |
 | [lit](https://github.com/pair-code/lit)![](https://img.shields.io/github/stars/pair-code/lit?style=social) | "The Learning Interpretability Tool (LIT, formerly known as the Language Interpretability Tool) is a visual, interactive ML model-understanding tool that supports text, image, and tabular data. It can be run as a standalone server, or inside of notebook environments such as Colab, Jupyter, and Google Cloud Vertex AI notebooks.” |
