@@ -573,6 +573,7 @@ This section houses initiatives, networks, repositories, and publications that f
 * [AI Vulnerability Database (AVID)](https://avidml.org/)
 * [AIAAIC](https://www.aiaaic.org/)
 * [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
+* [Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database](https://osf.io/fvqg3/)
 * [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
 * [Verica Open Incident Database (VOID)](https://www.thevoid.community/)
 
@@ -665,6 +666,7 @@ This section contains datasets that are commonly used in responsible ML evaulati
     * [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/)
     * [UCI ML Data Repository](https://archive.ics.uci.edu/)
 * [FANNIE MAE Single Family Loan Performance](https://capitalmarkets.fanniemae.com/credit-risk-transfer/single-family-credit-risk-transfer/fannie-mae-single-family-loan-performance-data)
+* [Presidential Deepfakes Dataset](https://www.media.mit.edu/publications/presidential-deepfakes-dataset/)
 * [NYPD Stop, Question and Frisk Data](https://www.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page)
 * [socialfoundations / folktables](https://github.com/socialfoundations/folktables)![](https://img.shields.io/github/stars/socialfoundations/folktables?style=social)
 * [Statlog (German Credit Data)](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
