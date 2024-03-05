@@ -548,6 +548,7 @@ This section features a collection of glossaries and dictionaries that are geare
 This section features a selection of educational courses focused on ethical considerations and best practices in ML. The classes range from introductory courses on data ethics to specialized training in fairness and trustworthy deep learning.
 
 * [An Introduction to Data Ethics](https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/an-introduction-to-data-ethics/)
+* [Carnegie Mellon University, Computational Ethics for NLP](http://demo.clab.cs.cmu.edu/ethical_nlp/)
 * [Certified Ethical Emerging Technologist](https://certnexus.com/certification/ceet/)
 * [Coursera, DeepLearning.AI, Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone)
 * [Coursera, DeepLearning.AI, Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
@@ -562,6 +563,8 @@ This section features a selection of educational courses focused on ethical cons
 * [INFO 4270: Ethics and Policy in Data Science](https://docs.google.com/document/d/1GV97qqvjQNvyM2I01vuRaAwHe9pQAZ9pbP7KkKveg1o/)
 * [Introduction to Responsible Machine Learning](https://jphall663.github.io/GWU_rml/)
 * [Machine Learning Fairness by Google](https://developers.google.com/machine-learning/crash-course/fairness/video-lecture)
+* [Piotr Sapieżyński's CS 4910 - Special Topics in Computer Science: Algorithm Audits](https://sapiezynski.com/cs4910.html)
+* [Tech & Ethics Curricula](https://docs.google.com/spreadsheets/d/1Z0DqQeZ-Aeq6LmD17J5m8zeeIR6ywWnH-WO-jWtXE9M/edit#gid=0)
 * [Trustworthy Deep Learning](https://berkeley-deep-learning.github.io/cs294-131-s19/)
 
 ## Miscellaneous Resources
@@ -583,6 +586,7 @@ This section houses initiatives, networks, repositories, and publications that f
 This section contains challenges and competitions related to responsible ML. 
 
 * [FICO Explainable Machine Learning Challenge](https://community.fico.com/s/explainable-machine-learning-challenge)
+* [OSD Bias Bounty](https://osdbiasbounty.com/)
 * [National Fair Housing Alliance Hackathon](https://nationalfairhousing.org/hackathon2023/)
 * [Twitter Algorithmic Bias](https://hackerone.com/twitter-algorithmic-bias?type=team)
 
@@ -622,6 +626,7 @@ This section links to other lists of responsible ML or related resources.
 * [OpenAI Cookbook](https://github.com/openai/openai-cookbook/tree/main)![](https://img.shields.io/github/stars/openai/openai-cookbook?style=social)
 * [private-ai-resources](https://github.com/OpenMined/private-ai-resources)![](https://img.shields.io/github/stars/OpenMined/private-ai-resources?style=social)
 * [ResponsibleAI](https://romanlutz.github.io/ResponsibleAI/)
+* [Tech & Ethics Curricula](https://docs.google.com/spreadsheets/d/1Z0DqQeZ-Aeq6LmD17J5m8zeeIR6ywWnH-WO-jWtXE9M/edit#gid=0)
 * [Worldwide AI ethics: A review of 200 guidelines and recommendations for AI governance](https://doi.org/10.1016/j.patter.2023.100857)
 * [XAI Resources](https://github.com/pbiecek/xai_resources)![](https://img.shields.io/github/stars/pbiecek/xai_resources?style=social)
 * [xaience](https://github.com/andreysharapov/xaience)![](https://img.shields.io/github/stars/andreysharapov/xaience?style=social)
