@@ -183,6 +183,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 
 * [Future of Privacy Forum, The Spectrum of Artificial Intelligence](https://fpf.org/wp-content/uploads/2021/01/FPF_AIEcosystem_illo_03.pdf)
 * [Machine Learning Attack_Cheat_Sheet](https://resources.oreilly.com/examples/0636920415947/-/blob/master/Attack_Cheat_Sheet.png)
+* [Open Source Audit Tooling (OAT) Landscape](https://tools.auditing-ai.com/)
 * [Trustible, Is It AI? How different laws & frameworks define AI](https://www.trustible.ai/post/is-it-ai-how-different-laws-frameworks-define-ai)
 
 #### LLM Red Teaming Resources
