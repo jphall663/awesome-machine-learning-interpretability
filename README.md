@@ -513,7 +513,7 @@ This section features a collection of glossaries and dictionaries that are geare
 * [A.I. For Anyone: The A-Z of AI](https://www.aiforanyone.org/glossary)
 * [Alan Turing Institute: Data science and AI glossary](https://www.turing.ac.uk/news/data-science-and-ai-glossary)
 * [Appen Artificial Intelligence Glossary](https://appen.com/ai-glossary/)
-* [Artificial intelligence and illusions of understanding in scientific research - glossary on second page](https://www.nature.com/articles/s41586-024-07146-0.epdf?sharing_token=cbht6Q72InY18AtY6FiVM9RgN0jAjWel9jnR3ZoTv0Ni_LuMWrIZy_SmHlNQlu9tG1u0SCK_wTYxy6bvMe6U_BE3vc5yFmZEpTbIVJozkVYsOei9LdPpNr_wZzvTp4stmzGM54z-riqwhUCk0DD6_YkY_jcgZBnXR8P_8vyFvYpiCtjFrvczN9Lm6NhmrePm)
+* [Artificial intelligence and illusions of understanding in scientific research (glossary on second page)](https://www.nature.com/articles/s41586-024-07146-0.epdf?sharing_token=cbht6Q72InY18AtY6FiVM9RgN0jAjWel9jnR3ZoTv0Ni_LuMWrIZy_SmHlNQlu9tG1u0SCK_wTYxy6bvMe6U_BE3vc5yFmZEpTbIVJozkVYsOei9LdPpNr_wZzvTp4stmzGM54z-riqwhUCk0DD6_YkY_jcgZBnXR8P_8vyFvYpiCtjFrvczN9Lm6NhmrePm)
 * [Brookings: The Brookings glossary of AI and emerging technologies](https://www.brookings.edu/articles/the-brookings-glossary-of-ai-and-emerging-technologies/)
 * [Built In, Responsible AI Explained](https://builtin.com/artificial-intelligence/responsible-ai)
 * [Center for Security and Emerging Technology: Glossary](https://cset.georgetown.edu/glossary/)
