@@ -25,6 +25,7 @@ If something you contributed or found here is missing after our September 2023 r
 * **Miscellaneous Resources**
   * [AI Incident Information Sharing Resources](#ai-incident-information-sharing-resources)
   * [Challenges and Competitions](#challenges-and-competitions)
+  * [Critiques of Generative AI](#critiques-of-generative-ai)
   * [Curated Bibliographies](#curated-bibliographies)
   * [List of Lists](#list-of-lists)
 
@@ -595,6 +596,45 @@ This section contains challenges and competitions related to responsible ML.
 * [OSD Bias Bounty](https://osdbiasbounty.com/)
 * [National Fair Housing Alliance Hackathon](https://nationalfairhousing.org/hackathon2023/)
 * [Twitter Algorithmic Bias](https://hackerone.com/twitter-algorithmic-bias?type=team)
+
+### Critiques of Generative AI
+
+This section contains an assortment of papers, articles, essays, and general resources that take critical stances toward generative AI.
+
+* [Against predictive optimization](https://predictive-optimization.cs.princeton.edu/)
+* [AI chatbots use racist stereotypes even after anti-racism training](https://www.newscientist.com/article/2421067-ai-chatbots-use-racist-stereotypes-even-after-anti-racism-training/)
+* [AI Is a Lot of Work](https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html)
+* [AI Snake Oil](https://www.aisnakeoil.com/)
+* [AI Tools Still Permitting Political Disinfo Creation, NGO Warns](https://www.barrons.com/news/ai-tools-still-permitting-political-disinfo-creation-ngo-warns-ac791521)
+* [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/pdf/2304.15004.pdf)
+* [Artificial Hallucinations in ChatGPT: Implications in Scientific Writing](https://assets.cureus.com/uploads/editorial/pdf/138667/20230219-28928-6kcyip.pdf)
+* [Artificial intelligence and illusions of understanding in scientific research](https://rdcu.be/dAw4I)
+* [ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](https://arxiv.org/pdf/2402.11753.pdf)
+* [Aylin Caliskan's publications](https://faculty.washington.edu/aylin/publications.html)
+* [Chatbots in consumer finance](https://www.consumerfinance.gov/data-research/research-reports/chatbots-in-consumer-finance/chatbots-in-consumer-finance/)
+* [Consciousness in Artificial Intelligence: Insights from the Science of Consciousness](https://arxiv.org/abs/2308.08708)
+* [Data and its (dis)contents: A survey of dataset development and use in machine learning research](https://www.cell.com/patterns/pdf/S2666-3899(21)00184-7.pdf)
+* [Evaluating Language-Model Agents on Realistic Autonomous Tasks](https://arxiv.org/pdf/2312.11671.pdf)
+* [Generative AI: UNESCO study reveals alarming evidence of regressive gender stereotypes](https://www.unesco.org/en/articles/generative-ai-unesco-study-reveals-alarming-evidence-regressive-gender-stereotypes)
+* [Get Ready for the Great AI Disappointment](https://www.wired.com/story/get-ready-for-the-great-ai-disappointment/)
+* [Identifying and Eliminating CSAM in Generative ML Training Data and Models](https://stacks.stanford.edu/file/druid:kh752sm9123/ml_training_data_csam_report-2023-12-23.pdf)
+* [Insanely Complicated, Hopelessly Inadequate](https://www.lrb.co.uk/the-paper/v43/n02/paul-taylor/insanely-complicated-hopelessly-inadequate)
+* [Lazy use of AI leads to Amazon products called “I cannot fulfill that request”](https://arstechnica.com/ai/2024/01/lazy-use-of-ai-leads-to-amazon-products-called-i-cannot-fulfill-that-request/)
+* [Leak, Cheat, Repeat: Data Contamination and Evaluation Malpractices in Closed-Source LLMs](https://arxiv.org/pdf/2402.03927.pdf)
+* [Low-Resource Languages Jailbreak GPT-4](https://arxiv.org/abs/2310.02446v1)
+* [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/machine-learning-the-high-interest-credit-card-of-technical-debt/)
+* [Measuring the predictability of life outcomes with a scientific mass collaboration](https://www.pnas.org/doi/10.1073/pnas.1915006117)
+* [Most CEOs aren’t buying the hype on generative AI benefits](https://www.itpro.com/business/leadership/most-ceos-arent-buying-the-hype-on-generative-ai-benefits)
+* [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
+* [Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in Transformer Models](https://arxiv.org/pdf/2311.00871.pdf)
+* [Researchers surprised by gender stereotypes in ChatGPT](https://www.dtu.dk/english/news/all-news/researchers-surprised-by-gender-stereotypes-in-chatgpt?id=7e5936d1-dfce-485b-8a90-78f7c757177d)
+* [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/pdf/2311.17035.pdf)
+* [Task Contamination: Language Models May Not Be Few-Shot Anymore](https://arxiv.org/pdf/2312.16337.pdf)
+* [The Cult of AI](https://www.rollingstone.com/culture/culture-features/ai-companies-advocates-cult-1234954528/)
+* [The Data Scientific Method vs. The Scientific Method](https://odsc.com/blog/the-data-scientific-method-vs-the-scientific-method/)
+* [The Fallacy of AI Functionality](https://dl.acm.org/doi/pdf/10.1145/3531146.3533158)
+* [Why We Must Resist AI’s Soft Mind Control]( https://www.theatlantic.com/ideas/archive/2024/03/artificial-intelligence-google-gemini-mind-control/677683/)
+* [Winner's Curse? On Pace, Progress, and Empirical Rigor](https://openreview.net/pdf?id=rJWF0Fywf)
 
 ### Curated Bibliographies
 
