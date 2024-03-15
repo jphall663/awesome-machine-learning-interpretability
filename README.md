@@ -971,6 +971,8 @@ This section contains open source or open access software used to implement resp
 
 ### Citing Awesome Machine Learning Interpretability
 
+(Contributors with over 100 edits can be named coauthors in the citation of visible names, otherwise all contributors with fewer than 100 are included in the "et al.")
+
 #### ACM, APA, Chicago, and MLA
 
 * **ACM (Association for Computing Machinery)**
@@ -979,7 +981,7 @@ The ACM citation format focuses on digital resources:
 
 Author(s) Last Name, First Initial. Middle Initial. Year. Title of the Project. Publisher (if applicable). Version (if applicable). URL. DOI (if applicable).
 
-Hall, Patrick. 2024. Awesome Machine Learning Interpretability. GitHub. https://github.com/jphall663/awesome-machine-learning-interpretability.
+Hall, Patrick, Daniel Atherton, et al. 2024. Awesome Machine Learning Interpretability. GitHub. https://github.com/jphall663/awesome-machine-learning-interpretability.
 
 * **APA (American Psychological Association) 7th Edition**
 
@@ -987,7 +989,7 @@ APA style citation for a GitHub repository should include:
 
 Author(s) Last Name, First Initial(s). (Year of Publication). Title of the project [Description]. GitHub. URL.
 
-Hall, Patrick. (2024). Awesome Machine Learning Interpretability [GitHub repository]. GitHub. https://github.com/jphall663/awesome-machine-learning-interpretability.
+Hall, Patrick, Daniel Atherton, et al. (2024). Awesome Machine Learning Interpretability [GitHub repository]. GitHub. https://github.com/jphall663/awesome-machine-learning-interpretability.
 
 * **Chicago Manual of Style 17th Edition**
 
@@ -995,7 +997,7 @@ Chicago style offers two options: notes and bibliography system or author-date s
 
 Author(s) Last Name, First Name. Year of Publication. "Title of the Project." GitHub. Last modified Year. URL.
 
-Hall, Patrick. 2024. "Awesome Machine Learning Interpretability." GitHub. Last modified 2023. https://github.com/jphall663/awesome-machine-learning-interpretability.
+Hall, Patrick, Daniel Atherton, et al. "Awesome Machine Learning Interpretability." GitHub. Last modified 2023. https://github.com/jphall663/awesome-machine-learning-interpretability.
 
 * **MLA (Modern Language Association) 9th Edition**
 
@@ -1003,4 +1005,4 @@ To cite a GitHub repository in MLA style, include the following elements:
 
 Author(s) Name(s). "Title of the Project." *GitHub*, Year of Last Update, URL. Accessed Day Month Year.
 
-Hall, Patrick. "Awesome Machine Learning Interpretability." *GitHub*, 2024, https://github.com/jphall663/awesome-machine-learning-interpretability. Accessed 5 March 2024.
+Hall, Patrick, Daniel Atherton, et al. "Awesome Machine Learning Interpretability." *GitHub*, 2024, https://github.com/jphall663/awesome-machine-learning-interpretability. Accessed 5 March 2024.
