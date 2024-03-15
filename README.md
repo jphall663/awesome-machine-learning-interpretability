@@ -971,7 +971,7 @@ This section contains open source or open access software used to implement resp
 
 ### Citing Awesome Machine Learning Interpretability
 
-(Contributors with over 100 edits can be named coauthors in the citation of visible names, otherwise all contributors with fewer than 100 are included in the "et al.")
+(Contributors with over 100 edits can be named coauthors in the citation of visible names. Otherwise, all contributors with fewer than 100 edits are included under "et al.")
 
 #### ACM, APA, Chicago, and MLA
 
