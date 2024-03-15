@@ -25,7 +25,7 @@ If something you contributed or found here is missing after our September 2023 r
 * **Miscellaneous Resources**
   * [AI Incident Information Sharing Resources](#ai-incident-information-sharing-resources)
   * [Challenges and Competitions](#challenges-and-competitions)
-  * [Critiques of Generative AI](#critiques-of-generative-ai)
+  * [Critiques of AI](#critiques-of-ai)
   * [Curated Bibliographies](#curated-bibliographies)
   * [List of Lists](#list-of-lists)
 
@@ -598,7 +598,7 @@ This section contains challenges and competitions related to responsible ML.
 * [National Fair Housing Alliance Hackathon](https://nationalfairhousing.org/hackathon2023/)
 * [Twitter Algorithmic Bias](https://hackerone.com/twitter-algorithmic-bias?type=team)
 
-### Critiques of Generative AI
+### Critiques of AI
 
 This section contains an assortment of papers, articles, essays, and general resources that take critical stances toward generative AI.
 
