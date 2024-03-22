@@ -737,6 +737,7 @@ This section contains open source or open access ML environment management softw
 
 | Resource | Description |
 |----------|-------|
+| [CometLLM](https://github.com/comet-ml/comet-llm) |  "A tool to log and visualize your LLM prompts and chains." |
 | [dvc](https://dvc.org/) | "Manage and version images, audio, video, and text files in storage and organize your ML modeling process into a reproducible workflow." |
 | [gigantum](https://github.com/gigantum) ![gigantum stars](https://img.shields.io/github/stars/gigantum?style=social) | "Building a better way to create, collaborate, and share data-driven science." |
 | [mlflow](https://mlflow.org/) | "An open source platform for the machine learning lifecycle." |
