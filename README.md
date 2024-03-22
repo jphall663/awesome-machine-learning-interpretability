@@ -639,7 +639,6 @@ This section contains an assortment of papers, articles, essays, and general res
 * [The Fallacy of AI Functionality](https://dl.acm.org/doi/pdf/10.1145/3531146.3533158)
 * [Why We Must Resist AI’s Soft Mind Control]( https://www.theatlantic.com/ideas/archive/2024/03/artificial-intelligence-google-gemini-mind-control/677683/)
 * [Winner's Curse? On Pace, Progress, and Empirical Rigor](https://openreview.net/pdf?id=rJWF0Fywf)
-  *  **Papers**
  
     
 ### Curated Bibliographies
