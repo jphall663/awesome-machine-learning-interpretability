@@ -12,7 +12,7 @@ If something you contributed or found here is missing after our September 2023 r
 * **Community and Official Guidance Resources** 
   * [Community Frameworks and Guidance](#community-frameworks-and-guidance)
     * [Infographics and Cheat Sheets](#infographics-and-cheat-sheets)
-    * [LLM Red Teaming Resources](#llm-red-teaming-resources)
+    * [LLM Red-Teaming Resources](#llm-red-teaming-resources)
   * [Conferences and Workshops](#conferences-and-workshops)
   * [Official Policy, Frameworks, and Guidance](#official-policy-frameworks-and-guidance)
 
@@ -189,7 +189,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Open Source Audit Tooling (OAT) Landscape](https://tools.auditing-ai.com/)
 * [Trustible, Is It AI? How different laws & frameworks define AI](https://www.trustible.ai/post/is-it-ai-how-different-laws-frameworks-define-ai)
 
-#### LLM Red Teaming Resources
+#### LLM Red-Teaming Resources
 
 * [@dotey on X/Twitter exploring GPT prompt security and prevention measures](https://x.com/dotey/status/1724623497438155031?s=20)
 * [0xeb / GPT-analyst](https://github.com/0xeb/gpt-analyst/)![](https://img.shields.io/github/stars/0xeb/gpt-analyst?style=social)
@@ -218,6 +218,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2209.07858)
 * [Red Teaming of Advanced Information Assurance Concepts](https://ieeexplore.ieee.org/document/821513)
 * [Y Combinator, ChatGPT Grandma Exploit](https://news.ycombinator.com/item?id=35630801)
+  *  **Papers** 
 
 ### Conferences and Workshops
 
@@ -638,7 +639,9 @@ This section contains an assortment of papers, articles, essays, and general res
 * [The Fallacy of AI Functionality](https://dl.acm.org/doi/pdf/10.1145/3531146.3533158)
 * [Why We Must Resist AI’s Soft Mind Control]( https://www.theatlantic.com/ideas/archive/2024/03/artificial-intelligence-google-gemini-mind-control/677683/)
 * [Winner's Curse? On Pace, Progress, and Empirical Rigor](https://openreview.net/pdf?id=rJWF0Fywf)
-
+  *  **Papers**
+ 
+    
 ### Curated Bibliographies
 
 We are seeking curated bibliographies related to responsible ML across various topics, see [issue 115](https://github.com/jphall663/awesome-machine-learning-interpretability/issues/115). 
