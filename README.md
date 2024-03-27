@@ -224,6 +224,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Microsoft AI Red Team building future of safer AI](https://www.microsoft.com/en-us/security/blog/2023/08/07/microsoft-ai-red-team-building-future-of-safer-ai/)
 * [OpenAI Red Teaming Network](https://openai.com/blog/red-teaming-network)
 * [r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/)
+  * [developer mode fixed](https://www.reddit.com/r/ChatGPTJailbreak/comments/144905t/developer_mode_fixed/)
 * [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2209.07858)
 * [Red Teaming of Advanced Information Assurance Concepts](https://ieeexplore.ieee.org/document/821513)
 * [Y Combinator, ChatGPT Grandma Exploit](https://news.ycombinator.com/item?id=35630801)
