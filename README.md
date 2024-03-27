@@ -186,6 +186,15 @@ This section is for responsible ML guidance put forward by organizations or indi
 
 * [Future of Privacy Forum, The Spectrum of Artificial Intelligence](https://fpf.org/wp-content/uploads/2021/01/FPF_AIEcosystem_illo_03.pdf)
 * [Machine Learning Attack_Cheat_Sheet](https://resources.oreilly.com/examples/0636920415947/-/blob/master/Attack_Cheat_Sheet.png)
+* [Oliver Patel's Cheat Sheets](https://www.linkedin.com/in/oliver-patel/recent-activity/images/)
+   * [10 Key Pillars for Enterprise AI Governance](https://media.licdn.com/dms/image/D4E22AQF4U8u-baT8hA/feedshare-shrink_1280/0/1709035425012?e=1714608000&v=beta&t=1DhhkNzNFtGg22y8j2KcrrV7SPiCQKZ0-l2uhkSs5zI)
+   * [AI Governance in 2023](https://media.licdn.com/dms/image/D4D22AQEUkWMhXlQ8pA/feedshare-shrink_1280/0/1702536206607?e=1714608000&v=beta&t=ukGzNValTfCOyjR4XUt9dnemmdzv0eAi4oV5Zh8XgyI)
+   * [China AI Law Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQF-6pEvkEG6PQ/feedshare-shrink_1280/0/1703158308976?e=1714608000&v=beta&t=DA3U5tCyGA3l9jLK6h_USn-76z9espPWwr2BNmNc-v8)
+   * [EU AI Act Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQGtXLcmj8KCDA/feedshare-shrink_1280/0/1702283701056?e=1714608000&v=beta&t=-y7gwPX5phQhtKDrFNGsFI4oppaOIvJ101FxDyW832w)
+   * [Governance Audit, Model Audit, and Application Audit](https://media.licdn.com/dms/image/D4E22AQFc3N6PSYkyXQ/feedshare-shrink_2048_1536/0/1680540832478?e=1714608000&v=beta&t=NuQbcm7pQrwhy2ldD8HdzqHKt6xR8W7EI9OxwZ8OvbU)
+   * [Gulf Countries AI Policy Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQGFbfOnjgtiMg/feedshare-shrink_1280/0/1708519732711?e=1714608000&v=beta&t=BaJm411n2QWNm69uUEnIgbZxZqYf0YuWfBQHXXWaS-c)
+   * [Singapore AI Policy Cheat Sheet](https://media.licdn.com/dms/image/D4D22AQFwuZiA4pVL0g/feedshare-shrink_1280/0/1711403787594?e=1714608000&v=beta&t=ka9xDLBo6jIHbsG6HJ0EcbWQjV9phGm84X-1LvBYklA)
+   * [UK AI Policy Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQHoHS_kht7g6w/feedshare-shrink_1280/0/1707393791731?e=1714608000&v=beta&t=CkyVLhOjN5mGVc0uuIDFbDzNcItYB1CdENp5NtnDITQ)
 * [Open Source Audit Tooling (OAT) Landscape](https://tools.auditing-ai.com/)
 * [Trustible, Is It AI? How different laws & frameworks define AI](https://www.trustible.ai/post/is-it-ai-how-different-laws-frameworks-define-ai)
 
