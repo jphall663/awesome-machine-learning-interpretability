@@ -689,6 +689,7 @@ This section links to other lists of responsible ML or related resources.
 * [OECD-NIST Catalogue of AI Tools and Metrics](https://oecd.ai/en/catalogue/overview)
 * [OpenAI Cookbook](https://github.com/openai/openai-cookbook/tree/main)![](https://img.shields.io/github/stars/openai/openai-cookbook?style=social)
 * [private-ai-resources](https://github.com/OpenMined/private-ai-resources)![](https://img.shields.io/github/stars/OpenMined/private-ai-resources?style=social)
+* [Ravit Dotan's Resources](https://www.techbetter.ai/resources)
 * [ResponsibleAI](https://romanlutz.github.io/ResponsibleAI/)
 * [Tech & Ethics Curricula](https://docs.google.com/spreadsheets/d/1Z0DqQeZ-Aeq6LmD17J5m8zeeIR6ywWnH-WO-jWtXE9M/edit#gid=0)
 * [Worldwide AI ethics: A review of 200 guidelines and recommendations for AI governance](https://doi.org/10.1016/j.patter.2023.100857)
