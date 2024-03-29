@@ -26,6 +26,7 @@ If something you contributed or found here is missing after our September 2023 r
   * [AI Incident Information Sharing Resources](#ai-incident-information-sharing-resources)
   * [Challenges and Competitions](#challenges-and-competitions)
   * [Critiques of AI](#critiques-of-ai)
+  * [Groups and Organizations](#groups-and-organizations)
   * [Curated Bibliographies](#curated-bibliographies)
   * [List of Lists](#list-of-lists)
 
@@ -636,6 +637,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Consciousness in Artificial Intelligence: Insights from the Science of Consciousness](https://arxiv.org/abs/2308.08708)
 * [Data and its (dis)contents: A survey of dataset development and use in machine learning research](https://www.cell.com/patterns/pdf/S2666-3899(21)00184-7.pdf)
 * [Evaluating Language-Model Agents on Realistic Autonomous Tasks](https://arxiv.org/pdf/2312.11671.pdf)
+* [Futurism, Disillusioned Businesses Discovering That AI Kind of Sucks](https://futurism.com/the-byte/businesses-discovering-ai-sucks)
 * [Generative AI: UNESCO study reveals alarming evidence of regressive gender stereotypes](https://www.unesco.org/en/articles/generative-ai-unesco-study-reveals-alarming-evidence-regressive-gender-stereotypes)
 * [Get Ready for the Great AI Disappointment](https://www.wired.com/story/get-ready-for-the-great-ai-disappointment/)
 * [Identifying and Eliminating CSAM in Generative ML Training Data and Models](https://stacks.stanford.edu/file/druid:kh752sm9123/ml_training_data_csam_report-2023-12-23.pdf)
@@ -656,7 +658,10 @@ This section contains an assortment of papers, articles, essays, and general res
 * [The Fallacy of AI Functionality](https://dl.acm.org/doi/pdf/10.1145/3531146.3533158)
 * [Why We Must Resist AI’s Soft Mind Control]( https://www.theatlantic.com/ideas/archive/2024/03/artificial-intelligence-google-gemini-mind-control/677683/)
 * [Winner's Curse? On Pace, Progress, and Empirical Rigor](https://openreview.net/pdf?id=rJWF0Fywf)
- 
+
+### Groups and Organizations
+
+[Institute for Advanced Study (IAS), AI Policy and Governance Working Group](https://www.ias.edu/stsv-lab/aipolicy) 
     
 ### Curated Bibliographies
 
