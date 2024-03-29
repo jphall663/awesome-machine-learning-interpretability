@@ -200,6 +200,14 @@ This section is for responsible ML guidance put forward by organizations or indi
 
 #### LLM Red-Teaming Resources
 
+##### Papers
+* [Exploiting Novel GPT-4 APIs](https://arxiv.org/abs/2312.14302)
+* [Identifying and Eliminating CSAM in Generative ML Training Data and Models](https://purl.stanford.edu/kh752sm9123)
+* [Jailbreaking Black Box Large Language Models in Twenty Queries](https://arxiv.org/abs/2310.08419)
+* [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2209.07858)
+* [Red Teaming of Advanced Information Assurance Concepts](https://ieeexplore.ieee.org/document/821513)
+
+##### Tools and Guidance
 * [@dotey on X/Twitter exploring GPT prompt security and prevention measures](https://x.com/dotey/status/1724623497438155031?s=20)
 * [0xeb / GPT-analyst](https://github.com/0xeb/gpt-analyst/)![](https://img.shields.io/github/stars/0xeb/gpt-analyst?style=social)
 * [0xk1h0 / ChatGPT "DAN" (and other "Jailbreaks")](https://github.com/0xk1h0/ChatGPT_DAN)![](https://github.com/0xk1h0/ChatGPT_DAN)![](https://img.shields.io/github/stars/0xk1h0/ChatGPT_DAN?style=social)
@@ -211,12 +219,9 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [CSET, What Does AI-Red Teaming Actually Mean?](https://cset.georgetown.edu/article/what-does-ai-red-teaming-actually-mean/)
 * [DAIR Prompt Engineering Guide](https://www.promptingguide.ai/)
   * [DAIR Prompt Engineering Guide GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide)![](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide?style=social)
-* [Exploiting Novel GPT-4 APIs](https://arxiv.org/abs/2312.14302)
 * [Extracting Training Data from ChatGPT](https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html)
 * [Frontier Model Forum: What is Red Teaming?](https://www.frontiermodelforum.org/uploads/2023/10/FMF-AI-Red-Teaming.pdf)
 * [HackerOne, An Emerging Playbook for AI Red Teaming with HackerOne](https://www.hackerone.com/thought-leadership/ai-safety-red-teaming)
-* [Identifying and Eliminating CSAM in Generative ML Training Data and Models](https://purl.stanford.edu/kh752sm9123)
-* [Jailbreaking Black Box Large Language Models in Twenty Queries](https://arxiv.org/abs/2310.08419)
 * [Learn Prompting, Prompt Hacking](https://learnprompting.org/docs/category/-prompt-hacking)
   * [MiesnerJacob / learn-prompting, Prompt Hacking](https://github.com/MiesnerJacob/learn-prompting/blob/main/08.%F0%9F%94%93%20Prompt%20Hacking.ipynb)![](https://img.shields.io/github/stars/MiesnerJacob/learn-prompting?style=social)
 * [Lakera AI's Gandalf](https://gandalf.lakera.ai/)
@@ -225,10 +230,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [OpenAI Red Teaming Network](https://openai.com/blog/red-teaming-network)
 * [r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/)
   * [developer mode fixed](https://www.reddit.com/r/ChatGPTJailbreak/comments/144905t/developer_mode_fixed/)
-* [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2209.07858)
-* [Red Teaming of Advanced Information Assurance Concepts](https://ieeexplore.ieee.org/document/821513)
 * [Y Combinator, ChatGPT Grandma Exploit](https://news.ycombinator.com/item?id=35630801)
-  *  **Papers** 
 
 ### Conferences and Workshops
 
