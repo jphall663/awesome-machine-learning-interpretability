@@ -297,6 +297,7 @@ This section is for conferences, workshops and other major events related to res
   * **2023**:
     * [2nd ACM SIGKDD Workshop on Ethical Artificial Intelligence: Methods and Applications](https://charliezhaoyinpeng.github.io/EAI-KDD23/cfp/)
     * [KDD Data Science for Social Good 2023](https://kdd-dssg.github.io/)
+* [Mission Control AI, Booz Allen Hamilton, and The Intellectual Forum at Jesus College, Cambridge, The 2024 Leaders in Responsible AI Summit, March 22, 2024](https://usemissioncontrol.com/summit/)
 * [Neural Information Processing Systems (NeurIPs)](https://neurips.cc/)
   * **2022**:
     * [5th Robot Learning Workshop: Trustworthy Robotics](https://neurips.cc/virtual/2022/workshop/49997)
