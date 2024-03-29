@@ -241,6 +241,7 @@ This section is for conferences, workshops and other major events related to res
 * [AIES (AAAI/ACM Conference on AI, Ethics, and Society)](https://www.aies-conference.com/) 
 * [Black in AI](https://blackinai.github.io/#/)
 * [Computer Vision and Pattern Recognition (CVPR)](https://thecvf.com/)
+* [Evaluating Generative AI Systems: the Good, the Bad, and the Hype (April 15, 2024)](https://dc-workshop.genlaw.org/)
 * [International Conference on Machine Learning (ICML)](https://icml.cc/)
   * **2020**:
     * [2nd ICML Workshop on Human in the Loop Learning (HILL)](https://icml.cc/virtual/2020/workshop/5747)
