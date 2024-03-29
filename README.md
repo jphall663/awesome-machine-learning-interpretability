@@ -242,6 +242,7 @@ This section is for conferences, workshops and other major events related to res
 * [Black in AI](https://blackinai.github.io/#/)
 * [Computer Vision and Pattern Recognition (CVPR)](https://thecvf.com/)
 * [Evaluating Generative AI Systems: the Good, the Bad, and the Hype (April 15, 2024)](https://dc-workshop.genlaw.org/)
+* [IAPP, AI Governance Global 2024, June 4-7, 2024](https://iapp.org/conference/iapp-ai-governance-global/)
 * [International Conference on Machine Learning (ICML)](https://icml.cc/)
   * **2020**:
     * [2nd ICML Workshop on Human in the Loop Learning (HILL)](https://icml.cc/virtual/2020/workshop/5747)
