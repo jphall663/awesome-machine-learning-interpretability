@@ -661,7 +661,7 @@ This section contains an assortment of papers, articles, essays, and general res
 
 ### Groups and Organizations
 
-[Institute for Advanced Study (IAS), AI Policy and Governance Working Group](https://www.ias.edu/stsv-lab/aipolicy) 
+* [Institute for Advanced Study (IAS), AI Policy and Governance Working Group](https://www.ias.edu/stsv-lab/aipolicy) 
     
 ### Curated Bibliographies
 
