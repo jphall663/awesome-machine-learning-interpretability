@@ -79,6 +79,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [Translating AI Risk Management Into Practice](https://cset.georgetown.edu/article/translating-ai-risk-management-into-practice/)
   * [Understanding AI Harms: An Overview](https://cset.georgetown.edu/article/understanding-ai-harms-an-overview/)
 * [Censius: AI Audit](https://censius.ai/wiki/ai-audit)
+* [Center for AI and Digital Policy Reports](https://www.caidp.org/reports/)
 * [CivAI, GenAI Toolkit for the NIST AI Risk Management Framework: Thinking Through the Risks of a GenAI Chatbot](https://www.civai.org/genai-toolkit-pdf)
 * [Coalition for Content Provenance and Authenticity (C2PA)](https://c2pa.org/)
 * [Crowe LLP: Internal auditor's AI safety checklist](https://www.crowe.com/insights/asset/i/internal-auditors-ai-safety-checklist)
@@ -90,12 +91,14 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Distill](https://distill.pub)
 * [Dominique Shelton Leipzig, Countries With Draft AI Legislation or Frameworks](https://dominiquesheltonleipzig.com/country-legislation-frameworks/)
 * [Ethical and social risks of harm from Language Models](https://www.deepmind.com/publications/ethical-and-social-risks-of-harm-from-language-models)
+* [Ethics for people who work in tech](https://ethicsforpeoplewhoworkintech.com/)
 * [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
 * [Fairly's Global AI Regulations Map](https://github.com/fairlyAI/global-ai-regulations-map/blob/dev/README.md)![](https://img.shields.io/github/stars/fairlyAI/global-ai-regulations-map?style=social)
 * [FATML Principles and Best Practices](https://www.fatml.org/resources/principles-and-best-practices)
 * [ForHumanity Body of Knowledge (BOK)](https://forhumanity.center/bok/)
 * [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/)
 * [From Principles to Practice: An interdisciplinary framework to operationalise AI ethics](https://www.ai-ethics-impact.org/resource/blob/1961130/c6db9894ee73aefa489d6249f5ee2b9f/aieig---report---download-hb-data.pdf)
+* [The Future Society](https://thefuturesociety.org/towards-effective-governance-of-foundation-models-and-generative-ai/)
 * [Gage Repeatability and Reproducibility](https://asq.org/quality-resources/gage-repeatability)
 * [Georgetown University Library's Artificial Intelligence (Generative) Resources](https://guides.library.georgetown.edu/ai)
 * Google:
@@ -123,6 +126,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Identifying and Overcoming Common Data Mining Mistakes](https://support.sas.com/resources/papers/proceedings/proceedings/forum2007/073-2007.pdf)
 * [Infocomm Media Development Authority (Singapore) and AI Verify Foundation, Cataloguing LLM Evaluations, Draft for Discussion (October 2023)](https://aiverifyfoundation.sg/downloads/Cataloguing_LLM_Evaluations.pdf)
 * [Infocomm Media Development Authority (Singapore), First of its kind Generative AI Evaluation Sandbox for Trusted AI by AI Verify Foundation and IMDA](https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/generative-ai-evaluation-sandbox)
+* [Institute for Public Policy Research (IPPR), Transformed by AI: How Generative Artificial Intelligence Could Affect Work in the UK—And How to Manage It](https://ippr-org.files.svdcdn.com/production/Downloads/Transformed_by_AI_March24_2024-03-27-121003_kxis.pdf)
 * [Institute of Internal Auditors: Artificial Intelligence Auditing Framework, Practical Applications, Part A, Special Edition](https://www.theiia.org/globalassets/documents/content/articles/gpi/2017/december/gpi-artificial-intelligence-part-ii.pdf)
 * ISACA:
   * [ISACA: Auditing Artificial Intelligence](https://ec.europa.eu/futurium/en/system/files/ged/auditing-artificial-intelligence.pdf)
@@ -506,6 +510,7 @@ This section contains books that can be reasonably described as free, including 
    * [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book)![](https://img.shields.io/github/stars/christophM/interpretable-ml-book?style=social)
 * [Deborah G. Johnson and Keith W. Miller, 2009, *Computer Ethics: Analyzing Information Technology*, Fourth Edition](https://archive.org/details/computerethicsan0004edjohn)
 * [Ed Dreby and Keith Helmuth (contributors) and Judy Lumb (editor), 2009, *Fueling Our Future: A Dialogue about Technology, Ethics, Public Policy, and Remedial Action*](https://archive.org/details/fuelingourfuture0000unse/mode/2up)
+* [Ethics for people who work in tech](https://ethicsforpeoplewhoworkintech.com/)
 * [George Reynolds, 2002, *Ethics in Information Technology*](https://archive.org/details/ethicsininformat00reyn)
 * [George Reynolds, 2002, *Ethics in Information Technology*, Instructor's Edition](https://archive.org/details/ethicsininformat0000reyn)
 * [Kenneth Vaux (editor), 1970, *Who Shall Live? Medicine, Technology, Ethics*](https://archive.org/details/whoshalllivemedi0000hous)
@@ -662,6 +667,7 @@ This section contains an assortment of papers, articles, essays, and general res
 
 ### Groups and Organizations
 
+* [Center for AI and Digital Policy](https://www.caidp.org)
 * [Institute for Advanced Study (IAS), AI Policy and Governance Working Group](https://www.ias.edu/stsv-lab/aipolicy) 
     
 ### Curated Bibliographies
