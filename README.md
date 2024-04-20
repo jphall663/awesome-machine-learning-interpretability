@@ -644,6 +644,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Against predictive optimization](https://predictive-optimization.cs.princeton.edu/)
 * [AI chatbots use racist stereotypes even after anti-racism training](https://www.newscientist.com/article/2421067-ai-chatbots-use-racist-stereotypes-even-after-anti-racism-training/)
 * [AI Is a Lot of Work](https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html)
+* [AI Safety Is a Narrative Problem](https://hdsr.mitpress.mit.edu/pub/wz35dvpo/release/1?readingCollection=3974b7e6)
 * [AI Snake Oil](https://www.aisnakeoil.com/)
 * [AI Tools Still Permitting Political Disinfo Creation, NGO Warns](https://www.barrons.com/news/ai-tools-still-permitting-political-disinfo-creation-ngo-warns-ac791521)
 * [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/pdf/2304.15004.pdf)
