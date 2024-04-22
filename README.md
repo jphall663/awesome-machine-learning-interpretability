@@ -12,7 +12,7 @@ If something you contributed or found here is missing after our September 2023 r
 * **Community and Official Guidance Resources** 
   * [Community Frameworks and Guidance](#community-frameworks-and-guidance)
     * [Infographics and Cheat Sheets](#infographics-and-cheat-sheets)
-    * [LLM Red-Teaming Resources](#llm-red-teaming-resources)
+    * [AI Red-Teaming Resources](#ai-red-teaming-resources)
   * [Conferences and Workshops](#conferences-and-workshops)
   * [Official Policy, Frameworks, and Guidance](#official-policy-frameworks-and-guidance)
 
@@ -210,7 +210,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Phil Lee, Overview of AI Act requirements for providers of high risk AI systems](https://media.licdn.com/dms/image/D4E22AQGvM1sNyEV1Hw/feedshare-shrink_2048_1536/0/1709811083311?e=1716422400&v=beta&t=YB0e3BO82JwaupHFkxlQIWiBnfFwRcK8qfIs5_UhmKw)
 * [Trustible, Is It AI? How different laws & frameworks define AI](https://www.trustible.ai/post/is-it-ai-how-different-laws-frameworks-define-ai)
 
-#### LLM Red-Teaming Resources
+#### AI Red-Teaming Resources
 
 ##### Papers
 * [Exploiting Novel GPT-4 APIs](https://arxiv.org/abs/2312.14302)
