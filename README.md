@@ -196,6 +196,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Oliver Patel's Cheat Sheets](https://www.linkedin.com/in/oliver-patel/recent-activity/images/)
    * [10 Key Pillars for Enterprise AI Governance](https://media.licdn.com/dms/image/D4E22AQF4U8u-baT8hA/feedshare-shrink_1280/0/1709035425012?e=1714608000&v=beta&t=1DhhkNzNFtGg22y8j2KcrrV7SPiCQKZ0-l2uhkSs5zI)
    * [AI Governance in 2023](https://media.licdn.com/dms/image/D4D22AQEUkWMhXlQ8pA/feedshare-shrink_1280/0/1702536206607?e=1714608000&v=beta&t=ukGzNValTfCOyjR4XUt9dnemmdzv0eAi4oV5Zh8XgyI)
+   * [Canada AI Law & Policy Cheat Sheet](https://media.licdn.com/dms/image/D4D22AQG-A4WvORqoGA/feedshare-shrink_1280/0/1713914692450?e=1717027200&v=beta&t=WAGqCMsjM6vtpxKGQmTcG_sftnAOOrEsXOuEua8QwMg)
    * [China AI Law Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQF-6pEvkEG6PQ/feedshare-shrink_1280/0/1703158308976?e=1714608000&v=beta&t=DA3U5tCyGA3l9jLK6h_USn-76z9espPWwr2BNmNc-v8)
    * [EU AI Act Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQGtXLcmj8KCDA/feedshare-shrink_1280/0/1702283701056?e=1714608000&v=beta&t=-y7gwPX5phQhtKDrFNGsFI4oppaOIvJ101FxDyW832w)
    * [Governance Audit, Model Audit, and Application Audit](https://media.licdn.com/dms/image/D4E22AQFc3N6PSYkyXQ/feedshare-shrink_2048_1536/0/1680540832478?e=1714608000&v=beta&t=NuQbcm7pQrwhy2ldD8HdzqHKt6xR8W7EI9OxwZ8OvbU)
@@ -234,6 +235,8 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Extracting Training Data from ChatGPT](https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html)
 * [Frontier Model Forum: What is Red Teaming?](https://www.frontiermodelforum.org/uploads/2023/10/FMF-AI-Red-Teaming.pdf)
 * [HackerOne, An Emerging Playbook for AI Red Teaming with HackerOne](https://www.hackerone.com/thought-leadership/ai-safety-red-teaming)
+* [LLM Security & Privacy](https://github.com/chawins/llm-sp)![](https://img.shields.io/github/stars/chawins/llm-sp?style=social)
+* [Membership Inference Attacks and Defenses on Machine Learning Models Literature](https://github.com/HongshengHu/membership-inference-machine-learning-literature)![](https://img.shields.io/github/stars/HongshengHu/membership-inference-machine-learning-literature?style=social)
 * [Learn Prompting, Prompt Hacking](https://learnprompting.org/docs/category/-prompt-hacking)
   * [MiesnerJacob / learn-prompting, Prompt Hacking](https://github.com/MiesnerJacob/learn-prompting/blob/main/08.%F0%9F%94%93%20Prompt%20Hacking.ipynb)![](https://img.shields.io/github/stars/MiesnerJacob/learn-prompting?style=social)
 * [Lakera AI's Gandalf](https://gandalf.lakera.ai/)
@@ -700,6 +703,8 @@ This section contains an assortment of papers, articles, essays, and general res
 We are seeking curated bibliographies related to responsible ML across various topics, see [issue 115](https://github.com/jphall663/awesome-machine-learning-interpretability/issues/115). 
 
 * [Blair Attard-Frost, INF1005H1S: Artificial Intelligence Policy Supplementary Reading List](https://www.blairaf.com/library/resources/teaching/2024-INF1005H1S/INF1005-Supplementary-Reading-List.pdf)
+* [LLM Security & Privacy](https://github.com/chawins/llm-sp)![](https://img.shields.io/github/stars/chawins/llm-sp?style=social)
+* [Membership Inference Attacks and Defenses on Machine Learning Models Literature](https://github.com/HongshengHu/membership-inference-machine-learning-literature)![](https://img.shields.io/github/stars/HongshengHu/membership-inference-machine-learning-literature?style=social)
 
 * **BibTeX**:
   * [Proposed Guidelines for Responsible Use of Explainable Machine Learning (presentation, bibliography)](https://github.com/jphall663/kdd_2019/blob/master/bibliography.bib)![](https://img.shields.io/github/stars/jphall663/kdd_2019?style=social)
