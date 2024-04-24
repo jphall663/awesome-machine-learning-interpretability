@@ -127,6 +127,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Identifying and Overcoming Common Data Mining Mistakes](https://support.sas.com/resources/papers/proceedings/proceedings/forum2007/073-2007.pdf)
 * [Infocomm Media Development Authority (Singapore) and AI Verify Foundation, Cataloguing LLM Evaluations, Draft for Discussion (October 2023)](https://aiverifyfoundation.sg/downloads/Cataloguing_LLM_Evaluations.pdf)
 * [Infocomm Media Development Authority (Singapore), First of its kind Generative AI Evaluation Sandbox for Trusted AI by AI Verify Foundation and IMDA](https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/generative-ai-evaluation-sandbox)
+* [Institute for AI Policy and Strategy (IAPS), AI-Relevant Regulatory Precedents: A Systematic Search Across All Federal Agencies](https://www.iaps.ai/research/ai-relevant-regulatory-precedent)
 * [Institute for Public Policy Research (IPPR), Transformed by AI: How Generative Artificial Intelligence Could Affect Work in the UK—And How to Manage It](https://ippr-org.files.svdcdn.com/production/Downloads/Transformed_by_AI_March24_2024-03-27-121003_kxis.pdf)
 * [Institute of Internal Auditors: Artificial Intelligence Auditing Framework, Practical Applications, Part A, Special Edition](https://www.theiia.org/globalassets/documents/content/articles/gpi/2017/december/gpi-artificial-intelligence-part-ii.pdf)
 * ISACA:
@@ -235,6 +236,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Extracting Training Data from ChatGPT](https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html)
 * [Frontier Model Forum: What is Red Teaming?](https://www.frontiermodelforum.org/uploads/2023/10/FMF-AI-Red-Teaming.pdf)
 * [HackerOne, An Emerging Playbook for AI Red Teaming with HackerOne](https://www.hackerone.com/thought-leadership/ai-safety-red-teaming)
+* [In-The-Wild Jailbreak Prompts on LLMs](https://github.com/verazuo/jailbreak_llms)![](https://img.shields.io/github/stars/verazuo/jailbreak_llms?style=social)
 * [LLM Security & Privacy](https://github.com/chawins/llm-sp)![](https://img.shields.io/github/stars/chawins/llm-sp?style=social)
 * [Membership Inference Attacks and Defenses on Machine Learning Models Literature](https://github.com/HongshengHu/membership-inference-machine-learning-literature)![](https://img.shields.io/github/stars/HongshengHu/membership-inference-machine-learning-literature?style=social)
 * [Learn Prompting, Prompt Hacking](https://learnprompting.org/docs/category/-prompt-hacking)
@@ -364,6 +366,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [A Primer on Artificial Intelligence in Securities Markets](https://www.cftc.gov/media/2846/LabCFTC_PrimerArtificialIntelligence102119/download)
 * [Biometric Information Privacy Act](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57)
 * [Booker Wyden Health Care Letters](https://www.scribd.com/document/437954989/Booker-Wyden-Health-Care-Letters#download)
+* [Bundesamt für Sicherheit in der Informationstechnik, Generative AI Models - Opportunities and Risks for Industry and Authorities](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/Generative_AI_Models.html)
 * [California Consumer Privacy Act (CCPA)](https://oag.ca.gov/privacy/ccpa)
 * [California Department of Justice, How to Read a Privacy Policy](https://www.oag.ca.gov/privacy/facts/online-privacy/privacy-policy)
 * [California Privacy Rights Act (CPRA)](https://www.oag.ca.gov/system/files/initiatives/pdfs/19-0021A1%20%28Consumer%20Privacy%20-%20Version%203%29_1.pdf)
@@ -422,6 +425,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [IAPP US State Privacy Legislation Tracker](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/)
 * [Innovation spotlight: Providing adverse action notices when using AI/ML models](https://www.consumerfinance.gov/about-us/blog/innovation-spotlight-providing-adverse-action-notices-when-using-ai-ml-models/)
 * [Justice in Policing Act](https://democrats-judiciary.house.gov/issues/issue/?IssueID=14924)
+* [Mississippi Department of Education, Artificial Intelligence Guidance for K-12 Classrooms](https://www.mdek12.org/sites/default/files/Offices/MDE/OTSS/DL/ai_guidance_final.pdf)
 * [National Conference of State Legislatures (NCSL) 2020 Consumer Data Privacy Legislation](https://www.ncsl.org/technology-and-communication/2020-consumer-data-privacy-legislation)
 * [National Institute of Standards and Technology (NIST), AI 100-1 Artificial Intelligence Risk Management Framework (NIST AI RMF 1.0)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
 * [National Institute of Standards and Technology (NIST), Four Principles of Explainable Artificial Intelligence, Draft NISTIR 8312, 2020-08-17](https://www.nist.gov/system/files/documents/2020/08/17/NIST%20Explainable%20AI%20Draft%20NISTIR8312%20%281%29.pdf)
@@ -668,6 +672,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Get Ready for the Great AI Disappointment](https://www.wired.com/story/get-ready-for-the-great-ai-disappointment/)
 * [Identifying and Eliminating CSAM in Generative ML Training Data and Models](https://stacks.stanford.edu/file/druid:kh752sm9123/ml_training_data_csam_report-2023-12-23.pdf)
 * [Insanely Complicated, Hopelessly Inadequate](https://www.lrb.co.uk/the-paper/v43/n02/paul-taylor/insanely-complicated-hopelessly-inadequate)
+* [Internet of Bugs, Debunking Devin: "First AI Software Engineer" Upwork lie exposed! (video)](https://www.youtube.com/watch?v=tNmgmwEtoWE)
 * [Lazy use of AI leads to Amazon products called “I cannot fulfill that request”](https://arstechnica.com/ai/2024/01/lazy-use-of-ai-leads-to-amazon-products-called-i-cannot-fulfill-that-request/)
 * [Leak, Cheat, Repeat: Data Contamination and Evaluation Malpractices in Closed-Source LLMs](https://arxiv.org/pdf/2402.03927.pdf)
 * [LLMs Can’t Plan, But Can Help Planning in LLM-Modulo Frameworks](https://arxiv.org/pdf/2402.01817.pdf)
@@ -689,6 +694,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Speed of AI development stretches risk assessments to breaking point](https://www.ft.com/content/499c8935-f46e-4ec8-a8e2-19e07e3b0438)
 * [Sustainable AI: Environmental Implications, Challenges and Opportunities](https://arxiv.org/abs/2111.00364)
 * [Task Contamination: Language Models May Not Be Few-Shot Anymore](https://arxiv.org/pdf/2312.16337.pdf)
+* [There Is No A.I.](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
 * [Vox, AI already uses as much energy as a small country. It’s only the beginning.](https://www.vox.com/climate/2024/3/28/24111721/ai-uses-a-lot-of-energy-experts-expect-it-to-double-in-just-a-few-years)
 * [Why We Must Resist AI’s Soft Mind Control]( https://www.theatlantic.com/ideas/archive/2024/03/artificial-intelligence-google-gemini-mind-control/677683/)
 * [Winner's Curse? On Pace, Progress, and Empirical Rigor](https://openreview.net/pdf?id=rJWF0Fywf)
@@ -760,6 +766,7 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 | [HELM](https://crfm.stanford.edu/helm/latest/) | "A holistic framework for evaluating foundation models." |
 | [Hugging Face, evaluate](https://github.com/huggingface/evaluate)![](https://img.shields.io/github/stars/huggingface/evaluate?style=social) | "Evaluate: A library for easily evaluating machine learning models and datasets." |
 | [i-gallegos, Fair-LLM-Benchmark](https://github.com/i-gallegos/Fair-LLM-Benchmark)![](https://img.shields.io/github/stars/i-gallegos/Fair-LLM-Benchmark?style=social) | Benchmark from "Bias and Fairness in Large Language Models: A Survey" |
+| [MLCommons, MLCommons AI Safety v0.5 Proof of Concept](https://mlcommons.org/2024/04/mlc-aisafety-v0-5-poc/) | "The MLCommons AI Safety Benchmark aims to assess the safety of AI systems in order to guide development, inform purchasers and consumers, and support standards bodies and policymakers." |
 | [Nvidia MLPerf](https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/) | "MLPerf™ benchmarks—developed by MLCommons, a consortium of AI leaders from academia, research labs, and industry—are designed to provide unbiased evaluations of training and inference performance for hardware, software, and services." | 
 | [OpenML Benchmarking Suites](https://www.openml.org/search?type=benchmark&study_type=task) | OpenML's collection of over two dozen benchmarking suites. |
 | [SafetyPrompts.com](https://safetyprompts.com/) | "A Living Catalogue of Open Datasets for LLM Safety." |
