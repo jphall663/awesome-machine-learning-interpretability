@@ -736,6 +736,7 @@ This section links to other lists of responsible ML or related resources.
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops)![](https://img.shields.io/github/stars/visenger/awesome-mlops?style=social)
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-machine-learning-operations)![](https://img.shields.io/github/stars/EthicalML/awesome-machine-learning-operations?style=social)
 * [Awful AI](https://github.com/daviddao/awful-ai)![](https://img.shields.io/github/stars/daviddao/awful-ai?style=social)
+* [Casey Fiesler's AI Ethics & Policy News spreadsheet](https://docs.google.com/spreadsheets/d/11Ps8ILDHH-vojJGyIx7CcaoB5l1mBRHy3OQAgWkm0W4/edit#gid=0)
 * [criticalML](https://github.com/rockita/criticalML)![](https://img.shields.io/github/stars/rockita/criticalML?style=social)
 * [Ethics for people who work in tech](https://ethicsforpeoplewhoworkintech.com/)
 * [Evaluation Repository for 'Sociotechnical Safety Evaluation of Generative AI Systems'](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQObeTxvXtOs--zd98qG2xBHHuTTJOyNISBJPthZFr3at2LCrs3rcv73d4of1A78JV2eLuxECFXJY43/pubhtml)
