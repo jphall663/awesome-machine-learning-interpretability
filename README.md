@@ -98,6 +98,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [FATML Principles and Best Practices](https://www.fatml.org/resources/principles-and-best-practices)
 * [ForHumanity Body of Knowledge (BOK)](https://forhumanity.center/bok/)
 * [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/)
+  * [Trustible, Model Transparency Ratings](https://aimodelratings.com/)
 * [From Principles to Practice: An interdisciplinary framework to operationalise AI ethics](https://www.ai-ethics-impact.org/resource/blob/1961130/c6db9894ee73aefa489d6249f5ee2b9f/aieig---report---download-hb-data.pdf)
 * [The Future Society](https://thefuturesociety.org/towards-effective-governance-of-foundation-models-and-generative-ai/)
 * [Gage Repeatability and Reproducibility](https://asq.org/quality-resources/gage-repeatability)
