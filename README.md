@@ -70,7 +70,8 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Berryville Institute of Machine Learning, Architectural Risk Analysis of Large Language Models (requires free account login)](https://berryvilleiml.com/results/BIML-LLM24.pdf)
 * [BIML Interactive Machine Learning Risk Framework](https://berryvilleiml.com/interactive/)
 * [Boston University AI Task Force Report on Generative AI in Education and Research](https://www.bu.edu/hic/files/2024/04/BU-AI-Task-Force-Report.pdf)
-* [Brendan Bycroft's LLM Visualization](https://bbycroft.net/llm) 
+* [Brendan Bycroft's LLM Visualization](https://bbycroft.net/llm)
+* [Brown University, How Can We Tackle AI-Fueled Misinformation and Disinformation in Public Health?](https://www.bu.edu/ceid/2024/04/25/how-can-we-tackle-ai-fueled-misinformation-and-disinformation-in-public-health/)
 * Center for Security and Emerging Technology (CSET):
   * [CSET's Harm Taxonomy for the AI Incident Database](https://github.com/georgetown-cset/CSET-AIID-harm-taxonomy)![](https://img.shields.io/github/stars/georgetown-cset/CSET-AIID-harm-taxonomy?style=social)
   * [CSET Publications](https://cset.georgetown.edu/publications/)
