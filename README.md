@@ -21,6 +21,7 @@ If something you contributed or found here is missing after our September 2023 r
   * [Free-ish Books](#free-ish-books)
   * [Glossaries and Dictionaries](#glossaries-and-dictionaries)
   * [Open-ish Classes](#open-ish-classes)
+  * [Podcasts and Channels](#podcasts-and-channels)
 
 * **Miscellaneous Resources**
   * [AI Incident Information Sharing Resources](#ai-incident-information-sharing-resources)
@@ -636,6 +637,14 @@ This section features a selection of educational courses focused on ethical cons
 * [Tech & Ethics Curricula](https://docs.google.com/spreadsheets/d/1Z0DqQeZ-Aeq6LmD17J5m8zeeIR6ywWnH-WO-jWtXE9M/edit#gid=0)
 * [Trustworthy Deep Learning](https://berkeley-deep-learning.github.io/cs294-131-s19/)
 
+### Podcasts and Channels
+
+This section features podcasts and channels (such as on YouTube) that offer insightful commentary and explanations on responsible AI and machine learning interpretability.
+
+* [Tech Won't Save Us](https://techwontsave.us/)
+
+
+
 ## Miscellaneous Resources
 
 ### AI Incident Information Sharing Resources
@@ -707,7 +716,6 @@ This section contains an assortment of papers, articles, essays, and general res
 * [The perpetual motion machine of AI-generated data and the distraction of ChatGPT as a ‘scientist’](https://www.nature.com/articles/s41587-023-02103-0)
 * [Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in Transformer Models](https://arxiv.org/pdf/2311.00871.pdf)
 * [Re-evaluating GPT-4’s bar exam performance](https://link.springer.com/article/10.1007/s10506-024-09396-9)
-* [The Religious Foundations of Transhumanism Meghan O’Gieblyn and Paris Marx](https://techwontsave.us/episode/218_the_religious_foundations_of_transhumanism_w_meghan_ogieblyn)
 * [Researchers surprised by gender stereotypes in ChatGPT](https://www.dtu.dk/english/news/all-news/researchers-surprised-by-gender-stereotypes-in-chatgpt?id=7e5936d1-dfce-485b-8a90-78f7c757177d)
 * [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/pdf/2311.17035.pdf)
 * [Speed of AI development stretches risk assessments to breaking point](https://www.ft.com/content/499c8935-f46e-4ec8-a8e2-19e07e3b0438)
