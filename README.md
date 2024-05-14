@@ -654,6 +654,7 @@ This section houses initiatives, networks, repositories, and publications that f
 * [AI Incident Database (Responsible AI Collaborative)](https://incidentdatabase.ai/)
 * [AI Vulnerability Database (AVID)](https://avidml.org/)
 * [AIAAIC](https://www.aiaaic.org/)
+* [AI Badness: An open catalog of generative AI badness](https://badness.ai/)
 * [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
 * [Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database](https://osf.io/fvqg3/)
 * [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
