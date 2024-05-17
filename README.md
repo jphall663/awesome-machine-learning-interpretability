@@ -54,7 +54,9 @@ This section is for responsible ML guidance put forward by organizations or indi
 
 * [8 Principles of Responsible ML](https://ethical.institute/principles.html)
 * [A Brief Overview of AI Governance for Responsible Machine Learning Systems](https://arxiv.org/pdf/2211.13130.pdf)
+* [Acceptable Use Policies for Foundation Models](https://github.com/kklyman/aupsforfms)![](https://img.shields.io/github/stars/kklyman/aupsforfms?style=social)
 * [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)![](https://img.shields.io/github/stars/mitre/advmlthreatmatrix?style=social)
+* [AI Governance Needs Sociotechnical Expertise: Why the Humanities and Social Sciences Are Critical to Government Efforts](https://datasociety.net/wp-content/uploads/2024/05/DS_AI_Governance_Policy_Brief.pdf)
 * [AI Verify](https://aiverifyfoundation.sg/what-is-ai-verify/):
   * [AI Verify Foundation](https://aiverifyfoundation.sg/what-is-ai-verify/)
   * [AI Verify Foundation, Cataloguing LLM Evaluations](https://aiverifyfoundation.sg/downloads/Cataloguing_LLM_Evaluations.pdf)
@@ -83,6 +85,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [Understanding AI Harms: An Overview](https://cset.georgetown.edu/article/understanding-ai-harms-an-overview/)
 * [Censius: AI Audit](https://censius.ai/wiki/ai-audit)
 * [Center for AI and Digital Policy Reports](https://www.caidp.org/reports/)
+* [Center for Democracy and Technology (CDT), Applying Sociotechnical Approaches to AI Governance in Practice](https://cdt.org/insights/applying-sociotechnical-approaches-to-ai-governance-in-practice/)
 * [CivAI, GenAI Toolkit for the NIST AI Risk Management Framework: Thinking Through the Risks of a GenAI Chatbot](https://www.civai.org/genai-toolkit-pdf)
 * [Coalition for Content Provenance and Authenticity (C2PA)](https://c2pa.org/)
 * [Crowe LLP: Internal auditor's AI safety checklist](https://www.crowe.com/insights/asset/i/internal-auditors-ai-safety-checklist)
@@ -123,6 +126,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Hogan Lovells, The AI Act is coming: EU reaches political agreement on comprehensive regulation of artificial intelligence](https://www.engage.hoganlovells.com/knowledgeservices/news/the-ai-act-is-coming-eu-reaches-political-agreement-on-comprehensive-regulation-of-artificial-intelligence?nav=FRbANEucS95NMLRN47z%2BeeOgEFCt8EGQ71hKXzqW2Ec%3D&key=BcJlhLtdCv6%2FJTDZxvL23TQa3JHL2AIGr93BnQjo2SkGJpG9xDX7S2thDpAQsCconWHAwe6cJTmX%2FZxLGrXbZz2L%2BEiiz68X&uid=iZAX%2FROFT6Q%3D)
 * [Hugging Face, The Landscape of ML Documentation Tools](https://huggingface.co/docs/hub/model-card-landscape-analysis)
 * [IAPP EU AI Act Cheat Sheet](https://iapp.org/media/pdf/resource_center/eu_ai_act_cheat_sheet.pdf)
+* [IBM, The CEO's Guide to Generative AI](https://www.ibm.com/downloads/cas/BN9Y6QPN)
 * [ICT Institute: A checklist for auditing AI systems](https://ictinstitute.nl/a-checklist-for-auditing-ai-systems/)
 * IEEE: 
   * [IEEE P3119 Standard for the Procurement of Artificial Intelligence and Automated Decision Systems](https://standards.ieee.org/ieee/3119/10729/)
@@ -153,6 +157,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [System cards](https://ai.meta.com/tools/system-cards/)
 * Microsoft:
   * [Azure AI Content Safety](https://azure.microsoft.com/en-us/products/ai-services/ai-content-safety)
+     * [GraphRAG: Unlocking LLM discovery on narrative private data](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
      * [Harm categories in Azure AI Content Safety](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/harm-categories?tabs=warning)
      * [Microsoft Responsible AI Standard, v2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cmFl)
   * [GDPR and Generative AI: A Guide for Public Sector Organizations](https://wwps.microsoft.com/blog/gdpr-genai)
@@ -199,6 +204,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 #### Infographics and Cheat Sheets
 
 * [AppliedAI Institute, Navigating the EU AI Act: A Process Map for making AI Systems available](https://www.appliedai-institute.de/assets/files/EU_AI_Act_Compliance_Journey.pdf)
+* [BCG Robotaxonomy](https://media.licdn.com/dms/image/D4E22AQEthxl6jH6ZvA/feedshare-shrink_800/0/1712824765812?e=1718236800&v=beta&t=Kh3e_uANrmHfkgGT701PNSIRE3W5HfIRnU_W93ACCQk)
 * [Future of Privacy Forum, The Spectrum of Artificial Intelligence](https://fpf.org/wp-content/uploads/2021/01/FPF_AIEcosystem_illo_03.pdf)
 * [Machine Learning Attack_Cheat_Sheet](https://resources.oreilly.com/examples/0636920415947/-/blob/master/Attack_Cheat_Sheet.png)
 * [Oliver Patel's Cheat Sheets](https://www.linkedin.com/in/oliver-patel/recent-activity/images/)
@@ -218,6 +224,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Phil Lee, How the AI Act applies to integrated generative AI](https://media.licdn.com/dms/image/D4E22AQHakzcE_XHzDQ/feedshare-shrink_2048_1536/0/1710856943607?e=1716422400&v=beta&t=D8eeYdCVQ907xn0Idc_W26ZV2WFvcN-KizA9exBLuEI)
 * [Phil Lee, Overview of AI Act requirements for deployers of high risk AI systems](https://media.licdn.com/dms/image/D4E22AQG_A7ufJs9zUA/feedshare-shrink_2048_1536/0/1710279179924?e=1716422400&v=beta&t=XdafTB5kQRNKmp5dVL4c5S04Nb2-YKGEuemFA0c_rzg)
 * [Phil Lee, Overview of AI Act requirements for providers of high risk AI systems](https://media.licdn.com/dms/image/D4E22AQGvM1sNyEV1Hw/feedshare-shrink_2048_1536/0/1709811083311?e=1716422400&v=beta&t=YB0e3BO82JwaupHFkxlQIWiBnfFwRcK8qfIs5_UhmKw)
+* [Purpose and Means AI Explainer Series - issue #4 - Navigating the EU AI Act](https://media.licdn.com/dms/image/D4D22AQEXHwX7q4WUxw/feedshare-shrink_2048_1536/0/1715790151074?e=1718841600&v=beta&t=V9npUpSkYrCWoGLY9aNjtpLlS27SAb2lEwPXjGmw0XQ)
 * [Trustible, Is It AI? How different laws & frameworks define AI](https://www.trustible.ai/post/is-it-ai-how-different-laws-frameworks-define-ai)
 
 #### AI Red-Teaming Resources
@@ -374,6 +381,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Artificial Intelligence (AI) in the Securities Industry](https://www.finra.org/sites/default/files/2020-06/ai-report-061020.pdf)
 * [Assessment List for Trustworthy Artificial Intelligence (ALTAI) for self-assessment - Shaping Europe’s digital future - European Commission](https://ec.europa.eu/digital-single-market/en/news/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment)
 * [Audit of Governance and Protection of Department of Defense Artificial Intelligence Data and Technology](https://media.defense.gov/2020/Jul/01/2002347967/-1/-1/1/DODIG-2020-098.PDF)
+* [Autoriteit Persoonsgegevens, scraping bijna altijd illegal (Dutch Data Protection Authority, "Scraping is always illegal")](https://www.autoriteitpersoonsgegevens.nl/actueel/ap-scraping-bijna-altijd-illegaal)
 * [Biometric Information Privacy Act](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57)
 * [Booker Wyden Health Care Letters](https://www.scribd.com/document/437954989/Booker-Wyden-Health-Care-Letters#download)
 * [Bundesamt für Sicherheit in der Informationstechnik, Generative AI Models - Opportunities and Risks for Industry and Authorities](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/Generative_AI_Models.html)
