@@ -44,7 +44,7 @@ If something you contributed or found here is missing after our September 2023 r
     * [R](#r)
    
 * **Citing Awesome Machine Learning Interpretability**
-  * [Citation](#)
+  * [Citation](#citing-awesome-machine-learning-interpretability)
 
 ## Community and Official Guidance Resources
 
