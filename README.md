@@ -75,6 +75,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Boston University AI Task Force Report on Generative AI in Education and Research](https://www.bu.edu/hic/files/2024/04/BU-AI-Task-Force-Report.pdf)
 * [Brendan Bycroft's LLM Visualization](https://bbycroft.net/llm)
 * [Brown University, How Can We Tackle AI-Fueled Misinformation and Disinformation in Public Health?](https://www.bu.edu/ceid/2024/04/25/how-can-we-tackle-ai-fueled-misinformation-and-disinformation-in-public-health/)
+* [Casey Flores, AIGP Study Guide](https://www.linkedin.com/feed/update/urn:li:activity:7201048113090809856?utm_source=share&utm_medium=member_desktop)
 * Center for Security and Emerging Technology (CSET):
   * [CSET's Harm Taxonomy for the AI Incident Database](https://github.com/georgetown-cset/CSET-AIID-harm-taxonomy)![](https://img.shields.io/github/stars/georgetown-cset/CSET-AIID-harm-taxonomy?style=social)
   * [CSET Publications](https://cset.georgetown.edu/publications/)
@@ -94,7 +95,6 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Dealing with Bias and Fairness in AI/ML/Data Science Systems](https://docs.google.com/presentation/d/17o_NzplYua5fcJFuGcy1V1-5GFAHk7oHAF4dN44NkUE)
 * [Debugging Machine Learning Models (ICLR workshop proceedings)](https://debug-ml-iclr2019.github.io/)
 * [Decision Points in AI Governance](https://cltc.berkeley.edu/wp-content/uploads/2020/05/Decision_Points_AI_Governance.pdf)
-* [Deloitte, Trust in the age of automation and Generative AI](https://www2.deloitte.com/us/en/pages/financial-advisory/topics/leaders-insights-on-trust-in-the-age-of-ai.html)
 * [Distill](https://distill.pub)
 * [Dominique Shelton Leipzig, Countries With Draft AI Legislation or Frameworks](https://dominiquesheltonleipzig.com/country-legislation-frameworks/)
 * [Ethical and social risks of harm from Language Models](https://www.deepmind.com/publications/ethical-and-social-risks-of-harm-from-language-models)
@@ -182,6 +182,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Robust ML](https://www.robust-ml.org/)
 * [Safe and Reliable Machine Learning](https://www.dropbox.com/s/sdu26h96bc0f4l7/FAT19-AI-Reliability-Final.pdf?dl=0)
 * [Sample AI Incident Response Checklist](https://bnh-ai.github.io/resources/)
+* [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
 * [SHRM Generative Artificial Intelligence (AI) Chatbot Usage Policy](https://www.shrm.org/resourcesandtools/tools-and-samples/policies/pages/chatgpt-generative-ai-usage.aspx)
 * [Special Competitive Studies Project and Johns Hopkins University Applied Physics Laboratory, Framework for Identifying Highly Consequential AI Use Cases](https://www.scsp.ai/wp-content/uploads/2023/11/SCSP_JHU-HCAI-Framework-Nov-6.pdf)
 * [Stanford University, Responsible AI at Stanford: Enabling innovation through AI best practices](https://uit.stanford.edu/security/responsibleai)
@@ -205,6 +206,8 @@ This section is for responsible ML guidance put forward by organizations or indi
 
 * [AppliedAI Institute, Navigating the EU AI Act: A Process Map for making AI Systems available](https://www.appliedai-institute.de/assets/files/EU_AI_Act_Compliance_Journey.pdf)
 * [BCG Robotaxonomy](https://media.licdn.com/dms/image/D4E22AQEthxl6jH6ZvA/feedshare-shrink_800/0/1712824765812?e=1718236800&v=beta&t=Kh3e_uANrmHfkgGT701PNSIRE3W5HfIRnU_W93ACCQk)
+* [Center for Security and Emerging Technology (CSET), High Level Comparison of Legislative Perspectives on Artificial Intelligence US vs. EU](https://media.licdn.com/dms/image/D4E22AQHwjdd4LpjhEw/feedshare-shrink_1280/0/1716993189698?e=1720051200&v=beta&t=W6P-OTG25q-w94a-jrXhLTMKv0qrEel_WhbSHXj4wsg)
+* [Future of Privacy Forum, EU AI Act: A Comprehensive Implementation & Compliance Timeline](https://media.licdn.com/dms/image/D5622AQE8yVm9kUYIVg/feedshare-shrink_2048_1536/0/1716500323275?e=1719446400&v=beta&t=ZbVx9-YOGffTEq-b2kM8svEHW41_Senhyq05ayjKXOo)
 * [Future of Privacy Forum, The Spectrum of Artificial Intelligence](https://fpf.org/wp-content/uploads/2021/01/FPF_AIEcosystem_illo_03.pdf)
 * [Machine Learning Attack_Cheat_Sheet](https://resources.oreilly.com/examples/0636920415947/-/blob/master/Attack_Cheat_Sheet.png)
 * [Oliver Patel's Cheat Sheets](https://www.linkedin.com/in/oliver-patel/recent-activity/images/)
@@ -451,6 +454,8 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Mississippi Department of Education, Artificial Intelligence Guidance for K-12 Classrooms](https://www.mdek12.org/sites/default/files/Offices/MDE/OTSS/DL/ai_guidance_final.pdf)
 * [National Conference of State Legislatures (NCSL) 2020 Consumer Data Privacy Legislation](https://www.ncsl.org/technology-and-communication/2020-consumer-data-privacy-legislation)
 * [National Institute of Standards and Technology (NIST), AI 100-1 Artificial Intelligence Risk Management Framework (NIST AI RMF 1.0)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
+* [National Institute of Standards and Technology (NIST), NIST AI 100-2 E2023: Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)
+* [National Institute of Standards and Technology (NIST), Assessing Risks and Impacts of AI (ARIA)](https://ai-challenges.nist.gov/aria/library)
 * [National Institute of Standards and Technology (NIST), Four Principles of Explainable Artificial Intelligence, Draft NISTIR 8312, 2020-08-17](https://www.nist.gov/system/files/documents/2020/08/17/NIST%20Explainable%20AI%20Draft%20NISTIR8312%20%281%29.pdf)
 * [National Institute of Standards and Technology (NIST), Four Principles of Explainable Artificial Intelligence, NISTIR 8312, 2021-09-29](https://www.nist.gov/publications/four-principles-explainable-artificial-intelligence)
 * [National Institute of Standards and Technology (NIST), Engineering Statistics Handbook](https://doi.org/10.18434/M32189)
@@ -609,7 +614,8 @@ This section features a collection of glossaries and dictionaries that are geare
 * [Jerry M. Rosenberg, 1986, *Dictionary of Artificial Intelligence & Robotics*](https://archive.org/details/dictionaryofarti00rose)
 * [MakeUseOf: A Glossary of AI Jargon: 29 AI Terms You Should Know](https://www.makeuseof.com/glossary-ai-jargon-terms/)
 * [Moveworks: AI Terms Glossary](https://www.moveworks.com/us/en/resources/ai-terms-glossary)
-* [NIST AIRC: The Language of Trustworthy AI: An In-Depth Glossary of Terms](https://airc.nist.gov/AI_RMF_Knowledge_Base/Glossary)
+* [National Institute of Standards and Technology (NIST), NIST AI 100-2 E2023: Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)
+* [National Institute of Standards and Technology (NIST), The Language of Trustworthy AI: An In-Depth Glossary of Terms](https://airc.nist.gov/AI_RMF_Knowledge_Base/Glossary)
 * [Oliver Houdé, 2004, *Dictionary of Cognitive Science: Neuroscience, Psychology, Artificial Intelligence, Linguistics, and Philosophy*](https://archive.org/details/dictionaryofcogn0000unse)
 * [Open Access Vocabulary](https://repository.ifla.org/bitstream/123456789/3272/1/Open%20Access%20Vocabulary%20Feb2024%20v2.pdf)
 * [Otto Vollnhals, 1992, *A Multilingual Dictionary of Artificial Intelligence (English, German, French, Spanish, Italian)*](https://archive.org/details/multilingualdict0000voll)
@@ -734,6 +740,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in Transformer Models](https://arxiv.org/pdf/2311.00871.pdf)
 * [Re-evaluating GPT-4’s bar exam performance](https://link.springer.com/article/10.1007/s10506-024-09396-9)
 * [Researchers surprised by gender stereotypes in ChatGPT](https://www.dtu.dk/english/news/all-news/researchers-surprised-by-gender-stereotypes-in-chatgpt?id=7e5936d1-dfce-485b-8a90-78f7c757177d)
+* [Ryan Allen, Explainable AI: The What’s and Why’s, Part 1: The What](https://ryanallen42.medium.com/explainable-ai-the-whats-and-why-s-175ea344bf3a)
 * [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/pdf/2311.17035.pdf)
 * [Speed of AI development stretches risk assessments to breaking point](https://www.ft.com/content/499c8935-f46e-4ec8-a8e2-19e07e3b0438)
 * [Sustainable AI: Environmental Implications, Challenges and Opportunities](https://arxiv.org/abs/2111.00364)
@@ -807,10 +814,11 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 
 | Resource | Description |
 | --- | --- |
-| [benchm-ml](https://github.com/szilard/benchm-ml) ![](https://img.shields.io/github/stars/szilard/benchm-ml?style=social) | "A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.)." |
+| [benchm-ml](https://github.com/szilard/benchm-ml)![](https://img.shields.io/github/stars/szilard/benchm-ml?style=social) | "A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.)." |
 | [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq)![](https://img.shields.io/github/stars/nyu-mll/bbq?style=social) | "Repository for the Bias Benchmark for QA dataset." |
 | [Cataloguing LLM Evaluations](https://github.com/IMDA-BTG/LLM-Evals-Catalogue)![](https://img.shields.io/github/stars/IMDA-BTG/LLM-Evals-Catalogue?style=social) | "This repository stems from our paper, 'Cataloguing LLM Evaluations,' and serves as a living, collaborative catalogue of LLM evaluation frameworks, benchmarks and papers." |
 | [DecodingTrust](https://github.com/AI-secure/DecodingTrust)![](https://img.shields.io/github/stars/huggingface/evaluate?style=social) | "A Comprehensive Assessment of Trustworthiness in GPT Models." |
+| [EleutherAI, Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)![](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social) | "A framework for few-shot evaluation of language models." |
 | [GEM](https://gem-benchmark.com/) | "GEM is a benchmark environment for Natural Language Generation with a focus on its Evaluation, both through human annotations and automated Metrics." |
 | [HELM](https://crfm.stanford.edu/helm/latest/) | "A holistic framework for evaluating foundation models." |
 | [Hugging Face, evaluate](https://github.com/huggingface/evaluate)![](https://img.shields.io/github/stars/huggingface/evaluate?style=social) | "Evaluate: A library for easily evaluating machine learning models and datasets." |
