@@ -1096,7 +1096,19 @@ This section contains open source or open access software used to implement resp
 
 ### Citing Awesome Machine Learning Interpretability
 
-(Contributors with over 100 edits can be named coauthors in the citation of visible names. Otherwise, all contributors with fewer than 100 edits are included under "et al.")
+Contributors with over 100 edits can be named coauthors in the citation of visible names. Otherwise, all contributors with fewer than 100 edits are included under "et al."
+
+#### Bibtex
+
+```
+@misc{amli_repo,
+  author={Patrick Hall and Daniel Atherton},
+  title={Awesome Machine Learning Interpretability},
+  year={2024},
+  note={\url{https://github.com/jphall663/awesome-machine-learning-interpretability}}
+}
+```
+
 
 #### ACM, APA, Chicago, and MLA
 
