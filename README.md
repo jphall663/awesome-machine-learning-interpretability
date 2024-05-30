@@ -215,6 +215,7 @@ This section is for responsible ML guidance put forward by organizations or indi
    * [AI Governance in 2023](https://media.licdn.com/dms/image/D4D22AQEUkWMhXlQ8pA/feedshare-shrink_1280/0/1702536206607?e=1714608000&v=beta&t=ukGzNValTfCOyjR4XUt9dnemmdzv0eAi4oV5Zh8XgyI)
    * [Canada AI Law & Policy Cheat Sheet](https://media.licdn.com/dms/image/D4D22AQG-A4WvORqoGA/feedshare-shrink_1280/0/1713914692450?e=1717027200&v=beta&t=WAGqCMsjM6vtpxKGQmTcG_sftnAOOrEsXOuEua8QwMg)
    * [China AI Law Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQF-6pEvkEG6PQ/feedshare-shrink_1280/0/1703158308976?e=1714608000&v=beta&t=DA3U5tCyGA3l9jLK6h_USn-76z9espPWwr2BNmNc-v8)
+   * [Definitions, Scope & Applicability EU AI Act Cheat Sheet Series, Part 1](https://media.licdn.com/dms/image/D4D22AQFkbaPSUPwlcQ/feedshare-shrink_1280/0/1717064332181?e=1720051200&v=beta&t=OQ0BAM9Kqmej9Sm2PhmeT62XFj3k_G-aIi7SAWMWdrk)
    * [EU AI Act Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQGtXLcmj8KCDA/feedshare-shrink_1280/0/1702283701056?e=1714608000&v=beta&t=-y7gwPX5phQhtKDrFNGsFI4oppaOIvJ101FxDyW832w)
    * [India AI Policy Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQHi3zKIJHYxuA/feedshare-shrink_1280/0/1715251459456?e=1718236800&v=beta&t=6dejvIzLplHXT65M1UtujHFj6OqZb7n5zNHV_WBISbs)
    * [Governance Audit, Model Audit, and Application Audit](https://media.licdn.com/dms/image/D4E22AQFc3N6PSYkyXQ/feedshare-shrink_2048_1536/0/1680540832478?e=1714608000&v=beta&t=NuQbcm7pQrwhy2ldD8HdzqHKt6xR8W7EI9OxwZ8OvbU)
