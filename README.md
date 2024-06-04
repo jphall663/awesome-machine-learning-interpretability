@@ -60,7 +60,8 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [AI Verify](https://aiverifyfoundation.sg/what-is-ai-verify/):
   * [AI Verify Foundation](https://aiverifyfoundation.sg/what-is-ai-verify/)
   * [AI Verify Foundation, Cataloguing LLM Evaluations](https://aiverifyfoundation.sg/downloads/Cataloguing_LLM_Evaluations.pdf)
-  * [AI Verify Foundation, Generative AI: Implications for Trust and Governance](https://aiverifyfoundation.sg/downloads/Discussion_Paper.pdf) 
+  * [AI Verify Foundation, Generative AI: Implications for Trust and Governance](https://aiverifyfoundation.sg/downloads/Discussion_Paper.pdf)
+  * [AI Verfiy Foundation, Model Governance Framework for Generative AI](https://aiverifyfoundation.sg/wp-content/uploads/2024/05/Model-AI-Governance-Framework-for-Generative-AI-May-2024-1-1.pdf)
 * [AI Snake Oil](https://www.aisnakeoil.com/)
 * [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](http://sameersingh.org/files/papers/allennlp-interpret-demo-emnlp19.pdf)
 * [Andreessen Horowitz (a16z) AI Canon](https://a16z.com/ai-canon/)
