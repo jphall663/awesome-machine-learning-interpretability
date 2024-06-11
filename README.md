@@ -817,6 +817,7 @@ This section links to other lists of responsible ML or related resources.
 * [Worldwide AI ethics: A review of 200 guidelines and recommendations for AI governance](https://doi.org/10.1016/j.patter.2023.100857)
 * [XAI Resources](https://github.com/pbiecek/xai_resources)![](https://img.shields.io/github/stars/pbiecek/xai_resources?style=social)
 * [xaience](https://github.com/andreysharapov/xaience)![](https://img.shields.io/github/stars/andreysharapov/xaience?style=social)
+* [Machine Learning Skills](https://www.scaler.com/blog/skills-for-machine-learning/)
 
 ## Technical Resources
 
