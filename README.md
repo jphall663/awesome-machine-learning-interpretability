@@ -227,7 +227,7 @@ This section is for responsible ML guidance put forward by organizations or indi
    * [EU AI Act Cheat Sheet Series 1, Definitions, Scope & Applicability](https://media.licdn.com/dms/image/D4D22AQFkbaPSUPwlcQ/feedshare-shrink_1280/0/1717064332181?e=1721260800&v=beta&t=TBzLSLAMyWk5w0eV_78C-LcRomIxxiNsvYO2ur9--DM)
    * [EU AI Act Cheat Sheet Series 2, Prohibited AI Systems](https://media.licdn.com/dms/image/D4E22AQEuGzSfoRKYbA/feedshare-shrink_2048_1536/0/1717678634560?e=1720656000&v=beta&t=okE0jTZJhnrJRu_LWn9W3sjq2mE0mV5fcrZGQ47Pz8c)
    * [EU AI Act Cheat Sheet Series 3, High-Risk AI Systems](https://media.licdn.com/dms/image/D4E22AQHp9idr6g4r9w/feedshare-shrink_1280/0/1718350012563?e=1721260800&v=beta&t=HCUVfqf35znT3TdSULj0-I0qNSqkJgNDFSu1eC00usQ)
-   * [India AI Policy Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQHi3zKIJHYxuA/feedshare-shrink_1280/0/1715251459456?e=1718236800&v=beta&t=6dejvIzLplHXT65M1UtujHFj6OqZb7n5zNHV_WBISbs)
+   * [India AI Policy Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQHi3zKIJHYxuA/feedshare-shrink_1280/0/1715251459456?e=1721260800&v=beta&t=eJGeYvud7M02i4IyyQhzQldOkC18HawL7kqVjBE2Qu8)
    * [Governance Audit, Model Audit, and Application Audit](https://media.licdn.com/dms/image/D4E22AQFc3N6PSYkyXQ/feedshare-shrink_2048_1536/0/1680540832478?e=1714608000&v=beta&t=NuQbcm7pQrwhy2ldD8HdzqHKt6xR8W7EI9OxwZ8OvbU)
    * [Gulf Countries AI Policy Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQGFbfOnjgtiMg/feedshare-shrink_1280/0/1708519732711?e=1714608000&v=beta&t=BaJm411n2QWNm69uUEnIgbZxZqYf0YuWfBQHXXWaS-c)
    * [Singapore AI Policy Cheat Sheet](https://media.licdn.com/dms/image/D4D22AQFwuZiA4pVL0g/feedshare-shrink_1280/0/1711403787594?e=1714608000&v=beta&t=ka9xDLBo6jIHbsG6HJ0EcbWQjV9phGm84X-1LvBYklA)
