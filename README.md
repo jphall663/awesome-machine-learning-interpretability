@@ -55,6 +55,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [8 Principles of Responsible ML](https://ethical.institute/principles.html)
 * [A Brief Overview of AI Governance for Responsible Machine Learning Systems](https://arxiv.org/pdf/2211.13130.pdf)
 * [Acceptable Use Policies for Foundation Models](https://github.com/kklyman/aupsforfms)![](https://img.shields.io/github/stars/kklyman/aupsforfms?style=social)
+* [Ada Lovelace Institute, Code and Conduct: How to Create Third-Party Auditing Regimes for AI Systems](https://www.adalovelaceinstitute.org/report/code-conduct-ai/)
 * [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)![](https://img.shields.io/github/stars/mitre/advmlthreatmatrix?style=social)
 * [AI Governance Needs Sociotechnical Expertise: Why the Humanities and Social Sciences Are Critical to Government Efforts](https://datasociety.net/wp-content/uploads/2024/05/DS_AI_Governance_Policy_Brief.pdf)
 * [AI Verify](https://aiverifyfoundation.sg/what-is-ai-verify/):
@@ -177,6 +178,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Partnership on AI, Responsible Practices for Synthetic Media: A Framework for Collective Action](https://syntheticmedia.partnershiponai.org/)
 * [PwC's Responsible AI](https://www.pwc.com/gx/en/issues/data-and-analytics/artificial-intelligence/what-is-responsible-ai.html)
 * [RAND Corporation, Analyzing Harms from AI-Generated Images and Safeguarding Online Authenticity](https://www.rand.org/pubs/perspectives/PEA3131-1.html)
+* [Ravit Dotan's Projects](https://www.techbetter.ai/projects-1)
 * [Real-World Strategies for Model Debugging](https://towardsdatascience.com/strategies-for-model-debugging-aa822f1097ce)
 * [RecoSense: Phases of an AI Data Audit – Assessing Opportunity in the Enterprise](https://recosenselabs.com/blog/phases-of-an-ai-data-audit-assessing-opportunity-in-the-enterprise)
 * [Robust ML](https://www.robust-ml.org/)
@@ -189,9 +191,11 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Synack, The Complete Guide to Crowdsourced Security Testing, Government Edition](https://www.synack.com/wp-content/uploads/2022/09/Crowdsourced-Security-Landscape-Government.pdf)
 * [The Rise of Generative AI and the Coming Era of Social Media Manipulation 3.0: Next-Generation Chinese Astroturfing and Coping with Ubiquitous AI](https://www.rand.org/pubs/perspectives/PEA2679-1.html)
 * [Taskade: AI Audit PBC Request Checklist Template](https://www.taskade.com/templates/engineering/audit-pbc-request-checklist)
+* [Taylor & Francis, AI Policy](https://taylorandfrancis.com/our-policies/ai-policy/)
 * [Tech Policy Press - Artificial Intelligence](https://www.techpolicy.press/category/artificial-intelligence/)
 * [TechTarget: 9 questions to ask when auditing your AI systems](https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/)
 * [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
+* [Trustible, Enhancing the Effectiveness of AI Governance Committees](https://www.trustible.ai/post/enhancing-the-effectiveness-of-ai-governance-committees)
 * [Twitter Algorithmic Bias Bounty](https://hackerone.com/twitter-algorithmic-bias?type=team)
 * [Unite.AI: How to perform an AI Audit in 2023](https://www.unite.ai/how-to-perform-an-ai-audit-in-2023/)
 * [University of California, Berkeley, Center for Long-Term Cybersecurity, A Taxonomy of Trustworthiness for Artificial Intelligence](https://cltc.berkeley.edu/wp-content/uploads/2023/12/Taxonomy_of_AI_Trustworthiness_tables.pdf)
@@ -220,7 +224,9 @@ This section is for responsible ML guidance put forward by organizations or indi
    * [Canada AI Law & Policy Cheat Sheet](https://media.licdn.com/dms/image/D4D22AQG-A4WvORqoGA/feedshare-shrink_1280/0/1713914692450?e=1717027200&v=beta&t=WAGqCMsjM6vtpxKGQmTcG_sftnAOOrEsXOuEua8QwMg)
    * [China AI Law Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQF-6pEvkEG6PQ/feedshare-shrink_1280/0/1703158308976?e=1714608000&v=beta&t=DA3U5tCyGA3l9jLK6h_USn-76z9espPWwr2BNmNc-v8)
    * [Definitions, Scope & Applicability EU AI Act Cheat Sheet Series, Part 1](https://media.licdn.com/dms/image/D4D22AQFkbaPSUPwlcQ/feedshare-shrink_1280/0/1717064332181?e=1720051200&v=beta&t=OQ0BAM9Kqmej9Sm2PhmeT62XFj3k_G-aIi7SAWMWdrk)
+   * [EU AI Act Cheat Sheet Series 1, Definitions, Scope & Applicability](https://media.licdn.com/dms/image/D4D22AQFkbaPSUPwlcQ/feedshare-shrink_1280/0/1717064332181?e=1721260800&v=beta&t=TBzLSLAMyWk5w0eV_78C-LcRomIxxiNsvYO2ur9--DM)
    * [EU AI Act Cheat Sheet Series 2, Prohibited AI Systems](https://media.licdn.com/dms/image/D4E22AQEuGzSfoRKYbA/feedshare-shrink_2048_1536/0/1717678634560?e=1720656000&v=beta&t=okE0jTZJhnrJRu_LWn9W3sjq2mE0mV5fcrZGQ47Pz8c)
+   * [EU AI Act Cheat Sheet Series 3, High-Risk AI Systems](https://media.licdn.com/dms/image/D4E22AQHp9idr6g4r9w/feedshare-shrink_1280/0/1718350012563?e=1721260800&v=beta&t=HCUVfqf35znT3TdSULj0-I0qNSqkJgNDFSu1eC00usQ)
    * [India AI Policy Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQHi3zKIJHYxuA/feedshare-shrink_1280/0/1715251459456?e=1718236800&v=beta&t=6dejvIzLplHXT65M1UtujHFj6OqZb7n5zNHV_WBISbs)
    * [Governance Audit, Model Audit, and Application Audit](https://media.licdn.com/dms/image/D4E22AQFc3N6PSYkyXQ/feedshare-shrink_2048_1536/0/1680540832478?e=1714608000&v=beta&t=NuQbcm7pQrwhy2ldD8HdzqHKt6xR8W7EI9OxwZ8OvbU)
    * [Gulf Countries AI Policy Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQGFbfOnjgtiMg/feedshare-shrink_1280/0/1708519732711?e=1714608000&v=beta&t=BaJm411n2QWNm69uUEnIgbZxZqYf0YuWfBQHXXWaS-c)
@@ -670,8 +676,8 @@ This section features a selection of educational courses focused on ethical cons
 
 This section features podcasts and channels (such as on YouTube) that offer insightful commentary and explanations on responsible AI and machine learning interpretability.
 
+* [Internet of Bugs](https://www.youtube.com/@InternetOfBugs/videos)
 * [Tech Won't Save Us](https://techwontsave.us/)
-
 
 
 ## Miscellaneous Resources
@@ -684,6 +690,7 @@ This section houses initiatives, networks, repositories, and publications that f
 * [AI Vulnerability Database (AVID)](https://avidml.org/)
 * [AIAAIC](https://www.aiaaic.org/)
 * [AI Badness: An open catalog of generative AI badness](https://badness.ai/)
+* [AI Risk Database](https://airisk.io/)
 * [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
 * [Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database](https://osf.io/fvqg3/)
 * [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
@@ -714,6 +721,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](https://arxiv.org/pdf/2402.11753.pdf)
 * [Aylin Caliskan's publications](https://faculty.washington.edu/aylin/publications.html)
 * [Chatbots in consumer finance](https://www.consumerfinance.gov/data-research/research-reports/chatbots-in-consumer-finance/chatbots-in-consumer-finance/)
+* [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
 * [Companies like Google and OpenAI are pillaging the internet and pretending it’s progress](https://bgr.com/business/companies-like-google-and-openai-are-pillaging-the-internet-and-pretending-its-progress/)
 * [Consciousness in Artificial Intelligence: Insights from the Science of Consciousness](https://arxiv.org/abs/2308.08708)
 * [The Cult of AI](https://www.rollingstone.com/culture/culture-features/ai-companies-advocates-cult-1234954528/)
@@ -756,6 +764,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Speed of AI development stretches risk assessments to breaking point](https://www.ft.com/content/499c8935-f46e-4ec8-a8e2-19e07e3b0438)
 * [Sustainable AI: Environmental Implications, Challenges and Opportunities](https://arxiv.org/abs/2111.00364)
 * [Task Contamination: Language Models May Not Be Few-Shot Anymore](https://arxiv.org/pdf/2312.16337.pdf)
+* [Theory Is All You Need: AI, Human Cognition, and Decision Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4737265)
 * [There Is No A.I.](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
 * [Toward Sociotechnical AI: Mapping Vulnerabilities for Machine Learning in Context](https://link.springer.com/article/10.1007/s11023-024-09668-y)
 * [Vox, AI already uses as much energy as a small country. It’s only the beginning.](https://www.vox.com/climate/2024/3/28/24111721/ai-uses-a-lot-of-energy-experts-expect-it-to-double-in-just-a-few-years)
@@ -854,6 +863,7 @@ This section contains datasets that are commonly used in responsible ML evaulati
 
 * [Adult income dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
 * [Balanced Faces in the Wild](https://github.com/visionjo/facerec-bias-bfw)![](https://img.shields.io/github/stars/visionjo/facerec-bias-bfw?style=social)
+* [Bruegel, A dataset on EU legislation for the digital world](https://www.bruegel.org/dataset/dataset-eu-legislation-digital-world)
 * [COMPAS Recidivism Risk Score Data and Analysis](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis)
   * **Data Repositories**:
     * [All Lending Club loan data](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
