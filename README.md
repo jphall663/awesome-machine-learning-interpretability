@@ -915,7 +915,8 @@ This section contains open source or open access ML environment management softw
 
 This section contains tools for personal data protection.
 
-| Resource | Description |
+| Name | Description |
+|------|-------------|
 | [LLM Dataset Inference: Did you train on my dataset?](https://github.com/pratyushmaini/llm_dataset_inference/)![](https://img.shields.io/github/stars/pratyushmaini/llm_dataset_inference?style=social) | "Official Repository for Dataset Inference for LLMs" |
 
 ### Open Source/Access Responsible AI Software Packages
