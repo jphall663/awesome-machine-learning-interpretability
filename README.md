@@ -5,7 +5,7 @@ A maintained and curated list of practical and awesome responsible machine learn
 
 If you want to contribute to this list (*and please do!*), read over the [contribution guidelines](contributing.md), send a [pull request](https://github.com/jphall663/awesome-machine-learning-interpretability/compare), or file an [issue](https://github.com/jphall663/awesome-machine-learning-interpretability/issues/new). 
 
-If something you contributed or found here is missing after our September 2023 redeux, please check the [archive](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/archive/README.md.bak).
+If something you contributed or found here is missing after our September 2023 reboot, please check the [archive](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/archive/README.md.bak).
 
 ## Contents
 
@@ -213,6 +213,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 
 #### Infographics and Cheat Sheets
 
+* [A-LIGN, ISO 42001 Requirement, NIST SP 800-218A Task, Recommendations and Considerations](https://media.licdn.com/dms/image/D4E22AQGnjMez3xl43A/feedshare-shrink_2048_1536/0/1719511677553?e=1722470400&v=beta&t=N6PjK4U8Slw_aJhVBA3IJ2ZP_pRL_tHdsCzXnmflHuY)
 * [AppliedAI Institute, Navigating the EU AI Act: A Process Map for making AI Systems available](https://www.appliedai-institute.de/assets/files/EU_AI_Act_Compliance_Journey.pdf)
 * [BCG Robotaxonomy](https://media.licdn.com/dms/image/D4E22AQEthxl6jH6ZvA/feedshare-shrink_800/0/1712824765812?e=1718236800&v=beta&t=Kh3e_uANrmHfkgGT701PNSIRE3W5HfIRnU_W93ACCQk)
 * [Center for Security and Emerging Technology (CSET), High Level Comparison of Legislative Perspectives on Artificial Intelligence US vs. EU](https://media.licdn.com/dms/image/D4E22AQHwjdd4LpjhEw/feedshare-shrink_1280/0/1716993189698?e=1720051200&v=beta&t=W6P-OTG25q-w94a-jrXhLTMKv0qrEel_WhbSHXj4wsg)
