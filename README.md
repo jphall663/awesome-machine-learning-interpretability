@@ -36,6 +36,7 @@ If something you contributed or found here is missing after our September 2023 r
   * [Common or Useful Datasets](#common-or-useful-datasets)
   * [Domain-specific Software](#domain-specific-software)
   * [Machine Learning Environment Management Tools](#machine-learning-environment-management-tools)
+  * [Personal Data Protection Tools](#personal-data-protection-tools)
   * [Open Source/Access Responsible AI Software Packages](#open-sourceaccess-responsible-ai-software-packages)
     * [Browser](#browser)
     * [C/C++](#cc)
@@ -206,6 +207,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Warning Signs: The Future of Privacy and Security in an Age of Machine Learning](https://fpf.org/wp-content/uploads/2019/09/FPF_WarningSigns_Report.pdf)
 * [When Not to Trust Your Explanations](https://docs.google.com/presentation/d/10a0PNKwoV3a1XChzvY-T1mWudtzUIZi3sCMzVwGSYfM/edit)
 * [Why We Need to Know More: Exploring the State of AI Incident Documentation Practices](https://dl.acm.org/doi/fullHtml/10.1145/3600211.3604700)
+* [World Economic Forum, Responsible AI Playbook for Investors](https://www.weforum.org/publications/responsible-ai-playbook-for-investors/)
 * [World Privacy Forum, Risky Analysis: Assessing and Improving AI Governance Tools](https://www.worldprivacyforum.org/wp-content/uploads/2023/12/WPF_Risky_Analysis_December_2023_fs.pdf)
 * [You Created A Machine Learning Application Now Make Sure It's Secure](https://www.oreilly.com/ideas/you-created-a-machine-learning-application-now-make-sure-its-secure)
 
@@ -274,6 +276,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [HackerOne, An Emerging Playbook for AI Red Teaming with HackerOne](https://www.hackerone.com/thought-leadership/ai-safety-red-teaming)
 * [Humane Intelligence, SeedAI, and DEFCON AI Village, Generative AI Red Teaming Challenge: Transparency Report 2024](https://drive.google.com/file/d/1JqpbIP6DNomkb32umLoiEPombK2-0Rc-/view)
 * [In-The-Wild Jailbreak Prompts on LLMs](https://github.com/verazuo/jailbreak_llms)![](https://img.shields.io/github/stars/verazuo/jailbreak_llms?style=social)
+* [leeky: Leakage/contamination testing for black box language models](https://github.com/mjbommar/leeky)![](https://img.shields.io/github/stars/mjbommar/leeky?style=social)
 * [LLM Security & Privacy](https://github.com/chawins/llm-sp)![](https://img.shields.io/github/stars/chawins/llm-sp?style=social)
 * [Membership Inference Attacks and Defenses on Machine Learning Models Literature](https://github.com/HongshengHu/membership-inference-machine-learning-literature)![](https://img.shields.io/github/stars/HongshengHu/membership-inference-machine-learning-literature?style=social)
 * [Learn Prompting, Prompt Hacking](https://learnprompting.org/docs/category/-prompt-hacking)
@@ -734,6 +737,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Data and its (dis)contents: A survey of dataset development and use in machine learning research](https://www.cell.com/patterns/pdf/S2666-3899(21)00184-7.pdf)
 * [The Data Scientific Method vs. The Scientific Method](https://odsc.com/blog/the-data-scientific-method-vs-the-scientific-method/)
 * [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/)
+* [Emergent and Predictable Memorization in Large Language Models](https://arxiv.org/abs/2304.11158)
 * [Evaluating Language-Model Agents on Realistic Autonomous Tasks](https://arxiv.org/pdf/2312.11671.pdf)
 * [FABLES: Evaluating faithfulness and content selection in book-length summarization](https://arxiv.org/abs/2404.01261)
 * [The Fallacy of AI Functionality](https://dl.acm.org/doi/pdf/10.1145/3531146.3533158)
@@ -764,6 +768,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
 * [The perpetual motion machine of AI-generated data and the distraction of ChatGPT as a ‘scientist’](https://www.nature.com/articles/s41587-023-02103-0)
 * [Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in Transformer Models](https://arxiv.org/pdf/2311.00871.pdf)
+* [Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646)
 * [Re-evaluating GPT-4’s bar exam performance](https://link.springer.com/article/10.1007/s10506-024-09396-9)
 * [Researchers surprised by gender stereotypes in ChatGPT](https://www.dtu.dk/english/news/all-news/researchers-surprised-by-gender-stereotypes-in-chatgpt?id=7e5936d1-dfce-485b-8a90-78f7c757177d)
 * [Ryan Allen, Explainable AI: The What’s and Why’s, Part 1: The What](https://ryanallen42.medium.com/explainable-ai-the-whats-and-why-s-175ea344bf3a)
@@ -906,6 +911,13 @@ This section contains open source or open access ML environment management softw
 | [modeldb](https://github.com/VertaAI/modeldb) ![modeldb stars](https://img.shields.io/github/stars/VertaAI/modeldb?style=social) | "Open Source ML Model Versioning, Metadata, and Experiment Management." |
 | [neptune](https://neptune.ai/researchers) | "A single place to manage all your model metadata." |
 
+### Personal Data Protection Tools
+
+This section contains tools for personal data protection.
+
+| Resource | Description |
+| [LLM Dataset Inference: Did you train on my dataset?](https://github.com/pratyushmaini/llm_dataset_inference/)![](https://img.shields.io/github/stars/pratyushmaini/llm_dataset_inference?style=social) | "Official Repository for Dataset Inference for LLMs" |
+
 ### Open Source/Access Responsible AI Software Packages
 
 This section contains open source or open access software used to implement responsible ML. As much as possible, descriptions are quoted verbatim from the respective repositories themselves. In rare instances, we provide our own descriptions (unmarked by quotes).
@@ -1008,10 +1020,12 @@ This section contains open source or open access software used to implement resp
 | [L2X](https://github.com/Jianbo-Lab/L2X)![](https://img.shields.io/github/stars/Jianbo-Lab/L2X?style=social) | "Code for replicating the experiments in the paper [Learning to Explain: An Information-Theoretic Perspective on Model Interpretation](https://arxiv.org/pdf/1802.07814.pdf) at ICML 2018, by Jianbo Chen, Mitchell Stern, Martin J. Wainwright, Michael I. Jordan.” |
 | [langtest](https://github.com/JohnSnowLabs/langtest)![](https://img.shields.io/github/stars/JohnSnowLabs/langtest?style=social) | "LangTest: Deliver Safe & Effective Language Models"
 | [learning-fair-representations](https://github.com/zjelveh/learning-fair-representations)![](https://img.shields.io/github/stars/zjelveh/learning-fair-representations?style=social) | "Python numba implementation of Zemel et al. 2013 <http://www.cs.toronto.edu/~toni/Papers/icml-final.pdf>"
+| [leeky: Leakage/contamination testing for black box language models](https://github.com/mjbommar/leeky)![](https://img.shields.io/github/stars/mjbommar/leeky?style=social) | "leeky - training data contamination techniques for blackbox models" |
 | [lilac](https://github.com/lilacai/lilac)![](https://img.shields.io/github/stars/lilacai/lilac?style=social) | "Curate better data for LLMs." |
 | [lime](https://github.com/marcotcr/lime)![](https://img.shields.io/github/stars/marcotcr/lime?style=social) | "explaining what machine learning classifiers (or models) are doing. At the moment, we support explaining individual predictions for text classifiers or classifiers that act on tables (numpy arrays of numerical or categorical data) or images, with a package called lime (short for local interpretable model-agnostic explanations).” |
 | [LiFT](https://github.com/linkedin/LiFT)![](https://img.shields.io/github/stars/linkedin/LiFT?style=social) | "The LinkedIn Fairness Toolkit (LiFT) is a Scala/Spark library that enables the measurement of fairness and the mitigation of bias in large-scale machine learning workflows. The measurement module includes measuring biases in training data, evaluating fairness metrics for ML models, and detecting statistically significant differences in their performance across different subgroups.” |
 | [lit](https://github.com/pair-code/lit)![](https://img.shields.io/github/stars/pair-code/lit?style=social) | "The Learning Interpretability Tool (LIT, formerly known as the Language Interpretability Tool) is a visual, interactive ML model-understanding tool that supports text, image, and tabular data. It can be run as a standalone server, or inside of notebook environments such as Colab, Jupyter, and Google Cloud Vertex AI notebooks.” |
+| [LLM Dataset Inference: Did you train on my dataset?](https://github.com/pratyushmaini/llm_dataset_inference/)![](https://img.shields.io/github/stars/pratyushmaini/llm_dataset_inference?style=social) | "Official Repository for Dataset Inference for LLMs" |
 | [lofo-importance](https://github.com/aerdem4/lofo-importance)![](https://img.shields.io/github/stars/aerdem4/lofo-importance?style=social) | "LOFO (Leave One Feature Out) Importance calculates the importances of a set of features based on a metric of choice, for a model of choice, by iteratively removing each feature from the set, and evaluating the performance of the model, with a validation scheme of choice, based on the chosen metric.” |
 | [lrp_toolbox](https://github.com/sebastian-lapuschkin/lrp_toolbox)![](https://img.shields.io/github/stars/sebastian-lapuschkin/lrp_toolbox?style=social) | "The Layer-wise Relevance Propagation (LRP) algorithm explains a classifer's prediction specific to a given data point by attributing relevance scores to important components of the input by using the topology of the learned model itself.” |
 | [MindsDB](https://github.com/mindsdb/mindsdb)![](https://img.shields.io/github/stars/mindsdb/mindsdb?style=social) | "enables developers to build AI tools that need access to real-time data to perform their tasks.” |
