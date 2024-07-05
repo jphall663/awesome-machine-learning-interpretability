@@ -13,6 +13,7 @@ If something you contributed or found here is missing after our September 2023 r
   * [Community Frameworks and Guidance](#community-frameworks-and-guidance)
     * [Infographics and Cheat Sheets](#infographics-and-cheat-sheets)
     * [AI Red-Teaming Resources](#ai-red-teaming-resources)
+    * [Generative AI Explainability](#generative-ai-explainability)
   * [Conferences and Workshops](#conferences-and-workshops)
   * [Official Policy, Frameworks, and Guidance](#official-policy-frameworks-and-guidance)
 
@@ -297,6 +298,12 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/)
   * [developer mode fixed](https://www.reddit.com/r/ChatGPTJailbreak/comments/144905t/developer_mode_fixed/)
 * [Y Combinator, ChatGPT Grandma Exploit](https://news.ycombinator.com/item?id=35630801)
+
+#### Generative AI Explainability
+
+* [Backpack Language Models](https://arxiv.org/pdf/2305.16765)
+* [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
+* [The Remarkable Robustness of LLMs: Stages of Inference?](https://arxiv.org/pdf/2406.19384v1)
 
 ### Conferences and Workshops
 
@@ -675,6 +682,7 @@ This section features a collection of glossaries and dictionaries that are geare
 This section features a selection of educational courses focused on ethical considerations and best practices in ML. The classes range from introductory courses on data ethics to specialized training in fairness and trustworthy deep learning.
 
 * [An Introduction to Data Ethics](https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/an-introduction-to-data-ethics/)
+* [Awesome LLM Courses](https://github.com/wikit-ai/awesome-llm-courses)![](https://img.shields.io/github/stars/wikit-ai/awesome-llm-courses?style=social)
 * [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch/tree/main)![](https://img.shields.io/github/stars/rasbt/LLMs-from-scratch?style=social)
 * [Carnegie Mellon University, Computational Ethics for NLP](http://demo.clab.cs.cmu.edu/ethical_nlp/)
 * [Certified Ethical Emerging Technologist](https://certnexus.com/certification/ceet/)
@@ -690,6 +698,7 @@ This section features a selection of educational courses focused on ethical cons
 * [Introduction to AI Ethics](https://www.kaggle.com/code/var0101/introduction-to-ai-ethics)
 * [INFO 4270: Ethics and Policy in Data Science](https://docs.google.com/document/d/1GV97qqvjQNvyM2I01vuRaAwHe9pQAZ9pbP7KkKveg1o/)
 * [Introduction to Responsible Machine Learning](https://jphall663.github.io/GWU_rml/)
+* [Jay Alammar, Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 * [Machine Learning Fairness by Google](https://developers.google.com/machine-learning/crash-course/fairness/video-lecture)
 * [OECD.AI, Disability-Centered AI And Ethics MOOC](https://oecd.ai/en/catalogue/tools/disability-centered-ai-and-ethics-mooc)
 * [Piotr Sapieżyński's CS 4910 - Special Topics in Computer Science: Algorithm Audits](https://sapiezynski.com/cs4910.html)
