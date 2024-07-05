@@ -27,7 +27,7 @@ If something you contributed or found here is missing after our September 2023 r
   * [AI Incident Information Sharing Resources](#ai-incident-information-sharing-resources)
   * [Challenges and Competitions](#challenges-and-competitions)
   * [Critiques of AI](#critiques-of-ai)
-    * [Critiques of AI on the Environment](#critiques-of-ai-on-the-environment)
+    * [Environmental Costs of AI](#environmental-costs-of-ai)
   * [Groups and Organizations](#groups-and-organizations)
   * [Curated Bibliographies](#curated-bibliographies)
   * [List of Lists](#list-of-lists)
@@ -798,7 +798,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Why We Must Resist AI’s Soft Mind Control]( https://www.theatlantic.com/ideas/archive/2024/03/artificial-intelligence-google-gemini-mind-control/677683/)
 * [Winner's Curse? On Pace, Progress, and Empirical Rigor](https://openreview.net/pdf?id=rJWF0Fywf)
 
-#### Critiques of AI on the Environment
+#### Environmental Costs of AI
 
 * [AI already uses as much energy as a small country. It’s only the beginning.](https://www.vox.com/climate/2024/3/28/24111721/ai-uses-a-lot-of-energy-experts-expect-it-to-double-in-just-a-few-years)
 * [The AI Carbon Footprint and Responsibilities of AI Scientists](https://www.mdpi.com/2409-9287/7/1/4)
