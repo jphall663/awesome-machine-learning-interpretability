@@ -26,6 +26,7 @@ If something you contributed or found here is missing after our September 2023 r
 
 * **Miscellaneous Resources**
   * [AI Incident Information Sharing Resources](#ai-incident-information-sharing-resources)
+  * [AI Law, Policy, and Guidance Databases](#ai-law-policy-and-guidance-databases)
   * [Challenges and Competitions](#challenges-and-competitions)
   * [Critiques of AI](#critiques-of-ai)
     * [Environmental Costs of AI](#environmental-costs-of-ai)
@@ -210,7 +211,6 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Unite.AI: How to perform an AI Audit in 2023](https://www.unite.ai/how-to-perform-an-ai-audit-in-2023/)
 * [University of California, Berkeley, Center for Long-Term Cybersecurity, A Taxonomy of Trustworthiness for Artificial Intelligence](https://cltc.berkeley.edu/wp-content/uploads/2023/12/Taxonomy_of_AI_Trustworthiness_tables.pdf)
 * [University of California, Berkeley, Information Security Office, How to Write an Effective Website Privacy Statement](https://security.berkeley.edu/how-write-effective-website-privacy-statement)
-* [University of North Texas, Artificial Intelligence (AI) Policy Collection](https://digital.library.unt.edu/explore/collections/AIPC/)
 * [University of Washington Tech Policy Lab, Data Statements](https://techpolicylab.uw.edu/data-statements/)
 * [Warning Signs: The Future of Privacy and Security in an Age of Machine Learning](https://fpf.org/wp-content/uploads/2019/09/FPF_WarningSigns_Report.pdf)
 * [When Not to Trust Your Explanations](https://docs.google.com/presentation/d/10a0PNKwoV3a1XChzvY-T1mWudtzUIZi3sCMzVwGSYfM/edit)
@@ -243,6 +243,7 @@ This section is for responsible ML guidance put forward by organizations or indi
    * [EU AI Act Cheat Sheet Series 3, High-Risk AI Systems](https://media.licdn.com/dms/image/D4E22AQHp9idr6g4r9w/feedshare-shrink_1280/0/1718350012563?e=1721260800&v=beta&t=HCUVfqf35znT3TdSULj0-I0qNSqkJgNDFSu1eC00usQ)
    * [EU AI Act Cheat Sheet Series 4, Requirements for Providers](https://media.licdn.com/dms/image/D4E22AQE41Al9Cd82Og/feedshare-shrink_1280/0/1718871651910?e=1721865600&v=beta&t=a8-nuNaoFotHyap1sE0EE6ui_cdYR25UhztlwICGXWU)
    * [EU AI Act Cheat Sheet Series 5, Requirements for Deployers](https://media.licdn.com/dms/image/D4E22AQHNWQbnsnDInw/feedshare-shrink_1280/0/1720096884880?e=1723075200&v=beta&t=9Dmb8bGOAPY2nEQm8cdYo7Ozn1PPPDBi3VquJcRdQQQ)
+   * [EU AI Act Cheat Sheet Series 6, General-Purpose AI Models](https://media.licdn.com/dms/image/D4E22AQGhCpBi8toi3w/feedshare-shrink_1280/0/1720572248173?e=1723680000&v=beta&t=PPQSkqO2KYgsjIZv8uUfDrdW5DdBZVwO56U8OVecggo)
    * [EU AI Act Cheat Sheet Series 7, Compliance & Conformity Assessment](https://media.licdn.com/dms/image/D4E22AQFvIIneLanW5Q/feedshare-shrink_1280/0/1721115234718?e=1724284800&v=beta&t=kmRU5o5s_MnUC0urbyVglhPPRpZ9Y56S8nk4PQTtKWo)
    * [India AI Policy Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQHi3zKIJHYxuA/feedshare-shrink_1280/0/1715251459456?e=1721260800&v=beta&t=eJGeYvud7M02i4IyyQhzQldOkC18HawL7kqVjBE2Qu8)
    * [Governance Audit, Model Audit, and Application Audit](https://media.licdn.com/dms/image/D4E22AQFc3N6PSYkyXQ/feedshare-shrink_2048_1536/0/1680540832478?e=1714608000&v=beta&t=NuQbcm7pQrwhy2ldD8HdzqHKt6xR8W7EI9OxwZ8OvbU)
@@ -305,6 +306,8 @@ This section is for responsible ML guidance put forward by organizations or indi
 #### Generative AI Explainability
 
 * [Backpack Language Models](https://arxiv.org/pdf/2305.16765)
+* [Jay Alammar, Finding the Words to Say: Hidden State Visualizations for Language Models](https://jalammar.github.io/hidden-states/)
+* [Jay Alammar, Interfaces for Explaining Transformer Language Models](https://jalammar.github.io/explaining-transformers/)
 * [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
 * [The Remarkable Robustness of LLMs: Stages of Inference?](https://arxiv.org/pdf/2406.19384v1)
 
@@ -746,6 +749,15 @@ This section houses initiatives, networks, repositories, and publications that f
 * [Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database](https://osf.io/fvqg3/)
 * [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
 * [Verica Open Incident Database (VOID)](https://www.thevoid.community/)
+
+### AI Law, Policy, and Guidance Databases
+
+This section contains searchable databases and repositories of laws, policies, and guidance pertaining to AI.
+
+* [The Ethical AI Database](https://www.eaidb.org/)
+* [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
+* [University of North Texas, Artificial Intelligence (AI) Policy Collection](https://digital.library.unt.edu/explore/collections/AIPC/)
+* [VidhiSharma.AI, Global AI Governance Tracker](https://vidhisharmaai.com/global-ai-governance-tracker/)
 
 ### Challenges and Competitions
 
