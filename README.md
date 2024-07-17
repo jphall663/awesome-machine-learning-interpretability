@@ -26,7 +26,7 @@ If something you contributed or found here is missing after our September 2023 r
 
 * **Miscellaneous Resources**
   * [AI Incident Information Sharing Resources](#ai-incident-information-sharing-resources)
-  * [AI Law, Policy, and Guidance Databases](#ai-law-policy-and-guidance-databases)
+  * [AI Law, Policy, and Guidance Trackers](#ai-law-policy-and-guidance-trackers)
   * [Challenges and Competitions](#challenges-and-competitions)
   * [Critiques of AI](#critiques-of-ai)
     * [Environmental Costs of AI](#environmental-costs-of-ai)
@@ -495,8 +495,6 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Gouvernance des algorithmes d’intelligence artificielle dans le secteur financier (France)](https://acpr.banque-france.fr/sites/default/files/medias/documents/20200612_gouvernance_evaluation_ia.pdf)
 * [Guidelines for secure AI system development](https://media.defense.gov/2023/Nov/27/2003346994/-1/-1/0/GUIDELINES-FOR-SECURE-AI-SYSTEM-DEVELOPMENT.PDF)
 * [Health Canada, Transparency for machine learning-enabled medical devices: Guiding principles](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/transparency-machine-learning-guiding-principles.html)
-* [IAPP Global AI Legislation Tracker](https://iapp.org/resources/article/global-ai-legislation-tracker/)
-* [IAPP US State Privacy Legislation Tracker](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/)
 * [Innovation spotlight: Providing adverse action notices when using AI/ML models](https://www.consumerfinance.gov/about-us/blog/innovation-spotlight-providing-adverse-action-notices-when-using-ai-ml-models/)
 * [Justice in Policing Act](https://democrats-judiciary.house.gov/issues/issue/?IssueID=14924)
 * [Mississippi Department of Education, Artificial Intelligence Guidance for K-12 Classrooms](https://www.mdek12.org/sites/default/files/Offices/MDE/OTSS/DL/ai_guidance_final.pdf)
@@ -750,14 +748,22 @@ This section houses initiatives, networks, repositories, and publications that f
 * [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
 * [Verica Open Incident Database (VOID)](https://www.thevoid.community/)
 
-### AI Law, Policy, and Guidance Databases
+### AI Law, Policy, and Guidance Trackers
 
-This section contains searchable databases and repositories of laws, policies, and guidance pertaining to AI.
+This section contains trackers, databases, and repositories of laws, policies, and guidance pertaining to AI.
 
 * [The Ethical AI Database](https://www.eaidb.org/)
 * [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
+* [IAPP Global AI Legislation Tracker](https://iapp.org/resources/article/global-ai-legislation-tracker/)
+* [IAPP US State Privacy Legislation Tracker](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/)
+* [Institute for the Future of Work, Tracking international legislation relevant to AI at work](https://www.ifow.org/publications/legislation-tracker)
+* [Legal Nodes, Global AI Regulations Tracker: Europe, Americas & Asia-Pacific Overview](https://legalnodes.com/article/global-ai-regulations-tracker)
+* [OECD.AI, National AI policies & strategies](https://oecd.ai/en/dashboards/overview)
+* [Raymond Sun, Global AI Regulation Tracker](https://www.techieray.com/GlobalAIRegulationTracker)
+* [Runway Strategies, Global AI Regulation Tracker](https://www.runwaystrategies.co/global-ai-regulation-tracker)
 * [University of North Texas, Artificial Intelligence (AI) Policy Collection](https://digital.library.unt.edu/explore/collections/AIPC/)
 * [VidhiSharma.AI, Global AI Governance Tracker](https://vidhisharmaai.com/global-ai-governance-tracker/)
+* [White & Case, AI Watch: Global regulatory tracker - United States](https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-united-states)
 
 ### Challenges and Competitions
 
@@ -864,6 +870,7 @@ We are seeking curated bibliographies related to responsible ML across various t
 * [Blair Attard-Frost, INF1005H1S: Artificial Intelligence Policy Supplementary Reading List](https://www.blairaf.com/library/resources/teaching/2024-INF1005H1S/INF1005-Supplementary-Reading-List.pdf)
 * [LLM Security & Privacy](https://github.com/chawins/llm-sp)![](https://img.shields.io/github/stars/chawins/llm-sp?style=social)
 * [Membership Inference Attacks and Defenses on Machine Learning Models Literature](https://github.com/HongshengHu/membership-inference-machine-learning-literature)![](https://img.shields.io/github/stars/HongshengHu/membership-inference-machine-learning-literature?style=social)
+* [White & Case, AI Watch: Global regulatory tracker - United States](https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-united-states)
 
 * **BibTeX**:
   * [Proposed Guidelines for Responsible Use of Explainable Machine Learning (presentation, bibliography)](https://github.com/jphall663/kdd_2019/blob/master/bibliography.bib)![](https://img.shields.io/github/stars/jphall663/kdd_2019?style=social)
