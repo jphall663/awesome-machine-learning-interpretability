@@ -137,6 +137,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Haptic Networks: How to Perform an AI Audit for UK Organisations](https://www.haptic-networks.com/cyber-security/how-to-perform-an-ai-audit/)
 * [Hogan Lovells, The AI Act is coming: EU reaches political agreement on comprehensive regulation of artificial intelligence](https://www.engage.hoganlovells.com/knowledgeservices/news/the-ai-act-is-coming-eu-reaches-political-agreement-on-comprehensive-regulation-of-artificial-intelligence?nav=FRbANEucS95NMLRN47z%2BeeOgEFCt8EGQ71hKXzqW2Ec%3D&key=BcJlhLtdCv6%2FJTDZxvL23TQa3JHL2AIGr93BnQjo2SkGJpG9xDX7S2thDpAQsCconWHAwe6cJTmX%2FZxLGrXbZz2L%2BEiiz68X&uid=iZAX%2FROFT6Q%3D)
 * [Hugging Face, The Landscape of ML Documentation Tools](https://huggingface.co/docs/hub/model-card-landscape-analysis)
+* [IAPP, Global AI Governance Law and Policy: Canada, EU, Singapore, UK and US](https://iapp.org/media/pdf/resource_center/global_ai_governance_law_policy_series.pdf)
 * [ICT Institute: A checklist for auditing AI systems](https://ictinstitute.nl/a-checklist-for-auditing-ai-systems/)
 * IEEE: 
   * [IEEE P3119 Standard for the Procurement of Artificial Intelligence and Automated Decision Systems](https://standards.ieee.org/ieee/3119/10729/)
@@ -260,6 +261,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Pivot to AI](https://pivot-to-ai.com/)
 * [Purpose and Means AI Explainer Series - issue #4 - Navigating the EU AI Act](https://media.licdn.com/dms/image/D4D22AQEXHwX7q4WUxw/feedshare-shrink_2048_1536/0/1715790151074?e=1718841600&v=beta&t=V9npUpSkYrCWoGLY9aNjtpLlS27SAb2lEwPXjGmw0XQ)
 * [Trustible, Is It AI? How different laws & frameworks define AI](https://www.trustible.ai/post/is-it-ai-how-different-laws-frameworks-define-ai)
+* [What Access Protections Do AI Companies Provide for Independent Safety Research?](https://media.licdn.com/dms/image/D5622AQELjohQn4Y8KQ/feedshare-shrink_2048_1536/0/1721718399115?e=1724889600&v=beta&t=y2P0LUXh4X2M61eosUlGKlXPl2BcJkMWMVs5-o3poSk)
 
 #### AI Red-Teaming Resources
 
@@ -380,6 +382,7 @@ This section is for conferences, workshops and other major events related to res
     * [2nd ACM SIGKDD Workshop on Ethical Artificial Intelligence: Methods and Applications](https://charliezhaoyinpeng.github.io/EAI-KDD23/cfp/)
     * [KDD Data Science for Social Good 2023](https://kdd-dssg.github.io/)
 * [Mission Control AI, Booz Allen Hamilton, and The Intellectual Forum at Jesus College, Cambridge, The 2024 Leaders in Responsible AI Summit, March 22, 2024](https://usemissioncontrol.com/summit/)
+* [NAACL 24 Tutorial: Explanations in the Era of Large Language Models](https://explanation-llm.github.io/)
 * [Neural Information Processing Systems (NeurIPs)](https://neurips.cc/)
   * **2022**:
     * [5th Robot Learning Workshop: Trustworthy Robotics](https://neurips.cc/virtual/2022/workshop/49997)
@@ -522,6 +525,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [OECD, AI, data governance and privacy: Synergies and areas of international co-operation](https://www.oecd.org/en/publications/ai-data-governance-and-privacy_2476b1a4-en.html)
 * [OECD, Open, Useful and Re-usable data (OURdata) Index: 2019 - Policy Paper](https://www.oecd.org/gov/digital-government/policy-paper-ourdata-index-2019.htm)
 * [Office of the Director of National Intelligence (ODNI), The AIM Initiative: A Strategy for Augmenting Intelligence Using Machines](https://www.dni.gov/files/ODNI/documents/AIM-Strategy.pdf)
+* [Office of Educational Technology, Designing for Education with Artificial Intelligence: An Essential Guide for Developers](https://tech.ed.gov/designing-for-education-with-artificial-intelligence/)
 * [Office of Management and Budget, Guidance for Regulation of Artificial Intelligence Applications, finalized November 2020](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-06.pdf)
 * [Office of Science and Technology Policy, Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
 * [Office of the Comptroller of the Currency (OCC), 2021 Model Risk Management Handbook](https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/model-risk-management/index-model-risk-management.html)
@@ -833,6 +837,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Most CEOs aren’t buying the hype on generative AI benefits](https://www.itpro.com/business/leadership/most-ceos-arent-buying-the-hype-on-generative-ai-benefits)
 * [Nepotistically Trained Generative-AI Models Collapse](https://arxiv.org/abs/2311.12202)
 * [Non-discrimination Criteria for Generative Language Models](https://arxiv.org/abs/2403.08564)
+* [Open Problems in Technical AI Governance](https://arxiv.org/pdf/2407.14981)
 * [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
 * [The perpetual motion machine of AI-generated data and the distraction of ChatGPT as a ‘scientist’](https://www.nature.com/articles/s41587-023-02103-0)
 * [Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in Transformer Models](https://arxiv.org/pdf/2311.00871.pdf)
@@ -941,14 +946,17 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 | [MLCommons, Introducing v0.5 of the AI Safety Benchmark from MLCommons](https://arxiv.org/pdf/2404.12241.pdf) | A paper about the MLCommons AI Safety Benchmark v0.5. |
 | [Nvidia MLPerf](https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/) | "MLPerf™ benchmarks—developed by MLCommons, a consortium of AI leaders from academia, research labs, and industry—are designed to provide unbiased evaluations of training and inference performance for hardware, software, and services." | 
 | [OpenML Benchmarking Suites](https://www.openml.org/search?type=benchmark&study_type=task) | OpenML's collection of over two dozen benchmarking suites. |
+| [Real Toxicity Prompts (Allen Institute for AI)](https://allenai.org/data/real-toxicity-prompts) | "A dataset of 100k sentence snippets from the web for researchers to further address the risk of neural toxic degeneration in models." |
 | [SafetyPrompts.com](https://safetyprompts.com/) | "A Living Catalogue of Open Datasets for LLM Safety." |
 | [Sociotechnical Safety Evaluation Repository](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQObeTxvXtOs--zd98qG2xBHHuTTJOyNISBJPthZFr3at2LCrs3rcv73d4of1A78JV2eLuxECFXJY43/pubhtml) | An extensive spreadsheet of sociotechnical safety evaluations in a spreadsheet. |
 | [TrustLLM-Benchmark](https://trustllmbenchmark.github.io/TrustLLM-Website/index.html) | "A Comprehensive Study of Trustworthiness in Large Language Models." |
 | [Trust-LLM-Benchmark Leaderboard](https://trustllmbenchmark.github.io/TrustLLM-Website/leaderboard.html) | A series of sortable leaderboards of LLMs based on different trustworthiness criteria. |
-| [TruthfulQA](https://github.com/sylinrl/TruthfulQA) ![](https://img.shields.io/github/stars/sylinrl/TruthfulQA?style=social) | "TruthfulQA: Measuring How Models Imitate Human Falsehoods." |
+| [TruthfulQA](https://github.com/sylinrl/TruthfulQA)![](https://img.shields.io/github/stars/sylinrl/TruthfulQA?style=social) | "TruthfulQA: Measuring How Models Imitate Human Falsehoods." |
 | [WAVES: Benchmarking the Robustness of Image Watermarks](https://wavesbench.github.io/) | "This paper investigates the weaknesses of image watermarking techniques." |
-| [Winogender Schemas](https://github.com/rudinger/winogender-schemas) ![](https://img.shields.io/github/stars/rudinger/winogender-schemas?style=social) | "Data for evaluating gender bias in coreference resolution systems." |
-| [Real Toxicity Prompts (Allen Institute for AI)](https://allenai.org/data/real-toxicity-prompts) | "A dataset of 100k sentence snippets from the web for researchers to further address the risk of neural toxic degeneration in models." |
+| [Wild-Time: A Benchmark of in-the-Wild Distribution Shifts over Time](https://github.com/huaxiuyao/Wild-Time)![](https://img.shields.io/github/stars/huaxiuyao/Wild-Time?style=social) | "Benchmark for Natural Temporal Distribution Shift (NeurIPS 2022)." |
+| [Winogender Schemas](https://github.com/rudinger/winogender-schemas)![](https://img.shields.io/github/stars/rudinger/winogender-schemas?style=social) | "Data for evaluating gender bias in coreference resolution systems." |
+| [yandex-research / tabred](https://github.com/yandex-research/tabred)![](https://img.shields.io/github/stars/yandex-research/tabred?style=social) | "A Benchmark of Tabular Machine Learning in-the-Wild with real-world industry-grade tabular datasets." |
+
 
 ### Common or Useful Datasets
 
