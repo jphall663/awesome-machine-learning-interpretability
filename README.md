@@ -59,6 +59,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [8 Principles of Responsible ML](https://ethical.institute/principles.html)
 * [A Brief Overview of AI Governance for Responsible Machine Learning Systems](https://arxiv.org/pdf/2211.13130.pdf)
 * [Acceptable Use Policies for Foundation Models](https://github.com/kklyman/aupsforfms)![](https://img.shields.io/github/stars/kklyman/aupsforfms?style=social)
+* [Access Now, Regulatory Mapping on Artificial Intelligence in Latin America: Regional AI Public Policy Report](https://www.accessnow.org/wp-content/uploads/2024/07/TRF-LAC-Reporte-Regional-IA-JUN-2024-V3.pdf)
 * [Ada Lovelace Institute, Code and Conduct: How to Create Third-Party Auditing Regimes for AI Systems](https://www.adalovelaceinstitute.org/report/code-conduct-ai/)
 * [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)![](https://img.shields.io/github/stars/mitre/advmlthreatmatrix?style=social)
 * [AI Governance Needs Sociotechnical Expertise: Why the Humanities and Social Sciences Are Critical to Government Efforts](https://datasociety.net/wp-content/uploads/2024/05/DS_AI_Governance_Policy_Brief.pdf)
@@ -103,6 +104,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Dealing with Bias and Fairness in AI/ML/Data Science Systems](https://docs.google.com/presentation/d/17o_NzplYua5fcJFuGcy1V1-5GFAHk7oHAF4dN44NkUE)
 * [Debugging Machine Learning Models (ICLR workshop proceedings)](https://debug-ml-iclr2019.github.io/)
 * [Decision Points in AI Governance](https://cltc.berkeley.edu/wp-content/uploads/2020/05/Decision_Points_AI_Governance.pdf)
+* [Demos, AI – Trustworthy By Design: How to build trust in AI systems, the institutions that create them and the communities that use them](https://demos.co.uk/research/ai-trustworthy-by-design-how-to-build-trust-in-ai-systems-the-institutions-that-create-them-and-the-communities-that-use-them/)
 * [Digital Policy Alert, The Anatomy of AI Rules: A systematic comparison of AI rules across the globe](https://digitalpolicyalert.org/ai-rules/the-anatomy-of-AI-rules)
 * [Distill](https://distill.pub)
 * [Dominique Shelton Leipzig, Countries With Draft AI Legislation or Frameworks](https://dominiquesheltonleipzig.com/country-legislation-frameworks/)
@@ -759,10 +761,22 @@ This section houses initiatives, networks, repositories, and publications that f
 * [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
 * [Verica Open Incident Database (VOID)](https://www.thevoid.community/)
 
+#### Bibliography of Papers on AI Incidents and Failures
+
+* Chanda, Sasanka Sekhar, and Debarag Narayan Banerjee. "Omission and Commission Errors Underlying AI Failures." *AI & Society* 39 (2024): 937–960. Published November 17, 2022. [https://doi.org/10.1007/s00146-022-01477-w](https://doi.org/10.1007/s00146-022-01477-w).
+* Hong, Matthew K., Adam Fourney, Derek DeBellis, and Saleema Amershi. "Planning for Natural Language Failures with the AI Playbook." In *CHI '21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems*, Article 386, 1-11. Published May 7, 2021. [https://doi.org/10.1145/3411764.3445735](https://doi.org/10.1145/3411764.3445735).
+* McGregor, Sean. "Preventing Repeated Real World AI Failures by Cataloging Incidents: The AI Incident Database." *Proceedings of the AAAI Conference on Artificial Intelligence* 35, no. 17 (2021): 15458-15463. [https://doi.org/10.1609/aaai.v35i17.17817](https://doi.org/10.1609/aaai.v35i17.17817).
+* Schmill, Matthew D., Darsana Josyula, Michael L. Anderson, Shomir Wilson, Tim Oates, Don Perlis, Dean Wright, and Scott Fults. "Ontologies for Reasoning about Failures in AI Systems." In *Proceedings from the Workshop on Metareasoning in Agent Based Systems at the Sixth International Joint Conference on Autonomous Agents and Multiagent Systems*, 2007. [https://mclumd.github.io/ALMECOM%20Papers/2007/Schmill%20et%20al.%20-%202007%20-%20Ontologies%20for%20reasoning%20about%20failures%20in%20AI%20syst.pdf](https://mclumd.github.io/ALMECOM%20Papers/2007/Schmill%20et%20al.%20-%202007%20-%20Ontologies%20for%20reasoning%20about%20failures%20in%20AI%20syst.pdf).
+* Slota, Stephen C., Kenneth R. Fleischmann, Sherri Greenberg, Nitin Verma, Brenna Cummings, Lan Li, and Chris Shenefiel. "Good Systems, Bad Data?: Interpretations of AI Hype and Failures." *Proceedings of the Association for Information Science and Technology* 57, no. 1 (2020): e275. [https://doi.org/10.1002/pra2.275](https://doi.org/10.1002/pra2.275).
+* Williams, Robert, and Roman Yampolskiy. "Understanding and Avoiding AI Failures: A Practical Guide." *Philosophies* 6, no. 3 (2021): 53. [https://doi.org/10.3390/philosophies6030053](https://doi.org/10.3390/philosophies6030053).
+* Yampolskiy, Roman V., and M. S. Spellchecker. "Artificial Intelligence Safety and Cybersecurity: A Timeline of AI Failures." *arXiv* (2016). [https://doi.org/10.48550/arXiv.1610.07997](https://doi.org/10.48550/arXiv.1610.07997).
+
+
 ### AI Law, Policy, and Guidance Trackers
 
 This section contains trackers, databases, and repositories of laws, policies, and guidance pertaining to AI.
 
+* [Access Now, Regulatory Mapping on Artificial Intelligence in Latin America: Regional AI Public Policy Report](https://www.accessnow.org/wp-content/uploads/2024/07/TRF-LAC-Reporte-Regional-IA-JUN-2024-V3.pdf)
 * [The Ethical AI Database](https://www.eaidb.org/)
 * [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
 * [IAPP Global AI Legislation Tracker](https://iapp.org/resources/article/global-ai-legislation-tracker/)
@@ -791,11 +805,13 @@ This section contains an assortment of papers, articles, essays, and general res
 
 * [Against predictive optimization](https://predictive-optimization.cs.princeton.edu/)
 * [AI chatbots use racist stereotypes even after anti-racism training](https://www.newscientist.com/article/2421067-ai-chatbots-use-racist-stereotypes-even-after-anti-racism-training/)
+* [AI hype, promotional culture, and affective capitalism](https://link.springer.com/article/10.1007/s43681-024-00483-w)
 * [AI Is a Lot of Work](https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html)
 * [AI is effectively ‘useless’—and it’s created a ‘fake it till you make it’ bubble that could end in disaster, veteran market watcher warns](https://finance.yahoo.com/news/ai-effectively-useless-created-fake-194008129.html)
 * [AI Safety Is a Narrative Problem](https://hdsr.mitpress.mit.edu/pub/wz35dvpo/release/1?readingCollection=3974b7e6)
 * [AI Snake Oil](https://www.aisnakeoil.com/)
 * [AI Tools Still Permitting Political Disinfo Creation, NGO Warns](https://www.barrons.com/news/ai-tools-still-permitting-political-disinfo-creation-ngo-warns-ac791521)
+* [Anthropomorphism in AI: hype and fallacy](https://link.springer.com/article/10.1007/s43681-024-00419-4)
 * [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/pdf/2304.15004.pdf)
 * [Are Language Models Actually Useful for Time Series Forecasting?](https://arxiv.org/abs/2406.16964v1)
 * [Artificial Hallucinations in ChatGPT: Implications in Scientific Writing](https://assets.cureus.com/uploads/editorial/pdf/138667/20230219-28928-6kcyip.pdf)
@@ -819,6 +835,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Generative AI: UNESCO study reveals alarming evidence of regressive gender stereotypes](https://www.unesco.org/en/articles/generative-ai-unesco-study-reveals-alarming-evidence-regressive-gender-stereotypes)
 * [Get Ready for the Great AI Disappointment](https://www.wired.com/story/get-ready-for-the-great-ai-disappointment/)
 * [Ghost in the Cloud: Transhumanism’s simulation theology](https://www.nplusonemag.com/issue-28/essays/ghost-in-the-cloud/)
+* [How AI hype impacts the LGBTQ + community](https://link.springer.com/article/10.1007/s43681-024-00423-8)
 * [How AI lies, cheats, and grovels to succeed - and what we need to do about it](https://www.zdnet.com/article/how-ai-lies-cheats-and-grovels-to-succeed-and-what-we-need-to-do-about-it/)
 * [Identifying and Eliminating CSAM in Generative ML Training Data and Models](https://stacks.stanford.edu/file/druid:kh752sm9123/ml_training_data_csam_report-2023-12-23.pdf)
 * [Insanely Complicated, Hopelessly Inadequate](https://www.lrb.co.uk/the-paper/v43/n02/paul-taylor/insanely-complicated-hopelessly-inadequate)
@@ -841,15 +858,18 @@ This section contains an assortment of papers, articles, essays, and general res
 * [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
 * [The perpetual motion machine of AI-generated data and the distraction of ChatGPT as a ‘scientist’](https://www.nature.com/articles/s41587-023-02103-0)
 * [Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in Transformer Models](https://arxiv.org/pdf/2311.00871.pdf)
+* [Promising the future, encoding the past: AI hype and public media imagery](https://link.springer.com/article/10.1007/s43681-024-00474-x)
 * [Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646)
 * [Re-evaluating GPT-4’s bar exam performance](https://link.springer.com/article/10.1007/s10506-024-09396-9)
 * [Researchers surprised by gender stereotypes in ChatGPT](https://www.dtu.dk/english/news/all-news/researchers-surprised-by-gender-stereotypes-in-chatgpt?id=7e5936d1-dfce-485b-8a90-78f7c757177d)
 * [Ryan Allen, Explainable AI: The What’s and Why’s, Part 1: The What](https://ryanallen42.medium.com/explainable-ai-the-whats-and-why-s-175ea344bf3a)
 * [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/pdf/2311.17035.pdf)
 * [Speed of AI development stretches risk assessments to breaking point](https://www.ft.com/content/499c8935-f46e-4ec8-a8e2-19e07e3b0438)
+* [Talking existential risk into being: a Habermasian critical discourse perspective to AI hype](https://link.springer.com/article/10.1007/s43681-024-00464-z)
 * [Task Contamination: Language Models May Not Be Few-Shot Anymore](https://arxiv.org/pdf/2312.16337.pdf)
 * [Theory Is All You Need: AI, Human Cognition, and Decision Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4737265)
 * [There Is No A.I.](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
+* [Three different types of AI hype in healthcare](https://link.springer.com/article/10.1007/s43681-024-00465-y)
 * [Toward Sociotechnical AI: Mapping Vulnerabilities for Machine Learning in Context](https://link.springer.com/article/10.1007/s11023-024-09668-y)
 * [We still don't know what generative AI is good for](https://www.msn.com/en-us/news/technology/we-still-dont-know-what-generative-ai-is-good-for/ar-AA1nz1QH)
 * [What’s in a Name? Experimental Evidence of Gender Bias in Recommendation Letters Generated by ChatGPT](https://www.jmir.org/2024/1/e51837/)
