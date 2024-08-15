@@ -232,7 +232,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [BCG Robotaxonomy](https://media.licdn.com/dms/image/D4E22AQEthxl6jH6ZvA/feedshare-shrink_800/0/1712824765812?e=1718236800&v=beta&t=Kh3e_uANrmHfkgGT701PNSIRE3W5HfIRnU_W93ACCQk)
 * [Center for Security and Emerging Technology (CSET), High Level Comparison of Legislative Perspectives on Artificial Intelligence US vs. EU](https://media.licdn.com/dms/image/D4E22AQHwjdd4LpjhEw/feedshare-shrink_1280/0/1716993189698?e=1720051200&v=beta&t=W6P-OTG25q-w94a-jrXhLTMKv0qrEel_WhbSHXj4wsg)
 * [European Data Protection Board (EDPB), Checklist for AI Auditing](https://media.licdn.com/dms/image/D4D22AQFqyom2Oh-v0g/feedshare-shrink_1280/0/1720417814227?e=1724284800&v=beta&t=MPFkWOSAWs_KSfTNInDSJtBUscj_iB2T7f8wJDJAZTQ)
-* [Future of Privacy Forum, EU AI Act: A Comprehensive Implementation & Compliance Timeline](https://media.licdn.com/dms/image/D5622AQE8yVm9kUYIVg/feedshare-shrink_2048_1536/0/1716500323275?e=1719446400&v=beta&t=ZbVx9-YOGffTEq-b2kM8svEHW41_Senhyq05ayjKXOo)
+* [Future of Privacy Forum, EU AI Act: A Comprehensive Implementation & Compliance Timeline](https://fpf.org/resource/eu-ai-act-a-comprehensive-implementation-compliance-timeline/)
 * [Future of Privacy Forum, The Spectrum of Artificial Intelligence](https://fpf.org/wp-content/uploads/2021/01/FPF_AIEcosystem_illo_03.pdf)
 * [IAPP EU AI Act Cheat Sheet](https://iapp.org/media/pdf/resource_center/eu_ai_act_cheat_sheet.pdf)
 * [IAPP, EU AI Act Compliance Matrix](https://iapp.org/resources/article/eu-ai-act-compliance-matrix/)
