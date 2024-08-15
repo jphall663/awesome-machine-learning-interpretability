@@ -16,6 +16,7 @@ If something you contributed or found here is missing after our September 2023 r
     * [Generative AI Explainability](#generative-ai-explainability)
   * [Conferences and Workshops](#conferences-and-workshops)
   * [Official Policy, Frameworks, and Guidance](#official-policy-frameworks-and-guidance)
+  * [Law Texts and Drafts](#law-texts-and-drafts)
 
 * **Education Resources**
   * [Comprehensive Software Examples and Tutorials](#comprehensive-software-examples-and-tutorials)
@@ -159,6 +160,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Integrity Institute Report, February 2024, On Risk Assessment and Mitigation for Algorithmic Systems](https://drive.google.com/file/d/1ZMt7igUcKUq00yakCnbxBCcaA7vajAix/view)
 * [ISO/IEC 42001:2023, Information technology — Artificial intelligence — Management system](https://www.iso.org/standard/81230.html)
 * [Know Your Data](https://knowyourdata.withgoogle.com/)
+* [Language Model Risk Cards: Starter Set](https://github.com/leondz/lm_risk_cards)![](https://img.shields.io/github/stars/leondz/lm_risk_cards?style=social)
 * [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
 * [Larry G. Wlosinski, April 30, 2021, Information System Contingency Planning Guidance](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-3/information-system-contingency-planning-guidance)
 * [Library of Congress, LC Labs AI Planning Framework](https://github.com/LibraryOfCongress/labs-ai-framework)![](https://img.shields.io/github/stars/LibraryOfCongress/labs-ai-framework?style=social)
@@ -239,6 +241,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Machine Learning Attack_Cheat_Sheet](https://resources.oreilly.com/examples/0636920415947/-/blob/master/Attack_Cheat_Sheet.png)
 * [Oliver Patel's Cheat Sheets](https://www.linkedin.com/in/oliver-patel/recent-activity/images/)
    * [10 Key Pillars for Enterprise AI Governance](https://media.licdn.com/dms/image/D4E22AQF4U8u-baT8hA/feedshare-shrink_1280/0/1709035425012?e=1714608000&v=beta&t=1DhhkNzNFtGg22y8j2KcrrV7SPiCQKZ0-l2uhkSs5zI)
+   * [10 Key Questions for AI Risk Assessments](https://media.licdn.com/dms/image/D4E22AQFQ08VpJoOqgw/feedshare-shrink_1280/0/1722404801833?e=1725494400&v=beta&t=FGiXFoDN8m0MIC5jya4vA6G_fADGiCE8b2EY3fiB2jk)
    * [AI Governance in 2023](https://media.licdn.com/dms/image/D4D22AQEUkWMhXlQ8pA/feedshare-shrink_1280/0/1702536206607?e=1714608000&v=beta&t=ukGzNValTfCOyjR4XUt9dnemmdzv0eAi4oV5Zh8XgyI)
    * [Canada AI Law & Policy Cheat Sheet](https://media.licdn.com/dms/image/D4D22AQG-A4WvORqoGA/feedshare-shrink_1280/0/1713914692450?e=1717027200&v=beta&t=WAGqCMsjM6vtpxKGQmTcG_sftnAOOrEsXOuEua8QwMg)
    * [China AI Law Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQF-6pEvkEG6PQ/feedshare-shrink_1280/0/1703158308976?e=1714608000&v=beta&t=DA3U5tCyGA3l9jLK6h_USn-76z9espPWwr2BNmNc-v8)
@@ -250,6 +253,7 @@ This section is for responsible ML guidance put forward by organizations or indi
    * [EU AI Act Cheat Sheet Series 5, Requirements for Deployers](https://media.licdn.com/dms/image/D4E22AQHNWQbnsnDInw/feedshare-shrink_1280/0/1720096884880?e=1723075200&v=beta&t=9Dmb8bGOAPY2nEQm8cdYo7Ozn1PPPDBi3VquJcRdQQQ)
    * [EU AI Act Cheat Sheet Series 6, General-Purpose AI Models](https://media.licdn.com/dms/image/D4E22AQGhCpBi8toi3w/feedshare-shrink_1280/0/1720572248173?e=1723680000&v=beta&t=PPQSkqO2KYgsjIZv8uUfDrdW5DdBZVwO56U8OVecggo)
    * [EU AI Act Cheat Sheet Series 7, Compliance & Conformity Assessment](https://media.licdn.com/dms/image/D4E22AQFvIIneLanW5Q/feedshare-shrink_1280/0/1721115234718?e=1724284800&v=beta&t=kmRU5o5s_MnUC0urbyVglhPPRpZ9Y56S8nk4PQTtKWo)
+   * [EU AI Act Cheat Sheet Series 8, Governance & Enforcement](https://media.licdn.com/dms/image/D4E22AQHg4PJRbbsWFQ/feedshare-shrink_1280/0/1721985339864?e=1725494400&v=beta&t=etLmpzFMO8ifzU2HloNqYQui5n8epQJufn0KDSIR0Yg)
    * [India AI Policy Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQHi3zKIJHYxuA/feedshare-shrink_1280/0/1715251459456?e=1721260800&v=beta&t=eJGeYvud7M02i4IyyQhzQldOkC18HawL7kqVjBE2Qu8)
    * [Governance Audit, Model Audit, and Application Audit](https://media.licdn.com/dms/image/D4E22AQFc3N6PSYkyXQ/feedshare-shrink_2048_1536/0/1680540832478?e=1714608000&v=beta&t=NuQbcm7pQrwhy2ldD8HdzqHKt6xR8W7EI9OxwZ8OvbU)
    * [Gulf Countries AI Policy Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQGFbfOnjgtiMg/feedshare-shrink_1280/0/1708519732711?e=1714608000&v=beta&t=BaJm411n2QWNm69uUEnIgbZxZqYf0YuWfBQHXXWaS-c)
@@ -575,6 +579,12 @@ This section serves as a repository for policy documents, regulations, guideline
 * [U.S. Web Design System (USWDS) Design principles](https://designsystem.digital.gov/design-principles/)
 * [The White House, Consumer Data Privacy in a Networked World: A Framework for Protecting Privacy and Promoting Innovation in the Global Digital Economy, February 2012](https://obamawhitehouse.archives.gov/sites/default/files/privacy-final.pdf)
 
+### Law Texts and Drafts
+
+This section is a collection of law texts and drafts pertaining to responsible AI.
+
+* [S.4769 - VET Artificial Intelligence Act](https://www.congress.gov/bill/118th-congress/senate-bill/4769/text)
+
 
 ## Education Resources
 
@@ -764,11 +774,17 @@ This section houses initiatives, networks, repositories, and publications that f
 
 #### Bibliography of Papers on AI Incidents and Failures
 
+* Bogucka, Edyta, Marios Constantinides, Julia De Miguel Velazquez, Sanja Šćepanović, Daniele Quercia, and Andrés Gvirtz. "The Atlas of AI Incidents in Mobile Computing: Visualizing the Risks and Benefits of AI Gone Mobile." *arXiv* (July 22, 2024). [https://doi.org/10.48550/arXiv.2407.15685](https://doi.org/10.48550/arXiv.2407.15685).
 * Chanda, Sasanka Sekhar, and Debarag Narayan Banerjee. "Omission and Commission Errors Underlying AI Failures." *AI & Society* 39 (2024): 937–960. Published November 17, 2022. [https://doi.org/10.1007/s00146-022-01477-w](https://doi.org/10.1007/s00146-022-01477-w).
 * Hong, Matthew K., Adam Fourney, Derek DeBellis, and Saleema Amershi. "Planning for Natural Language Failures with the AI Playbook." In *CHI '21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems*, Article 386, 1-11. Published May 7, 2021. [https://doi.org/10.1145/3411764.3445735](https://doi.org/10.1145/3411764.3445735).
 * McGregor, Sean. "Preventing Repeated Real World AI Failures by Cataloging Incidents: The AI Incident Database." *Proceedings of the AAAI Conference on Artificial Intelligence* 35, no. 17 (2021): 15458-15463. [https://doi.org/10.1609/aaai.v35i17.17817](https://doi.org/10.1609/aaai.v35i17.17817).
+* McGregor, Sean, Kevin Paeth, and Khoa Lam. "Indexing AI Risks with Incidents, Issues, and Variants." *arXiv* (November 18, 2022). [https://doi.org/10.48550/arXiv.2211.10384](https://doi.org/10.48550/arXiv.2211.10384).
+* Nasim, Syeda Faiza, Muhammad Rizwan Ali, and Umme Kulsoom. "Artificial Intelligence Incidents & Ethics: A Narrative Review." *International Journal of Technology, Innovation and Management* 2, no. 2 (October 2022): 52-64. [https://doi.org/10.54489/ijtim.v2i2.80](https://doi.org/10.54489/ijtim.v2i2.80).
+* O'Brien, Joe, Shaun Ee, and Zoe Williams. "Deployment Corrections: An Incident Response Framework for Frontier AI Models." *arXiv* (September 30, 2023). [https://doi.org/10.48550/arXiv.2310.00328](https://doi.org/10.48550/arXiv.2310.00328).
 * Schmill, Matthew D., Darsana Josyula, Michael L. Anderson, Shomir Wilson, Tim Oates, Don Perlis, Dean Wright, and Scott Fults. "Ontologies for Reasoning about Failures in AI Systems." In *Proceedings from the Workshop on Metareasoning in Agent Based Systems at the Sixth International Joint Conference on Autonomous Agents and Multiagent Systems*, 2007. [https://mclumd.github.io/ALMECOM%20Papers/2007/Schmill%20et%20al.%20-%202007%20-%20Ontologies%20for%20reasoning%20about%20failures%20in%20AI%20syst.pdf](https://mclumd.github.io/ALMECOM%20Papers/2007/Schmill%20et%20al.%20-%202007%20-%20Ontologies%20for%20reasoning%20about%20failures%20in%20AI%20syst.pdf).
 * Slota, Stephen C., Kenneth R. Fleischmann, Sherri Greenberg, Nitin Verma, Brenna Cummings, Lan Li, and Chris Shenefiel. "Good Systems, Bad Data?: Interpretations of AI Hype and Failures." *Proceedings of the Association for Information Science and Technology* 57, no. 1 (2020): e275. [https://doi.org/10.1002/pra2.275](https://doi.org/10.1002/pra2.275).
+* Stanley, Jeff C., and Stephen L. Dorton. "Exploring Trust With the AI Incident Database." *Proceedings of the Human Factors and Ergonomics Society Annual Meeting* 67, no. 1 (October 25, 2023). [https://doi.org/10.1177/21695067231198084](https://doi.org/10.1177/21695067231198084).
+* Wei, Mengyi, and Zhixuan Zhou. "AI Ethics Issues in Real World: Evidence from AI Incident Database." *arXiv* (August 18, 2022). [https://doi.org/10.48550/arXiv.2206.07635](https://doi.org/10.48550/arXiv.2206.07635).
 * Williams, Robert, and Roman Yampolskiy. "Understanding and Avoiding AI Failures: A Practical Guide." *Philosophies* 6, no. 3 (2021): 53. [https://doi.org/10.3390/philosophies6030053](https://doi.org/10.3390/philosophies6030053).
 * Yampolskiy, Roman V., and M. S. Spellchecker. "Artificial Intelligence Safety and Cybersecurity: A Timeline of AI Failures." *arXiv* (2016). [https://doi.org/10.48550/arXiv.1610.07997](https://doi.org/10.48550/arXiv.1610.07997).
 
@@ -806,6 +822,7 @@ This section contains an assortment of papers, articles, essays, and general res
 
 * [Against predictive optimization](https://predictive-optimization.cs.princeton.edu/)
 * [AI chatbots use racist stereotypes even after anti-racism training](https://www.newscientist.com/article/2421067-ai-chatbots-use-racist-stereotypes-even-after-anti-racism-training/)
+* [AI hype as a cyber security risk: the moral responsibility of implementing generative AI in business](https://link.springer.com/article/10.1007/s43681-024-00443-4)
 * [AI hype, promotional culture, and affective capitalism](https://link.springer.com/article/10.1007/s43681-024-00483-w)
 * [AI Is a Lot of Work](https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html)
 * [AI is effectively ‘useless’—and it’s created a ‘fake it till you make it’ bubble that could end in disaster, veteran market watcher warns](https://finance.yahoo.com/news/ai-effectively-useless-created-fake-194008129.html)
@@ -817,6 +834,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Are Language Models Actually Useful for Time Series Forecasting?](https://arxiv.org/abs/2406.16964v1)
 * [Artificial Hallucinations in ChatGPT: Implications in Scientific Writing](https://assets.cureus.com/uploads/editorial/pdf/138667/20230219-28928-6kcyip.pdf)
 * [Artificial intelligence and illusions of understanding in scientific research](https://rdcu.be/dAw4I)
+* [Artificial Intelligence: Hope for Future or Hype by Intellectuals?](https://ieeexplore.ieee.org/abstract/document/9596410)
 * [ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](https://arxiv.org/pdf/2402.11753.pdf)
 * [Aylin Caliskan's publications](https://faculty.washington.edu/aylin/publications.html)
 * [Chatbots in consumer finance](https://www.consumerfinance.gov/data-research/research-reports/chatbots-in-consumer-finance/chatbots-in-consumer-finance/)
@@ -836,6 +854,8 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Generative AI: UNESCO study reveals alarming evidence of regressive gender stereotypes](https://www.unesco.org/en/articles/generative-ai-unesco-study-reveals-alarming-evidence-regressive-gender-stereotypes)
 * [Get Ready for the Great AI Disappointment](https://www.wired.com/story/get-ready-for-the-great-ai-disappointment/)
 * [Ghost in the Cloud: Transhumanism’s simulation theology](https://www.nplusonemag.com/issue-28/essays/ghost-in-the-cloud/)
+* [Handling the hype: Implications of AI hype for public interest tech projects](https://www.tatup.de/index.php/tatup/article/view/7080)
+* [HealthManagement.org, The Journal, Volume 19, Issue 2, 2019, Artificial Hype](https://egve.hu/downloads/health_management/health_management_2019_2_szam.pdf)
 * [How AI hype impacts the LGBTQ + community](https://link.springer.com/article/10.1007/s43681-024-00423-8)
 * [How AI lies, cheats, and grovels to succeed - and what we need to do about it](https://www.zdnet.com/article/how-ai-lies-cheats-and-grovels-to-succeed-and-what-we-need-to-do-about-it/)
 * [Identifying and Eliminating CSAM in Generative ML Training Data and Models](https://stacks.stanford.edu/file/druid:kh752sm9123/ml_training_data_csam_report-2023-12-23.pdf)
@@ -1132,6 +1152,7 @@ This section contains open source or open access software used to implement resp
 | [langtest](https://github.com/JohnSnowLabs/langtest)![](https://img.shields.io/github/stars/JohnSnowLabs/langtest?style=social) | "LangTest: Deliver Safe & Effective Language Models"
 | [learning-fair-representations](https://github.com/zjelveh/learning-fair-representations)![](https://img.shields.io/github/stars/zjelveh/learning-fair-representations?style=social) | "Python numba implementation of Zemel et al. 2013 <http://www.cs.toronto.edu/~toni/Papers/icml-final.pdf>"
 | [leeky: Leakage/contamination testing for black box language models](https://github.com/mjbommar/leeky)![](https://img.shields.io/github/stars/mjbommar/leeky?style=social) | "leeky - training data contamination techniques for blackbox models" |
+| [leondz / garak, LLM vulnerability scanner](https://github.com/leondz/garak)![](https://img.shields.io/github/stars/leondz/garak?style=social) | "LLM vulnerability scanner" |
 | [lilac](https://github.com/lilacai/lilac)![](https://img.shields.io/github/stars/lilacai/lilac?style=social) | "Curate better data for LLMs." |
 | [lime](https://github.com/marcotcr/lime)![](https://img.shields.io/github/stars/marcotcr/lime?style=social) | "explaining what machine learning classifiers (or models) are doing. At the moment, we support explaining individual predictions for text classifiers or classifiers that act on tables (numpy arrays of numerical or categorical data) or images, with a package called lime (short for local interpretable model-agnostic explanations).” |
 | [LiFT](https://github.com/linkedin/LiFT)![](https://img.shields.io/github/stars/linkedin/LiFT?style=social) | "The LinkedIn Fairness Toolkit (LiFT) is a Scala/Spark library that enables the measurement of fairness and the mitigation of bias in large-scale machine learning workflows. The measurement module includes measuring biases in training data, evaluating fairness metrics for ML models, and detecting statistically significant differences in their performance across different subgroups.” |
