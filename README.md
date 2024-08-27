@@ -16,6 +16,21 @@ If something you contributed or found here is missing after our September 2023 r
     * [Generative AI Explainability](#generative-ai-explainability)
   * [Conferences and Workshops](#conferences-and-workshops)
   * [Official Policy, Frameworks, and Guidance](#official-policy-frameworks-and-guidance)
+    * [Australia](#australia)
+    * [Canada](#canada)
+    * [France](#france)
+    * [Germany](#germany)
+    * [Netherlands](#netherlands)
+    * [New Zealand](#new-zealand)
+    * [Singapore](#singapore)
+    * [United Kingdom](#united-kingdom)
+    * [United States (Federal Government)](#united-states-federal-government)
+    * [United States (State Governments)](#united-states-state-governments)
+    * [International and Multilateral Frameworks](#international-and-multilateral-frameworks)
+    * [European Union Policies and Regulations](#european-union-policies-and-regulations)
+      * [European Commission and Parliament](#european-commission-and-parliament)
+      * [European Data Protection Authorities](#european-data-protection-authorities)
+    * [OECD and Other International Bodies](#oecd-and-other-international-bodies)
   * [Law Texts and Drafts](#law-texts-and-drafts)
 
 * **Education Resources**
@@ -632,9 +647,9 @@ This section serves as a repository for policy documents, regulations, guideline
 **Utah**
 * [Questions from the Commission on Protecting Privacy and Preventing Discrimination](https://auditor.utah.gov/wp-content/uploads/sites/6/2021/02/Office-of-the-State-Auditor-Questions-to-help-Procuring-Agencies-_-Entities-with-Software-Procurement-Feb-1-2021-Final.pdf)
 
-### International and Multilateral Frameworks
+#### International and Multilateral Frameworks
 
-### European Union Policies and Regulations
+#### European Union Policies and Regulations
 
 #### European Commission and Parliament
 * [Assessment List for Trustworthy Artificial Intelligence (ALTAI) for self-assessment - Shaping Europe’s digital future - European Commission](https://ec.europa.eu/digital-single-market/en/news/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment)
@@ -665,8 +680,23 @@ This section serves as a repository for policy documents, regulations, guideline
 
 This section is a collection of law texts and drafts pertaining to responsible AI.
 
+* [Algorithmic Accountability Act of 2023](https://www.govinfo.gov/app/details/BILLS-118hr5628ih/)
+* [Artificial Intelligence (AI) in the Securities Industry](https://www.finra.org/sites/default/files/2020-06/ai-report-061020.pdf)
+* [Biometric Information Privacy Act](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57)
+* [California Consumer Privacy Act of 2018, Civil Code - DIVISION 3. OBLIGATIONS [1427 - 3273.69]](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&part=4.&lawCode=CIV&title=1.81.5)
+* [Colorado General Assembly, SB24-205 Consumer Protections for Artificial Intelligence, Concerning consumer protections in interactions with artificial intelligence systems](https://leg.colorado.gov/bills/SB24-205)
+* [Consumer Data Protection Act (Code of Virginia)](https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/)
+* [Data Availability and Transparency Act 2022 (Australia)](https://www.datacommissioner.gov.au/law/dat-act)
+* [Executive Order 13960 (2020-12-03), Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government](https://www.federalregister.gov/documents/2020/12/08/2020-27065/promoting-the-use-of-trustworthy-artificial-intelligence-in-the-federal-government)
+* [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
+* [Facial Recognition and Biometric Technology Moratorium Act of 2020](https://drive.google.com/file/d/1gkTcjFtieMQdsQ01dmDa49B6HY9ZyKr8/view)
+* [Federal Consumer Online Privacy Rights Act (COPRA)](https://www.consumerprivacyact.com/federal/)
+* [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
+  * [Article 22 EU GDPR "Automated individual decision-making, including profiling"](https://www.privacy-regulation.eu/en/article-22-automated-individual-decision-making-including-profiling-GDPR.htm)
+* [Justice in Policing Act](https://democrats-judiciary.house.gov/issues/issue/?IssueID=14924)
+* [National Conference of State Legislatures (NCSL) 2020 Consumer Data Privacy Legislation](https://www.ncsl.org/technology-and-communication/2020-consumer-data-privacy-legislation)
+* [Privacy Act 1988 (Australia)](https://www.legislation.gov.au/Details/C2014C00076)
 * [S.4769 - VET Artificial Intelligence Act](https://www.congress.gov/bill/118th-congress/senate-bill/4769/text)
-
 
 ## Education Resources
 
