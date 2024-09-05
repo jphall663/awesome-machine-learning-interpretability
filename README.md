@@ -30,7 +30,9 @@ If something you contributed or found here is missing after our September 2023 r
     * [European Union Policies and Regulations](#european-union-policies-and-regulations)
       * [European Commission and Parliament](#european-commission-and-parliament)
       * [European Data Protection Authorities](#european-data-protection-authorities)
-    * [OECD and Other International Bodies](#oecd-and-other-international-bodies)
+    * [OECD](#oecd)
+    * [NATO](#nato)
+    * [United Nations](#united-nations)
   * [Law Texts and Drafts](#law-texts-and-drafts)
 
 * **Education Resources**
@@ -132,6 +134,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Fairly's Global AI Regulations Map](https://github.com/fairlyAI/global-ai-regulations-map/blob/dev/README.md)![](https://img.shields.io/github/stars/fairlyAI/global-ai-regulations-map?style=social)
 * [FATML Principles and Best Practices](https://www.fatml.org/resources/principles-and-best-practices)
 * [Federation of American Scientists, A NIST Foundation To Support The Agency’s AI Mandate](https://fas.org/publication/nist-foundation/)
+* [Financial Industry Regulatory Authority (FINRA), Artificial Intelligence (AI) in the Securities Industry](https://www.finra.org/sites/default/files/2020-06/ai-report-061020.pdf)
 * [ForHumanity Body of Knowledge (BOK)](https://forhumanity.center/bok/)
 * [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/)
   * [Trustible, Model Transparency Ratings](https://aimodelratings.com/)
@@ -209,6 +212,8 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Partnership on AI, PAI’s Guidance for Safe Foundation Model Deployment: A Framework for Collective Action](https://partnershiponai.org/modeldeployment/)
 * [Partnership on AI, Responsible Practices for Synthetic Media: A Framework for Collective Action](https://syntheticmedia.partnershiponai.org/)
 * [PwC's Responsible AI](https://www.pwc.com/gx/en/issues/data-and-analytics/artificial-intelligence/what-is-responsible-ai.html)
+* [RAND Corporation, U.S. Tort Liability for Large-Scale Artificial Intelligence Damages
+A Primer for Developers and Policymakers](https://www.rand.org/pubs/research_reports/RRA3084-1.html)
 * [RAND Corporation, Analyzing Harms from AI-Generated Images and Safeguarding Online Authenticity](https://www.rand.org/pubs/perspectives/PEA3131-1.html)
 * [Ravit Dotan's Projects](https://www.techbetter.ai/projects-1)
 * [Real-World Strategies for Model Debugging](https://towardsdatascience.com/strategies-for-model-debugging-aa822f1097ce)
@@ -236,7 +241,9 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Warning Signs: The Future of Privacy and Security in an Age of Machine Learning](https://fpf.org/wp-content/uploads/2019/09/FPF_WarningSigns_Report.pdf)
 * [When Not to Trust Your Explanations](https://docs.google.com/presentation/d/10a0PNKwoV3a1XChzvY-T1mWudtzUIZi3sCMzVwGSYfM/edit)
 * [Why We Need to Know More: Exploring the State of AI Incident Documentation Practices](https://dl.acm.org/doi/fullHtml/10.1145/3600211.3604700)
+* [WilmerHale, What Are High-Risk AI Systems Within the Meaning of the EU’s AI Act, and What Requirements Apply to Them?](https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20240717-what-are-highrisk-ai-systems-within-the-meaning-of-the-eus-ai-act-and-what-requirements-apply-to-them)
 * [World Economic Forum, Responsible AI Playbook for Investors](https://www.weforum.org/publications/responsible-ai-playbook-for-investors/)
+* [World Privacy Forum, AI Governance on the Ground: Canada’s Algorithmic Impact Assessment Process and Algorithm has evolved](https://www.worldprivacyforum.org/2024/08/ai-governance-on-the-ground-series-canada/)
 * [World Privacy Forum, Risky Analysis: Assessing and Improving AI Governance Tools](https://www.worldprivacyforum.org/wp-content/uploads/2023/12/WPF_Risky_Analysis_December_2023_fs.pdf)
 * [You Created A Machine Learning Application Now Make Sure It's Secure](https://www.oreilly.com/ideas/you-created-a-machine-learning-application-now-make-sure-its-secure)
 
@@ -499,6 +506,9 @@ This section serves as a repository for policy documents, regulations, guideline
 **Congressional Research Service** 
 * [Artificial Intelligence: Overview, Recent Advances, and Considerations for the 118th Congress](https://www.energy.gov/sites/default/files/2023-09/Artificial%20Intelligence%20Overview%2C%20Recent%20Advances%2C%20and%20Considerations%20for%20the%20118th%20Congress.pdf)
 
+**Copyright Office**
+* [Copyright and Artificial Intelligence, Part 1: Digital Replicas, July 2024](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf)
+
 **Data.gov**
 * [Privacy Policy and Data Policy](https://data.gov/privacy-policy/)
  
@@ -600,7 +610,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Children's Online Privacy Protection Rule ("COPPA")](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)
 * [Privacy Policy](https://www.ftc.gov/policy-notices/privacy-policy)
 * [Software as a Medical Device (SAMD) guidance (December 8, 2017)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/software-medical-device-samd-clinical-evaluation)
-  
+
 **Government Accountability Office (GAO)** 
 * [Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities, GAO-21-519SP](https://www.gao.gov/products/gao-21-519sp) 
 
@@ -671,33 +681,42 @@ This section serves as a repository for policy documents, regulations, guideline
 * [OECD.AI, The Bias Assessment Metrics and Measures Repository](https://oecd.ai/en/catalogue/tools/the-bias-assessment-metrics-and-measures-repository)
 * [OECD, AI, data governance and privacy: Synergies and areas of international co-operation](https://www.oecd.org/en/publications/ai-data-governance-and-privacy_2476b1a4-en.html)
 * [OECD, Open, Useful and Re-usable data (OURdata) Index: 2019 - Policy Paper](https://www.oecd.org/gov/digital-government/policy-paper-ourdata-index-2019.htm)
-* [UNESCO, Artificial Intelligence: examples of ethical dilemmas](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases)
-* [Office of the United Nations High Commissioner for Human Rights](https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/taxonomy-GenAI-Human-Rights-Harms.pdf)
 
 #### NATO
-* [NATO, Narrative Detection and Topic Modelling in the Baltics](https://stratcomcoe.org/publications/narrative-detection-and-topic-modelling-in-the-baltics/303)
+* [AI in Precision Persuasion. Unveiling Tactics and Risks on Social Media](https://stratcomcoe.org/publications/ai-in-precision-persuasion-unveiling-tactics-and-risks-on-social-media/309)
+* [Narrative Detection and Topic Modelling in the Baltics](https://stratcomcoe.org/publications/narrative-detection-and-topic-modelling-in-the-baltics/303)
+
+#### United Nations
+* [UNESCO, Artificial Intelligence: examples of ethical dilemmas](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases)
+* [UNESCO, Consultation paper on AI regulation: emerging approaches across the world](https://unesdoc.unesco.org/ark:/48223/pf0000390979)
+* [Office of the United Nations High Commissioner for Human Rights](https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/taxonomy-GenAI-Human-Rights-Harms.pdf)
 
 ### Law Texts and Drafts
 
 This section is a collection of law texts and drafts pertaining to responsible AI.
 
 * [Algorithmic Accountability Act of 2023](https://www.govinfo.gov/app/details/BILLS-118hr5628ih/)
-* [Artificial Intelligence (AI) in the Securities Industry](https://www.finra.org/sites/default/files/2020-06/ai-report-061020.pdf)
-* [Biometric Information Privacy Act](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57)
-* [California Consumer Privacy Act of 2018, Civil Code - DIVISION 3. OBLIGATIONS [1427 - 3273.69]](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&part=4.&lawCode=CIV&title=1.81.5)
-* [Colorado General Assembly, SB24-205 Consumer Protections for Artificial Intelligence, Concerning consumer protections in interactions with artificial intelligence systems](https://leg.colorado.gov/bills/SB24-205)
-* [Consumer Data Protection Act (Code of Virginia)](https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/)
-* [Data Availability and Transparency Act 2022 (Australia)](https://www.datacommissioner.gov.au/law/dat-act)
+* [Arizona, House Bill 2685](https://www.azleg.gov/legtext/55leg/2r/bills/hb2685h.htm)
+* [Australia, Data Availability and Transparency Act 2022](https://www.datacommissioner.gov.au/law/dat-act)
+* [Australia, Privacy Act 1988](https://www.legislation.gov.au/Details/C2014C00076)
+* [California, Consumer Privacy Act of 2018, Civil Code - DIVISION 3. OBLIGATIONS [1427 - 3273.69]](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&part=4.&lawCode=CIV&title=1.81.5)
+* [Colorado, SB24-205 Consumer Protections for Artificial Intelligence, Concerning consumer protections in interactions with artificial intelligence systems](https://leg.colorado.gov/bills/SB24-205)
+* [European Union, General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
+  * [Article 22 EU GDPR "Automated individual decision-making, including profiling"](https://www.privacy-regulation.eu/en/article-22-automated-individual-decision-making-including-profiling-GDPR.htm)
 * [Executive Order 13960 (2020-12-03), Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government](https://www.federalregister.gov/documents/2020/12/08/2020-27065/promoting-the-use-of-trustworthy-artificial-intelligence-in-the-federal-government)
 * [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
 * [Facial Recognition and Biometric Technology Moratorium Act of 2020](https://drive.google.com/file/d/1gkTcjFtieMQdsQ01dmDa49B6HY9ZyKr8/view)
 * [Federal Consumer Online Privacy Rights Act (COPRA)](https://www.consumerprivacyact.com/federal/)
-* [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
-  * [Article 22 EU GDPR "Automated individual decision-making, including profiling"](https://www.privacy-regulation.eu/en/article-22-automated-individual-decision-making-including-profiling-GDPR.htm)
+* [Germany, Bundesrat Drucksache 222/24 - Entwurf eines Gesetzes zum strafrechtlichen Schutz von Persönlichkeitsrechten vor Deepfakes (Draft Law on the Criminal Protection of Personality Rights from Deepfakes)](https://www.bundesrat.de/SharedDocs/drucksachen/2024/0201-0300/222-24(B).pdf?__blob=publicationFile&v=1)
+* [Illinois, Biometric Information Privacy Act](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57)
 * [Justice in Policing Act](https://democrats-judiciary.house.gov/issues/issue/?IssueID=14924)
 * [National Conference of State Legislatures (NCSL) 2020 Consumer Data Privacy Legislation](https://www.ncsl.org/technology-and-communication/2020-consumer-data-privacy-legislation)
-* [Privacy Act 1988 (Australia)](https://www.legislation.gov.au/Details/C2014C00076)
-* [S.4769 - VET Artificial Intelligence Act](https://www.congress.gov/bill/118th-congress/senate-bill/4769/text)
+* [Nebraska, LB1203 - Regulate artificial intelligence in media and political advertisements under the Nebraska Political Accountability and Disclosure Act](https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55088)
+* [Rhode Island, Executive Order 24-06: Artificial Intelligence and Data Centers of Excellence](https://governor.ri.gov/executive-orders/executive-order-24-06)
+* [Virginia, Consumer Data Protection Act](https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/)
+* [Washington State, SB 6513 - 2019-20](https://apps.leg.wa.gov/billsummary/?BillNumber=6513&Year=2020&Initiative=false)
+* [United States Congress, 118th Congress (2023-2024), H.R.5586 - DEEPFAKES Accountability Act](https://www.congress.gov/bill/118th-congress/house-bill/5586/text)
+* [United States Congress, 118th Congress (2023-2024), S.4769 - VET Artificial Intelligence Act](https://www.congress.gov/bill/118th-congress/senate-bill/4769/text)
 
 ## Education Resources
 
@@ -889,7 +908,9 @@ This section houses initiatives, networks, repositories, and publications that f
 
 * Bogucka, Edyta, Marios Constantinides, Julia De Miguel Velazquez, Sanja Šćepanović, Daniele Quercia, and Andrés Gvirtz. "The Atlas of AI Incidents in Mobile Computing: Visualizing the Risks and Benefits of AI Gone Mobile." *arXiv* (July 22, 2024). [https://doi.org/10.48550/arXiv.2407.15685](https://doi.org/10.48550/arXiv.2407.15685).
 * Chanda, Sasanka Sekhar, and Debarag Narayan Banerjee. "Omission and Commission Errors Underlying AI Failures." *AI & Society* 39 (2024): 937–960. Published November 17, 2022. [https://doi.org/10.1007/s00146-022-01477-w](https://doi.org/10.1007/s00146-022-01477-w).
+* Grosse, Kathrin, Lukas Bieringer, Tarek R. Besold, Battista Biggio, and Alexandre Alahi. "When Your AI Becomes a Target: AI Security Incidents and Best Practices." *Proceedings of the AAAI Conference on Artificial Intelligence* 38, no. 21 (March 24, 2024): 23041-23046. [https://doi.org/10.1609/aaai.v38i21.30347](https://doi.org/10.1609/aaai.v38i21.30347).
 * Hong, Matthew K., Adam Fourney, Derek DeBellis, and Saleema Amershi. "Planning for Natural Language Failures with the AI Playbook." In *CHI '21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems*, Article 386, 1-11. Published May 7, 2021. [https://doi.org/10.1145/3411764.3445735](https://doi.org/10.1145/3411764.3445735).
+* May, Richard, Jacob Krüger, and Thomas Leich. "SoK: How Artificial-Intelligence Incidents Can Jeopardize Safety and Security." In *Proceedings of the 19th International Conference on Availability, Reliability and Security (ARES '24)*, Article 44, 1-12. July 30, 2024. [https://doi.org/10.1145/3664476.3664510](https://doi.org/10.1145/3664476.3664510).
 * McGregor, Sean. "Preventing Repeated Real World AI Failures by Cataloging Incidents: The AI Incident Database." *Proceedings of the AAAI Conference on Artificial Intelligence* 35, no. 17 (2021): 15458-15463. [https://doi.org/10.1609/aaai.v35i17.17817](https://doi.org/10.1609/aaai.v35i17.17817).
 * McGregor, Sean, Kevin Paeth, and Khoa Lam. "Indexing AI Risks with Incidents, Issues, and Variants." *arXiv* (November 18, 2022). [https://doi.org/10.48550/arXiv.2211.10384](https://doi.org/10.48550/arXiv.2211.10384).
 * Nasim, Syeda Faiza, Muhammad Rizwan Ali, and Umme Kulsoom. "Artificial Intelligence Incidents & Ethics: A Narrative Review." *International Journal of Technology, Innovation and Management* 2, no. 2 (October 2022): 52-64. [https://doi.org/10.54489/ijtim.v2i2.80](https://doi.org/10.54489/ijtim.v2i2.80).
@@ -913,6 +934,7 @@ This section contains trackers, databases, and repositories of laws, policies, a
 * [IAPP US State Privacy Legislation Tracker](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/)
 * [Institute for the Future of Work, Tracking international legislation relevant to AI at work](https://www.ifow.org/publications/legislation-tracker)
 * [Legal Nodes, Global AI Regulations Tracker: Europe, Americas & Asia-Pacific Overview](https://legalnodes.com/article/global-ai-regulations-tracker)
+* [National Conference of State Legislatures, Deceptive Audio or Visual Media (‘Deepfakes’) 2024 Legislation](https://www.ncsl.org/technology-and-communication/deceptive-audio-or-visual-media-deepfakes-2024-legislation)
 * [OECD.AI, National AI policies & strategies](https://oecd.ai/en/dashboards/overview)
 * [Raymond Sun, Global AI Regulation Tracker](https://www.techieray.com/GlobalAIRegulationTracker)
 * [Runway Strategies, Global AI Regulation Tracker](https://www.runwaystrategies.co/global-ai-regulation-tracker)
@@ -969,6 +991,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Get Ready for the Great AI Disappointment](https://www.wired.com/story/get-ready-for-the-great-ai-disappointment/)
 * [Ghost in the Cloud: Transhumanism’s simulation theology](https://www.nplusonemag.com/issue-28/essays/ghost-in-the-cloud/)
 * [Handling the hype: Implications of AI hype for public interest tech projects](https://www.tatup.de/index.php/tatup/article/view/7080)
+* [The harms of terminology: why we should reject so-called “frontier AI”](https://link.springer.com/article/10.1007/s43681-024-00438-1)
 * [HealthManagement.org, The Journal, Volume 19, Issue 2, 2019, Artificial Hype](https://egve.hu/downloads/health_management/health_management_2019_2_szam.pdf)
 * [How AI hype impacts the LGBTQ + community](https://link.springer.com/article/10.1007/s43681-024-00423-8)
 * [How AI lies, cheats, and grovels to succeed - and what we need to do about it](https://www.zdnet.com/article/how-ai-lies-cheats-and-grovels-to-succeed-and-what-we-need-to-do-about-it/)
@@ -1016,6 +1039,10 @@ This section contains an assortment of papers, articles, essays, and general res
 
 * [AI already uses as much energy as a small country. It’s only the beginning.](https://www.vox.com/climate/2024/3/28/24111721/ai-uses-a-lot-of-energy-experts-expect-it-to-double-in-just-a-few-years)
 * [The AI Carbon Footprint and Responsibilities of AI Scientists](https://www.mdpi.com/2409-9287/7/1/4)
+* [Beyond CO2 Emissions: The Overlooked Impact of Water Consumption of Information Retrieval Models](https://dl.acm.org/doi/abs/10.1145/3578337.3605121)
+* [The carbon impact of artificial intelligence](https://www.nature.com/articles/s42256-020-0219-9)
+* [Data centre water consumption](https://www.nature.com/articles/s41545-021-00101-w)
+* [Environment and sustainability development: A ChatGPT perspective](https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003471059-8/environment-sustainability-development-chatgpt-perspective-priyanka-bhaskar-neha-seth)
 * [The Environmental Impact of AI: A Case Study of Water Consumption by Chat GPT](https://puiij.com/index.php/research/article/view/39)
 * [The Environmental Price of Intelligence: Evaluating the Social Cost of Carbon in Machine Learning](https://ieeexplore.ieee.org/abstract/document/10553496)
 * [Generative AI’s environmental costs are soaring — and mostly secret](https://www.nature.com/articles/d41586-024-00478-x)
@@ -1036,6 +1063,7 @@ This section contains an assortment of papers, articles, essays, and general res
 We are seeking curated bibliographies related to responsible ML across various topics, see [issue 115](https://github.com/jphall663/awesome-machine-learning-interpretability/issues/115). 
 
 * [Blair Attard-Frost, INF1005H1S: Artificial Intelligence Policy Supplementary Reading List](https://www.blairaf.com/library/resources/teaching/2024-INF1005H1S/INF1005-Supplementary-Reading-List.pdf)
+* [Internet Rules Lab, Responsible Computing](https://www.internetruleslab.com/responsible-computing)
 * [LLM Security & Privacy](https://github.com/chawins/llm-sp)![](https://img.shields.io/github/stars/chawins/llm-sp?style=social)
 * [Membership Inference Attacks and Defenses on Machine Learning Models Literature](https://github.com/HongshengHu/membership-inference-machine-learning-literature)![](https://img.shields.io/github/stars/HongshengHu/membership-inference-machine-learning-literature?style=social)
 * [White & Case, AI Watch: Global regulatory tracker - United States](https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-united-states)
