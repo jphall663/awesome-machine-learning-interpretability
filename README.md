@@ -476,6 +476,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Personal Data Protection Commission (PDPC), Privacy Enhancing Technology (PET): Proposed Guide on Synthetic Data Generation](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/other-guides/proposed-guide-on-synthetic-data-generation.pdf)
 
 #### United Kingdom
+* [AI Safety Institute (AISI), Safety cases at AISI](https://www.aisi.gov.uk/work/safety-cases-at-aisi)
 * [Department for Science, Innovation and Technology and AI Safety Institute, International Scientific Report on the Safety of Advanced AI](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai)
 * [Department for Science, Innovation and Technology, The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)
 * [Department for Science, Innovation and Technology, Frontier AI: capabilities and risks - discussion paper (United Kingdom)](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper)
@@ -949,6 +950,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Artificial Intelligence: Hope for Future or Hype by Intellectuals?](https://ieeexplore.ieee.org/abstract/document/9596410)
 * [ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](https://arxiv.org/pdf/2402.11753.pdf)
 * [Aylin Caliskan's publications](https://faculty.washington.edu/aylin/publications.html)
+* [Beyond Preferences in AI Alignment](https://arxiv.org/pdf/2408.16984)
 * [Chatbots in consumer finance](https://www.consumerfinance.gov/data-research/research-reports/chatbots-in-consumer-finance/chatbots-in-consumer-finance/)
 * [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
 * [Companies like Google and OpenAI are pillaging the internet and pretending it’s progress](https://bgr.com/business/companies-like-google-and-openai-are-pillaging-the-internet-and-pretending-its-progress/)
