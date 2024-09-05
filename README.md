@@ -42,7 +42,7 @@ If something you contributed or found here is missing after our September 2023 r
   * [Open-ish Classes](#open-ish-classes)
   * [Podcasts and Channels](#podcasts-and-channels)
 
-* **Miscellaneous Resources**
+* **AI Incidents, Critiques, and Research Resources**
   * [AI Incident Information Sharing Resources](#ai-incident-information-sharing-resources)
     * [Bibliography of Papers on AI Incidents and Failures](#bibliography-of-papers-on-ai-incidents-and-failures)
   * [AI Law, Policy, and Guidance Trackers](#ai-law-policy-and-guidance-trackers)
@@ -887,7 +887,7 @@ This section features podcasts and channels (such as on YouTube) that offer insi
 * [Tech Won't Save Us](https://techwontsave.us/)
 
 
-## Miscellaneous Resources
+## AI Incidents, Critiques, and Research Resources
 
 ### AI Incident Information Sharing Resources
 
