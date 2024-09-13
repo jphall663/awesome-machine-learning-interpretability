@@ -1061,6 +1061,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Generative AI’s environmental costs are soaring — and mostly secret](https://www.nature.com/articles/d41586-024-00478-x)
 * [The Hidden Environmental Impact of AI](https://jacobin.com/2024/06/ai-data-center-energy-usage-environment/)
 * [Making AI Less "Thirsty": Uncovering and Addressing the Secret Water Footprint of AI Models](https://arxiv.org/abs/2304.03271)
+* [Microsoft’s Hypocrisy on AI](https://www.theatlantic.com/technology/archive/2024/09/microsoft-ai-oil-contracts/679804/)
 * [The mechanisms of AI hype and its planetary and social costs](https://link.springer.com/article/10.1007/s43681-024-00461-2)
 * [Power Hungry Processing: Watts Driving the Cost of AI Deployment?](https://dl.acm.org/doi/pdf/10.1145/3630106.3658542)
 * [Promoting Sustainability: Mitigating the Water Footprint in AI-Embedded Data Centres](https://www.igi-global.com/chapter/promoting-sustainability/341617)
