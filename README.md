@@ -907,7 +907,7 @@ This section houses initiatives, networks, repositories, and publications that f
 #### Bibliography of Papers on AI Incidents and Failures
 
 * [The Atlas of AI Incidents in Mobile Computing: Visualizing the Risks and Benefits of AI Gone Mobile](https://doi.org/10.48550/arXiv.2407.15685)
-* [Omission and Commission Errors Underlying AI Failures](https://doi.org/10.1007/s00146-022-01585-x))
+* [Omission and Commission Errors Underlying AI Failures](https://doi.org/10.1007/s00146-022-01585-x)
 * [When Your AI Becomes a Target: AI Security Incidents and Best Practices](https://doi.org/10.1609/aaai.v38i21.30347)
 * [Planning for Natural Language Failures with the AI Playbook](https://doi.org/10.1145/3411764.3445735)
 * [SoK: How Artificial-Intelligence Incidents Can Jeopardize Safety and Security](https://doi.org/10.1145/3664476.3664510)
