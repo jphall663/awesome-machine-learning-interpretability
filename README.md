@@ -507,9 +507,10 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Responsible Artificial Intelligence in Financial Markets](https://www.cftc.gov/PressRoom/PressReleases/8905-24)
 
 **Congressional Research Service** 
-* [Artificial Intelligence and Machine Learning in Financial Services, April 3, 2024](https://crsreports.congress.gov/product/pdf/R/R47997)
+* [Artificial Intelligence: Background, Selected Issues, and Policy Considerations, May 19, 2021](https://crsreports.congress.gov/product/pdf/R/R46795)
 * [Artificial Intelligence: Overview, Recent Advances, and Considerations for the 118th Congress, August 4, 2023](https://www.energy.gov/sites/default/files/2023-09/Artificial%20Intelligence%20Overview%2C%20Recent%20Advances%2C%20and%20Considerations%20for%20the%20118th%20Congress.pdf)
 * [Highlights of the 2023 Executive Order on Artificial Intelligence for Congress, November 17, 2023](https://crsreports.congress.gov/product/pdf/R/R47843/2)
+* [Artificial Intelligence and Machine Learning in Financial Services, April 3, 2024](https://crsreports.congress.gov/product/pdf/R/R47997)
 
 **Copyright Office**
 * [Copyright and Artificial Intelligence, Part 1: Digital Replicas, July 2024](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf)
