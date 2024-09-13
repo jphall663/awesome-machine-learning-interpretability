@@ -906,21 +906,21 @@ This section houses initiatives, networks, repositories, and publications that f
 
 #### Bibliography of Papers on AI Incidents and Failures
 
-* Bogucka, Edyta, Marios Constantinides, Julia De Miguel Velazquez, Sanja Šćepanović, Daniele Quercia, and Andrés Gvirtz. "The Atlas of AI Incidents in Mobile Computing: Visualizing the Risks and Benefits of AI Gone Mobile." *arXiv* (July 22, 2024). [https://doi.org/10.48550/arXiv.2407.15685](https://doi.org/10.48550/arXiv.2407.15685).
-* Chanda, Sasanka Sekhar, and Debarag Narayan Banerjee. "Omission and Commission Errors Underlying AI Failures." *AI & Society* 39 (2024): 937–960. Published November 17, 2022. [https://doi.org/10.1007/s00146-022-01477-w](https://doi.org/10.1007/s00146-022-01477-w).
-* Grosse, Kathrin, Lukas Bieringer, Tarek R. Besold, Battista Biggio, and Alexandre Alahi. "When Your AI Becomes a Target: AI Security Incidents and Best Practices." *Proceedings of the AAAI Conference on Artificial Intelligence* 38, no. 21 (March 24, 2024): 23041-23046. [https://doi.org/10.1609/aaai.v38i21.30347](https://doi.org/10.1609/aaai.v38i21.30347).
-* Hong, Matthew K., Adam Fourney, Derek DeBellis, and Saleema Amershi. "Planning for Natural Language Failures with the AI Playbook." In *CHI '21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems*, Article 386, 1-11. Published May 7, 2021. [https://doi.org/10.1145/3411764.3445735](https://doi.org/10.1145/3411764.3445735).
-* May, Richard, Jacob Krüger, and Thomas Leich. "SoK: How Artificial-Intelligence Incidents Can Jeopardize Safety and Security." In *Proceedings of the 19th International Conference on Availability, Reliability and Security (ARES '24)*, Article 44, 1-12. July 30, 2024. [https://doi.org/10.1145/3664476.3664510](https://doi.org/10.1145/3664476.3664510).
-* McGregor, Sean. "Preventing Repeated Real World AI Failures by Cataloging Incidents: The AI Incident Database." *Proceedings of the AAAI Conference on Artificial Intelligence* 35, no. 17 (2021): 15458-15463. [https://doi.org/10.1609/aaai.v35i17.17817](https://doi.org/10.1609/aaai.v35i17.17817).
-* McGregor, Sean, Kevin Paeth, and Khoa Lam. "Indexing AI Risks with Incidents, Issues, and Variants." *arXiv* (November 18, 2022). [https://doi.org/10.48550/arXiv.2211.10384](https://doi.org/10.48550/arXiv.2211.10384).
-* Nasim, Syeda Faiza, Muhammad Rizwan Ali, and Umme Kulsoom. "Artificial Intelligence Incidents & Ethics: A Narrative Review." *International Journal of Technology, Innovation and Management* 2, no. 2 (October 2022): 52-64. [https://doi.org/10.54489/ijtim.v2i2.80](https://doi.org/10.54489/ijtim.v2i2.80).
-* O'Brien, Joe, Shaun Ee, and Zoe Williams. "Deployment Corrections: An Incident Response Framework for Frontier AI Models." *arXiv* (September 30, 2023). [https://doi.org/10.48550/arXiv.2310.00328](https://doi.org/10.48550/arXiv.2310.00328).
-* Schmill, Matthew D., Darsana Josyula, Michael L. Anderson, Shomir Wilson, Tim Oates, Don Perlis, Dean Wright, and Scott Fults. "Ontologies for Reasoning about Failures in AI Systems." In *Proceedings from the Workshop on Metareasoning in Agent Based Systems at the Sixth International Joint Conference on Autonomous Agents and Multiagent Systems*, 2007. [https://mclumd.github.io/ALMECOM%20Papers/2007/Schmill%20et%20al.%20-%202007%20-%20Ontologies%20for%20reasoning%20about%20failures%20in%20AI%20syst.pdf](https://mclumd.github.io/ALMECOM%20Papers/2007/Schmill%20et%20al.%20-%202007%20-%20Ontologies%20for%20reasoning%20about%20failures%20in%20AI%20syst.pdf).
-* Slota, Stephen C., Kenneth R. Fleischmann, Sherri Greenberg, Nitin Verma, Brenna Cummings, Lan Li, and Chris Shenefiel. "Good Systems, Bad Data?: Interpretations of AI Hype and Failures." *Proceedings of the Association for Information Science and Technology* 57, no. 1 (2020): e275. [https://doi.org/10.1002/pra2.275](https://doi.org/10.1002/pra2.275).
-* Stanley, Jeff C., and Stephen L. Dorton. "Exploring Trust With the AI Incident Database." *Proceedings of the Human Factors and Ergonomics Society Annual Meeting* 67, no. 1 (October 25, 2023). [https://doi.org/10.1177/21695067231198084](https://doi.org/10.1177/21695067231198084).
-* Wei, Mengyi, and Zhixuan Zhou. "AI Ethics Issues in Real World: Evidence from AI Incident Database." *arXiv* (August 18, 2022). [https://doi.org/10.48550/arXiv.2206.07635](https://doi.org/10.48550/arXiv.2206.07635).
-* Williams, Robert, and Roman Yampolskiy. "Understanding and Avoiding AI Failures: A Practical Guide." *Philosophies* 6, no. 3 (2021): 53. [https://doi.org/10.3390/philosophies6030053](https://doi.org/10.3390/philosophies6030053).
-* Yampolskiy, Roman V., and M. S. Spellchecker. "Artificial Intelligence Safety and Cybersecurity: A Timeline of AI Failures." *arXiv* (2016). [https://doi.org/10.48550/arXiv.1610.07997](https://doi.org/10.48550/arXiv.1610.07997).
+* [The Atlas of AI Incidents in Mobile Computing: Visualizing the Risks and Benefits of AI Gone Mobile](https://doi.org/10.48550/arXiv.2407.15685)
+* [Omission and Commission Errors Underlying AI Failures](https://doi.org/10.1007/s00146-022-01477-w)
+* [When Your AI Becomes a Target: AI Security Incidents and Best Practices](https://doi.org/10.1609/aaai.v38i21.30347)
+* [Planning for Natural Language Failures with the AI Playbook](https://doi.org/10.1145/3411764.3445735)
+* [SoK: How Artificial-Intelligence Incidents Can Jeopardize Safety and Security](https://doi.org/10.1145/3664476.3664510)
+* [Preventing Repeated Real World AI Failures by Cataloging Incidents: The AI Incident Database](https://doi.org/10.1609/aaai.v35i17.17817)
+* [Indexing AI Risks with Incidents, Issues, and Variants](https://doi.org/10.48550/arXiv.2211.10384)
+* [Artificial Intelligence Incidents & Ethics: A Narrative Review](https://doi.org/10.54489/ijtim.v2i2.80)
+* [Deployment Corrections: An Incident Response Framework for Frontier AI Models](https://doi.org/10.48550/arXiv.2310.00328)
+* [Ontologies for Reasoning about Failures in AI Systems](https://mclumd.github.io/ALMECOM%20Papers/2007/Schmill%20et%20al.%20-%202007%20-%20Ontologies%20for%20reasoning%20about%20failures%20in%20AI%20syst.pdf)
+* [Good Systems, Bad Data?: Interpretations of AI Hype and Failures](https://doi.org/10.1002/pra2.275)
+* [Exploring Trust With the AI Incident Database](https://doi.org/10.1177/21695067231198084)
+* [AI Ethics Issues in Real World: Evidence from AI Incident Database](https://doi.org/10.48550/arXiv.2206.07635)
+* [Understanding and Avoiding AI Failures: A Practical Guide](https://doi.org/10.3390/philosophies6030053)
+* [Artificial Intelligence Safety and Cybersecurity: A Timeline of AI Failures](https://doi.org/10.48550/arXiv.1610.07997)
 
 
 ### AI Law, Policy, and Guidance Trackers
