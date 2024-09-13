@@ -451,6 +451,9 @@ This section is for conferences, workshops and other major events related to res
 This section serves as a repository for policy documents, regulations, guidelines, and recommendations that govern the ethical and responsible use of artificial intelligence and machine learning technologies. From international legal frameworks to specific national laws, the resources cover a broad spectrum of topics such as fairness, privacy, ethics, and governance. 
 
 #### Australia
+* [Department of Industry, Science and Resources, AI Governance: Leadership insights and the Voluntary AI Safety Standard in practice](https://www.industry.gov.au/news/ai-governance-leadership-insights-and-voluntary-ai-safety-standard-practice)
+* [Department of Industry, Science and Resources, Australia’s AI Ethics Principles](https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-framework/australias-ai-ethics-principles)
+* [Department of Industry, Science and Resources, Introducing mandatory guardrails for AI in high-risk settings: proposals paper](https://consult.industry.gov.au/ai-mandatory-guardrails)
 * [National framework for the assurance of artificial intelligence in government](https://www.finance.gov.au/sites/default/files/2024-06/National-framework-for-the-assurance-of-AI-in-government.pdf)
 * [Testing the Reliability, Validity, and Equity of Terrorism Risk Assessment Instruments](https://www.homeaffairs.gov.au/foi/files/2023/fa-230400097-document-released-part-1.PDF)
 
@@ -504,7 +507,9 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Responsible Artificial Intelligence in Financial Markets](https://www.cftc.gov/PressRoom/PressReleases/8905-24)
 
 **Congressional Research Service** 
-* [Artificial Intelligence: Overview, Recent Advances, and Considerations for the 118th Congress](https://www.energy.gov/sites/default/files/2023-09/Artificial%20Intelligence%20Overview%2C%20Recent%20Advances%2C%20and%20Considerations%20for%20the%20118th%20Congress.pdf)
+* [Artificial Intelligence and Machine Learning in Financial Services, April 3, 2024](https://crsreports.congress.gov/product/pdf/R/R47997)
+* [Artificial Intelligence: Overview, Recent Advances, and Considerations for the 118th Congress, August 4, 2023](https://www.energy.gov/sites/default/files/2023-09/Artificial%20Intelligence%20Overview%2C%20Recent%20Advances%2C%20and%20Considerations%20for%20the%20118th%20Congress.pdf)
+* [Highlights of the 2023 Executive Order on Artificial Intelligence for Congress, November 17, 2023](https://crsreports.congress.gov/product/pdf/R/R47843/2)
 
 **Copyright Office**
 * [Copyright and Artificial Intelligence, Part 1: Digital Replicas, July 2024](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf)
@@ -762,6 +767,7 @@ This section contains books that can be reasonably described as free, including 
 * [Deborah G. Johnson and Keith W. Miller, 2009, *Computer Ethics: Analyzing Information Technology*, Fourth Edition](https://archive.org/details/computerethicsan0004edjohn)
 * [Ed Dreby and Keith Helmuth (contributors) and Judy Lumb (editor), 2009, *Fueling Our Future: A Dialogue about Technology, Ethics, Public Policy, and Remedial Action*](https://archive.org/details/fuelingourfuture0000unse/mode/2up)
 * [Ethics for people who work in tech](https://ethicsforpeoplewhoworkintech.com/)
+* [Florence G'sell, Regulating under Uncertainty: Governance Options for Generative AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4918704)
 * [George Reynolds, 2002, *Ethics in Information Technology*](https://archive.org/details/ethicsininformat00reyn)
 * [George Reynolds, 2002, *Ethics in Information Technology*, Instructor's Edition](https://archive.org/details/ethicsininformat0000reyn)
 * [Kenneth Vaux (editor), 1970, *Who Shall Live? Medicine, Technology, Ethics*](https://archive.org/details/whoshalllivemedi0000hous)
@@ -885,6 +891,7 @@ This section features podcasts and channels (such as on YouTube) that offer insi
 
 * [Internet of Bugs](https://www.youtube.com/@InternetOfBugs/videos)
 * [Tech Won't Save Us](https://techwontsave.us/)
+* [This Is Technology Ethics: An Introduction](https://technologyethicspod.wordpress.com/)
 
 
 ## AI Incidents, Critiques, and Research Resources
@@ -1055,8 +1062,15 @@ This section contains an assortment of papers, articles, essays, and general res
 
 ### Groups and Organizations
 
+* [AI Forum New Zealand, AI Governance Working Group](https://aiforum.org.nz/our-work/working-groups/ai-governance-working-group/)
+* [AI Village](https://aivillage.org/)
+* [Center for Advancing Safety of Machine Intelligence](https://casmi.northwestern.edu/)
 * [Center for AI and Digital Policy](https://www.caidp.org)
-* [Institute for Advanced Study (IAS), AI Policy and Governance Working Group](https://www.ias.edu/stsv-lab/aipolicy) 
+* [Center for Democracy and Technology](https://cdt.org/)
+* [Center for Security and Emerging Technology](https://cset.georgetown.edu/)
+* [Future of Life Institute](https://futureoflife.org/)
+* [Institute for Advanced Study (IAS), AI Policy and Governance Working Group](https://www.ias.edu/stsv-lab/aipolicy)
+* [Partnership on AI](https://partnershiponai.org/)
     
 ### Curated Bibliographies
 
@@ -1098,6 +1112,7 @@ This section links to other lists of responsible ML or related resources.
 * [IMDA-BTG, LLM-Evals-Catalogue](https://github.com/IMDA-BTG/LLM-Evals-Catalogue)![](https://img.shields.io/github/stars/IMDA-BTG/LLM-Evals-Catalogue?style=social)
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)![](https://img.shields.io/github/stars/radames/Machine-Learning-Ethics-References?style=social)
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)![](https://img.shields.io/github/stars/h2oai/mli-resources?style=social)
+* [NIST, Comments Received for RFI on Artificial Intelligence Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework/comments-received-rfi-artificial-intelligence-risk-management)
 * [OECD-NIST Catalogue of AI Tools and Metrics](https://oecd.ai/en/catalogue/overview)
 * [OpenAI Cookbook](https://github.com/openai/openai-cookbook/tree/main)![](https://img.shields.io/github/stars/openai/openai-cookbook?style=social)
 * [private-ai-resources](https://github.com/OpenMined/private-ai-resources)![](https://img.shields.io/github/stars/OpenMined/private-ai-resources?style=social)
