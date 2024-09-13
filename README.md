@@ -564,10 +564,15 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Generative Artificial Intelligence Reference Guide](https://www.energy.gov/sites/default/files/2024-06/Generative%20AI%20Reference%20Guide%20v2%206-14-24.pdf)
 
 **Department of Homeland Security**  
+* [Artificial Intelligence and Autonomous Systems](https://www.dhs.gov/science-and-technology/artificial-intelligence)
+* [Artificial Intelligence Safety and Security Board](https://www.dhs.gov/artificial-intelligence-safety-and-security-board)
+* [Department of Homeland Security Artificial Intelligence Roadmap 2024](https://www.dhs.gov/sites/default/files/2024-03/24_0315_ocio_roadmap_artificialintelligence-ciov3-signed-508.pdf)
 * [Safety and Security Guidelines for Critical Infrastructure Owners and Operators](https://www.dhs.gov/publication/safety-and-security-guidelines-critical-infrastructure-owners-and-operators)
 * [Use of Commercial Generative Artificial Intelligence (AI) Tools](https://www.dhs.gov/sites/default/files/2023-11/23_1114_cio_use_generative_ai_tools.pdf)
 
 **Department of Justice**  
+* [Artificial Intelligence Strategy for the U.S. Department of Justice, December 2020](https://www.justice.gov/d9/pages/attachments/2021/02/04/doj_artificial_intelligence_strategy_december_2020.pdf)
+* [Civil Rights Division, Artificial Intelligence and Civil Rights](https://www.justice.gov/crt/ai)
 * [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974)
 * [Overview of The Privacy Act of 1974 (2020 Edition)](https://www.justice.gov/opcl/overview-privacy-act-1974-2020-edition)
 
