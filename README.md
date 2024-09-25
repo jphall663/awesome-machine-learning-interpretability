@@ -142,7 +142,6 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [From Principles to Practice: An interdisciplinary framework to operationalise AI ethics](https://www.ai-ethics-impact.org/resource/blob/1961130/c6db9894ee73aefa489d6249f5ee2b9f/aieig---report---download-hb-data.pdf)
 * [The Future Society](https://thefuturesociety.org/towards-effective-governance-of-foundation-models-and-generative-ai/)
 * [Gage Repeatability and Reproducibility](https://asq.org/quality-resources/gage-repeatability)
-* [Georgetown University Library's Artificial Intelligence (Generative) Resources](https://guides.library.georgetown.edu/ai)
 * Google:
   * [Closing the AI accountability gap: defining an end-to-end framework for internal algorithmic auditing](https://dl.acm.org/doi/abs/10.1145/3351095.3372873)
   * [The Data Cards Playbook](https://sites.research.google/datacardsplaybook/)
@@ -374,7 +373,7 @@ A Primer for Developers and Policymakers](https://www.rand.org/pubs/research_rep
 * [University of California, Irvine, Generative AI for Teaching and Learning](https://dtei.uci.edu/generative-ai/)
 * [University of California, Irvine, Statement on Generative AI Detection](https://aisc.uci.edu/resources/Statement%20on%20Turnitin%20AI%20detection.pdf)
 * [University of California, Los Angeles, Artificial Intelligence (A.I.) Tools and Academic Use](https://guides.library.ucla.edu/c.php?g=1308287&p=9702196)
-* [University of California, Los Angeles, ChatGPT and AI Resources](ChatGPT and AI Resources](https://online.ucla.edu/chatgpt-and-ai-resources/)
+* [University of California, Los Angeles, ChatGPT and AI Resources](https://online.ucla.edu/chatgpt-and-ai-resources/)
 * [University of California, Los Angeles, Generative AI](https://genai.ucla.edu/)
 * [University of California, Los Angeles, Guiding Principles for Responsible Use](https://genai.ucla.edu/guiding-principles-responsible-use)
 * [University of California, Los Angeles, Teaching Guidance for ChatGPT and Related AI Developments](https://senate.ucla.edu/news/teaching-guidance-chatgpt-and-related-ai-developments)
