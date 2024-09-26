@@ -1242,13 +1242,13 @@ This section contains open source or open access ML environment management softw
 
 | Resource | Description |
 |----------|-------|
-| [CometLLM](https://github.com/comet-ml/comet-llm) |  "A tool to log and visualize your LLM prompts and chains." |
 | [dvc](https://dvc.org/) | "Manage and version images, audio, video, and text files in storage and organize your ML modeling process into a reproducible workflow." |
 | [gigantum](https://github.com/gigantum) ![gigantum stars](https://img.shields.io/github/stars/gigantum?style=social) | "Building a better way to create, collaborate, and share data-driven science." |
 | [mlflow](https://mlflow.org/) | "An open source platform for the machine learning lifecycle." |
 | [mlmd](https://github.com/google/ml-metadata) ![mlmd stars](https://img.shields.io/github/stars/google/ml-metadata?style=social) | "For recording and retrieving metadata associated with ML developer and data scientist workflows." |
 | [modeldb](https://github.com/VertaAI/modeldb) ![modeldb stars](https://img.shields.io/github/stars/VertaAI/modeldb?style=social) | "Open Source ML Model Versioning, Metadata, and Experiment Management." |
 | [neptune](https://neptune.ai/researchers) | "A single place to manage all your model metadata." |
+| [Opik](https://github.com/comet-ml/opik) |  "Evaluate, test, and ship LLM applications across your dev and production lifecycles." |
 
 ### Personal Data Protection Tools
 
