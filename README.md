@@ -30,6 +30,7 @@ If something you contributed or found here is missing after our September 2023 r
     * [International and Multilateral Frameworks](#international-and-multilateral-frameworks)
     * [European Union Policies and Regulations](#european-union-policies-and-regulations)
       * [European Commission and Parliament](#european-commission-and-parliament)
+      * [European Council](#european-council)
       * [European Data Protection Authorities](#european-data-protection-authorities)
     * [OECD](#oecd)
     * [NATO](#nato)
