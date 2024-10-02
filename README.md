@@ -728,6 +728,9 @@ This section serves as a repository for policy documents, regulations, guideline
 * [European Parliament, The impact of the General Data Protection Regulation (GDPR) on artificial intelligence](https://www.europarl.europa.eu/RegData/etudes/STUD/2020/641530/EPRS_STU(2020)641530_EN.pdf)
 * [European Commission, Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
 
+#### European Council
+* [Artificial intelligence act: Council and Parliament strike a deal on the first rules for AI in the world](https://www.consilium.europa.eu/en/press/press-releases/2023/12/09/artificial-intelligence-act-council-and-parliament-strike-a-deal-on-the-first-worldwide-rules-for-ai/)
+
 #### European Data Protection Authorities
 * [European Data Protection Board (EDPB), AI Auditing documents](https://www.edpb.europa.eu/our-work-tools/our-documents/support-pool-expert-projects/ai-auditing_en)
 * [European Data Protection Supervisor, First EDPS Orientations for EUIs using Generative AI](https://www.edps.europa.eu/data-protection/our-work/publications/guidelines/2024-06-03-first-edps-orientations-euis-using-generative-ai_en)
@@ -1014,7 +1017,9 @@ This section contains challenges and competitions related to responsible ML.
 This section contains an assortment of papers, articles, essays, and general resources that take critical stances toward generative AI.
 
 * [Against predictive optimization](https://predictive-optimization.cs.princeton.edu/)
+* [AI can only do 5% of jobs, says MIT economist who fears tech stock crash](https://torontosun.com/business/money-news/ai-can-only-do-5-of-jobs-says-mit-economist-who-fears-tech-stock-crash)
 * [AI chatbots use racist stereotypes even after anti-racism training](https://www.newscientist.com/article/2421067-ai-chatbots-use-racist-stereotypes-even-after-anti-racism-training/)
+* [AI coding assistants do not boost productivity or prevent burnout, study finds](https://www.techspot.com/news/104945-ai-coding-assistants-do-not-boost-productivity-or.html)
 * [AI hype as a cyber security risk: the moral responsibility of implementing generative AI in business](https://link.springer.com/article/10.1007/s43681-024-00443-4)
 * [AI hype, promotional culture, and affective capitalism](https://link.springer.com/article/10.1007/s43681-024-00483-w)
 * [AI Is a Lot of Work](https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html)
