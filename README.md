@@ -784,6 +784,7 @@ This section is a collection of law texts and drafts pertaining to responsible A
 * [Virginia, Consumer Data Protection Act](https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/)
 * [Washington State, SB 6513 - 2019-20](https://apps.leg.wa.gov/billsummary/?BillNumber=6513&Year=2020&Initiative=false)
 * [United States Congress, 118th Congress (2023-2024), H.R.5586 - DEEPFAKES Accountability Act](https://www.congress.gov/bill/118th-congress/house-bill/5586/text)
+* [United States Congress, 118th Congress (2023-2024), H.R. 9720, AI Incident Reporting and Security Enhancement Act](https://science.house.gov/bills?ID=95D5A008-EA1A-4D43-A363-DC2D129DFDCD)
 * [United States Congress, 118th Congress (2023-2024), S.4769 - VET Artificial Intelligence Act](https://www.congress.gov/bill/118th-congress/senate-bill/4769/text)
 
 ## Education Resources
