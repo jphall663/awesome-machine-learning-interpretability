@@ -116,7 +116,9 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [Understanding AI Harms: An Overview](https://cset.georgetown.edu/article/understanding-ai-harms-an-overview/)
 * [Censius: AI Audit](https://censius.ai/wiki/ai-audit)
 * [Center for AI and Digital Policy Reports](https://www.caidp.org/reports/)
+* [Center for Democracy and Technology (CDT), AI Policy & Governance](https://cdt.org/area-of-focus/ai-policy-governance/)
 * [Center for Democracy and Technology (CDT), Applying Sociotechnical Approaches to AI Governance in Practice](https://cdt.org/insights/applying-sociotechnical-approaches-to-ai-governance-in-practice/)
+* [Center for Democracy and Technology (CDT), In Deep Trouble: Surfacing Tech-Powered Sexual Harassment in K-12 Schools](https://cdt.org/insights/report-in-deep-trouble-surfacing-tech-powered-sexual-harassment-in-k-12-schools/)
 * [CivAI, GenAI Toolkit for the NIST AI Risk Management Framework: Thinking Through the Risks of a GenAI Chatbot](https://www.civai.org/genai-toolkit-pdf)
 * [Coalition for Content Provenance and Authenticity (C2PA)](https://c2pa.org/)
 * [Crowe LLP: Internal auditor's AI safety checklist](https://www.crowe.com/insights/asset/i/internal-auditors-ai-safety-checklist)
@@ -207,6 +209,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Open Sourcing Highly Capable Foundation Models](https://www.governance.ai/research-paper/open-sourcing-highly-capable-foundation-models)
 * [Organization and Training of a Cyber Security Team](http://ieeexplore.ieee.org/document/1245662)
 * [Our Data Our Selves, Data Use Policy](https://ourdataourselves.tacticaltech.org/data-use-policy/)
+* [OWASP, Guide for Preparing and Responding to Deepfake Events: From the OWASP Top 10 for LLM Applications Team, Version 1, September 2024](https://genai.owasp.org/resource/guide-for-preparing-and-responding-to-deepfake-events/)
 * [Oxford Commission on AI & Good Governance, AI in the Public Service: From Principles to Practice](https://oxcaigg.oii.ox.ac.uk/wp-content/uploads/sites/11/2021/12/AI-in-the-Public-Service-Final.pdf)
 * [PAIR Explorables: Datasets Have Worldviews](https://pair.withgoogle.com/explorables/dataset-worldviews/)
 * [Partnership on AI, ABOUT ML Reference Document](https://partnershiponai.org/paper/about-ml-reference-document/)
@@ -225,6 +228,7 @@ A Primer for Developers and Policymakers](https://www.rand.org/pubs/research_rep
 * [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
 * [SHRM Generative Artificial Intelligence (AI) Chatbot Usage Policy](https://www.shrm.org/resourcesandtools/tools-and-samples/policies/pages/chatgpt-generative-ai-usage.aspx)
 * [Special Competitive Studies Project and Johns Hopkins University Applied Physics Laboratory, Framework for Identifying Highly Consequential AI Use Cases](https://www.scsp.ai/wp-content/uploads/2023/11/SCSP_JHU-HCAI-Framework-Nov-6.pdf)
+* [Stanford University, Open Problems in Technical AI Governance: A repository of open problems in technical AI governance](https://taig.stanford.edu/)
 * [Stanford University, Responsible AI at Stanford: Enabling innovation through AI best practices](https://uit.stanford.edu/security/responsibleai)
 * [Synack, The Complete Guide to Crowdsourced Security Testing, Government Edition](https://www.synack.com/wp-content/uploads/2022/09/Crowdsourced-Security-Landscape-Government.pdf)
 * [The Rise of Generative AI and the Coming Era of Social Media Manipulation 3.0: Next-Generation Chinese Astroturfing and Coping with Ubiquitous AI](https://www.rand.org/pubs/perspectives/PEA2679-1.html)
@@ -255,6 +259,7 @@ A Primer for Developers and Policymakers](https://www.rand.org/pubs/research_rep
 * [BCG Robotaxonomy](https://media.licdn.com/dms/image/D4E22AQEthxl6jH6ZvA/feedshare-shrink_800/0/1712824765812?e=1718236800&v=beta&t=Kh3e_uANrmHfkgGT701PNSIRE3W5HfIRnU_W93ACCQk)
 * [Center for Security and Emerging Technology (CSET), High Level Comparison of Legislative Perspectives on Artificial Intelligence US vs. EU](https://media.licdn.com/dms/image/D4E22AQHwjdd4LpjhEw/feedshare-shrink_1280/0/1716993189698?e=1720051200&v=beta&t=W6P-OTG25q-w94a-jrXhLTMKv0qrEel_WhbSHXj4wsg)
 * [European Data Protection Board (EDPB), Checklist for AI Auditing](https://media.licdn.com/dms/image/D4D22AQFqyom2Oh-v0g/feedshare-shrink_1280/0/1720417814227?e=1724284800&v=beta&t=MPFkWOSAWs_KSfTNInDSJtBUscj_iB2T7f8wJDJAZTQ)
+* [Foundation Model Transparency Index Scores by Major Dimensions of Transparency, May 2024](https://media.licdn.com/dms/image/v2/D5622AQGUaJC59eibBQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1727205932053?e=1730332800&v=beta&t=P8HY-JVH4veq5i_ozh2v3DoQyP9VFpjSJacqQl762Zw)
 * [Future of Privacy Forum, EU AI Act: A Comprehensive Implementation & Compliance Timeline](https://fpf.org/resource/eu-ai-act-a-comprehensive-implementation-compliance-timeline/)
 * [Future of Privacy Forum, The Spectrum of Artificial Intelligence](https://fpf.org/wp-content/uploads/2021/01/FPF_AIEcosystem_illo_03.pdf)
 * [IAPP EU AI Act Cheat Sheet](https://iapp.org/media/pdf/resource_center/eu_ai_act_cheat_sheet.pdf)
@@ -288,7 +293,6 @@ A Primer for Developers and Policymakers](https://www.rand.org/pubs/research_rep
 * [Phil Lee, How the AI Act applies to integrated generative AI](https://media.licdn.com/dms/image/D4E22AQHakzcE_XHzDQ/feedshare-shrink_2048_1536/0/1710856943607?e=1716422400&v=beta&t=D8eeYdCVQ907xn0Idc_W26ZV2WFvcN-KizA9exBLuEI)
 * [Phil Lee, Overview of AI Act requirements for deployers of high risk AI systems](https://media.licdn.com/dms/image/D4E22AQG_A7ufJs9zUA/feedshare-shrink_2048_1536/0/1710279179924?e=1716422400&v=beta&t=XdafTB5kQRNKmp5dVL4c5S04Nb2-YKGEuemFA0c_rzg)
 * [Phil Lee, Overview of AI Act requirements for providers of high risk AI systems](https://media.licdn.com/dms/image/D4E22AQGvM1sNyEV1Hw/feedshare-shrink_2048_1536/0/1709811083311?e=1716422400&v=beta&t=YB0e3BO82JwaupHFkxlQIWiBnfFwRcK8qfIs5_UhmKw)
-* [Pivot to AI](https://pivot-to-ai.com/)
 * [Purpose and Means AI Explainer Series - issue #4 - Navigating the EU AI Act](https://media.licdn.com/dms/image/D4D22AQEXHwX7q4WUxw/feedshare-shrink_2048_1536/0/1715790151074?e=1718841600&v=beta&t=V9npUpSkYrCWoGLY9aNjtpLlS27SAb2lEwPXjGmw0XQ)
 * [Trustible, Is It AI? How different laws & frameworks define AI](https://www.trustible.ai/post/is-it-ai-how-different-laws-frameworks-define-ai)
 * [What Access Protections Do AI Companies Provide for Independent Safety Research?](https://media.licdn.com/dms/image/D5622AQELjohQn4Y8KQ/feedshare-shrink_2048_1536/0/1721718399115?e=1724889600&v=beta&t=y2P0LUXh4X2M61eosUlGKlXPl2BcJkMWMVs5-o3poSk)
@@ -341,6 +345,7 @@ A Primer for Developers and Policymakers](https://www.rand.org/pubs/research_rep
 * [Backpack Language Models](https://arxiv.org/pdf/2305.16765)
 * [Jay Alammar, Finding the Words to Say: Hidden State Visualizations for Language Models](https://jalammar.github.io/hidden-states/)
 * [Jay Alammar, Interfaces for Explaining Transformer Language Models](https://jalammar.github.io/explaining-transformers/)
+* [Patrick Hall and Daniel Atherton, Generative AI Risk Management Resources](https://github.com/jphall663/gai_risk_management)
 * [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
 * [The Remarkable Robustness of LLMs: Stages of Inference?](https://arxiv.org/pdf/2406.19384v1)
 
@@ -500,6 +505,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Department of Industry, Science and Resources, AI Governance: Leadership insights and the Voluntary AI Safety Standard in practice](https://www.industry.gov.au/news/ai-governance-leadership-insights-and-voluntary-ai-safety-standard-practice)
 * [Department of Industry, Science and Resources, Australia’s AI Ethics Principles](https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-framework/australias-ai-ethics-principles)
 * [Department of Industry, Science and Resources, Introducing mandatory guardrails for AI in high-risk settings: proposals paper](https://consult.industry.gov.au/ai-mandatory-guardrails)
+* [Digital Transformation Agency, Policy for the responsible use of AI in government, September 2024, Version 1.1](https://www.digital.gov.au/sites/default/files/documents/2024-08/Policy%20for%20the%20responsible%20use%20of%20AI%20in%20government%20v1.1.pdf)
 * [National framework for the assurance of artificial intelligence in government](https://www.finance.gov.au/sites/default/files/2024-06/National-framework-for-the-assurance-of-AI-in-government.pdf)
 * [Testing the Reliability, Validity, and Equity of Terrorism Risk Assessment Instruments](https://www.homeaffairs.gov.au/foi/files/2023/fa-230400097-document-released-part-1.PDF)
 
@@ -728,11 +734,13 @@ This section serves as a repository for policy documents, regulations, guideline
 * [European Parliament, Addressing AI risks in the workplace: Workers and algorithms](https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2024)762323)
 * [European Parliament, The impact of the General Data Protection Regulation (GDPR) on artificial intelligence](https://www.europarl.europa.eu/RegData/etudes/STUD/2020/641530/EPRS_STU(2020)641530_EN.pdf)
 * [European Commission, Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
+* [Proposal for a directive on adapting non-contractual civil liability rules to artificial intelligence: Complementary impact assessment](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2024)762861)
 
 #### European Council
 * [Artificial intelligence act: Council and Parliament strike a deal on the first rules for AI in the world](https://www.consilium.europa.eu/en/press/press-releases/2023/12/09/artificial-intelligence-act-council-and-parliament-strike-a-deal-on-the-first-worldwide-rules-for-ai/)
 
 #### European Data Protection Authorities
+* [Data Protection Authority of Belgium General Secretariat, Artificial Intelligence Systems and the GDPR: A Data Protection Perspective](https://www.autoriteprotectiondonnees.be/publications/artificial-intelligence-systems-and-the-gdpr---a-data-protection-perspective.pdf)
 * [European Data Protection Board (EDPB), AI Auditing documents](https://www.edpb.europa.eu/our-work-tools/our-documents/support-pool-expert-projects/ai-auditing_en)
 * [European Data Protection Supervisor, First EDPS Orientations for EUIs using Generative AI](https://www.edps.europa.eu/data-protection/our-work/publications/guidelines/2024-06-03-first-edps-orientations-euis-using-generative-ai_en)
 * [European Labour Authority (ELA), Artificial Intelligence and Algorithms in Risk Assessment: Addressing Bias, Discrimination and other Legal and Ethical Issues](https://www.ela.europa.eu/sites/default/files/2023-08/ELA-Handbook-AI-training.pdf)
@@ -834,7 +842,6 @@ This section contains books that can be reasonably described as free, including 
 * [Morton E. Winston and Ralph D. Edelbach, 2006, *Society, Ethics, and Technology*, Third Edition](https://archive.org/details/societyethicstec00edel)
 * [Patrick Hall and Navdeep Gill, 2019, *An Introduction to Machine Learning Interpretability: An Applied Perspective on Fairness, Accountability, Transparency, and Explainable AI*, Second Edition](https://h2o.ai/content/dam/h2o/en/marketing/documents/2019/08/An-Introduction-to-Machine-Learning-Interpretability-Second-Edition.pdf)
 * [Patrick Hall, Navdeep Gill, and Benjamin Cox, 2021, *Responsible Machine Learning: Actionable Strategies for Mitigating Risks & Driving Adoption*](https://info.h2o.ai/rs/644-PKX-778/images/OReilly_Responsible_ML_eBook.pdf)
-* [Patrick Hall, James Curtis, Parul Pandey, and Agus Sudjianto, 2023, *Machine Learning for High-Risk Applications: Approaches to Responsible AI*](https://pages.dataiku.com/oreilly-responsible-ai)
 * [Paula Boddington, 2017, *Towards a Code of Ethics for Artificial Intelligence*](https://archive.org/details/towardscodeofeth0000bodd)
 * [Przemyslaw Biecek and Tomasz Burzykowski, 2020, *Explanatory Model Analysis: Explore, Explain, and Examine Predictive Models. With examples in R and Python*](https://ema.drwhy.ai/)
 * [Przemyslaw Biecek, 2023, *Adversarial Model Analysis*](https://ama.drwhy.ai/)
@@ -1079,7 +1086,9 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Open Problems in Technical AI Governance](https://arxiv.org/pdf/2407.14981)
 * [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
 * [The perpetual motion machine of AI-generated data and the distraction of ChatGPT as a ‘scientist’](https://www.nature.com/articles/s41587-023-02103-0)
+* [Pivot to AI](https://pivot-to-ai.com/)
 * [Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in Transformer Models](https://arxiv.org/pdf/2311.00871.pdf)
+* [The Price of Emotion: Privacy, Manipulation, and Bias in Emotional AI](https://www.americanbar.org/groups/business_law/resources/business-law-today/2024-september/price-emotion-privacy-manipulation-bias-emotional-ai/)
 * [Promising the future, encoding the past: AI hype and public media imagery](https://link.springer.com/article/10.1007/s43681-024-00474-x)
 * [Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646)
 * [Re-evaluating GPT-4’s bar exam performance](https://link.springer.com/article/10.1007/s10506-024-09396-9)
@@ -1101,6 +1110,7 @@ This section contains an assortment of papers, articles, essays, and general res
 
 #### Environmental Costs of AI
 
+* [A bottle of water per email: the hidden environmental costs of using AI chatbots](https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/)
 * [AI already uses as much energy as a small country. It’s only the beginning.](https://www.vox.com/climate/2024/3/28/24111721/ai-uses-a-lot-of-energy-experts-expect-it-to-double-in-just-a-few-years)
 * [The AI Carbon Footprint and Responsibilities of AI Scientists](https://www.mdpi.com/2409-9287/7/1/4)
 * [Beyond CO2 Emissions: The Overlooked Impact of Water Consumption of Information Retrieval Models](https://dl.acm.org/doi/abs/10.1145/3578337.3605121)
