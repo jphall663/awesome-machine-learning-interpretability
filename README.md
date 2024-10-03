@@ -833,7 +833,7 @@ This section contains books that can be reasonably described as free, including 
 * [Florence G'sell, Regulating under Uncertainty: Governance Options for Generative AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4918704)
 * [George Reynolds, 2002, *Ethics in Information Technology*](https://archive.org/details/ethicsininformat00reyn)
 * [George Reynolds, 2002, *Ethics in Information Technology*, Instructor's Edition](https://archive.org/details/ethicsininformat0000reyn)
-* [Joseph Weizenbaum, 1976, Computer Power and Human Reason: From Judgment to Calculation](https://archive.org/details/computerpowerhum0000weiz_v0i3/mode/2up)
+* [Joseph Weizenbaum, 1976, *Computer Power and Human Reason: From Judgment to Calculation*](https://archive.org/details/computerpowerhum0000weiz_v0i3/mode/2up)
 * [Kenneth Vaux (editor), 1970, *Who Shall Live? Medicine, Technology, Ethics*](https://archive.org/details/whoshalllivemedi0000hous)
 * [Kush R. Varshney, 2022, *Trustworthy Machine Learning: Concepts for Developing Accurate, Fair, Robust, Explainable, Transparent, Inclusive, Empowering, and Beneficial Machine Learning Systems*](http://www.trustworthymachinelearning.com/)
 * [Marsha Cook Woodbury, 2003, *Computer and Information Ethics*](https://archive.org/details/computerinformat0000wood_q3r6)
