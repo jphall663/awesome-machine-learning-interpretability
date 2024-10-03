@@ -967,6 +967,7 @@ This section houses initiatives, networks, repositories, and publications that f
 * [AIAAIC](https://www.aiaaic.org/)
 * [AI Badness: An open catalog of generative AI badness](https://badness.ai/)
 * [AI Risk Database](https://airisk.io/)
+* [Brennan Center for Justice, Artificial Intelligence Legislation Tracker](https://www.brennancenter.org/our-work/research-reports/artificial-intelligence-legislation-tracker)
 * [EthicalTech@GW, Deepfakes & Democracy Initiative](https://blogs.gwu.edu/law-eti/deepfakes-disinformation-democracy/)
 * [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
 * [Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database](https://osf.io/fvqg3/)
