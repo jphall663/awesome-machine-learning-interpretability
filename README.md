@@ -289,7 +289,7 @@ A Primer for Developers and Policymakers](https://www.rand.org/pubs/research_rep
    * [UK AI Policy Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQHoHS_kht7g6w/feedshare-shrink_1280/0/1707393791731?e=1714608000&v=beta&t=CkyVLhOjN5mGVc0uuIDFbDzNcItYB1CdENp5NtnDITQ)
 * [Open Source Audit Tooling (OAT) Landscape](https://tools.auditing-ai.com/)
 * [Phil Lee, AI Act: Difference between AI systems and AI models](https://media.licdn.com/dms/image/D4E22AQEZcCGPcsLyDw/feedshare-shrink_1280/0/1713434378996?e=1716422400&v=beta&t=D5U544kF8BoUCnOYCxLdbsPAjBGcYz35I4zfqBomhcA)
-* [Phil Lee, AI Act: Meet the regulators! (Arts 30, 55b, 56 and 59)](https://media.licdn.com/dms/image/D4E22AQF8Z1jGFR9YfQ/feedshare-shrink_1280/0/1709291091908?e=1716422400&v=beta&t=dJILHhKMXPRA107rteuwo1HbKbjw4I_WeM2vM7Ded7w)
+* [Phil Lee, AI Act: Meet the regulators!(Arts 30, 55b, 56 and 59)](https://media.licdn.com/dms/image/D4E22AQF8Z1jGFR9YfQ/feedshare-shrink_1280/0/1709291091908?e=1716422400&v=beta&t=dJILHhKMXPRA107rteuwo1HbKbjw4I_WeM2vM7Ded7w)
 * [Phil Lee, How the AI Act applies to integrated generative AI](https://media.licdn.com/dms/image/D4E22AQHakzcE_XHzDQ/feedshare-shrink_2048_1536/0/1710856943607?e=1716422400&v=beta&t=D8eeYdCVQ907xn0Idc_W26ZV2WFvcN-KizA9exBLuEI)
 * [Phil Lee, Overview of AI Act requirements for deployers of high risk AI systems](https://media.licdn.com/dms/image/D4E22AQG_A7ufJs9zUA/feedshare-shrink_2048_1536/0/1710279179924?e=1716422400&v=beta&t=XdafTB5kQRNKmp5dVL4c5S04Nb2-YKGEuemFA0c_rzg)
 * [Phil Lee, Overview of AI Act requirements for providers of high risk AI systems](https://media.licdn.com/dms/image/D4E22AQGvM1sNyEV1Hw/feedshare-shrink_2048_1536/0/1709811083311?e=1716422400&v=beta&t=YB0e3BO82JwaupHFkxlQIWiBnfFwRcK8qfIs5_UhmKw)
@@ -1071,7 +1071,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [How AI lies, cheats, and grovels to succeed - and what we need to do about it](https://www.zdnet.com/article/how-ai-lies-cheats-and-grovels-to-succeed-and-what-we-need-to-do-about-it/)
 * [Identifying and Eliminating CSAM in Generative ML Training Data and Models](https://stacks.stanford.edu/file/druid:kh752sm9123/ml_training_data_csam_report-2023-12-23.pdf)
 * [Insanely Complicated, Hopelessly Inadequate](https://www.lrb.co.uk/the-paper/v43/n02/paul-taylor/insanely-complicated-hopelessly-inadequate)
-* [Internet of Bugs, Debunking Devin: "First AI Software Engineer" Upwork lie exposed! (video)](https://www.youtube.com/watch?v=tNmgmwEtoWE)
+* [Internet of Bugs, Debunking Devin: "First AI Software Engineer" Upwork lie exposed!(video)](https://www.youtube.com/watch?v=tNmgmwEtoWE)
 * [I Will Fucking Piledrive You If You Mention AI Again](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/)
 * [Julia Angwin, Press Pause on the Silicon Valley Hype Machine](https://www.nytimes.com/2024/05/15/opinion/artificial-intelligence-ai-openai-chatgpt-overrated-hype.html)
 * [Lazy use of AI leads to Amazon products called “I cannot fulfill that request”](https://arstechnica.com/ai/2024/01/lazy-use-of-ai-leads-to-amazon-products-called-i-cannot-fulfill-that-request/)
@@ -1262,10 +1262,10 @@ This section contains open source or open access ML environment management softw
 | Resource | Description |
 |----------|-------|
 | [dvc](https://dvc.org/) | "Manage and version images, audio, video, and text files in storage and organize your ML modeling process into a reproducible workflow." |
-| [gigantum](https://github.com/gigantum) ![gigantum stars](https://img.shields.io/github/stars/gigantum?style=social) | "Building a better way to create, collaborate, and share data-driven science." |
+| [gigantum](https://github.com/gigantum)![gigantum stars](https://img.shields.io/github/stars/gigantum?style=social) | "Building a better way to create, collaborate, and share data-driven science." |
 | [mlflow](https://mlflow.org/) | "An open source platform for the machine learning lifecycle." |
-| [mlmd](https://github.com/google/ml-metadata) ![mlmd stars](https://img.shields.io/github/stars/google/ml-metadata?style=social) | "For recording and retrieving metadata associated with ML developer and data scientist workflows." |
-| [modeldb](https://github.com/VertaAI/modeldb) ![modeldb stars](https://img.shields.io/github/stars/VertaAI/modeldb?style=social) | "Open Source ML Model Versioning, Metadata, and Experiment Management." |
+| [mlmd](https://github.com/google/ml-metadata)![mlmd stars](https://img.shields.io/github/stars/google/ml-metadata?style=social) | "For recording and retrieving metadata associated with ML developer and data scientist workflows." |
+| [modeldb](https://github.com/VertaAI/modeldb)![modeldb stars](https://img.shields.io/github/stars/VertaAI/modeldb?style=social) | "Open Source ML Model Versioning, Metadata, and Experiment Management." |
 | [neptune](https://neptune.ai/researchers) | "A single place to manage all your model metadata." |
 | [Opik](https://github.com/comet-ml/opik) |  "Evaluate, test, and ship LLM applications across your dev and production lifecycles." |
 
