@@ -21,6 +21,8 @@ If something you contributed or found here is missing after our September 2023 r
     * [Canada](#canada)
     * [France](#france)
     * [Germany](#germany)
+    * [Japan](#japan)
+    * [Malaysia](#malaysia)
     * [Netherlands](#netherlands)
     * [New Zealand](#new-zealand)
     * [Singapore](#singapore)
@@ -137,6 +139,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [EU Digital Partners, U.S. A.I. Laws: A State-by-State Study](https://eudigitalpartners.com/wp-content/uploads/2024/06/US-AI-LAWS.pdf)
 * [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
 * [Fairly's Global AI Regulations Map](https://github.com/fairlyAI/global-ai-regulations-map/blob/dev/README.md)![](https://img.shields.io/github/stars/fairlyAI/global-ai-regulations-map?style=social)
+* [Fairness and Bias in Algorithmic Hiring: A Multidisciplinary Survey](https://dl.acm.org/doi/10.1145/3696457)
 * [FATML Principles and Best Practices](https://www.fatml.org/resources/principles-and-best-practices)
 * [Federation of American Scientists, A NIST Foundation To Support The Agency’s AI Mandate](https://fas.org/publication/nist-foundation/)
 * [Financial Industry Regulatory Authority (FINRA), Artificial Intelligence (AI) in the Securities Industry](https://www.finra.org/sites/default/files/2020-06/ai-report-061020.pdf)
@@ -173,7 +176,9 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Identifying and Overcoming Common Data Mining Mistakes](https://support.sas.com/resources/papers/proceedings/proceedings/forum2007/073-2007.pdf)
 * [Infocomm Media Development Authority (Singapore) and AI Verify Foundation, Cataloguing LLM Evaluations, Draft for Discussion (October 2023)](https://aiverifyfoundation.sg/downloads/Cataloguing_LLM_Evaluations.pdf)
 * [Infocomm Media Development Authority (Singapore), First of its kind Generative AI Evaluation Sandbox for Trusted AI by AI Verify Foundation and IMDA](https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/generative-ai-evaluation-sandbox)
+* [International Bar Association and the Center for AI and Digital Policy, The Future Is Now: Artificial Intelligence and the Legal Profession](https://www.ibanet.org/document?id=The-future-is%20now-AI-and-the-legal-profession-report)
 * [Institute for AI Policy and Strategy (IAPS), AI-Relevant Regulatory Precedents: A Systematic Search Across All Federal Agencies](https://www.iaps.ai/research/ai-relevant-regulatory-precedent)
+* [Institute for AI Policy and Strategy (IAPS), Mapping Technical Safety Research at AI Companies: A literature review and incentives analysis](https://arxiv.org/pdf/2409.07878)
 * [Institute for AI Policy and Strategy (IAPS), Understanding the First Wave of AI Safety Institutes: Characteristics, Functions, and Challenges](https://www.iaps.ai/research/understanding-aisis)
 * [Institute for Public Policy Research (IPPR), Transformed by AI: How Generative Artificial Intelligence Could Affect Work in the UK—And How to Manage It](https://ippr-org.files.svdcdn.com/production/Downloads/Transformed_by_AI_March24_2024-03-27-121003_kxis.pdf)
 * [Institute for Security and Technology (IST), The Implications of Artificial Intelligence in Cybersecurity: Shifting the Offense-Defense Balance](https://securityandtechnology.org/virtual-library/reports/the-implications-of-artificial-intelligence-in-cybersecurity/)
@@ -251,6 +256,7 @@ A Primer for Developers and Policymakers](https://www.rand.org/pubs/research_rep
 * [When Not to Trust Your Explanations](https://docs.google.com/presentation/d/10a0PNKwoV3a1XChzvY-T1mWudtzUIZi3sCMzVwGSYfM/edit)
 * [Why We Need to Know More: Exploring the State of AI Incident Documentation Practices](https://dl.acm.org/doi/fullHtml/10.1145/3600211.3604700)
 * [WilmerHale, What Are High-Risk AI Systems Within the Meaning of the EU’s AI Act, and What Requirements Apply to Them?](https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20240717-what-are-highrisk-ai-systems-within-the-meaning-of-the-eus-ai-act-and-what-requirements-apply-to-them)
+* [World Economic Forum, AI Value Alignment: Guiding Artificial Intelligence Towards Shared Human Goals](https://www.weforum.org/publications/ai-value-alignment-guiding-artificial-intelligence-towards-shared-human-goals/)
 * [World Economic Forum, Responsible AI Playbook for Investors](https://www.weforum.org/publications/responsible-ai-playbook-for-investors/)
 * [World Privacy Forum, AI Governance on the Ground: Canada’s Algorithmic Impact Assessment Process and Algorithm has evolved](https://www.worldprivacyforum.org/2024/08/ai-governance-on-the-ground-series-canada/)
 * [World Privacy Forum, Risky Analysis: Assessing and Improving AI Governance Tools](https://www.worldprivacyforum.org/wp-content/uploads/2023/12/WPF_Risky_Analysis_December_2023_fs.pdf)
@@ -515,7 +521,10 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Testing the Reliability, Validity, and Equity of Terrorism Risk Assessment Instruments](https://www.homeaffairs.gov.au/foi/files/2023/fa-230400097-document-released-part-1.PDF)
 
 #### Canada
+* [Algorithmic Impact Assessment tool](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)
 * [A Regulatory Framework for AI: Recommendations for PIPEDA Reform](https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/completed-consultations/consultation-ai/reg-fw_202011/)
+* [Artificial Intelligence and Data Act](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act)
+* [The Artificial Intelligence and Data Act (AIDA) – Companion document](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act-aida-companion-document)
 * [Developing Financial Sector Resilience in a Digital World: Selected Themes in Technology and Related Risks](https://www.osfi-bsif.gc.ca/Eng/Docs/tchrsk.pdf)
 * [Directive on Automated Decision Making (Canada)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
 * [(Draft Guideline) E-23 – Model Risk Management](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/draft-guideline-e-23-model-risk-management)
@@ -526,6 +535,13 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### Germany
 * [Bundesamt für Sicherheit in der Informationstechnik, Generative AI Models - Opportunities and Risks for Industry and Authorities](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/Generative_AI_Models.html)
+* [Bundesamt für Sicherheit in der Informationstechnik, German-French recommendations for the use of AI programming assistants](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/ANSSI_BSI_AI_Coding_Assistants.html)
+
+#### Japan
+* [Japan AI Safety Institute, Guide to Red Teaming Methodology on AI Safety (Version 1.00) (September 25, 2024)](https://aisi.go.jp/assets/pdf/ai_safety_RT_v1.00_en.pdf)
+
+#### Malaysia
+* [The National Guidelines on AI Governance & Ethics](https://mastic.mosti.gov.my/publication/the-national-guidelines-on-ai-governance-ethics/)
 
 #### Netherlands
 * [Autoriteit Persoonsgegevens, scraping bijna altijd illegal (Dutch Data Protection Authority, "Scraping is always illegal")](https://www.autoriteitpersoonsgegevens.nl/actueel/ap-scraping-bijna-altijd-illegaal)
@@ -742,6 +758,8 @@ This section serves as a repository for policy documents, regulations, guideline
 * [European Parliament, Addressing AI risks in the workplace: Workers and algorithms](https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2024)762323)
 * [European Parliament, The impact of the General Data Protection Regulation (GDPR) on artificial intelligence](https://www.europarl.europa.eu/RegData/etudes/STUD/2020/641530/EPRS_STU(2020)641530_EN.pdf)
 * [European Commission, Analysis of the preliminary AI standardisation work plan in support of the AI Act](https://publications.jrc.ec.europa.eu/repository/handle/JRC132833)
+* [European Commission, Communication from the Commission (4/25/2018), Artificial Intelligence for Europe](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2018%3A237%3AFIN)
+* [European Commission, European approach to artificial intelligence](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence)
 * [European Commission, Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
 * [European Commission, Data Protection Certification Mechanisms: Study on Articles 42 and 43 of the Regulation (EU) 2016/679](https://commission.europa.eu/publications/study-data-protection-certification-mechanisms_en?prefLang=lv)
 * [Proposal for a directive on adapting non-contractual civil liability rules to artificial intelligence: Complementary impact assessment](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2024)762861)
@@ -1085,6 +1103,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Identifying and Eliminating CSAM in Generative ML Training Data and Models](https://stacks.stanford.edu/file/druid:kh752sm9123/ml_training_data_csam_report-2023-12-23.pdf)
 * [Insanely Complicated, Hopelessly Inadequate](https://www.lrb.co.uk/the-paper/v43/n02/paul-taylor/insanely-complicated-hopelessly-inadequate)
 * [Internet of Bugs, Debunking Devin: "First AI Software Engineer" Upwork lie exposed!(video)](https://www.youtube.com/watch?v=tNmgmwEtoWE)
+* [It’s Time to Stop Taking Sam Altman at His Word](https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/)
 * [I Will Fucking Piledrive You If You Mention AI Again](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/)
 * [Julia Angwin, Press Pause on the Silicon Valley Hype Machine](https://www.nytimes.com/2024/05/15/opinion/artificial-intelligence-ai-openai-chatgpt-overrated-hype.html)
 * [Lazy use of AI leads to Amazon products called “I cannot fulfill that request”](https://arstechnica.com/ai/2024/01/lazy-use-of-ai-leads-to-amazon-products-called-i-cannot-fulfill-that-request/)
@@ -1111,6 +1130,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Re-evaluating GPT-4’s bar exam performance](https://link.springer.com/article/10.1007/s10506-024-09396-9)
 * [Researchers surprised by gender stereotypes in ChatGPT](https://www.dtu.dk/english/news/all-news/researchers-surprised-by-gender-stereotypes-in-chatgpt?id=7e5936d1-dfce-485b-8a90-78f7c757177d)
 * [Ryan Allen, Explainable AI: The What’s and Why’s, Part 1: The What](https://ryanallen42.medium.com/explainable-ai-the-whats-and-why-s-175ea344bf3a)
+* [Sam Altman’s imperial reach](https://www.washingtonpost.com/opinions/2024/10/07/sam-altman-ai-power-danger/)
 * [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/pdf/2311.17035.pdf)
 * [Speed of AI development stretches risk assessments to breaking point](https://www.ft.com/content/499c8935-f46e-4ec8-a8e2-19e07e3b0438)
 * [Talking existential risk into being: a Habermasian critical discourse perspective to AI hype](https://link.springer.com/article/10.1007/s43681-024-00464-z)
@@ -1283,7 +1303,7 @@ This section contains open source or open access ML environment management softw
 | [mlmd](https://github.com/google/ml-metadata)![mlmd stars](https://img.shields.io/github/stars/google/ml-metadata?style=social) | "For recording and retrieving metadata associated with ML developer and data scientist workflows." |
 | [modeldb](https://github.com/VertaAI/modeldb)![modeldb stars](https://img.shields.io/github/stars/VertaAI/modeldb?style=social) | "Open Source ML Model Versioning, Metadata, and Experiment Management." |
 | [neptune](https://neptune.ai/researchers) | "A single place to manage all your model metadata." |
-| [Opik](https://github.com/comet-ml/opik) |  "Evaluate, test, and ship LLM applications across your dev and production lifecycles." |
+| [Opik](https://github.com/comet-ml/opik)![](https://img.shields.io/github/stars/comet-ml/opik?style=social) |  "Evaluate, test, and ship LLM applications across your dev and production lifecycles." |
 
 ### Personal Data Protection Tools
 
