@@ -172,6 +172,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Infocomm Media Development Authority (Singapore) and AI Verify Foundation, Cataloguing LLM Evaluations, Draft for Discussion (October 2023)](https://aiverifyfoundation.sg/downloads/Cataloguing_LLM_Evaluations.pdf)
 * [Infocomm Media Development Authority (Singapore), First of its kind Generative AI Evaluation Sandbox for Trusted AI by AI Verify Foundation and IMDA](https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/generative-ai-evaluation-sandbox)
 * [Institute for AI Policy and Strategy (IAPS), AI-Relevant Regulatory Precedents: A Systematic Search Across All Federal Agencies](https://www.iaps.ai/research/ai-relevant-regulatory-precedent)
+* [Institute for AI Policy and Strategy (IAPS), Understanding the First Wave of AI Safety Institutes: Characteristics, Functions, and Challenges](https://www.iaps.ai/research/understanding-aisis)
 * [Institute for Public Policy Research (IPPR), Transformed by AI: How Generative Artificial Intelligence Could Affect Work in the UK—And How to Manage It](https://ippr-org.files.svdcdn.com/production/Downloads/Transformed_by_AI_March24_2024-03-27-121003_kxis.pdf)
 * [Institute of Internal Auditors: Artificial Intelligence Auditing Framework, Practical Applications, Part A, Special Edition](https://www.theiia.org/globalassets/documents/content/articles/gpi/2017/december/gpi-artificial-intelligence-part-ii.pdf)
 * ISACA:
@@ -599,6 +600,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [AI Principles: Recommendations on the Ethical Use of Artificial Intelligence](https://media.defense.gov/2019/Oct/31/2002204458/-1/-1/0/DIB_AI_PRINCIPLES_PRIMARY_DOCUMENT.PDF)
 * [Audit of Governance and Protection of Department of Defense Artificial Intelligence Data and Technology](https://media.defense.gov/2020/Jul/01/2002347967/-1/-1/1/DODIG-2020-098.PDF)
 * [Chief Data and Artificial Intelligence Officer (CDAO) Assessment and Assurance](https://gitlab.jatic.net/home)
+    * [Generative Artificial Intelligence Lexicon](https://www.ai.mil/lexicon_ai_terms.html)
     * [RAI Toolkit](https://rai.tradewindai.com/)
 * Department of the Army
   * [Proceedings of the Thirteenth Annual U.S. Army Operations Research Symposium, Volume 1, October 29 to November 1, 1974](https://apps.dtic.mil/sti/pdfs/ADA007126.pdf)
@@ -675,7 +677,8 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Software as a Medical Device (SAMD) guidance (December 8, 2017)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/software-medical-device-samd-clinical-evaluation)
 
 **Government Accountability Office (GAO)** 
-* [Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities, GAO-21-519SP](https://www.gao.gov/products/gao-21-519sp) 
+* [Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities, GAO-21-519SP](https://www.gao.gov/products/gao-21-519sp)
+* [Veteran Suicide: VA Efforts to Identify Veterans at Risk through Analysis of Health Record Information](https://www.gao.gov/assets/gao-22-105165.pdf)
 
 **National Security Agency (NSA)**
 * [Central Security Service, Artificial Intelligence Security Center](https://www.nsa.gov/AISC/)
@@ -734,6 +737,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [European Parliament, Addressing AI risks in the workplace: Workers and algorithms](https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2024)762323)
 * [European Parliament, The impact of the General Data Protection Regulation (GDPR) on artificial intelligence](https://www.europarl.europa.eu/RegData/etudes/STUD/2020/641530/EPRS_STU(2020)641530_EN.pdf)
 * [European Commission, Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
+* [European Commission, Data Protection Certification Mechanisms: Study on Articles 42 and 43 of the Regulation (EU) 2016/679](https://commission.europa.eu/publications/study-data-protection-certification-mechanisms_en?prefLang=lv)
 * [Proposal for a directive on adapting non-contractual civil liability rules to artificial intelligence: Complementary impact assessment](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2024)762861)
 
 #### European Council
@@ -746,9 +750,10 @@ This section serves as a repository for policy documents, regulations, guideline
 * [European Labour Authority (ELA), Artificial Intelligence and Algorithms in Risk Assessment: Addressing Bias, Discrimination and other Legal and Ethical Issues](https://www.ela.europa.eu/sites/default/files/2023-08/ELA-Handbook-AI-training.pdf)
 
 #### OECD
-* [OECD.AI, The Bias Assessment Metrics and Measures Repository](https://oecd.ai/en/catalogue/tools/the-bias-assessment-metrics-and-measures-repository)
-* [OECD, AI, data governance and privacy: Synergies and areas of international co-operation](https://www.oecd.org/en/publications/ai-data-governance-and-privacy_2476b1a4-en.html)
-* [OECD, Open, Useful and Re-usable data (OURdata) Index: 2019 - Policy Paper](https://www.oecd.org/gov/digital-government/policy-paper-ourdata-index-2019.htm)
+* [AI, data governance and privacy: Synergies and areas of international co-operation](https://www.oecd.org/en/publications/ai-data-governance-and-privacy_2476b1a4-en.html)
+* [The Bias Assessment Metrics and Measures Repository](https://oecd.ai/en/catalogue/tools/the-bias-assessment-metrics-and-measures-repository)
+* [Measuring the environmental impacts of artificial intelligence compute and applications](https://www.oecd.org/en/publications/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_7babf571-en.html)
+* [Open, Useful and Re-usable data (OURdata) Index: 2019 - Policy Paper](https://www.oecd.org/gov/digital-government/policy-paper-ourdata-index-2019.htm)
 
 #### NATO
 * [AI in Precision Persuasion. Unveiling Tactics and Risks on Social Media](https://stratcomcoe.org/publications/ai-in-precision-persuasion-unveiling-tactics-and-risks-on-social-media/309)
@@ -867,6 +872,7 @@ This section features a collection of glossaries and dictionaries that are geare
 * [Brookings: The Brookings glossary of AI and emerging technologies](https://www.brookings.edu/articles/the-brookings-glossary-of-ai-and-emerging-technologies/)
 * [Built In, Responsible AI Explained](https://builtin.com/artificial-intelligence/responsible-ai)
 * [Center for Security and Emerging Technology: Glossary](https://cset.georgetown.edu/glossary/)
+* [Chief Digital and Artificial Intelligence Office (CDAO), Generative Artificial Intelligence Lexicon](https://www.ai.mil/lexicon_ai_terms.html)
 * [CompTIA: Artificial Intelligence (AI) Terminology: A Glossary for Beginners](https://connect.comptia.org/content/articles/artificial-intelligence-terminology)
 * [Council of Europe Artificial Intelligence Glossary](https://www.coe.int/en/web/artificial-intelligence/glossary)
 * [Coursera: Artificial Intelligence (AI) Terms: A to Z Glossary](https://www.coursera.org/articles/ai-terms)
@@ -1044,6 +1050,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Artificial Hallucinations in ChatGPT: Implications in Scientific Writing](https://assets.cureus.com/uploads/editorial/pdf/138667/20230219-28928-6kcyip.pdf)
 * [Artificial intelligence and illusions of understanding in scientific research](https://rdcu.be/dAw4I)
 * [Artificial Intelligence: Hope for Future or Hype by Intellectuals?](https://ieeexplore.ieee.org/abstract/document/9596410)
+* [Artificial intelligence-powered chatbots in search engines: a cross-sectional study on the quality and risks of drug information for patients](https://qualitysafety.bmj.com/content/early/2024/09/18/bmjqs-2024-017476)
 * [ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](https://arxiv.org/pdf/2402.11753.pdf)
 * [Aylin Caliskan's publications](https://faculty.washington.edu/aylin/publications.html)
 * [Beyond Preferences in AI Alignment](https://arxiv.org/pdf/2408.16984)
@@ -1086,6 +1093,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Most CEOs aren’t buying the hype on generative AI benefits](https://www.itpro.com/business/leadership/most-ceos-arent-buying-the-hype-on-generative-ai-benefits)
 * [Nepotistically Trained Generative-AI Models Collapse](https://arxiv.org/abs/2311.12202)
 * [Non-discrimination Criteria for Generative Language Models](https://arxiv.org/abs/2403.08564)
+* [OECD, Measuring the environmental impacts of artificial intelligence compute and applications](https://www.oecd.org/en/publications/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_7babf571-en.html)
 * [Open Problems in Technical AI Governance](https://arxiv.org/pdf/2407.14981)
 * [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
 * [The perpetual motion machine of AI-generated data and the distraction of ChatGPT as a ‘scientist’](https://www.nature.com/articles/s41587-023-02103-0)
@@ -1103,6 +1111,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Task Contamination: Language Models May Not Be Few-Shot Anymore](https://arxiv.org/pdf/2312.16337.pdf)
 * [Theory Is All You Need: AI, Human Cognition, and Decision Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4737265)
 * [There Is No A.I.](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
+* [This AI Pioneer Thinks AI Is Dumber Than a Cat](https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5)
 * [Three different types of AI hype in healthcare](https://link.springer.com/article/10.1007/s43681-024-00465-y)
 * [Toward Sociotechnical AI: Mapping Vulnerabilities for Machine Learning in Context](https://link.springer.com/article/10.1007/s11023-024-09668-y)
 * [We still don't know what generative AI is good for](https://www.msn.com/en-us/news/technology/we-still-dont-know-what-generative-ai-is-good-for/ar-AA1nz1QH)
@@ -1116,6 +1125,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [A bottle of water per email: the hidden environmental costs of using AI chatbots](https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/)
 * [AI already uses as much energy as a small country. It’s only the beginning.](https://www.vox.com/climate/2024/3/28/24111721/ai-uses-a-lot-of-energy-experts-expect-it-to-double-in-just-a-few-years)
 * [The AI Carbon Footprint and Responsibilities of AI Scientists](https://www.mdpi.com/2409-9287/7/1/4)
+* [AI, Climate, and Regulation: From Data Centers to the AI Act](https://arxiv.org/abs/2410.06681)
 * [Beyond CO2 Emissions: The Overlooked Impact of Water Consumption of Information Retrieval Models](https://dl.acm.org/doi/abs/10.1145/3578337.3605121)
 * [The carbon impact of artificial intelligence](https://www.nature.com/articles/s42256-020-0219-9)
 * [Data centre water consumption](https://www.nature.com/articles/s41545-021-00101-w)
