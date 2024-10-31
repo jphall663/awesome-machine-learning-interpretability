@@ -282,6 +282,7 @@ A Primer for Developers and Policymakers](https://www.rand.org/pubs/research_rep
 * [IAPP, EU AI Act Compliance Matrix](https://iapp.org/resources/article/eu-ai-act-compliance-matrix/)
 * [IAPP, EU AI Act Compliance Matrix - At a Glance](https://iapp.org/media/pdf/resource_center/eu_ai_act_compliance_matrix_at_a_glance.pdf)
 * [Instruction finetuning an LLM from scratch](https://media.licdn.com/dms/image/D5622AQFYQb3j-dLRVw/feedshare-shrink_2048_1536/0/1720876450568?e=1723680000&v=beta&t=_LgUaL6sy0tO9OIu39u5YWPC8cELmINQ6V1_Ug68K9Y)
+* [Is it a "deep fake" under the EU AI ACT?](https://media.licdn.com/dms/image/v2/D4E22AQGsJytypA0crQ/feedshare-shrink_800/feedshare-shrink_800/0/1729858076701?e=1732752000&v=beta&t=kMQB7PB2pWGSTNjaPVZ0vwm7xsAIbHe5ACY9527MXaQ)
 * [Machine Learning Attack_Cheat_Sheet](https://resources.oreilly.com/examples/0636920415947/-/blob/master/Attack_Cheat_Sheet.png)
 * [Oliver Patel's Cheat Sheets](https://www.linkedin.com/in/oliver-patel/recent-activity/images/)
    * [10 Key Pillars for Enterprise AI Governance](https://media.licdn.com/dms/image/D4E22AQF4U8u-baT8hA/feedshare-shrink_1280/0/1709035425012?e=1714608000&v=beta&t=1DhhkNzNFtGg22y8j2KcrrV7SPiCQKZ0-l2uhkSs5zI)
@@ -321,6 +322,7 @@ A Primer for Developers and Policymakers](https://www.rand.org/pubs/research_rep
 * [Jailbreaking Black Box Large Language Models in Twenty Queries](https://arxiv.org/abs/2310.08419)
 * [LLM Agents can Autonomously Exploit One-day Vulnerabilities](https://arxiv.org/abs/2404.08144)
   * [No, LLM Agents can not Autonomously Exploit One-day Vulnerabilities](https://struct.github.io/auto_agents_1_day.html)
+* [Ofcom, Red Teaming for GenAI Harms: Revealing the Risks and Rewards for Online Safety, July 23, 2024](https://www.ofcom.org.uk/siteassets/resources/documents/consultations/discussion-papers/red-teaming/red-teaming-for-gen-ai-harms.pdf?v=370762)
 * [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2209.07858)
 * [Red Teaming of Advanced Information Assurance Concepts](https://ieeexplore.ieee.org/document/821513)
 
@@ -520,8 +522,10 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### Australia
 * [Department of Industry, Science and Resources, AI Governance: Leadership insights and the Voluntary AI Safety Standard in practice](https://www.industry.gov.au/news/ai-governance-leadership-insights-and-voluntary-ai-safety-standard-practice)
+* [Department of Industry, Science and Resources, The AI Impact Navigator, October 21, 2024](https://www.industry.gov.au/publications/ai-impact-navigator)
 * [Department of Industry, Science and Resources, Australia’s AI Ethics Principles](https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-framework/australias-ai-ethics-principles)
 * [Department of Industry, Science and Resources, Introducing mandatory guardrails for AI in high-risk settings: proposals paper](https://consult.industry.gov.au/ai-mandatory-guardrails)
+* [Department of Industry, Sciences and Resources, Voluntary AI Safety Standard, August 2024](https://www.industry.gov.au/sites/default/files/2024-09/voluntary-ai-safety-standard.pdf)
 * [Digital Transformation Agency, Evaluation of the whole-of-government trial of Microsoft 365 Copilot: Summary of evaluation findings, October 23, 2024](https://www.digital.gov.au/sites/default/files/documents/2024-10/Copilot%20Microsoft%20365%20summary%20of%20evaluation%20findings.pdf)
 * [Digital Transformation Agency, Policy for the responsible use of AI in government, September 2024, Version 1.1](https://www.digital.gov.au/sites/default/files/documents/2024-08/Policy%20for%20the%20responsible%20use%20of%20AI%20in%20government%20v1.1.pdf)
 * [Office of the Australian Information Commissioner, Guidance on privacy and developing and training generative AI models](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-developing-and-training-generative-ai-models)
@@ -574,6 +578,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Department for Science, Innovation and Technology, Frontier AI: capabilities and risks - discussion paper (United Kingdom)](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper)
 * [Department for Science, Innovation and Technology, Guidance, Introduction to AI Assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance)
 * [National Physical Laboratory (NPL), Beginner's guide to measurement GPG118](https://www.npl.co.uk/gpgs/beginners-guide-to-measurement)
+* [Ofcom, Red Teaming for GenAI Harms: Revealing the Risks and Rewards for Online Safety, July 23, 2024](https://www.ofcom.org.uk/siteassets/resources/documents/consultations/discussion-papers/red-teaming/red-teaming-for-gen-ai-harms.pdf?v=370762)
 * [Online Harms White Paper: Full government response to the consultation (United Kingdom)](https://www.gov.uk/government/consultations/online-harms-white-paper)
 * [The Public Sector Bodies (Websites and Mobile Applications) Accessibility Regulations 2018](https://www.legislation.gov.uk/uksi/2018/852/contents/made)
 
@@ -587,6 +592,9 @@ This section serves as a repository for policy documents, regulations, guideline
 **Commodity Futures Trading Commission (CFTC)**  
 * [A Primer on Artificial Intelligence in Securities Markets](https://www.cftc.gov/media/2846/LabCFTC_PrimerArtificialIntelligence102119/download)
 * [Responsible Artificial Intelligence in Financial Markets](https://www.cftc.gov/PressRoom/PressReleases/8905-24)
+
+**Congressional Budget Office**
+* [H.R. 9720, AI Incident Reporting and Security Enhancement Act](https://www.cbo.gov/system/files/2024-10/hr9720.pdf)
 
 **Congressional Research Service** 
 * [Artificial Intelligence: Background, Selected Issues, and Policy Considerations, May 19, 2021](https://crsreports.congress.gov/product/pdf/R/R46795)
@@ -675,7 +683,9 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Office of Science and Technology Policy (OSTP)](https://www.whitehouse.gov/ostp/)
   * [Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
   * [National Science and Technology Council (NSTC)](https://www.whitehouse.gov/ostp/ostps-teams/nstc/)
-    * [Select Committee on Artificial Intelligence, National Artificial Intelligence Research and Development Strategic Plan 2023 Update](https://www.whitehouse.gov/wp-content/uploads/2023/05/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf)    
+    * [Select Committee on Artificial Intelligence, National Artificial Intelligence Research and Development Strategic Plan 2023 Update](https://www.whitehouse.gov/wp-content/uploads/2023/05/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf)
+* The White House
+ * [FACT SHEET: Biden-⁠Harris Administration Outlines Coordinated Approach to Harness Power of AI for U.S. National Security, October 24, 2024](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/24/fact-sheet-biden-harris-administration-outlines-coordinated-approach-to-harness-power-of-ai-for-u-s-national-security/) 
 
 **Federal Deposit Insurance Corporation (FDIC)**  
 * [Supervisory Guidance on Model Risk Management](https://www.fdic.gov/news/financial-institution-letters/2017/fil17022a.pdf)
@@ -742,6 +752,9 @@ This section serves as a repository for policy documents, regulations, guideline
 * [California Privacy Rights Act (CPRA)](https://www.oag.ca.gov/system/files/initiatives/pdfs/19-0021A1%20%28Consumer%20Privacy%20-%20Version%203%29_1.pdf)
 * [Department of Technology, Office of Information Security, Generative Artificial Intelligence Risk Assessment, SIMM 5305-F, March 2024](https://cdt.ca.gov/wp-content/uploads/2024/03/SIMM-5305-F-Generative-Artificial-Intelligence-Risk-Assessment-FINAL.pdf)
 
+**Kentucky**
+* [Legislative Research Commission, Research Report No. 491, Executive Branch Use of Artificial Intelligence Technology](https://apps.legislature.ky.gov/lrc/publications/ResearchReports/RR491.pdf)
+
 **Mississippi**
 * [Mississippi Department of Education, Artificial Intelligence Guidance for K-12 Classrooms](https://www.mdek12.org/sites/default/files/Offices/MDE/OTSS/DL/ai_guidance_final.pdf)
 
@@ -784,7 +797,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [European Labour Authority (ELA), Artificial Intelligence and Algorithms in Risk Assessment: Addressing Bias, Discrimination and other Legal and Ethical Issues](https://www.ela.europa.eu/sites/default/files/2023-08/ELA-Handbook-AI-training.pdf)
 
 #### OECD
-* [AI, data governance and privacy: Synergies and areas of international co-operation](https://www.oecd.org/en/publications/ai-data-governance-and-privacy_2476b1a4-en.html)
+* [AI, data governance and privacy: Synergies and areas of international co-operation, June 26, 2024](https://www.oecd.org/en/publications/ai-data-governance-and-privacy_2476b1a4-en.html)
 * [The Bias Assessment Metrics and Measures Repository](https://oecd.ai/en/catalogue/tools/the-bias-assessment-metrics-and-measures-repository)
 * [Measuring the environmental impacts of artificial intelligence compute and applications](https://www.oecd.org/en/publications/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_7babf571-en.html)
 * [Open, Useful and Re-usable data (OURdata) Index: 2019 - Policy Paper](https://www.oecd.org/gov/digital-government/policy-paper-ourdata-index-2019.htm)
@@ -1043,8 +1056,9 @@ This section contains trackers, databases, and repositories of laws, policies, a
 * [Access Now, Regulatory Mapping on Artificial Intelligence in Latin America: Regional AI Public Policy Report](https://www.accessnow.org/wp-content/uploads/2024/07/TRF-LAC-Reporte-Regional-IA-JUN-2024-V3.pdf)
 * [The Ethical AI Database](https://www.eaidb.org/)
 * [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
-* [IAPP Global AI Legislation Tracker](https://iapp.org/resources/article/global-ai-legislation-tracker/)
-* [IAPP US State Privacy Legislation Tracker](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/)
+* [International Association of Privacy Professionals (IAPP), Global AI Legislation Tracker](https://iapp.org/resources/article/global-ai-legislation-tracker/)
+* [International Association of Privacy Professionals (IAPP), UK data protection reform: An overview](https://iapp.org/resources/article/uk-data-protection-reform-an-overview/)
+* [International Association of Privacy Professionals (IAPP), US State Privacy Legislation Tracker](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/)
 * [Institute for the Future of Work, Tracking international legislation relevant to AI at work](https://www.ifow.org/publications/legislation-tracker)
 * [Legal Nodes, Global AI Regulations Tracker: Europe, Americas & Asia-Pacific Overview](https://legalnodes.com/article/global-ai-regulations-tracker)
 * [MIT AI Risk Repository](https://airisk.mit.edu/)
