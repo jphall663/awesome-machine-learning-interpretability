@@ -287,6 +287,7 @@ A Primer for Developers and Policymakers](https://www.rand.org/pubs/research_rep
 * [Oliver Patel's Cheat Sheets](https://www.linkedin.com/in/oliver-patel/recent-activity/images/)
    * [10 Key Pillars for Enterprise AI Governance](https://media.licdn.com/dms/image/D4E22AQF4U8u-baT8hA/feedshare-shrink_1280/0/1709035425012?e=1714608000&v=beta&t=1DhhkNzNFtGg22y8j2KcrrV7SPiCQKZ0-l2uhkSs5zI)
    * [10 Key Questions for AI Risk Assessments](https://media.licdn.com/dms/image/D4E22AQFQ08VpJoOqgw/feedshare-shrink_1280/0/1722404801833?e=1725494400&v=beta&t=FGiXFoDN8m0MIC5jya4vA6G_fADGiCE8b2EY3fiB2jk)
+   * [20 Key Policy Principles for Generative AI Use: Protect your organization with actionable and accessible generative AI policies](https://media.licdn.com/dms/image/v2/D4E22AQGos6eGpPFGTQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1730854741850?e=1733961600&v=beta&t=2zmSKdO_FR7wodT8a1CyHX4fvu91AIGttYHjf0ehZGQ)
    * [AI Governance in 2023](https://media.licdn.com/dms/image/D4D22AQEUkWMhXlQ8pA/feedshare-shrink_1280/0/1702536206607?e=1714608000&v=beta&t=ukGzNValTfCOyjR4XUt9dnemmdzv0eAi4oV5Zh8XgyI)
    * [Canada AI Law & Policy Cheat Sheet](https://media.licdn.com/dms/image/D4D22AQG-A4WvORqoGA/feedshare-shrink_1280/0/1713914692450?e=1717027200&v=beta&t=WAGqCMsjM6vtpxKGQmTcG_sftnAOOrEsXOuEua8QwMg)
    * [China AI Law Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQF-6pEvkEG6PQ/feedshare-shrink_1280/0/1703158308976?e=1714608000&v=beta&t=DA3U5tCyGA3l9jLK6h_USn-76z9espPWwr2BNmNc-v8)
@@ -557,6 +558,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [The National Guidelines on AI Governance & Ethics](https://mastic.mosti.gov.my/publication/the-national-guidelines-on-ai-governance-ethics/)
 
 #### Netherlands
+* [Autoriteit Persoonsgegevens, Call for input on prohibition on AI systems for emotion recognition in the areas of workplace or education institutions (October 31, 2024)](https://www.autoriteitpersoonsgegevens.nl/en/documents/call-for-input-on-prohibition-on-ai-systems-for-emotion-recognition-in-the-areas-of-workplace-or-education-institutions)
 * [Autoriteit Persoonsgegevens, scraping bijna altijd illegal (Dutch Data Protection Authority, "Scraping is always illegal")](https://www.autoriteitpersoonsgegevens.nl/actueel/ap-scraping-bijna-altijd-illegaal)
 * [General principles for the use of Artificial Intelligence in the financial sector](https://www.dnb.nl/media/jkbip2jc/general-principles-for-the-use-of-artificial-intelligence-in-the-financial-sector.pdf)
 
@@ -682,6 +684,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [M-24-18 (September 24, 2024), Memorandum for the Heads of Executive Departments and Agencies, Advancing the Responsible Acquisition of Artificial Intelligence in Government](https://www.whitehouse.gov/wp-content/uploads/2024/10/M-24-18-AI-Acquisition-Memorandum.pdf)
 * [Office of Science and Technology Policy (OSTP)](https://www.whitehouse.gov/ostp/)
   * [Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
+  * [Framework to Advance AI Governance and Risk Management in National Security](https://ai.gov/wp-content/uploads/2024/10/NSM-Framework-to-Advance-AI-Governance-and-Risk-Management-in-National-Security.pdf)
   * [National Science and Technology Council (NSTC)](https://www.whitehouse.gov/ostp/ostps-teams/nstc/)
     * [Select Committee on Artificial Intelligence, National Artificial Intelligence Research and Development Strategic Plan 2023 Update](https://www.whitehouse.gov/wp-content/uploads/2023/05/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf)
 * The White House
@@ -1023,10 +1026,12 @@ This section houses initiatives, networks, repositories, and publications that f
 * [AIAAIC](https://www.aiaaic.org/)
 * [AI Badness: An open catalog of generative AI badness](https://badness.ai/)
 * [AI Risk Database](https://airisk.io/)
+* [Atlas of AI Risks](https://social-dynamics.net/atlas/)
 * [Brennan Center for Justice, Artificial Intelligence Legislation Tracker](https://www.brennancenter.org/our-work/research-reports/artificial-intelligence-legislation-tracker)
 * [EthicalTech@GW, Deepfakes & Democracy Initiative](https://blogs.gwu.edu/law-eti/deepfakes-disinformation-democracy/)
 * [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
 * [Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database](https://osf.io/fvqg3/)
+* [Mitre's AI Risk Database](https://github.com/mitre-atlas/ai-risk-database)![](https://img.shields.io/github/stars/mitre-atlas/ai-risk-database?style=social)
 * [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
 * [Verica Open Incident Database (VOID)](https://www.thevoid.community/)
 
@@ -1133,6 +1138,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [It’s Time to Stop Taking Sam Altman at His Word](https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/)
 * [I Will Fucking Piledrive You If You Mention AI Again](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/)
 * [Julia Angwin, Press Pause on the Silicon Valley Hype Machine](https://www.nytimes.com/2024/05/15/opinion/artificial-intelligence-ai-openai-chatgpt-overrated-hype.html)
+* [Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models](https://arxiv.org/abs/2401.01301)
 * [Lazy use of AI leads to Amazon products called “I cannot fulfill that request”](https://arstechnica.com/ai/2024/01/lazy-use-of-ai-leads-to-amazon-products-called-i-cannot-fulfill-that-request/)
 * [Leak, Cheat, Repeat: Data Contamination and Evaluation Malpractices in Closed-Source LLMs](https://arxiv.org/pdf/2402.03927.pdf)
 * [LLMs Can’t Plan, But Can Help Planning in LLM-Modulo Frameworks](https://arxiv.org/pdf/2402.01817.pdf)
@@ -1173,6 +1179,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [We still don't know what generative AI is good for](https://www.msn.com/en-us/news/technology/we-still-dont-know-what-generative-ai-is-good-for/ar-AA1nz1QH)
 * [What’s in a Name? Experimental Evidence of Gender Bias in Recommendation Letters Generated by ChatGPT](https://www.jmir.org/2024/1/e51837/)
 * [Which Humans?](https://osf.io/preprints/psyarxiv/5b26t)
+* [Why the AI Hype is Another Tech Bubble](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960826)
 * [Why We Must Resist AI’s Soft Mind Control]( https://www.theatlantic.com/ideas/archive/2024/03/artificial-intelligence-google-gemini-mind-control/677683/)
 * [Winner's Curse? On Pace, Progress, and Empirical Rigor](https://openreview.net/pdf?id=rJWF0Fywf)
 
