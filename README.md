@@ -576,7 +576,7 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### Japan
 * [Japan AI Safety Institute, Guide to Evaluation Perspectives on AI Safety (Version 1.01), September 25, 2024](https://aisi.go.jp/assets/pdf/ai_safety_eval_v1.01_en.pdf)
-* [Japan AI Safety Institute, Guide to Red Teaming Methodology on AI Safety (Version 1.00), September 25, 2024)](https://aisi.go.jp/assets/pdf/ai_safety_RT_v1.00_en.pdf)
+* [Japan AI Safety Institute, Guide to Red Teaming Methodology on AI Safety (Version 1.00), September 25, 2024](https://aisi.go.jp/assets/pdf/ai_safety_RT_v1.00_en.pdf)
 
 #### Malaysia
 * [The National Guidelines on AI Governance & Ethics](https://mastic.mosti.gov.my/publication/the-national-guidelines-on-ai-governance-ethics/)
