@@ -19,6 +19,7 @@ If something you contributed or found here is missing after our September 2023 r
   * [Official Policy, Frameworks, and Guidance](#official-policy-frameworks-and-guidance)
     * [Australia](#australia)
     * [Canada](#canada)
+    * [Finland](#finland)
     * [France](#france)
     * [Germany](#germany)
     * [Japan](#japan)
@@ -26,15 +27,18 @@ If something you contributed or found here is missing after our September 2023 r
     * [Netherlands](#netherlands)
     * [New Zealand](#new-zealand)
     * [Singapore](#singapore)
+    * [Switzerland](#switzerland)
     * [United Kingdom](#united-kingdom)
     * [United States (Federal Government)](#united-states-federal-government)
     * [United States (State Governments)](#united-states-state-governments)
     * [International and Multilateral Frameworks](#international-and-multilateral-frameworks)
     * [European Union Policies and Regulations](#european-union-policies-and-regulations)
+      * [Council of Europe](#council-of-europe)
       * [European Commission and Parliament](#european-commission-and-parliament)
       * [European Council](#european-council)
       * [European Data Protection Authorities](#european-data-protection-authorities)
     * [OECD](#oecd)
+    * [OSCE](#osce)
     * [NATO](#nato)
     * [United Nations](#united-nations)
   * [Law Texts and Drafts](#law-texts-and-drafts)
@@ -92,7 +96,8 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [AI Verify Foundation, Cataloguing LLM Evaluations](https://aiverifyfoundation.sg/downloads/Cataloguing_LLM_Evaluations.pdf)
   * [AI Verify Foundation, Generative AI: Implications for Trust and Governance](https://aiverifyfoundation.sg/downloads/Discussion_Paper.pdf)
   * [AI Verfiy Foundation, Model Governance Framework for Generative AI](https://aiverifyfoundation.sg/wp-content/uploads/2024/05/Model-AI-Governance-Framework-for-Generative-AI-May-2024-1-1.pdf)
-* [AI Snake Oil](https://www.aisnakeoil.com/) 
+* [AI Snake Oil](https://www.aisnakeoil.com/)
+* [American Sunlight Project, Deepfake Pornography Goes to Washington: Measuring the Prevalence of AI-Generated Non-Consensual Intimate Imagery Targeting Congress, December 11, 2024](https://static1.squarespace.com/static/6612cbdfd9a9ce56ef931004/t/67586997eaec5c6ae3bb5e24/1733847451191/ASP+DFP+Report.pdf)
 * [The Alan Turing Institute, AI Ethics and Governance in Practice](https://www.turing.ac.uk/research/research-projects/ai-ethics-and-governance-practice)
 * [The Alan Turing Institute, Responsible Data Stewardship in Practice](https://www.turing.ac.uk/sites/default/files/2024-06/aieg-ati-5-datastewardshipv1.2.pdf)
 * [The Alan Turing Institute, AI Standards Hub](https://www.turing.ac.uk/research/research-projects/ai-standards-hub)
@@ -122,12 +127,13 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Censius, AI Audit](https://censius.ai/wiki/ai-audit)
 * [Censius, An In-Depth Guide To Help You Start Auditing Your AI Models](https://censius.ai/blogs/ai-audit-guide)
 * [Center for AI and Digital Policy Reports](https://www.caidp.org/reports/)
+* [Center for Countering Digital Hate (CCDH), YouTube's Anorexia Algorithm: How YouTube Recommends Eating Disorders Videos to Young Girls](https://counterhate.com/wp-content/uploads/2024/12/CCDH.YoutubeED.Nov24.Report_FINAL.pdf)
 * [Center for Democracy and Technology (CDT), AI Policy & Governance](https://cdt.org/area-of-focus/ai-policy-governance/)
 * [Center for Democracy and Technology (CDT), Applying Sociotechnical Approaches to AI Governance in Practice](https://cdt.org/insights/applying-sociotechnical-approaches-to-ai-governance-in-practice/)
 * [Center for Democracy and Technology (CDT), In Deep Trouble: Surfacing Tech-Powered Sexual Harassment in K-12 Schools](https://cdt.org/insights/report-in-deep-trouble-surfacing-tech-powered-sexual-harassment-in-k-12-schools/)
+* [Centre for International Governance Innovation Publications](https://www.cigionline.org/publications/)
 * [CivAI, GenAI Toolkit for the NIST AI Risk Management Framework: Thinking Through the Risks of a GenAI Chatbot](https://www.civai.org/genai-toolkit-pdf)
 * [Coalition for Content Provenance and Authenticity (C2PA)](https://c2pa.org/)
-* [Council of Europe, European Audiovisual Observatory, IRIS, AI and the audiovisual sector: navigating the current legal landscape](https://rm.coe.int/iris-2024-3-ia-legal-landscape/1680b1e999)
 * [Crowe LLP: Internal auditor's AI safety checklist](https://www.crowe.com/insights/asset/i/internal-auditors-ai-safety-checklist)
 * [Data Provenance Explorer](https://www.dataprovenance.org/)
 * [Data & Society, AI Red-Teaming Is Not a One-Stop Solution to AI Harms: Recommendations for Using Red-Teaming for AI Accountability](https://datasociety.net/wp-content/uploads/2023/10/Recommendations-for-Using-Red-Teaming-for-AI-Accountability-PolicyBrief.pdf)
@@ -173,6 +179,9 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Hogan Lovells, The AI Act is coming: EU reaches political agreement on comprehensive regulation of artificial intelligence](https://www.engage.hoganlovells.com/knowledgeservices/news/the-ai-act-is-coming-eu-reaches-political-agreement-on-comprehensive-regulation-of-artificial-intelligence?nav=FRbANEucS95NMLRN47z%2BeeOgEFCt8EGQ71hKXzqW2Ec%3D&key=BcJlhLtdCv6%2FJTDZxvL23TQa3JHL2AIGr93BnQjo2SkGJpG9xDX7S2thDpAQsCconWHAwe6cJTmX%2FZxLGrXbZz2L%2BEiiz68X&uid=iZAX%2FROFT6Q%3D)
 * [Hugging Face, The Landscape of ML Documentation Tools](https://huggingface.co/docs/hub/model-card-landscape-analysis)
 * [IAPP, Global AI Governance Law and Policy: Canada, EU, Singapore, UK and US](https://iapp.org/media/pdf/resource_center/global_ai_governance_law_policy_series.pdf)
+* [IBM, AI ethics in action: An enterprise guide to progressing trustworthy AI](https://www.ibm.com/downloads/documents/us-en/10c31775c6d400ed)
+* [IBM, Design for AI](https://www.ibm.com/design/ai/fundamentals/)
+* [IBM, Principles and Practices for Building More Trustworthy AI, October 6, 2021](https://newsroom.ibm.com/Principles-and-Practices-for-Building-More-Trustworthy-AI)
 * [ICT Institute: A checklist for auditing AI systems](https://ictinstitute.nl/a-checklist-for-auditing-ai-systems/)
 * IEEE: 
   * [A Flexible Maturity Model for AI Governance Based on the NIST AI Risk Management Framework](https://ieeeusa.org/product/a-flexible-maturity-model-for-ai-governance/)
@@ -233,6 +242,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Partnership on AI, ABOUT ML Reference Document](https://partnershiponai.org/paper/about-ml-reference-document/)
 * [Partnership on AI, PAI’s Guidance for Safe Foundation Model Deployment: A Framework for Collective Action](https://partnershiponai.org/modeldeployment/)
 * [Partnership on AI, Responsible Practices for Synthetic Media: A Framework for Collective Action](https://syntheticmedia.partnershiponai.org/)
+* [Partnership on AI and Thorn, Mitigating the risk of generative AI models creating Child Sxual Abuse Materials: An analysis by child safety nonprofit Thorn](https://partnershiponai.org/wp-content/uploads/2024/11/case-study-thorn.pdf)
 * [PwC's Responsible AI](https://www.pwc.com/gx/en/issues/data-and-analytics/artificial-intelligence/what-is-responsible-ai.html)
 * [RAND Corporation, U.S. Tort Liability for Large-Scale Artificial Intelligence Damages
 A Primer for Developers and Policymakers](https://www.rand.org/pubs/research_reports/RRA3084-1.html)
@@ -269,6 +279,7 @@ A Primer for Developers and Policymakers](https://www.rand.org/pubs/research_rep
 * [World Economic Forum, Responsible AI Playbook for Investors](https://www.weforum.org/publications/responsible-ai-playbook-for-investors/)
 * [World Privacy Forum, AI Governance on the Ground: Canada’s Algorithmic Impact Assessment Process and Algorithm has evolved](https://www.worldprivacyforum.org/2024/08/ai-governance-on-the-ground-series-canada/)
 * [World Privacy Forum, Risky Analysis: Assessing and Improving AI Governance Tools](https://www.worldprivacyforum.org/wp-content/uploads/2023/12/WPF_Risky_Analysis_December_2023_fs.pdf)
+* [World Economic Forum and Capgemini, Navigating the AI Frontier: A Primer on the Evolution and Impact of AI Agents, White Paper, December 2024](https://reports.weforum.org/docs/WEF_Navigating_the_AI_Frontier_2024.pdf)
 * [You Created A Machine Learning Application Now Make Sure It's Secure](https://www.oreilly.com/ideas/you-created-a-machine-learning-application-now-make-sure-its-secure)
 
 #### Infographics and Cheat Sheets
@@ -316,12 +327,14 @@ A Primer for Developers and Policymakers](https://www.rand.org/pubs/research_rep
 * [Phil Lee, Overview of AI Act requirements for deployers of high risk AI systems](https://media.licdn.com/dms/image/D4E22AQG_A7ufJs9zUA/feedshare-shrink_2048_1536/0/1710279179924?e=1716422400&v=beta&t=XdafTB5kQRNKmp5dVL4c5S04Nb2-YKGEuemFA0c_rzg)
 * [Phil Lee, Overview of AI Act requirements for providers of high risk AI systems](https://media.licdn.com/dms/image/D4E22AQGvM1sNyEV1Hw/feedshare-shrink_2048_1536/0/1709811083311?e=1716422400&v=beta&t=YB0e3BO82JwaupHFkxlQIWiBnfFwRcK8qfIs5_UhmKw)
 * [Purpose and Means AI Explainer Series - issue #4 - Navigating the EU AI Act](https://media.licdn.com/dms/image/D4D22AQEXHwX7q4WUxw/feedshare-shrink_2048_1536/0/1715790151074?e=1718841600&v=beta&t=V9npUpSkYrCWoGLY9aNjtpLlS27SAb2lEwPXjGmw0XQ)
+* [Tea Mustać, The AI Literacy Puzzle](https://media.licdn.com/dms/image/v2/D4E22AQHHxf0Sj1wPXg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1733344849971?e=1736380800&v=beta&t=qYFjT66SK5fRG47pQDQ5gG8Org5fbr6xJF6sY6KVQ4Q)
 * [Trustible, Is It AI? How different laws & frameworks define AI](https://www.trustible.ai/post/is-it-ai-how-different-laws-frameworks-define-ai)
 * [What Access Protections Do AI Companies Provide for Independent Safety Research?](https://media.licdn.com/dms/image/D5622AQELjohQn4Y8KQ/feedshare-shrink_2048_1536/0/1721718399115?e=1724889600&v=beta&t=y2P0LUXh4X2M61eosUlGKlXPl2BcJkMWMVs5-o3poSk)
 
 #### AI Red-Teaming Resources
 
 ##### Papers
+* [Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations](https://arxiv.org/pdf/2411.00640)
 * [Exploiting Novel GPT-4 APIs](https://arxiv.org/abs/2312.14302)
 * [Identifying and Eliminating CSAM in Generative ML Training Data and Models](https://purl.stanford.edu/kh752sm9123)
 * [Jailbreaking Black Box Large Language Models in Twenty Queries](https://arxiv.org/abs/2310.08419)
@@ -548,15 +561,22 @@ This section serves as a repository for policy documents, regulations, guideline
 * [(Draft Guideline) E-23 – Model Risk Management](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/draft-guideline-e-23-model-risk-management)
 * [Health Canada, Transparency for machine learning-enabled medical devices: Guiding principles](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/transparency-machine-learning-guiding-principles.html)
 
+#### Finland
+* [Ministry of Economic Affairs and Employment, Finland's Age of Artificial Intelligence: Turning Finland into a leading country in the application of artificial intelligence. Objective and recommendations for measures](https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160391/TEMrap_47_2017_verkkojulkaisu.pdf)
+
 #### France
 * [Gouvernance des algorithmes d’intelligence artificielle dans le secteur financier (France)](https://acpr.banque-france.fr/sites/default/files/medias/documents/20200612_gouvernance_evaluation_ia.pdf)
 
 #### Germany
 * [Bundesamt für Sicherheit in der Informationstechnik, Generative AI Models - Opportunities and Risks for Industry and Authorities](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/Generative_AI_Models.html)
 * [Bundesamt für Sicherheit in der Informationstechnik, German-French recommendations for the use of AI programming assistants](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/ANSSI_BSI_AI_Coding_Assistants.html)
+* [Daten Ethik Kommission, Recommendations of the Data Ethics Commission for the Federal Government's Strategy on Artificial Intelligence, October 9, 2018](https://www.bmi.bund.de/SharedDocs/downloads/EN/themen/it-digital-policy/recommendations-data-ethics-commission.pdf?__blob=publicationFile&v=3)
+* [Germany AI Strategy Report](https://ai-watch.ec.europa.eu/countries/germany/germany-ai-strategy-report_en)
+* [OECD-Bericht zu Künstlicher Intelligenz in Deutschland](https://www.ki-strategie-deutschland.de/files/downloads/OECD-Bericht_K%C3%BCnstlicher_Intelligenz_in_Deutschland.pdf)
 
 #### Japan
-* [Japan AI Safety Institute, Guide to Red Teaming Methodology on AI Safety (Version 1.00) (September 25, 2024)](https://aisi.go.jp/assets/pdf/ai_safety_RT_v1.00_en.pdf)
+* [Japan AI Safety Institute, Guide to Evaluation Perspectives on AI Safety (Version 1.01), September 25, 2024](https://aisi.go.jp/assets/pdf/ai_safety_eval_v1.01_en.pdf)
+* [Japan AI Safety Institute, Guide to Red Teaming Methodology on AI Safety (Version 1.00), September 25, 2024)](https://aisi.go.jp/assets/pdf/ai_safety_RT_v1.00_en.pdf)
 
 #### Malaysia
 * [The National Guidelines on AI Governance & Ethics](https://mastic.mosti.gov.my/publication/the-national-guidelines-on-ai-governance-ethics/)
@@ -572,10 +592,14 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Callaghan Innovation, EU AI Fact Sheet 4, High-risk AI systems](https://www.callaghaninnovation.govt.nz/assets/documents/Resource-EU-AI-Act-Support/EU-AI-Policy-Fact-Sheet-4-High-Risk-AI-Systems.pdf)
 
 #### Singapore
+* [Monetary Authority of Singapore, Artificial Intelligence Model Risk Management: Observations from a Thematic Review (Information Paper, December 2024](https://www.mas.gov.sg/-/media/mas-media-library/publications/monographs-or-information-paper/imd/2024/information-paper-on-ai-risk-management-final.pdf)
 * [Personal Data Protection Commission (PDPC), Companion to the Model AI Governance Framework – Implementation and Self-Assessment Guide for Organizations](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgisago.pdf)
 * [Personal Data Protection Commission (PDPC), Compendium of Use Cases: Practical Illustrations of the Model AI Governance Framework](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgaigovusecases.pdf)
 * [Personal Data Protection Commission (PDPC), Model Artificial Intelligence Governance Framework (Second Edition)](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)
 * [Personal Data Protection Commission (PDPC), Privacy Enhancing Technology (PET): Proposed Guide on Synthetic Data Generation](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/other-guides/proposed-guide-on-synthetic-data-generation.pdf)
+
+#### Switzerland
+* [Digital Switzerland Strategy 2025](https://digital.swiss/userdata/uploads/strategie-dch-en.pdf)
 
 #### United Kingdom
 * [AI Safety Institute (AISI), Safety cases at AISI](https://www.aisi.gov.uk/work/safety-cases-at-aisi)
@@ -588,6 +612,8 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Ofcom, Red Teaming for GenAI Harms: Revealing the Risks and Rewards for Online Safety, July 23, 2024](https://www.ofcom.org.uk/siteassets/resources/documents/consultations/discussion-papers/red-teaming/red-teaming-for-gen-ai-harms.pdf?v=370762)
 * [Online Harms White Paper: Full government response to the consultation (United Kingdom)](https://www.gov.uk/government/consultations/online-harms-white-paper)
 * [The Public Sector Bodies (Websites and Mobile Applications) Accessibility Regulations 2018](https://www.legislation.gov.uk/uksi/2018/852/contents/made)
+* [US AISI and UK AISI Joint Pre-Deployment Test: Anthropic's Claude 3.5 Sonnet (October 2024 Release)](https://www.nist.gov/system/files/documents/2024/11/19/Upgraded%20Sonnet-Publication-US.pdf)
+* [US AISI and UK AISI Joint Pre-Deployment Test: OpenAI o1 (December 2024)](https://www.nist.gov/system/files/documents/2024/12/18/US_UK_AI%20Safety%20Institute_%20December_Publication-OpenAIo1.pdf)
 
 #### United States (Federal Government)
 
@@ -624,7 +650,7 @@ This section serves as a repository for policy documents, regulations, guideline
 **Department of Commerce**
 * [Artificial intelligence](https://www.commerce.gov/issues/artificial-intelligence)
 * [Intellectual property](https://www.commerce.gov/issues/intellectual-property)
-* [National Institute of Standards and Technology (NIST)](https://www.nist.gov/)
+* **[National Institute of Standards and Technology (NIST)](https://www.nist.gov/)**
   * [AI 100-1 Artificial Intelligence Risk Management Framework (NIST AI RMF 1.0)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
   * [De-identification Tools](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/tools)
   * [NIST AI 100-2 E2023: Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)
@@ -636,7 +662,10 @@ This section serves as a repository for policy documents, regulations, guideline
     * [International Bureau of Weights and Measures (BIPM), Evaluation of measurement data—Guide to the expression of uncertainty in measurement](https://www.bipm.org/documents/20126/2071204/JCGM_100_2008_E.pdf/cb0ef43f-baa5-11cf-3f85-4dcd86f77bd6)
   * [NIST Special Publication 800-30 Revision 1, Guide for Conducting Risk Assessments](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf)
   * [Psychological Foundations of Explainability and Interpretability in Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8367.pdf)
-* [National Telecommunications and Information Administration (NTIA)](https://www.ntia.gov/)
+* **[U.S. Artificial Intelligence Safety Institute (USAISI)](https://www.nist.gov/aisi)**
+  * [US AISI and UK AISI Joint Pre-Deployment Test: Anthropic's Claude 3.5 Sonnet (October 2024 Release)](https://www.nist.gov/system/files/documents/2024/11/19/Upgraded%20Sonnet-Publication-US.pdf)
+  * [US AISI and UK AISI Joint Pre-Deployment Test: OpenAI o1 (December 2024)](https://www.nist.gov/system/files/documents/2024/12/18/US_UK_AI%20Safety%20Institute_%20December_Publication-OpenAIo1.pdf)
+* **[National Telecommunications and Information Administration (NTIA)](https://www.ntia.gov/)**
   * [AI Accountability Policy Report](https://www.ntia.gov/issues/artificial-intelligence/ai-accountability-policy-report)
   * [Internet Policy Task Force, Commercial Data Privacy and Innovation in the Internet Economy: A Dynamic Policy Framework](https://www.ntia.doc.gov/files/ntia/publications/iptf_privacy_greenpaper_12162010.pdf)
 
@@ -666,6 +695,8 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Artificial Intelligence and Autonomous Systems](https://www.dhs.gov/science-and-technology/artificial-intelligence)
 * [Artificial Intelligence Safety and Security Board](https://www.dhs.gov/artificial-intelligence-safety-and-security-board)
 * [Department of Homeland Security Artificial Intelligence Roadmap 2024](https://www.dhs.gov/sites/default/files/2024-03/24_0315_ocio_roadmap_artificialintelligence-ciov3-signed-508.pdf)
+* [The Department of Homeland Security Simplified Artificial Intelligence Use Case Inventory](https://www.dhs.gov/ai/use-case-inventory)
+  * [AI at DHS: A Deep Dive into our Use Case Inventory](https://www.dhs.gov/news/2024/12/16/ai-dhs-deep-dive-our-use-case-inventory)
 * [Safety and Security Guidelines for Critical Infrastructure Owners and Operators](https://www.dhs.gov/publication/safety-and-security-guidelines-critical-infrastructure-owners-and-operators)
 * [Use of Commercial Generative Artificial Intelligence (AI) Tools](https://www.dhs.gov/sites/default/files/2023-11/23_1114_cio_use_generative_ai_tools.pdf)
 
@@ -746,7 +777,10 @@ This section serves as a repository for policy documents, regulations, guideline
 * [SEC Charges Two Investment Advisers with Making False and Misleading Statements About Their Use of Artificial Intelligence](https://www.sec.gov/news/press-release/2024-36)
  
 **United States Patent and Trademark Office (USPTO)**
-* [Public Views on Artificial Intelligence and Intellectual Property Policy](https://www.uspto.gov/sites/default/files/documents/USPTO_AI-Report_2020-10-07.pdf)  
+* [Public Views on Artificial Intelligence and Intellectual Property Policy](https://www.uspto.gov/sites/default/files/documents/USPTO_AI-Report_2020-10-07.pdf)
+
+**United States Senate**
+* [Committee on Commerce, Science, and Transportation, 2024.11.21 Letter to DOJ Re FARA AI Violation (Senator Ted Cruz to Attorney General Merrick Garland)](https://www.commerce.senate.gov/services/files/55267EFF-11A8-4BD6-BE1E-61452A3C48E3)
 
 **United States Web Design System (USWDS)**
 * [Design principles](https://designsystem.digital.gov/design-principles/)
@@ -768,7 +802,11 @@ This section serves as a repository for policy documents, regulations, guideline
 
 **New York**
 * [New York City Automated Decision Systems Task Force Report (November 2019)](https://www.nyc.gov/assets/adstaskforce/downloads/pdf/ADS-Report-11192019.pdf)
+* [New York State Emerging Technology Advisory Board: Recommendations for making NY a leader in responsible AI](https://filecache.mediaroom.com/mr5mr_ibmnewsroom/198517/IBM-ETAB-Report-white-paper-DIGITAL-20241212%5B30%5D.pdf)
 * [RE: Use of External Consumer Data and Information Sources in Underwriting for Life Insurance](https://www.dfs.ny.gov/industry_guidance/circular_letters/cl2019_01)
+
+**North Carolina**
+* [North Carolina State Government Responsible Use of Artificial Intelligence Framework, August 2024](https://it.nc.gov/documents/nc-state-government-responsible-use-artificial-intelligence-framework/download?attachment)
 
 **Texas**
 * [Federal Reserve Bank of Dallas, Regulation B, Equal Credit Opportunity, Credit Scoring Interpretations: Withdrawl of Proposed Business Credit Amendments, June 3, 1982](https://fraser.stlouisfed.org/files/docs/historical/frbdal/circulars/frbdallas_circ_19820603_no82-063.pdf)
@@ -779,6 +817,14 @@ This section serves as a repository for policy documents, regulations, guideline
 #### International and Multilateral Frameworks
 
 #### European Union Policies and Regulations
+
+#### Council of Europe
+* [Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law](https://rm.coe.int/1680afae3c)
+* [European Audiovisual Observatory, IRIS, AI and the audiovisual sector: navigating the current legal landscape](https://rm.coe.int/iris-2024-3-ia-legal-landscape/1680b1e999)
+* [The Framework Convention on Artificial Intelligence](https://www.coe.int/en/web/artificial-intelligence/the-framework-convention-on-artificial-intelligence)
+  * [Explanatory Report to the Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law](https://rm.coe.int/1680afae67)
+* [Guidelines on the Responsible Implementation of Artificial Intelligence Systems in Journalism](https://rm.coe.int/cdmsi-2023-014-guidelines-on-the-responsible-implementation-of-artific/1680adb4c6)
+* [Recommendation CM/Rec(2020)1 of the Committee of Ministers to member States on the human rights impacts of algorithmic systems (Adopted by the Committee of Ministers on 8 April 2020 at the 1373rd meeting of the Ministers’ Deputies)](https://search.coe.int/cm?i=09000016809e1154)
 
 #### European Commission and Parliament
 * [Assessment List for Trustworthy Artificial Intelligence (ALTAI) for self-assessment - Shaping Europe’s digital future - European Commission](https://ec.europa.eu/digital-single-market/en/news/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment)
@@ -838,7 +884,13 @@ This section serves as a repository for policy documents, regulations, guideline
   * [No. 28, November 20, 2024, Artificial Intelligence and the health workforce](https://www.oecd-ilibrary.org/deliver/9a31d8af-en.pdf?itemId=%2Fcontent%2Fpaper%2F9a31d8af-en&mimeType=pdf)
   * [No. 29, November 22, 2024, Miracle or Myth? Assessing the macroeconomic productivity gains from Artificial Intelligence](https://www.oecd-ilibrary.org/deliver/b524a072-en.pdf?itemId=%2Fcontent%2Fpaper%2Fb524a072-en&mimeType=pdf)
 * [OECD Digital Economy Papers, No. 341, November 2022, Measuring the Environmental Impacts of Artificial Intelligence Computer and Applications: The AI Footprint](https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/11/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_3dddded5/7babf571-en.pdf)
+* [OECD-Bericht zu Künstlicher Intelligenz in Deutschland](https://www.ki-strategie-deutschland.de/files/downloads/OECD-Bericht_K%C3%BCnstlicher_Intelligenz_in_Deutschland.pdf)
+* [Measuring the environmental impacts of artificial intelligence compute and applications](https://www.oecd.org/en/publications/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_7babf571-en.html)
 * [Open, Useful and Re-usable data (OURdata) Index: 2019 - Policy Paper](https://www.oecd.org/gov/digital-government/policy-paper-ourdata-index-2019.htm)
+
+#### OSCE
+* [#SAIFE Resource Hub: Spotlight on Artificial Intelligence and Freedom of Expression](https://www.osce.org/saife/index.html)
+* [Artificial Intelligence and Disinformation: State-Aligned Information Operations and the Distortion of the Public Sphere, July 2022](https://www.osce.org/files/f/documents/e/b/522166.pdf)
 
 #### NATO
 * [AI in Precision Persuasion. Unveiling Tactics and Risks on Social Media](https://stratcomcoe.org/publications/ai-in-precision-persuasion-unveiling-tactics-and-risks-on-social-media/309)
@@ -849,9 +901,14 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Summary of NATO's revised Artificial Intelligence (AI) strategy, July 10, 2024](https://www.nato.int/cps/en/natohq/official_texts_227237.htm)
 
 #### United Nations
+* [Chief Executives Board for Coordination, 2022-10-27, Principles for the ethical use of artificial intelligence in the United Nations system](https://unsceb.org/sites/default/files/2023-03/CEB_2022_2_Add.1%20%28AI%20ethics%20principles%29.pdf)
+* [Governing AI for Humanity, Final Report, September 2024](https://digitallibrary.un.org/record/4062495/files/1416782-EN.pdf?ln=en)
+* [Office for Information and Communications Technology, A Framework for Ethical AI at the United Nations, March 15, 2021](https://unite.un.org/sites/unite.un.org/files/unite_paper_-_ethical_ai_at_the_un.pdf)
+* [Office of the Secretary-General's Envoy on Technology, High-Level Advisory Body on Artificial Intelligence](https://www.un.org/techenvoy/ai-advisory-body)
+* [Office of the United Nations High Commissioner for Human Rights](https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/taxonomy-GenAI-Human-Rights-Harms.pdf)
 * [UNESCO, Artificial Intelligence: examples of ethical dilemmas](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases)
 * [UNESCO, Consultation paper on AI regulation: emerging approaches across the world](https://unesdoc.unesco.org/ark:/48223/pf0000390979)
-* [Office of the United Nations High Commissioner for Human Rights](https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/taxonomy-GenAI-Human-Rights-Harms.pdf)
+* [UNICEF, Policy guidance on AI for children, Version 2.0, November 2021, Recommendations for building AI policies and systems that uphold child rights](https://www.unicef.org/innocenti/media/1341/file/UNICEF-Global-Insight-policy-guidance-AI-children-2.0-2021.pdf)
 
 ### Law Texts and Drafts
 
@@ -1077,9 +1134,11 @@ This section houses initiatives, networks, repositories, and publications that f
 #### Bibliography of Papers on AI Incidents and Failures
 
 * [AI Ethics Issues in Real World: Evidence from AI Incident Database](https://doi.org/10.48550/arXiv.2206.07635)
+* [American Sunlight Project, Deepfake Pornography Goes to Washington: Measuring the Prevalence of AI-Generated Non-Consensual Intimate Imagery Targeting Congress, December 11, 2024](https://static1.squarespace.com/static/6612cbdfd9a9ce56ef931004/t/67586997eaec5c6ae3bb5e24/1733847451191/ASP+DFP+Report.pdf)
 * [The Atlas of AI Incidents in Mobile Computing: Visualizing the Risks and Benefits of AI Gone Mobile](https://doi.org/10.48550/arXiv.2407.15685)
 * [Artificial Intelligence Incidents & Ethics: A Narrative Review](https://doi.org/10.54489/ijtim.v2i2.80)
 * [Artificial Intelligence Safety and Cybersecurity: A Timeline of AI Failures](https://doi.org/10.48550/arXiv.1610.07997)
+* [Center for Countering Digital Hate (CCDH), YouTube's Anorexia Algorithm: How YouTube Recommends Eating Disorders Videos to Young Girls](https://counterhate.com/wp-content/uploads/2024/12/CCDH.YoutubeED.Nov24.Report_FINAL.pdf)
 * [Deployment Corrections: An Incident Response Framework for Frontier AI Models](https://doi.org/10.48550/arXiv.2310.00328)
 * [Exploring Trust With the AI Incident Database](https://doi.org/10.1177/21695067231198084)
 * [Indexing AI Risks with Incidents, Issues, and Variants](https://doi.org/10.48550/arXiv.2211.10384)
@@ -1151,6 +1210,8 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Aylin Caliskan's publications](https://faculty.washington.edu/aylin/publications.html)
 * [Beyond Metrics: A Critical Analysis of the Variability in Large Language Model Evaluation Frameworks](https://arxiv.org/abs/2407.21072)
 * [Beyond Preferences in AI Alignment](https://arxiv.org/pdf/2408.16984)
+* [Can We Trust AI Agents? An Experimental Study Towards Trustworthy LLM-Based Multi-Agent Systems for AI Ethics](https://arxiv.org/abs/2411.08881)
+* [Center for Countering Digital Hate (CCDH), YouTube's Anorexia Algorithm: How YouTube Recommends Eating Disorders Videos to Young Girls](https://counterhate.com/wp-content/uploads/2024/12/CCDH.YoutubeED.Nov24.Report_FINAL.pdf)
 * [Chatbots in consumer finance](https://www.consumerfinance.gov/data-research/research-reports/chatbots-in-consumer-finance/chatbots-in-consumer-finance/)
 * [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
 * [Companies like Google and OpenAI are pillaging the internet and pretending it’s progress](https://bgr.com/business/companies-like-google-and-openai-are-pillaging-the-internet-and-pretending-its-progress/)
@@ -1193,7 +1254,6 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Most CEOs aren’t buying the hype on generative AI benefits](https://www.itpro.com/business/leadership/most-ceos-arent-buying-the-hype-on-generative-ai-benefits)
 * [Nepotistically Trained Generative-AI Models Collapse](https://arxiv.org/abs/2311.12202)
 * [Non-discrimination Criteria for Generative Language Models](https://arxiv.org/abs/2403.08564)
-* [OECD, Measuring the environmental impacts of artificial intelligence compute and applications](https://www.oecd.org/en/publications/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_7babf571-en.html)
 * [OpenAI—written evidence (LLM0113), House of Lords Communications and Digital Select Committee inquiry: Large language models](https://committees.parliament.uk/writtenevidence/126981/pdf/)
   * [Former OpenAI Researcher Says the Company Broke Copyright Law](https://www.nytimes.com/2024/10/23/technology/openai-copyright-law.html)
 * [Open Problems in Technical AI Governance](https://arxiv.org/pdf/2407.14981)
@@ -1238,9 +1298,11 @@ This section contains an assortment of papers, articles, essays, and general res
 * [The Environmental Impact of AI: A Case Study of Water Consumption by Chat GPT](https://puiij.com/index.php/research/article/view/39)
 * [The Environmental Price of Intelligence: Evaluating the Social Cost of Carbon in Machine Learning](https://ieeexplore.ieee.org/abstract/document/10553496)
 * [Generative AI’s environmental costs are soaring — and mostly secret](https://www.nature.com/articles/d41586-024-00478-x)
+* [Green Intelligence Resource Hub](https://docs.google.com/spreadsheets/d/1UCsgAqgonjpP9uPVyssXU0VE0G6Fs7ydxt_mmrpcd1o/edit?usp=sharing)
 * [The Hidden Environmental Impact of AI](https://jacobin.com/2024/06/ai-data-center-energy-usage-environment/)
 * [Making AI Less "Thirsty": Uncovering and Addressing the Secret Water Footprint of AI Models](https://arxiv.org/abs/2304.03271)
 * [Microsoft’s Hypocrisy on AI](https://www.theatlantic.com/technology/archive/2024/09/microsoft-ai-oil-contracts/679804/)
+* [OECD, Measuring the environmental impacts of artificial intelligence compute and applications](https://www.oecd.org/en/publications/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_7babf571-en.html)
 * [The mechanisms of AI hype and its planetary and social costs](https://link.springer.com/article/10.1007/s43681-024-00461-2)
 * [Power Hungry Processing: Watts Driving the Cost of AI Deployment?](https://dl.acm.org/doi/pdf/10.1145/3630106.3658542)
 * [Promoting Sustainability: Mitigating the Water Footprint in AI-Embedded Data Centres](https://www.igi-global.com/chapter/promoting-sustainability/341617)
@@ -1268,6 +1330,7 @@ This section contains an assortment of papers, articles, essays, and general res
 We are seeking curated bibliographies related to responsible ML across various topics, see [issue 115](https://github.com/jphall663/awesome-machine-learning-interpretability/issues/115). 
 
 * [Blair Attard-Frost, INF1005H1S: Artificial Intelligence Policy Supplementary Reading List](https://www.blairaf.com/library/resources/teaching/2024-INF1005H1S/INF1005-Supplementary-Reading-List.pdf)
+* [Green Intelligence Resource Hub](https://docs.google.com/spreadsheets/d/1UCsgAqgonjpP9uPVyssXU0VE0G6Fs7ydxt_mmrpcd1o/edit?usp=sharing)
 * [Internet Rules Lab, Responsible Computing](https://www.internetruleslab.com/responsible-computing)
 * [LLM Security & Privacy](https://github.com/chawins/llm-sp)![](https://img.shields.io/github/stars/chawins/llm-sp?style=social)
 * [Membership Inference Attacks and Defenses on Machine Learning Models Literature](https://github.com/HongshengHu/membership-inference-machine-learning-literature)![](https://img.shields.io/github/stars/HongshengHu/membership-inference-machine-learning-literature?style=social)
