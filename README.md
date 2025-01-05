@@ -1,4 +1,3 @@
-
 # Awesome Machine Learning Interpretability [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A maintained and curated list of practical and awesome responsible machine learning resources.
@@ -6,6 +5,9 @@ A maintained and curated list of practical and awesome responsible machine learn
 If you want to contribute to this list (*and please do!*), read over the [contribution guidelines](contributing.md), send a [pull request](https://github.com/jphall663/awesome-machine-learning-interpretability/compare), or file an [issue](https://github.com/jphall663/awesome-machine-learning-interpretability/issues/new). 
 
 If something you contributed or found here is missing after our September 2023 reboot, please check the [archive](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/archive/README.md.bak).
+
+Maintenance and curation sponsored by:
+![](HR-logo-480x220.png)
 
 ## Contents
 
