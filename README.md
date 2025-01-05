@@ -8,7 +8,7 @@ If something you contributed or found here is missing after our September 2023 r
 
 ![](HR-logo-350x100.png)
 
-**Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch.ai).
+Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch.ai).
 
 ## Contents
 
