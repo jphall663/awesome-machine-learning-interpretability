@@ -6,7 +6,7 @@ If you want to contribute to this list (*and please do!*), read over the [contri
 
 If something you contributed or found here is missing after our September 2023 reboot, please check the [archive](https://github.com/jphall663/awesome-machine-learning-interpretability/blob/master/archive/README.md.bak).
 
-**Maintenance and curation sponsored by**:
+**Maintenance and curation sponsored by [HallResearch.ai](HallResearch.ai)**:
 
 ![](HR-logo-350x100.png)
 
