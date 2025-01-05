@@ -8,7 +8,7 @@ If something you contributed or found here is missing after our September 2023 r
 
 **Maintenance and curation sponsored by**:
 
-![](HR-logo-480x220.png)
+![](HR-logo-350x100.png)
 
 ## Contents
 
