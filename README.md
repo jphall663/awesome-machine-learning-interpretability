@@ -627,7 +627,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Callaghan Innovation, EU AI Fact Sheet 4, High-risk AI systems](https://www.callaghaninnovation.govt.nz/assets/documents/Resource-EU-AI-Act-Support/EU-AI-Policy-Fact-Sheet-4-High-Risk-AI-Systems.pdf)
 
 #### Philippines
-"[National Privacy Commission, Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), Its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data (NPC Advisory No. 2024-04)](https://privacy.gov.ph/wp-content/uploads/2024/12/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf)"
+* [National Privacy Commission, Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), Its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data (NPC Advisory No. 2024-04)](https://privacy.gov.ph/wp-content/uploads/2024/12/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf)
 
 #### Singapore
 * [Monetary Authority of Singapore, Artificial Intelligence Model Risk Management: Observations from a Thematic Review (Information Paper, December 2024](https://www.mas.gov.sg/-/media/mas-media-library/publications/monographs-or-information-paper/imd/2024/information-paper-on-ai-risk-management-final.pdf)
