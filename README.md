@@ -29,6 +29,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
     * [France](#france)
     * [Germany](#germany)
     * [Hong Kong](#hong-kong)
+    * [Ireland](#ireland)
     * [Japan](#japan)
     * [Malaysia](#malaysia)
     * [Mexico](#mexico)
@@ -610,6 +611,9 @@ This section serves as a repository for policy documents, regulations, guideline
 #### Hong Kong
 * [Office of the Privacy Commissioner for Personal Data, Artificial Intelligence: Model Personal Data Protection Framework, June 2024](https://www.pcpd.org.hk/english/resources_centre/publications/files/ai_protection_framework.pdf)
 
+#### Ireland
+* [AI - Here for Good: A National Artificial Intelligence Strategy for Ireland](https://enterprise.gov.ie/en/publications/publication-files/national-ai-strategy.pdf)
+
 #### Japan
 * [Japan AI Safety Institute, Guide to Evaluation Perspectives on AI Safety (Version 1.01), September 25, 2024](https://aisi.go.jp/assets/pdf/ai_safety_eval_v1.01_en.pdf)
 * [Japan AI Safety Institute, Guide to Red Teaming Methodology on AI Safety (Version 1.00), September 25, 2024](https://aisi.go.jp/assets/pdf/ai_safety_RT_v1.00_en.pdf)
@@ -907,9 +911,13 @@ This section serves as a repository for policy documents, regulations, guideline
 * [European Commission, Analysis of the preliminary AI standardisation work plan in support of the AI Act](https://publications.jrc.ec.europa.eu/repository/handle/JRC132833)
 * [European Commission, Communication from the Commission (4/25/2018), Artificial Intelligence for Europe](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2018%3A237%3AFIN)
 * [European Commission, Data Protection Certification Mechanisms: Study on Articles 42 and 43 of the Regulation (EU) 2016/679](https://commission.europa.eu/publications/study-data-protection-certification-mechanisms_en?prefLang=lv)
+* [European Commission, Ethical guidelines on the use of artificial intelligence (AI) and data in teaching and learning for Educators](https://school-education.ec.europa.eu/system/files/2023-12/ethical_guidelines_on_the_use_of_artificial_intelligence-nc0722649enn_0.pdf)
+* [European Commission, Ethics By Design and Ethics of Use Approaches for Artificial Intelligence, Version 1.0, November 25, 2021](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-by-design-and-ethics-of-use-approaches-for-artificial-intelligence_he_en.pdf)
 * [European Commission, European approach to artificial intelligence](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence)
 * [European Commission, Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
 * [European Commission, Independent High-Level Expert Group on Artificial Intelligence, Ethics Guidelines for Trustworthy AI](https://www.europarl.europa.eu/cmsdata/196377/AI%20HLEG_Ethics%20Guidelines%20for%20Trustworthy%20AI.pdf)
+* [European Commission, Independent High-Level Expert Group on Artificial Intelligence, Policy and Investment Recommendations for Trustworthy AI](https://www.europarl.europa.eu/cmsdata/196378/AI%20HLEG_Policy%20and%20Investment%20Recommendations.pdf)
+* [European Commission, Living Guidelines on the Responsible Use of Generative AI in Research (ERA Forum Stakeholders' document, First Version, March 2024)](https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf)
 * [Proposal for a directive on adapting non-contractual civil liability rules to artificial intelligence: Complementary impact assessment](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2024)762861)
 
 #### European Council
@@ -921,6 +929,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [European Data Protection Board (EDPB), AI Auditing documents](https://www.edpb.europa.eu/our-work-tools/our-documents/support-pool-expert-projects/ai-auditing_en)
 * [European Data Protection Board (EDPB), Opinion 28/2024 on certain data protection aspects related to the processing of personal data in the context of AI models](https://www.edpb.europa.eu/system/files/2024-12/edpb_opinion_202428_ai-models_en.pdf)
 * [European Data Protection Supervisor, First EDPS Orientations for EUIs using Generative AI](https://www.edps.europa.eu/data-protection/our-work/publications/guidelines/2024-06-03-first-edps-orientations-euis-using-generative-ai_en)
+* [European Data Protection Supervisor, Generative AI and the EUDPR. First EDPS Orientations for ensuring data protection compliance when using Generative AI systems, June 3, 2024](https://www.edps.europa.eu/system/files/2024-06/24-06-03_genai_orientations_en.pdf)
 * [European Labour Authority (ELA), Artificial Intelligence and Algorithms in Risk Assessment: Addressing Bias, Discrimination and other Legal and Ethical Issues](https://www.ela.europa.eu/sites/default/files/2023-08/ELA-Handbook-AI-training.pdf)
 
 #### OECD
