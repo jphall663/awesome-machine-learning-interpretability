@@ -156,6 +156,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Dominique Shelton Leipzig, Countries With Draft AI Legislation or Frameworks](https://dominiquesheltonleipzig.com/country-legislation-frameworks/)
 * [Ethical and social risks of harm from Language Models](https://www.deepmind.com/publications/ethical-and-social-risks-of-harm-from-language-models)
 * [Ethics for people who work in tech](https://ethicsforpeoplewhoworkintech.com/)
+* [The Ethics of AI Ethics: An Evaluation of Guidelines][https://link.springer.com/content/pdf/10.1007/s11023-020-09517-8.pdf]
 * [The Ethics of Developing, Implementing, and Using Advanced Warehouse Technologies: Top-Down Principles Versus The Guidance Ethics Approach](https://journals.open.tudelft.nl/jhtr/article/view/7098/6136)
 * [EU Digital Partners, U.S. A.I. Laws: A State-by-State Study](https://eudigitalpartners.com/wp-content/uploads/2024/06/US-AI-LAWS.pdf)
 * [European Law Institute, Guidelines on the Application of the Definition of an AI System in the AI Act: ELI Proposal for a Three-Factor Approach (Response of the ELI to the EU Commission's Consultation), November 1, 2024](https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/ELI_Response_on_the_definition_of_an_AI_System.pdf)
@@ -199,6 +200,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * IEEE: 
   * [A Flexible Maturity Model for AI Governance Based on the NIST AI Risk Management Framework](https://ieeeusa.org/product/a-flexible-maturity-model-for-ai-governance/)
   * [The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems, General Principles](https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_general_principles_v2.pdf)
+  * [An Overview of Artificial Intelligence Ethics](https://ieeexplore.ieee.org/document/9844014)
   * [P3119 Standard for the Procurement of Artificial Intelligence and Automated Decision Systems](https://standards.ieee.org/ieee/3119/10729/)  
   * [Std 1012-1998 Standard for Software Verification and Validation](https://people.eecs.ku.edu/~hossein/Teaching/Stds/1012.pdf)
 * [Independent Audit of AI Systems](https://forhumanity.center/independent-audit-of-ai-systems/)
@@ -299,6 +301,7 @@ A Primer for Developers and Policymakers](https://www.rand.org/pubs/research_rep
 * [World Privacy Forum, AI Governance on the Ground: Canada’s Algorithmic Impact Assessment Process and Algorithm has evolved](https://www.worldprivacyforum.org/2024/08/ai-governance-on-the-ground-series-canada/)
 * [World Privacy Forum, Risky Analysis: Assessing and Improving AI Governance Tools](https://www.worldprivacyforum.org/wp-content/uploads/2023/12/WPF_Risky_Analysis_December_2023_fs.pdf)
 * [World Economic Forum and Capgemini, Navigating the AI Frontier: A Primer on the Evolution and Impact of AI Agents, White Paper, December 2024](https://reports.weforum.org/docs/WEF_Navigating_the_AI_Frontier_2024.pdf)
+* [Worldwide AI Ethics: A Review of 200 Guidelines and Recommendations for AI Governance](https://arxiv.org/pdf/2206.11922)
 * [You Created A Machine Learning Application Now Make Sure It's Secure](https://www.oreilly.com/ideas/you-created-a-machine-learning-application-now-make-sure-its-secure)
 
 #### Infographics and Cheat Sheets
@@ -903,9 +906,10 @@ This section serves as a repository for policy documents, regulations, guideline
 * [European Parliament, The impact of the General Data Protection Regulation (GDPR) on artificial intelligence](https://www.europarl.europa.eu/RegData/etudes/STUD/2020/641530/EPRS_STU(2020)641530_EN.pdf)
 * [European Commission, Analysis of the preliminary AI standardisation work plan in support of the AI Act](https://publications.jrc.ec.europa.eu/repository/handle/JRC132833)
 * [European Commission, Communication from the Commission (4/25/2018), Artificial Intelligence for Europe](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2018%3A237%3AFIN)
+* [European Commission, Data Protection Certification Mechanisms: Study on Articles 42 and 43 of the Regulation (EU) 2016/679](https://commission.europa.eu/publications/study-data-protection-certification-mechanisms_en?prefLang=lv)
 * [European Commission, European approach to artificial intelligence](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence)
 * [European Commission, Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
-* [European Commission, Data Protection Certification Mechanisms: Study on Articles 42 and 43 of the Regulation (EU) 2016/679](https://commission.europa.eu/publications/study-data-protection-certification-mechanisms_en?prefLang=lv)
+* [European Commission, Independent High-Level Expert Group on Artificial Intelligence, Ethics Guidelines for Trustworthy AI](https://www.europarl.europa.eu/cmsdata/196377/AI%20HLEG_Ethics%20Guidelines%20for%20Trustworthy%20AI.pdf)
 * [Proposal for a directive on adapting non-contractual civil liability rules to artificial intelligence: Complementary impact assessment](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2024)762861)
 
 #### European Council
@@ -922,6 +926,7 @@ This section serves as a repository for policy documents, regulations, guideline
 #### OECD
 * [AI, data governance and privacy: Synergies and areas of international co-operation, June 26, 2024](https://www.oecd.org/en/publications/ai-data-governance-and-privacy_2476b1a4-en.html)
 * [The Bias Assessment Metrics and Measures Repository](https://oecd.ai/en/catalogue/tools/the-bias-assessment-metrics-and-measures-repository)
+* [OECD.AI Catalogue of Tools & Metrics for Trustworthy AI, Anekanta AI, Responsible AI Governance Framework for boards](https://oecd.ai/en/catalogue/tools/responsible-ai-governance-framework-for-boards)
 * [OECD Artificial Intelligence Papers](https://www.oecd-ilibrary.org/science-and-technology/oecd-artificial-intelligence-papers_dee339a8-en)
   * [No. 1, September 18, 2023, Initial policy considerations for generative artificial intelligence](https://www.oecd-ilibrary.org/deliver/fae2d1e6-en.pdf?itemId=%2Fcontent%2Fpaper%2Ffae2d1e6-en&mimeType=pdf)
   * [No. 2, October 17, 2023, Emerging trends in AI skill demand across 14 OECD countries](https://www.oecd-ilibrary.org/deliver/7c691b9a-en.pdf?itemId=%2Fcontent%2Fpaper%2F7c691b9a-en&mimeType=pdf)
@@ -980,6 +985,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [UNESCO, Artificial Intelligence: examples of ethical dilemmas](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases)
 * [UNESCO, Caribbean Artificial Intelligence Policy Roadmap](https://unesdoc.unesco.org/ark:/48223/pf0000391996/PDF/391996eng.pdf.multi)
 * [UNESCO, Consultation paper on AI regulation: emerging approaches across the world](https://unesdoc.unesco.org/ark:/48223/pf0000390979)
+* [UNESCO, Global AI Ethics and Governance Observatory](https://www.unesco.org/ethics-ai/en)
 * [UNESCO, Recommendation on the Ethics of Artificial Intelligence, Adopted on 23 November 2021](https://unesdoc.unesco.org/ark:/48223/pf0000381137/PDF/381137eng.pdf.multi)
  * [UNESCO, Readiness assessment methodology: a tool of the Recommendation on the Ethics of Artificial Intelligence](https://www.unesco.org/en/articles/readiness-assessment-methodology-tool-recommendation-ethics-artificial-intelligence)
 * [UNICEF, Policy guidance on AI for children, Version 2.0, November 2021, Recommendations for building AI policies and systems that uphold child rights](https://www.unicef.org/innocenti/media/1341/file/UNICEF-Global-Insight-policy-guidance-AI-children-2.0-2021.pdf)
@@ -1455,6 +1461,7 @@ This section links to other lists of responsible ML or related resources.
 * [Ravit Dotan's Resources](https://www.techbetter.ai/resources)
 * [ResponsibleAI](https://romanlutz.github.io/ResponsibleAI/)
 * [Tech & Ethics Curricula](https://docs.google.com/spreadsheets/d/1Z0DqQeZ-Aeq6LmD17J5m8zeeIR6ywWnH-WO-jWtXE9M/edit#gid=0)
+* [Ultraopxt/Awesome AI Ethics & Safety](https://github.com/Ultraopxt/Awesome-AI-Ethics-Safety)![](https://img.shields.io/github/stars/Ultraopxt/Awesome-AI-Ethics-Safety/?style=social)
 * [Worldwide AI ethics: A review of 200 guidelines and recommendations for AI governance](https://doi.org/10.1016/j.patter.2023.100857)
 * [XAI Resources](https://github.com/pbiecek/xai_resources)![](https://img.shields.io/github/stars/pbiecek/xai_resources?style=social)
 * [xaience](https://github.com/andreysharapov/xaience)![](https://img.shields.io/github/stars/andreysharapov/xaience?style=social)
