@@ -613,6 +613,10 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### Ireland
 * [AI - Here for Good: A National Artificial Intelligence Strategy for Ireland](https://enterprise.gov.ie/en/publications/publication-files/national-ai-strategy.pdf)
+* [Department of Finance and Department of Enterprise, Trade and Employment, Artificial Intelligence: Friend or Foe? Summary and Public Policy Considerations, June 2024](https://www.gov.ie/pdf/?file=https://assets.gov.ie/295620/f11c6c66-4012-49fa-bb7f-8f14130f6fa5.pdf)
+* [Department of Public Expenditure, NDP Delivery and Reform, Interim Guidelines for Use of AI in the Public Service, February 2024](https://assets.gov.ie/280459/73ce75af-0015-46af-a9f6-b54f0a3c4fd0.pdf)
+* [Ireland's National AI Strategy: AI - Here for Good, Refresh 2024](https://enterprise.gov.ie/en/publications/publication-files/national-ai-strategy-refresh-2024.pdf)
+* [National Standards Authority of Ireland, Top Team on Standards in AI, AI Standards & Assurance Roadmap: Action under 'AI - Here for Good,' the National Artificial Intelligence Strategy for Ireland, July 2023](https://www.nsai.ie/images/uploads/general/NSAI_AI_report_digital_links.pdf)
 
 #### Japan
 * [Japan AI Safety Institute, Guide to Evaluation Perspectives on AI Safety (Version 1.01), September 25, 2024](https://aisi.go.jp/assets/pdf/ai_safety_eval_v1.01_en.pdf)
