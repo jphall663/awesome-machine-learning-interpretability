@@ -156,7 +156,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Dominique Shelton Leipzig, Countries With Draft AI Legislation or Frameworks](https://dominiquesheltonleipzig.com/country-legislation-frameworks/)
 * [Ethical and social risks of harm from Language Models](https://www.deepmind.com/publications/ethical-and-social-risks-of-harm-from-language-models)
 * [Ethics for people who work in tech](https://ethicsforpeoplewhoworkintech.com/)
-* [The Ethics of AI Ethics: An Evaluation of Guidelines][https://link.springer.com/content/pdf/10.1007/s11023-020-09517-8.pdf]
+* [The Ethics of AI Ethics: An Evaluation of Guidelines](https://link.springer.com/content/pdf/10.1007/s11023-020-09517-8.pdf)
 * [The Ethics of Developing, Implementing, and Using Advanced Warehouse Technologies: Top-Down Principles Versus The Guidance Ethics Approach](https://journals.open.tudelft.nl/jhtr/article/view/7098/6136)
 * [EU Digital Partners, U.S. A.I. Laws: A State-by-State Study](https://eudigitalpartners.com/wp-content/uploads/2024/06/US-AI-LAWS.pdf)
 * [European Law Institute, Guidelines on the Application of the Definition of an AI System in the AI Act: ELI Proposal for a Three-Factor Approach (Response of the ELI to the EU Commission's Consultation), November 1, 2024](https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/ELI_Response_on_the_definition_of_an_AI_System.pdf)
