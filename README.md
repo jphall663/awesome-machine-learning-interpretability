@@ -29,6 +29,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
     * [France](#france)
     * [Germany](#germany)
     * [Hong Kong](#hong-kong)
+    * [Iceland](#iceland)
     * [Ireland](#ireland)
     * [Japan](#japan)
     * [Malaysia](#malaysia)
@@ -132,6 +133,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [Adding Structure to AI Harm: An Introduction to CSET's AI Harm Framework](https://cset.georgetown.edu/publication/adding-structure-to-ai-harm/)
   * [AI Accidents: An Emerging Threat: What Could Happen and What to Do, CSET Policy Brief, July 2021](https://cset.georgetown.edu/wp-content/uploads/CSET-AI-Accidents-An-Emerging-Threat.pdf)
   * [AI Incident Collection: An Observational Study of the Great AI Experiment](https://cset.georgetown.edu/publication/ai-incident-collection-an-observational-study-of-the-great-ai-experiment/)
+  * [Chinese Critiques of Large Language Models: Finding the Path to General Intelligence | January 2025](https://cset.georgetown.edu/wp-content/uploads/CSET-Chinese-Critiques-of-Large-Language-Models-Finding-the-Path-to-General-Artificial-Intelligence.pdf)
   * [Repurposing the Wheel: Lessons for AI Standards](https://cset.georgetown.edu/publication/repurposing-the-wheel/)
   * [Translating AI Risk Management Into Practice](https://cset.georgetown.edu/article/translating-ai-risk-management-into-practice/)
   * [Understanding AI Harms: An Overview](https://cset.georgetown.edu/article/understanding-ai-harms-an-overview/)
@@ -139,9 +141,10 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Censius, An In-Depth Guide To Help You Start Auditing Your AI Models](https://censius.ai/blogs/ai-audit-guide)
 * [Center for AI and Digital Policy Reports](https://www.caidp.org/reports/)
 * [Center for Countering Digital Hate (CCDH), YouTube's Anorexia Algorithm: How YouTube Recommends Eating Disorders Videos to Young Girls](https://counterhate.com/wp-content/uploads/2024/12/CCDH.YoutubeED.Nov24.Report_FINAL.pdf)
-* [Center for Democracy and Technology (CDT), AI Policy & Governance](https://cdt.org/area-of-focus/ai-policy-governance/)
-* [Center for Democracy and Technology (CDT), Applying Sociotechnical Approaches to AI Governance in Practice](https://cdt.org/insights/applying-sociotechnical-approaches-to-ai-governance-in-practice/)
-* [Center for Democracy and Technology (CDT), In Deep Trouble: Surfacing Tech-Powered Sexual Harassment in K-12 Schools](https://cdt.org/insights/report-in-deep-trouble-surfacing-tech-powered-sexual-harassment-in-k-12-schools/)
+* [Center for Democracy and Technology (CDT) | AI Policy & Governance](https://cdt.org/area-of-focus/ai-policy-governance/)
+* [Center for Democracy and Technology (CDT) | Applying Sociotechnical Approaches to AI Governance in Practice](https://cdt.org/insights/applying-sociotechnical-approaches-to-ai-governance-in-practice/)
+* [Center for Democracy and Technology (CDT) | Assessing AI: Surveying the Spectrum of Approaches to Understanding and Auditing AI Systems | January 2025](https://cdt.org/wp-content/uploads/2025/01/2025-01-15-CDT-AI-Gov-Lab-Auditing-AI-report.pdf)
+* [Center for Democracy and Technology (CDT) | In Deep Trouble: Surfacing Tech-Powered Sexual Harassment in K-12 Schools](https://cdt.org/insights/report-in-deep-trouble-surfacing-tech-powered-sexual-harassment-in-k-12-schools/)
 * [Centre for International Governance Innovation Publications](https://www.cigionline.org/publications/)
 * [CivAI, GenAI Toolkit for the NIST AI Risk Management Framework: Thinking Through the Risks of a GenAI Chatbot](https://www.civai.org/genai-toolkit-pdf)
 * [Coalition for Content Provenance and Authenticity (C2PA)](https://c2pa.org/)
@@ -248,6 +251,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [MITRE, AI Assurance: A Repeatable Process for Assuring AI-enabled Systems, June 2024](https://www.mitre.org/sites/default/files/2024-06/PR-24-1768-AI-Assurance-A-Repeatable-Process-Assuring-AI-Enabled-Systems.pdf)
 * [MLA, How do I cite generative AI in MLA style?](https://style.mla.org/citing-generative-ai/)
 * [model-cards-and-datasheets](https://github.com/ivylee/model-cards-and-datasheets)![](https://img.shields.io/github/stars/ivylee/model-cards-and-datasheets?style=social)
+* [Network Contagion Research Institute (NCRI) | A Digital Pandemic: Uncovering the Role of 'Yahoo Boys' in the Surge of Social Media-Enabled Financial Sextortion Targeting Minors | January 2024](https://networkcontagion.us/wp-content/uploads/Yahoo-Boys_1.2.24.pdf)
 * [NewsGuard AI Tracking Center](https://www.newsguardtech.com/special-reports/ai-tracking-center/)
 * [OpenAI, Building an early warning system for LLM-aided biological threat creation](https://openai.com/research/building-an-early-warning-system-for-llm-aided-biological-threat-creation)
 * [OpenAI Cookbook, How to implement LLM guardrails](https://cookbook.openai.com/examples/how_to_use_guardrails)
@@ -612,6 +616,10 @@ This section serves as a repository for policy documents, regulations, guideline
 #### Hong Kong
 * [Office of the Privacy Commissioner for Personal Data, Artificial Intelligence: Model Personal Data Protection Framework, June 2024](https://www.pcpd.org.hk/english/resources_centre/publications/files/ai_protection_framework.pdf)
 
+#### Iceland
+* [Ministry of Higher Education, Industry, and Innovation | Aðgerðaáætlun um gervigreind 2024-2026 (Action Plan for Artificial Intelligence 2024-2026) | November 2024](https://samradapi.island.is/api/Documents/1d4c7cba-fd9c-ef11-9bc7-005056bcce7e)
+* [Ministry of Higher Education, Industry, and Innovation | Statistics Iceland | Efnahagsleg tækifæri gervigreindar á Íslandi (Economic Opportunities of Artificial Intelligence in Iceland)](https://samradapi.island.is/api/Documents/1e4c7cba-fd9c-ef11-9bc7-005056bcce7e)
+
 #### Ireland
 * [AI - Here for Good: A National Artificial Intelligence Strategy for Ireland](https://enterprise.gov.ie/en/publications/publication-files/national-ai-strategy.pdf)
 * [Department of Finance and Department of Enterprise, Trade and Employment, Artificial Intelligence: Friend or Foe? Summary and Public Policy Considerations, June 2024](https://www.gov.ie/pdf/?file=https://assets.gov.ie/295620/f11c6c66-4012-49fa-bb7f-8f14130f6fa5.pdf)
@@ -633,11 +641,13 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Autoriteit Persoonsgegevens, Call for input on prohibition on AI systems for emotion recognition in the areas of workplace or education institutions (October 31, 2024)](https://www.autoriteitpersoonsgegevens.nl/en/documents/call-for-input-on-prohibition-on-ai-systems-for-emotion-recognition-in-the-areas-of-workplace-or-education-institutions)
 * [Autoriteit Persoonsgegevens, scraping bijna altijd illegal (Dutch Data Protection Authority, "Scraping is always illegal")](https://www.autoriteitpersoonsgegevens.nl/actueel/ap-scraping-bijna-altijd-illegaal)
 * [General principles for the use of Artificial Intelligence in the financial sector](https://www.dnb.nl/media/jkbip2jc/general-principles-for-the-use-of-artificial-intelligence-in-the-financial-sector.pdf)
+* [Ministry of Infrastructure and Water Management | AI Impact Assessment: The tool for a responsible AI project](https://www.government.nl/binaries/government/documenten/publications/2023/03/02/ai-impact-assessment/2024-IWM-AI-Impact-assessment-2.0-EN.pdf)
 
 #### New Zealand
 * [AI Safety Institute (AISI), Advanced AI evaluations at AISI: May update](https://www.aisi.gov.uk/work/advanced-ai-evaluations-may-update)
 * [Algorithm Charter for Aotearoa New Zealand](https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-2020_Final-English-1.pdf)
 * [Callaghan Innovation, EU AI Fact Sheet 4, High-risk AI systems](https://www.callaghaninnovation.govt.nz/assets/documents/Resource-EU-AI-Act-Support/EU-AI-Policy-Fact-Sheet-4-High-Risk-AI-Systems.pdf)
+* [Initial advice on Generative Artificial Intelligence in the public service | July 2023](https://www.digital.govt.nz/assets/Standards-guidance/Technology-and-architecture/Generative-AI/Joint-System-Leads-tactical-guidance-on-public-service-use-of-GenAI-September-2023.pdf)
 
 #### Philippines
 * [National Privacy Commission, Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), Its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data (NPC Advisory No. 2024-04)](https://privacy.gov.ph/wp-content/uploads/2024/12/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf)
@@ -657,16 +667,18 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### United Kingdom
 * [AI Safety Institute (AISI), Safety cases at AISI](https://www.aisi.gov.uk/work/safety-cases-at-aisi)
-* [Department for Science, Innovation and Technology and AI Safety Institute, International Scientific Report on the Safety of Advanced AI](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai)
-* [Department for Science, Innovation and Technology, The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)
-* [Department for Science, Innovation and Technology, Frontier AI: capabilities and risks - discussion paper (United Kingdom)](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper)
-* [Department for Science, Innovation & Technology, Global Coalition on Telecommunications: principles on AI adoption in the telecommunications industry, January 16, 2025](https://www.gov.uk/government/publications/global-coalition-on-telecommunications-principles-on-ai-adoption-in-the-telecommunications-industry/global-coalition-on-telecommunications-principles-on-ai-adoption-in-the-telecommunications-industry)
-* [Department for Science, Innovation and Technology, Guidance, Introduction to AI Assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance)
-* [Information Commissioner's Office (ICO), AI tools in recruitment (November 6, 2024)](https://ico.org.uk/action-weve-taken/audits-and-overview-reports/ai-tools-in-recruitment/)
-* [National Physical Laboratory (NPL), Beginner's guide to measurement GPG118](https://www.npl.co.uk/gpgs/beginners-guide-to-measurement)
-* [Ofcom, Red Teaming for GenAI Harms: Revealing the Risks and Rewards for Online Safety, July 23, 2024](https://www.ofcom.org.uk/siteassets/resources/documents/consultations/discussion-papers/red-teaming/red-teaming-for-gen-ai-harms.pdf?v=370762)
-* [Online Harms White Paper: Full government response to the consultation (United Kingdom)](https://www.gov.uk/government/consultations/online-harms-white-paper)
-* [Parliamentary Office of Science and Technology (POST), POSTnote 735, Energy Security and AI](https://researchbriefings.files.parliament.uk/documents/POST-PN-0735/POST-PN-0735.pdf)
+* [Department for Science, Innovation and Technology and AI Safety Institute | International Scientific Report on the Safety of Advanced AI](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai)
+* [Department for Science, Innovation and Technology | The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)
+* [Department for Science, Innovation and Technology | Evaluation of the Cyber AI Hub programme | January 8, 2025](https://www.gov.uk/government/publications/evaluation-of-the-northern-ireland-cyber-ai-hub-programme/evaluation-of-the-cyber-ai-hub-programme)
+* [Department for Science, Innovation and Technology | Frontier AI: capabilities and risks](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper)
+* [Department for Science, Innovation and Technology | Global Coalition on Telecommunications: principles on AI adoption in the telecommunications industry | January 16, 2025](https://www.gov.uk/government/publications/global-coalition-on-telecommunications-principles-on-ai-adoption-in-the-telecommunications-industry/global-coalition-on-telecommunications-principles-on-ai-adoption-in-the-telecommunications-industry)
+* [Department for Science, Innovation and Technology, Guidance | Introduction to AI Assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance)
+* [Information Commissioner's Office (ICO) | AI tools in recruitment | November 6, 2024](https://ico.org.uk/action-weve-taken/audits-and-overview-reports/ai-tools-in-recruitment/)
+* [National Physical Laboratory (NPL) | Beginner's guide to measurement GPG118](https://www.npl.co.uk/gpgs/beginners-guide-to-measurement)
+* [Northern Ireland response to the AI Council AI Roadmap](https://matrixni.org/wp-content/uploads/2021/04/NI-Response-to-UK-AI-roadmap.pdf)
+* [Ofcom | Red Teaming for GenAI Harms: Revealing the Risks and Rewards for Online Safety | July 23, 2024](https://www.ofcom.org.uk/siteassets/resources/documents/consultations/discussion-papers/red-teaming/red-teaming-for-gen-ai-harms.pdf?v=370762)
+* [Online Harms White Paper: Full government response to the consultation](https://www.gov.uk/government/consultations/online-harms-white-paper)
+* [Parliamentary Office of Science and Technology (POST) | POSTnote 735, Energy Security and AI](https://researchbriefings.files.parliament.uk/documents/POST-PN-0735/POST-PN-0735.pdf)
 * [The Public Sector Bodies (Websites and Mobile Applications) Accessibility Regulations 2018](https://www.legislation.gov.uk/uksi/2018/852/contents/made)
 * [US AISI and UK AISI Joint Pre-Deployment Test: Anthropic's Claude 3.5 Sonnet (October 2024 Release)](https://www.nist.gov/system/files/documents/2024/11/19/Upgraded%20Sonnet-Publication-US.pdf)
 * [US AISI and UK AISI Joint Pre-Deployment Test: OpenAI o1 (December 2024)](https://www.nist.gov/system/files/documents/2024/12/18/US_UK_AI%20Safety%20Institute_%20December_Publication-OpenAIo1.pdf)
@@ -772,6 +784,10 @@ This section serves as a repository for policy documents, regulations, guideline
 
 **Department of Labor**
 * [Artificial Intelligence and Worker Well-Being: Principles and Best Practices for Developers and Employers](https://www.dol.gov/sites/dolgov/files/general/ai/AI-Principles-Best-Practices.pdf)
+
+**Department of State**
+* [Artificial Intelligence (AI)](https://www.state.gov/artificial-intelligence/)
+* [[Department of State AI Inventory 2024 (Archived Content)](https://2021-2025.state.gov/department-of-state-ai-inventory-2024/)
 
 **Department of the Treasury**  
 * [Managing Artificial Intelligence-Specific Cybersecurity Risks in the Financial Services Sector, March 2024](https://home.treasury.gov/system/files/136/Managing-Artificial-Intelligence-Specific-Cybersecurity-Risks-In-The-Financial-Services-Sector.pdf)
@@ -1465,6 +1481,7 @@ This section links to other lists of responsible ML or related resources.
 * [criticalML](https://github.com/rockita/criticalML)![](https://img.shields.io/github/stars/rockita/criticalML?style=social)
 * [Ethics for people who work in tech](https://ethicsforpeoplewhoworkintech.com/)
 * [Evaluation Repository for 'Sociotechnical Safety Evaluation of Generative AI Systems'](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQObeTxvXtOs--zd98qG2xBHHuTTJOyNISBJPthZFr3at2LCrs3rcv73d4of1A78JV2eLuxECFXJY43/pubhtml)
+* [IEEE GET Program | GET Program for AI Ethics and Governance Standards](https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=93)
 * [IMDA-BTG, LLM-Evals-Catalogue](https://github.com/IMDA-BTG/LLM-Evals-Catalogue)![](https://img.shields.io/github/stars/IMDA-BTG/LLM-Evals-Catalogue?style=social)
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)![](https://img.shields.io/github/stars/radames/Machine-Learning-Ethics-References?style=social)
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)![](https://img.shields.io/github/stars/h2oai/mli-resources?style=social)
