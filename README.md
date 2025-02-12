@@ -585,6 +585,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Autoridade Nacional de Proteção de Dados (ANPD) (Brazilian Data Protection Authority), Technology Radar – short version in English, no. 1: Generative Artificial Intelligence](https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/documentos-de-publicacoes/radar-tecnologico-inteligencia-artificial-generativa-versao-em-lingua-inglesa.pdf)
 
 #### Canada
+* [An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts](https://www.parl.ca/legisinfo/en/bill/44-1/c-27)
 * [Algorithmic Impact Assessment tool](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)
 * [A Regulatory Framework for AI: Recommendations for PIPEDA Reform](https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/completed-consultations/consultation-ai/reg-fw_202011/)
 * [Artificial Intelligence and Data Act](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act)
@@ -863,6 +864,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [SEC Charges Two Investment Advisers with Making False and Misleading Statements About Their Use of Artificial Intelligence](https://www.sec.gov/news/press-release/2024-36)
 
 **United States Patent and Trademark Office (USPTO)**
+* [Artificial Intelligence Strategy | January 2025](https://www.uspto.gov/sites/default/files/documents/uspto-ai-strategy.pdf)
 * [Public Views on Artificial Intelligence and Intellectual Property Policy](https://www.uspto.gov/sites/default/files/documents/USPTO_AI-Report_2020-10-07.pdf)
 
 **United States Congress, House of Representatives**
@@ -907,6 +909,10 @@ This section serves as a repository for policy documents, regulations, guideline
 
 **Utah**
 * [Questions from the Commission on Protecting Privacy and Preventing Discrimination](https://auditor.utah.gov/wp-content/uploads/sites/6/2021/02/Office-of-the-State-Auditor-Questions-to-help-Procuring-Agencies-_-Entities-with-Software-Procurement-Feb-1-2021-Final.pdf)
+
+**Wyoming**
+* [Wyoming Department of Education (WDE) | Guidance for Wyoming School Districts on Developing Artificial Intelligence Use Policy](https://edu.wyoming.gov/wp-content/uploads/2024/06/Guidance-for-AI-Policy-Development.pdf)
+* [Wyoming Department of Education (WDE) | AI Guidance Resources](https://wde.instructure.com/courses/826)
 
 #### International and Multilateral Frameworks
 
@@ -1024,6 +1030,7 @@ This section serves as a repository for policy documents, regulations, guideline
 
 This section is a collection of law texts and drafts pertaining to responsible AI.
 
+* [Alaska State Legislature, HB 306, An Act relating to artificial intelligence; requiring disclosure of deepfakes in campaign communications; relating to cybersecurity; and relating to data privacy.](https://www.akleg.gov/basis/Bill/Detail/33?Root=HB306)
 * [Algorithmic Accountability Act of 2023](https://www.govinfo.gov/app/details/BILLS-118hr5628ih/)
 * [Arizona, House Bill 2685](https://www.azleg.gov/legtext/55leg/2r/bills/hb2685h.htm)
 * [Australia, Data Availability and Transparency Act 2022](https://www.datacommissioner.gov.au/law/dat-act)
@@ -1494,6 +1501,7 @@ This section links to other lists of responsible ML or related resources.
 * [Tech & Ethics Curricula](https://docs.google.com/spreadsheets/d/1Z0DqQeZ-Aeq6LmD17J5m8zeeIR6ywWnH-WO-jWtXE9M/edit#gid=0)
 * [Ultraopxt/Awesome AI Ethics & Safety](https://github.com/Ultraopxt/Awesome-AI-Ethics-Safety)![](https://img.shields.io/github/stars/Ultraopxt/Awesome-AI-Ethics-Safety/?style=social)
 * [Worldwide AI ethics: A review of 200 guidelines and recommendations for AI governance](https://doi.org/10.1016/j.patter.2023.100857)
+* [Wyoming Department of Education (WDE) | AI Guidance Resources](https://wde.instructure.com/courses/826)
 * [XAI Resources](https://github.com/pbiecek/xai_resources)![](https://img.shields.io/github/stars/pbiecek/xai_resources?style=social)
 * [xaience](https://github.com/andreysharapov/xaience)![](https://img.shields.io/github/stars/andreysharapov/xaience?style=social)
 
