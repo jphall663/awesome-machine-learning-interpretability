@@ -303,54 +303,15 @@ This section is for responsible ML guidance put forward by organizations or indi
 
 #### Infographics and Cheat Sheets
 
-* [A-LIGN, ISO 42001 Requirement, NIST SP 800-218A Task, Recommendations and Considerations](https://media.licdn.com/dms/image/D4E22AQGnjMez3xl43A/feedshare-shrink_2048_1536/0/1719511677553?e=1722470400&v=beta&t=N6PjK4U8Slw_aJhVBA3IJ2ZP_pRL_tHdsCzXnmflHuY)
 * [AppliedAI Institute, Navigating the EU AI Act: A Process Map for making AI Systems available](https://www.appliedai-institute.de/assets/files/EU_AI_Act_Compliance_Journey.pdf)
-* [BCG Robotaxonomy](https://media.licdn.com/dms/image/D4E22AQEthxl6jH6ZvA/feedshare-shrink_800/0/1712824765812?e=1718236800&v=beta&t=Kh3e_uANrmHfkgGT701PNSIRE3W5HfIRnU_W93ACCQk)
-* [Center for Security and Emerging Technology (CSET), High Level Comparison of Legislative Perspectives on Artificial Intelligence US vs. EU](https://media.licdn.com/dms/image/D4E22AQHwjdd4LpjhEw/feedshare-shrink_1280/0/1716993189698?e=1720051200&v=beta&t=W6P-OTG25q-w94a-jrXhLTMKv0qrEel_WhbSHXj4wsg)
-* [European Data Protection Board (EDPB), Checklist for AI Auditing](https://media.licdn.com/dms/image/D4D22AQFqyom2Oh-v0g/feedshare-shrink_1280/0/1720417814227?e=1724284800&v=beta&t=MPFkWOSAWs_KSfTNInDSJtBUscj_iB2T7f8wJDJAZTQ)
 * [Foundation Model Development Cheatsheet](https://fmcheatsheet.org/)
-* [Foundation Model Transparency Index Scores by Major Dimensions of Transparency, May 2024](https://media.licdn.com/dms/image/v2/D5622AQGUaJC59eibBQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1727205932053?e=1730332800&v=beta&t=P8HY-JVH4veq5i_ozh2v3DoQyP9VFpjSJacqQl762Zw)
 * [Future of Privacy Forum, EU AI Act: A Comprehensive Implementation & Compliance Timeline](https://fpf.org/resource/eu-ai-act-a-comprehensive-implementation-compliance-timeline/)
 * [Future of Privacy Forum, The Spectrum of Artificial Intelligence](https://fpf.org/wp-content/uploads/2021/01/FPF_AIEcosystem_illo_03.pdf)
 * [Generative AI framework and Generative AI value tree modelling diagram](https://media.licdn.com/dms/image/v2/D4D22AQEKqP2a6_rsCw/feedshare-shrink_1280/B4DZP0cUWFHUAo-/0/1734972885448?e=1738195200&v=beta&t=PMJq6Ti1lisMMkyhnWojcdDt_DAlmYtV6MUQbqWu4hc)
 * [IAPP EU AI Act Cheat Sheet](https://iapp.org/media/pdf/resource_center/eu_ai_act_cheat_sheet.pdf)
 * [IAPP, EU AI Act Compliance Matrix](https://iapp.org/resources/article/eu-ai-act-compliance-matrix/)
-* [IAPP, EU AI Act Compliance Matrix - At a Glance](https://iapp.org/media/pdf/resource_center/eu_ai_act_compliance_matrix_at_a_glance.pdf)
-* [Instruction finetuning an LLM from scratch](https://media.licdn.com/dms/image/D5622AQFYQb3j-dLRVw/feedshare-shrink_2048_1536/0/1720876450568?e=1723680000&v=beta&t=_LgUaL6sy0tO9OIu39u5YWPC8cELmINQ6V1_Ug68K9Y)
-* [Is it a "deep fake" under the EU AI ACT?](https://media.licdn.com/dms/image/v2/D4E22AQGsJytypA0crQ/feedshare-shrink_800/feedshare-shrink_800/0/1729858076701?e=1732752000&v=beta&t=kMQB7PB2pWGSTNjaPVZ0vwm7xsAIbHe5ACY9527MXaQ)
 * [Machine Learning Attack_Cheat_Sheet](https://resources.oreilly.com/examples/0636920415947/-/blob/master/Attack_Cheat_Sheet.png)
 * [Oliver Patel's Cheat Sheets](https://www.linkedin.com/in/oliver-patel/recent-activity/images/)
-   * [10 Key Pillars for Enterprise AI Governance](https://media.licdn.com/dms/image/D4E22AQF4U8u-baT8hA/feedshare-shrink_1280/0/1709035425012?e=1714608000&v=beta&t=1DhhkNzNFtGg22y8j2KcrrV7SPiCQKZ0-l2uhkSs5zI)
-   * [10 Key Questions for AI Risk Assessments](https://media.licdn.com/dms/image/D4E22AQFQ08VpJoOqgw/feedshare-shrink_1280/0/1722404801833?e=1725494400&v=beta&t=FGiXFoDN8m0MIC5jya4vA6G_fADGiCE8b2EY3fiB2jk)
-   * [20 Key Policy Principles for Generative AI Use: Protect your organization with actionable and accessible generative AI policies](https://media.licdn.com/dms/image/v2/D4E22AQGos6eGpPFGTQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1730854741850?e=1733961600&v=beta&t=2zmSKdO_FR7wodT8a1CyHX4fvu91AIGttYHjf0ehZGQ)
-   * [AI Governance in 2023](https://media.licdn.com/dms/image/D4D22AQEUkWMhXlQ8pA/feedshare-shrink_1280/0/1702536206607?e=1714608000&v=beta&t=ukGzNValTfCOyjR4XUt9dnemmdzv0eAi4oV5Zh8XgyI)
-   * [Canada AI Law & Policy Cheat Sheet](https://media.licdn.com/dms/image/D4D22AQG-A4WvORqoGA/feedshare-shrink_1280/0/1713914692450?e=1717027200&v=beta&t=WAGqCMsjM6vtpxKGQmTcG_sftnAOOrEsXOuEua8QwMg)
-   * [China AI Law Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQF-6pEvkEG6PQ/feedshare-shrink_1280/0/1703158308976?e=1714608000&v=beta&t=DA3U5tCyGA3l9jLK6h_USn-76z9espPWwr2BNmNc-v8)
-   * [Definitions, Scope & Applicability EU AI Act Cheat Sheet Series, Part 1](https://media.licdn.com/dms/image/D4D22AQFkbaPSUPwlcQ/feedshare-shrink_1280/0/1717064332181?e=1720051200&v=beta&t=OQ0BAM9Kqmej9Sm2PhmeT62XFj3k_G-aIi7SAWMWdrk)
-   * [EU AI Act Cheat Sheet Series 1, Definitions, Scope & Applicability](https://media.licdn.com/dms/image/D4D22AQFkbaPSUPwlcQ/feedshare-shrink_1280/0/1717064332181?e=1721260800&v=beta&t=TBzLSLAMyWk5w0eV_78C-LcRomIxxiNsvYO2ur9--DM)
-   * [EU AI Act Cheat Sheet Series 2, Prohibited AI Systems](https://media.licdn.com/dms/image/D4E22AQEuGzSfoRKYbA/feedshare-shrink_2048_1536/0/1717678634560?e=1720656000&v=beta&t=okE0jTZJhnrJRu_LWn9W3sjq2mE0mV5fcrZGQ47Pz8c)
-   * [EU AI Act Cheat Sheet Series 3, High-Risk AI Systems](https://media.licdn.com/dms/image/D4E22AQHp9idr6g4r9w/feedshare-shrink_1280/0/1718350012563?e=1721260800&v=beta&t=HCUVfqf35znT3TdSULj0-I0qNSqkJgNDFSu1eC00usQ)
-   * [EU AI Act Cheat Sheet Series 4, Requirements for Providers](https://media.licdn.com/dms/image/D4E22AQE41Al9Cd82Og/feedshare-shrink_1280/0/1718871651910?e=1721865600&v=beta&t=a8-nuNaoFotHyap1sE0EE6ui_cdYR25UhztlwICGXWU)
-   * [EU AI Act Cheat Sheet Series 5, Requirements for Deployers](https://media.licdn.com/dms/image/D4E22AQHNWQbnsnDInw/feedshare-shrink_1280/0/1720096884880?e=1723075200&v=beta&t=9Dmb8bGOAPY2nEQm8cdYo7Ozn1PPPDBi3VquJcRdQQQ)
-   * [EU AI Act Cheat Sheet Series 6, General-Purpose AI Models](https://media.licdn.com/dms/image/D4E22AQGhCpBi8toi3w/feedshare-shrink_1280/0/1720572248173?e=1723680000&v=beta&t=PPQSkqO2KYgsjIZv8uUfDrdW5DdBZVwO56U8OVecggo)
-   * [EU AI Act Cheat Sheet Series 7, Compliance & Conformity Assessment](https://media.licdn.com/dms/image/D4E22AQFvIIneLanW5Q/feedshare-shrink_1280/0/1721115234718?e=1724284800&v=beta&t=kmRU5o5s_MnUC0urbyVglhPPRpZ9Y56S8nk4PQTtKWo)
-   * [EU AI Act Cheat Sheet Series 8, Governance & Enforcement](https://media.licdn.com/dms/image/D4E22AQHg4PJRbbsWFQ/feedshare-shrink_1280/0/1721985339864?e=1725494400&v=beta&t=etLmpzFMO8ifzU2HloNqYQui5n8epQJufn0KDSIR0Yg)
-   * [India AI Policy Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQHi3zKIJHYxuA/feedshare-shrink_1280/0/1715251459456?e=1721260800&v=beta&t=eJGeYvud7M02i4IyyQhzQldOkC18HawL7kqVjBE2Qu8)
-   * [Governance Audit, Model Audit, and Application Audit](https://media.licdn.com/dms/image/D4E22AQFc3N6PSYkyXQ/feedshare-shrink_2048_1536/0/1680540832478?e=1714608000&v=beta&t=NuQbcm7pQrwhy2ldD8HdzqHKt6xR8W7EI9OxwZ8OvbU)
-   * [Gulf Countries AI Policy Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQGFbfOnjgtiMg/feedshare-shrink_1280/0/1708519732711?e=1714608000&v=beta&t=BaJm411n2QWNm69uUEnIgbZxZqYf0YuWfBQHXXWaS-c)
-   * [Singapore AI Policy Cheat Sheet](https://media.licdn.com/dms/image/D4D22AQFwuZiA4pVL0g/feedshare-shrink_1280/0/1711403787594?e=1714608000&v=beta&t=ka9xDLBo6jIHbsG6HJ0EcbWQjV9phGm84X-1LvBYklA)
-   * [UK AI Policy Cheat Sheet](https://media.licdn.com/dms/image/D4E22AQHoHS_kht7g6w/feedshare-shrink_1280/0/1707393791731?e=1714608000&v=beta&t=CkyVLhOjN5mGVc0uuIDFbDzNcItYB1CdENp5NtnDITQ)
-* [Open Source Audit Tooling (OAT) Landscape](https://tools.auditing-ai.com/)
-* [Phil Lee, AI Act: Difference between AI systems and AI models](https://media.licdn.com/dms/image/D4E22AQEZcCGPcsLyDw/feedshare-shrink_1280/0/1713434378996?e=1716422400&v=beta&t=D5U544kF8BoUCnOYCxLdbsPAjBGcYz35I4zfqBomhcA)
-* [Phil Lee, AI Act: Meet the regulators!(Arts 30, 55b, 56 and 59)](https://media.licdn.com/dms/image/D4E22AQF8Z1jGFR9YfQ/feedshare-shrink_1280/0/1709291091908?e=1716422400&v=beta&t=dJILHhKMXPRA107rteuwo1HbKbjw4I_WeM2vM7Ded7w)
-* [Phil Lee, How the AI Act applies to integrated generative AI](https://media.licdn.com/dms/image/D4E22AQHakzcE_XHzDQ/feedshare-shrink_2048_1536/0/1710856943607?e=1716422400&v=beta&t=D8eeYdCVQ907xn0Idc_W26ZV2WFvcN-KizA9exBLuEI)
-* [Phil Lee, Overview of AI Act requirements for deployers of high risk AI systems](https://media.licdn.com/dms/image/D4E22AQG_A7ufJs9zUA/feedshare-shrink_2048_1536/0/1710279179924?e=1716422400&v=beta&t=XdafTB5kQRNKmp5dVL4c5S04Nb2-YKGEuemFA0c_rzg)
-* [Phil Lee, Overview of AI Act requirements for providers of high risk AI systems](https://media.licdn.com/dms/image/D4E22AQGvM1sNyEV1Hw/feedshare-shrink_2048_1536/0/1709811083311?e=1716422400&v=beta&t=YB0e3BO82JwaupHFkxlQIWiBnfFwRcK8qfIs5_UhmKw)
-* [Purpose and Means AI Explainer Series - issue #4 - Navigating the EU AI Act](https://media.licdn.com/dms/image/D4D22AQEXHwX7q4WUxw/feedshare-shrink_2048_1536/0/1715790151074?e=1718841600&v=beta&t=V9npUpSkYrCWoGLY9aNjtpLlS27SAb2lEwPXjGmw0XQ)
-* [Tea Mustać, The AI Literacy Puzzle](https://media.licdn.com/dms/image/v2/D4E22AQHHxf0Sj1wPXg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1733344849971?e=1736380800&v=beta&t=qYFjT66SK5fRG47pQDQ5gG8Org5fbr6xJF6sY6KVQ4Q)
-* [Tea Mustać, Process diagram: Determining Your AI Act Risk Category](https://media.licdn.com/dms/image/v2/D5622AQExWwAjL69LLw/feedshare-shrink_2048_1536/B56ZPZOTXCGsAo-/0/1734516225982?e=1737590400&v=beta&t=QJL2lKOXZ-zjRiobvMBhyWC5gESJxKxEPtBE0PXIAYA)
-* [Trustible, Is It AI? How different laws & frameworks define AI](https://www.trustible.ai/post/is-it-ai-how-different-laws-frameworks-define-ai)
-* [What Access Protections Do AI Companies Provide for Independent Safety Research?](https://media.licdn.com/dms/image/D5622AQELjohQn4Y8KQ/feedshare-shrink_2048_1536/0/1721718399115?e=1724889600&v=beta&t=y2P0LUXh4X2M61eosUlGKlXPl2BcJkMWMVs5-o3poSk)
 
 #### AI Red-Teaming Resources
 
@@ -581,7 +542,6 @@ This section serves as a repository for policy documents, regulations, guideline
 * [A Regulatory Framework for AI: Recommendations for PIPEDA Reform](https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/completed-consultations/consultation-ai/reg-fw_202011/)
 * [Artificial Intelligence and Data Act](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act)
 * [The Artificial Intelligence and Data Act (AIDA) – Companion document](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act-aida-companion-document)
-* [Developing Financial Sector Resilience in a Digital World: Selected Themes in Technology and Related Risks](https://www.osfi-bsif.gc.ca/Eng/Docs/tchrsk.pdf)
 * [Directive on Automated Decision Making (Canada)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
 * [(Draft Guideline) E-23 – Model Risk Management](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/draft-guideline-e-23-model-risk-management)
 * [Health Canada, Transparency for machine learning-enabled medical devices: Guiding principles](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/transparency-machine-learning-guiding-principles.html)
@@ -642,7 +602,6 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Initial advice on Generative Artificial Intelligence in the public service | July 2023](https://www.digital.govt.nz/assets/Standards-guidance/Technology-and-architecture/Generative-AI/Joint-System-Leads-tactical-guidance-on-public-service-use-of-GenAI-September-2023.pdf)
 
 #### Philippines
-* [National Privacy Commission, Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), Its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data (NPC Advisory No. 2024-04)](https://privacy.gov.ph/wp-content/uploads/2024/12/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf)
 
 #### Singapore
 * [Monetary Authority of Singapore, Artificial Intelligence Model Risk Management: Observations from a Thematic Review (Information Paper, December 2024](https://www.mas.gov.sg/-/media/mas-media-library/publications/monographs-or-information-paper/imd/2024/information-paper-on-ai-risk-management-final.pdf)
@@ -738,8 +697,7 @@ This section serves as a repository for policy documents, regulations, guideline
 **Department of Defense**  
 * [AI Principles: Recommendations on the Ethical Use of Artificial Intelligence](https://media.defense.gov/2019/Oct/31/2002204458/-1/-1/0/DIB_AI_PRINCIPLES_PRIMARY_DOCUMENT.PDF)
 * [Audit of Governance and Protection of Department of Defense Artificial Intelligence Data and Technology](https://media.defense.gov/2020/Jul/01/2002347967/-1/-1/1/DODIG-2020-098.PDF)
-* [Chief Data and Artificial Intelligence Officer (CDAO) Assessment and Assurance](https://gitlab.jatic.net/home)
-    * [Generative Artificial Intelligence Lexicon](https://www.ai.mil/lexicon_ai_terms.html)
+* [Chief Data and Artificial Intelligence Officer (CDAO) Assessment and Assurance](https://gitlab.jatic.net/home)    
     * [RAI Toolkit](https://rai.tradewindai.com/)
 * Department of the Army
   * [Proceedings of the Thirteenth Annual U.S. Army Operations Research Symposium, Volume 1, October 29 to November 1, 1974](https://apps.dtic.mil/sti/pdfs/ADA007126.pdf)
@@ -775,7 +733,6 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Overview of The Privacy Act of 1974 (2020 Edition)](https://www.justice.gov/opcl/overview-privacy-act-1974-2020-edition)
 
 **Department of Labor**
-* [Artificial Intelligence and Worker Well-Being: Principles and Best Practices for Developers and Employers](https://www.dol.gov/sites/dolgov/files/general/ai/AI-Principles-Best-Practices.pdf)
 
 **Department of State**
 * [Artificial Intelligence (AI)](https://www.state.gov/artificial-intelligence/)
@@ -790,19 +747,9 @@ This section serves as a repository for policy documents, regulations, guideline
 
 **Executive Office of the President of the United States**
 * [Obama White House Archives, Consumer Data Privacy in a Networked World: A Framework for Protecting Privacy and Promoting Innovation in the Global Digital Economy, February 2012](https://obamawhitehouse.archives.gov/sites/default/files/privacy-final.pdf)
-* [Office of Management and Budget (OMB)](https://www.whitehouse.gov/omb/)
-  * [M-21-06 (November 17, 2020), Memorandum for the Heads of Executive Departments and Agencies, Guidance for Regulation of Artificial Intelligence Applications](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-06.pdf)
-  * [M-24-18 (September 24, 2024), Memorandum for the Heads of Executive Departments and Agencies, Advancing the Responsible Acquisition of Artificial Intelligence in Government](https://www.whitehouse.gov/wp-content/uploads/2024/10/M-24-18-AI-Acquisition-Memorandum.pdf)
-* [Office of Science and Technology Policy (OSTP)](https://www.whitehouse.gov/ostp/)
-  * [Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
-  * [Framework to Advance AI Governance and Risk Management in National Security](https://ai.gov/wp-content/uploads/2024/10/NSM-Framework-to-Advance-AI-Governance-and-Risk-Management-in-National-Security.pdf)
-  * [National Science and Technology Council (NSTC)](https://www.whitehouse.gov/ostp/ostps-teams/nstc/)
-    * [Select Committee on Artificial Intelligence, National Artificial Intelligence Research and Development Strategic Plan 2023 Update](https://www.whitehouse.gov/wp-content/uploads/2023/05/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf)
-* The White House
- * [FACT SHEET: Biden-⁠Harris Administration Outlines Coordinated Approach to Harness Power of AI for U.S. National Security, October 24, 2024](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/24/fact-sheet-biden-harris-administration-outlines-coordinated-approach-to-harness-power-of-ai-for-u-s-national-security/) 
+* [Office of Management and Budget (OMB)](https://www.whitehouse.gov/omb/)   
 
 **Federal Deposit Insurance Corporation (FDIC)**  
-* [Supervisory Guidance on Model Risk Management](https://www.fdic.gov/news/financial-institution-letters/2017/fil17022a.pdf)
 
 **Federal Housing Finance Agency (FHFA)**
 * [Advisory Bulletin AB 2013-07 Model Risk Management Guidance](https://www.fhfa.gov/sites/default/files/2023-03/ab_2013-07_model_risk_management_guidance.pdf)
@@ -813,9 +760,7 @@ This section serves as a repository for policy documents, regulations, guideline
 **Federal Trade Commission (FTC)**
 * [Artificial Intelligence/Machine Learning (AI/ML)-Based: Software as a Medical Device (SaMD) Action Plan, updated January 2021](https://www.fda.gov/media/145022/download)
 * [Business Blog](https://www.ftc.gov/business-guidance/blog):
-  * [2020-04-08 Using Artificial Intelligence and Algorithms](https://www.ftc.gov/business-guidance/blog/2020/04/using-artificial-intelligence-and-algorithms)
-  * [2021-01-11 Facing the facts about facial recognition](https://www.ftc.gov/business-guidance/blog/2021/01/facing-facts-about-facial-recognition)
-  * [2021-04-19 Aiming for truth, fairness, and equity in your company’s use of AI](https://www.ftc.gov/business-guidance/blog/2021/04/aiming-truth-fairness-equity-your-companys-use-ai)
+  * [2021-01-11 Facing the facts about facial recognition](https://www.ftc.gov/business-guidance/blog/2021/01/facing-facts-about-facial-recognition)  
   * [2022-07-11 Location, health, and other sensitive information: FTC committed to fully enforcing the law against illegal use and sharing of highly sensitive data](https://www.ftc.gov/business-guidance/blog/2022/07/location-health-and-other-sensitive-information-ftc-committed-fully-enforcing-law-against-illegal)
   * [2023-07-25 Protecting the privacy of health information: A baker’s dozen takeaways from FTC cases](https://www.ftc.gov/business-guidance/blog/2023/07/protecting-privacy-health-information-bakers-dozen-takeaways-ftc-cases)
   * [2023-08-16 Can’t lose what you never had: Claims about digital ownership and creation in the age of generative AI](https://www.ftc.gov/business-guidance/blog/2023/08/cant-lose-what-you-never-had-claims-about-digital-ownership-creation-age-generative-ai)
@@ -875,7 +820,6 @@ This section serves as a repository for policy documents, regulations, guideline
 * [California Department of Justice, Office of the Attorney General, California Attorney General's Legal Advisory on the Application of Existing California Laws to Artificial Intelligence](https://oag.ca.gov/system/files/attachments/press-docs/Legal%20Advisory%20-%20Application%20of%20Existing%20CA%20Laws%20to%20Artificial%20Intelligence.pdf)
 * [California Department of Technology, GenAI Executive Order](https://cdt.ca.gov/technology-innovation/artificial-intelligence-community/genai-executive-order/)
 * [California Privacy Protection Agency (CPPA), Draft Risk Assessment and Automated Decisionmaking Technology Regulations, March 2024](https://cppa.ca.gov/meetings/materials/20240308_item4_draft_risk.pdf)
-* [Department of Technology, Office of Information Security, Generative Artificial Intelligence Risk Assessment, SIMM 5305-F, March 2024](https://cdt.ca.gov/wp-content/uploads/2024/03/SIMM-5305-F-Generative-Artificial-Intelligence-Risk-Assessment-FINAL.pdf)
 * [Office of the Attorney General of California, California Privacy Rights Act (CPRA)](https://www.oag.ca.gov/system/files/initiatives/pdfs/19-0021A1%20%28Consumer%20Privacy%20-%20Version%203%29_1.pdf)
 
 **Illinois**
@@ -988,7 +932,6 @@ This section serves as a repository for policy documents, regulations, guideline
 * [OECD Digital Economy Papers, No. 341, November 2022, Measuring the Environmental Impacts of Artificial Intelligence Computer and Applications: The AI Footprint](https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/11/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_3dddded5/7babf571-en.pdf)
 * [OECD Legal Instruments, Recommendation of the Council on Artificial Intelligence, adopted May 22, 2019, amended May 3, 2024](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449)
 * [Measuring the environmental impacts of artificial intelligence compute and applications](https://www.oecd.org/en/publications/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_7babf571-en.html)
-* [Open, Useful and Re-usable data (OURdata) Index: 2019 - Policy Paper](https://www.oecd.org/gov/digital-government/policy-paper-ourdata-index-2019.htm)
 
 #### OSCE
 * [#SAIFE Resource Hub: Spotlight on Artificial Intelligence and Freedom of Expression](https://www.osce.org/saife/index.html)
@@ -1024,7 +967,6 @@ This section is a collection of law texts and drafts pertaining to responsible A
 * [Alaska State Legislature, HB 306, An Act relating to artificial intelligence; requiring disclosure of deepfakes in campaign communications; relating to cybersecurity; and relating to data privacy.](https://www.akleg.gov/basis/Bill/Detail/33?Root=HB306)
 * [Algorithmic Accountability Act of 2023](https://www.govinfo.gov/app/details/BILLS-118hr5628ih/)
 * [Arizona, House Bill 2685](https://www.azleg.gov/legtext/55leg/2r/bills/hb2685h.htm)
-* [Australia, Data Availability and Transparency Act 2022](https://www.datacommissioner.gov.au/law/dat-act)
 * [Australia, Privacy Act 1988](https://www.legislation.gov.au/Details/C2014C00076)
 * [California, Civil Rights Council - First Modifications to Proposed Employment Regulations on Automated-Decision Systems, Title 2, California Code of Regulations](https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2024/10/First-Modifications-to-Text-of-Proposed-Modifications-to-Employment-Regulations-Regarding-Automated-Decision-Systems.pdf)
 * [California, Consumer Privacy Act of 2018, Civil Code - DIVISION 3. OBLIGATIONS [1427 - 3273.69]](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&part=4.&lawCode=CIV&title=1.81.5)
@@ -1032,7 +974,6 @@ This section is a collection of law texts and drafts pertaining to responsible A
 * [European Union, General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
   * [Article 22 EU GDPR "Automated individual decision-making, including profiling"](https://www.privacy-regulation.eu/en/article-22-automated-individual-decision-making-including-profiling-GDPR.htm)
 * [Executive Order 13960 (2020-12-03), Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government](https://www.federalregister.gov/documents/2020/12/08/2020-27065/promoting-the-use-of-trustworthy-artificial-intelligence-in-the-federal-government)
-* [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
 * [Facial Recognition and Biometric Technology Moratorium Act of 2020](https://drive.google.com/file/d/1gkTcjFtieMQdsQ01dmDa49B6HY9ZyKr8/view)
 * [Federal Consumer Online Privacy Rights Act (COPRA)](https://www.consumerprivacyact.com/federal/)
 * [Germany, Bundesrat Drucksache 222/24 - Entwurf eines Gesetzes zum strafrechtlichen Schutz von Persönlichkeitsrechten vor Deepfakes (Draft Law on the Criminal Protection of Personality Rights from Deepfakes)](https://www.bundesrat.de/SharedDocs/drucksachen/2024/0201-0300/222-24(B).pdf?__blob=publicationFile&v=1)
