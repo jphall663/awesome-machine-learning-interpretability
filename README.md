@@ -358,6 +358,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [developer mode fixed](https://www.reddit.com/r/ChatGPTJailbreak/comments/144905t/developer_mode_fixed/)
 * [A Safe Harbor for AI Evaluation and Red Teaming](https://arxiv.org/pdf/2403.04893)
 * [Y Combinator, ChatGPT Grandma Exploit](https://news.ycombinator.com/item?id=35630801)
+* [NeuralTrust's TrustTest for LLM Red Teaming](https://neuraltrust.ai/evaluation)
 
 #### Generative AI Explainability
 
