@@ -739,7 +739,7 @@ This section serves as a repository for policy documents, regulations, guideline
 
 **Department of State**
 * [Artificial Intelligence (AI)](https://www.state.gov/artificial-intelligence/)
-* [[Department of State AI Inventory 2024 (Archived Content)](https://2021-2025.state.gov/department-of-state-ai-inventory-2024/)
+* [AI Inventory 2024 (Archived Content)](https://2021-2025.state.gov/department-of-state-ai-inventory-2024/)
 
 **Department of the Treasury**  
 * [Managing Artificial Intelligence-Specific Cybersecurity Risks in the Financial Services Sector, March 2024](https://home.treasury.gov/system/files/136/Managing-Artificial-Intelligence-Specific-Cybersecurity-Risks-In-The-Financial-Services-Sector.pdf)
@@ -1757,7 +1757,7 @@ This section contains open source or open access software used to implement resp
 
 ### Archived
 #### Archived: Official Policy, Frameworks, and Guidance
-For official government policies, frameworks, and guidance materials that are taken offline, Wayback Machine mirror links are provided below. 
+For official government policies, frameworks, and guidance materials that are taken offline, Wayback Machine mirror links are provided below. If content remains hosted on the official domain, that can be found in the appropriate subsection, usually marked with "archived" parentheticals.
   
 * Australia | Office of the National Data Commissioner | April 1, 2022 | Archived March 14, 2024 | [Data Availability and Transparency Act 2022](https://web.archive.org/web/20240314232025/https://www.datacommissioner.gov.au/law/dat-act)
 * Canada | Office of the Superintendent of Financial Institutions of Canada | September 2020 | Archived August 2, 2023 | [Developing Financial Sector Resilience in a Digital World: Selected Themes in Technology and Related Risks](https://web.archive.org/web/20230802000841/https://www.osfi-bsif.gc.ca/Eng/Docs/tchrsk.pdf)
