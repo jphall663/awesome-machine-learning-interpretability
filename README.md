@@ -85,6 +85,9 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
     * [JavaScript](#javascript)
     * [Python](#python)
     * [R](#r)
+
+* **Archived**
+  * [Archived: Official Policy, Frameworks, and Guidance](#archived-official-policy-frameworks-and-guidance)
    
 * **Citing Awesome Machine Learning Interpretability**
   * [Citation](#citing-awesome-machine-learning-interpretability)
@@ -1751,6 +1754,29 @@ This section contains open source or open access software used to implement resp
 | [smbinning](https://cran.r-project.org/web/packages/smbinning/index.html) | "A set of functions to build a scoring model from beginning to end." |
 | [vip](https://github.com/koalaverse/vip)![](https://img.shields.io/github/stars/koalaverse/vip?style=social) | "An R package for constructing variable importance plots (VIPs)." |
 | [xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer)![](https://img.shields.io/github/stars/AppliedDataSciencePartners/xgboostExplainer?style=social) | "An R package that makes xgboost models fully interpretable. |
+
+### Archived
+#### Archived: Official Policy, Frameworks, and Guidance
+For official government policies, frameworks, and guidance materials that are taken offline, Wayback Machine mirror links are provided below. 
+  
+* Australia | Office of the National Data Commissioner | April 1, 2022 | Archived March 14, 2024 | [Data Availability and Transparency Act 2022](https://web.archive.org/web/20240314232025/https://www.datacommissioner.gov.au/law/dat-act)
+* Canada | Office of the Superintendent of Financial Institutions of Canada | September 2020 | Archived August 2, 2023 | [Developing Financial Sector Resilience in a Digital World: Selected Themes in Technology and Related Risks](https://web.archive.org/web/20230802000841/https://www.osfi-bsif.gc.ca/Eng/Docs/tchrsk.pdf)
+* OECD | March 2020 | Archived June 16, 2023 | [Open, Useful and Re-usable data (OURdata) Index: 2019 - Policy Paper](https://www.oecd.org/gov/digital-government/policy-paper-ourdata-index-2019.htm)
+* Philippines | National Privacy Commission | December 19, 2024 | Archived January 12, 2025 | [Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 DPA, Its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data NPC Advisory No. 2024-04](https://web.archive.org/web/20250112215325/https://privacy.gov.ph/wp-content/uploads/2024/12/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf)
+* State of California | Department of Technology | Office of Information Security | March 2024 | Archived May 24, 2024 | [Generative Artificial Intelligence Risk Assessment SIMM 5305-F](https://web.archive.org/web/20240524154534/https://cdt.ca.gov/wp-content/uploads/2024/03/SIMM-5305-F-Generative-Artificial-Intelligence-Risk-Assessment-FINAL.pdf)
+* United States | Department of Defense | Chief Digital and Artificial Intelligence Office (CDAO) | Archived September 26, 2024 | [Generative Artificial Intelligence Lexicon](https://web.archive.org/web/20240926203350/https://www.ai.mil/lexicon_ai_terms.html)
+* United States | Department of Labor | Archived February 5, 2025 | [Artificial Intelligence and Worker Well-Being: Principles and Best Practices for Developers and Employers](https://web.archive.org/web/20250205182942/https://www.dol.gov/sites/dolgov/files/general/ai/AI-Principles-Best-Practices.pdf)
+* United States | Executive Office of the President | National Science and Technology Council | Select Committee on Artificial Intelligence | May 2023 | Archived January 16, 2025 | [National Artificial Intelligence Research and Development Strategic Plan 2023 Update](https://web.archive.org/web/20250116083052/https://www.whitehouse.gov/wp-content/uploads/2023/05/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf)
+* United States | Executive Office of the President | Office of Management and Budget | November 17, 2020 | Archived January 18, 2025 | [M-21-06 Memorandum for the Heads of Executive Departments and Agencies, Guidance for Regulation of Artificial Intelligence Applications](https://web.archive.org/web/20250118013159/https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-06.pdf)
+* United States | Executive Office of the President | Office of Management and Budget | September 24, 2024 | Archived January 18, 2025 | [M-24-18 Memorandum for the Heads of Executive Departments and Agencies, Advancing the Responsible Acquisition of Artificial Intelligence in Government](https://web.archive.org/web/20250118023352/https://www.whitehouse.gov/wp-content/uploads/2024/10/M-24-18-AI-Acquisition-Memorandum.pdf)
+* United States | Federal Deposit Insurance Corporation | Archived February 13, 2024 | [Supervisory Guidance on Model Risk Management](https://www.fdic.gov/news/financial-institution-letters/2017/fil17022a.pdf)
+* United States | Federal Trade Commission | Elisa Jillson | April 19, 2021 | Archived January 17, 2025 |[Aiming for truth, fairness, and equity in your company’s use of AI](https://web.archive.org/web/20250117235232/https://www.ftc.gov/business-guidance/blog/2021/04/aiming-truth-fairness-equity-your-companys-use-ai)
+* United States | Federal Trade Commission | Andrew Smith | April 8, 2020 | Archived January 15, 2024 | [Using Artificial Intelligence and Algorithms](https://web.archive.org/web/20240115210007/https://www.ftc.gov/business-guidance/blog/2020/04/using-artificial-intelligence-and-algorithms)
+* United States | The White House | October 30, 2023 | Archived January 20, 2025 | [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://web.archive.org/web/20250120132537/https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
+* United States | The White House | October 24, 2024 | Archived January 19, 2025 | [FACT SHEET: Biden-⁠Harris Administration Outlines Coordinated Approach to Harness Power of AI for U.S. National Security](https://web.archive.org/web/20250119050242/https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/24/fact-sheet-biden-harris-administration-outlines-coordinated-approach-to-harness-power-of-ai-for-u-s-national-security/)
+* United States | The White House | Office of Science and Technology Policy | January 13, 2021 | Archived January 20, 2025 | [Office of Science and Technology Policy](https://web.archive.org/web/20250120110259/https://www.whitehouse.gov/ostp/)
+* United States | The White House | Office of Science and Technology Policy | October 4, 2022 | Archived January 20, 2025 | [Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People](https://web.archive.org/web/20250119213350/https://www.whitehouse.gov/ostp/ai-bill-of-rights/)  
+* United States | The White House | Office of Science and Technology Policy | January 16, 2021 | Archived January 18, 2025 | [National Science and Technology Council](https://web.archive.org/web/20250118020849/https://www.whitehouse.gov/ostp/ostps-teams/nstc/) 
 
 ### Citing Awesome Machine Learning Interpretability
 
