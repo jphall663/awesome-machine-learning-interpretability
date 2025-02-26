@@ -750,7 +750,7 @@ This section serves as a repository for policy documents, regulations, guideline
 
 **Executive Office of the President of the United States**
 * [Obama White House Archives, Consumer Data Privacy in a Networked World: A Framework for Protecting Privacy and Promoting Innovation in the Global Digital Economy, February 2012](https://obamawhitehouse.archives.gov/sites/default/files/privacy-final.pdf)
-* [Office of Management and Budget (OMB)](https://www.whitehouse.gov/omb/)   
+* [Framework to Advance AI Governance and Risk Management in National Security](https://ai.gov/wp-content/uploads/2024/10/NSM-Framework-to-Advance-AI-Governance-and-Risk-Management-in-National-Security.pdf)
 
 **Federal Deposit Insurance Corporation (FDIC)**  
 
