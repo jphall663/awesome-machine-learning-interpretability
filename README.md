@@ -1758,7 +1758,7 @@ This section contains open source or open access software used to implement resp
 
 ### Archived
 #### Archived: Official Policy, Frameworks, and Guidance
-For official government policies, frameworks, and guidance materials that are taken offline, Wayback Machine mirror links are provided below. If content remains hosted on the official domain, that can be found in the appropriate subsection, usually marked with "archived" parentheticals.
+For official government files pertaining to responsible AI practices that have been taken offline, we provide Wayback Machine mirror links below. If a document is still available on its original official domain, it can currently be found in its respective subsection above, although it may later be incorporated into this list. Documents may be removed for various reasons (whether political or through routine updates), but archiving them ensures they remain accessible for historical reference. If you're a researcher who finds a dead link to an older version of a government document or one that has altogether been deleted without comment, please feel free to submit a pull request drawing our attention to it and we'll consider it for inclusion.
   
 * Australia, Office of the National Data Commissioner, April 1, 2022, archived March 14, 2024 | [Data Availability and Transparency Act 2022](https://web.archive.org/web/20240314232025/https://www.datacommissioner.gov.au/law/dat-act)
 * Canada, Office of the Superintendent of Financial Institutions of Canada, September 2020, archived August 2, 2023 | [Developing Financial Sector Resilience in a Digital World: Selected Themes in Technology and Related Risks](https://web.archive.org/web/20230802000841/https://www.osfi-bsif.gc.ca/Eng/Docs/tchrsk.pdf)
