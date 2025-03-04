@@ -143,7 +143,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Censius, An In-Depth Guide To Help You Start Auditing Your AI Models](https://censius.ai/blogs/ai-audit-guide)
 * [Center for AI and Digital Policy Reports](https://www.caidp.org/reports/)
 * [Center for Countering Digital Hate (CCDH), YouTube's Anorexia Algorithm: How YouTube Recommends Eating Disorders Videos to Young Girls](https://counterhate.com/wp-content/uploads/2024/12/CCDH.YoutubeED.Nov24.Report_FINAL.pdf)
-* [Center for Democracy and Technology (CDT) | AI Policy & Governance](https://cdt.org/area-of-focus/ai-policy-governance/)
+* Center for Democracy and Technology (CDT) | [AI Policy & Governance](https://cdt.org/area-of-focus/ai-policy-governance/)
 * [Center for Democracy and Technology (CDT) | Applying Sociotechnical Approaches to AI Governance in Practice](https://cdt.org/insights/applying-sociotechnical-approaches-to-ai-governance-in-practice/)
 * [Center for Democracy and Technology (CDT) | Assessing AI: Surveying the Spectrum of Approaches to Understanding and Auditing AI Systems | January 2025](https://cdt.org/wp-content/uploads/2025/01/2025-01-15-CDT-AI-Gov-Lab-Auditing-AI-report.pdf)
 * [Center for Democracy and Technology (CDT) | In Deep Trouble: Surfacing Tech-Powered Sexual Harassment in K-12 Schools](https://cdt.org/insights/report-in-deep-trouble-surfacing-tech-powered-sexual-harassment-in-k-12-schools/)
