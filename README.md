@@ -940,7 +940,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [No. 32, February 7, 2025, Steering AI's Future: Strategies for Anticipatory Governance](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/steering-ai-s-future_70e4a856/5480ff0a-en.pdf)
   * [No. 33, February 9, 2025, Intellectual Property Issues in Artificial Intelligence Trained on Scraped Data](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/intellectual-property-issues-in-artificial-intelligence-trained-on-scraped-data_a07f010b/d5241a23-en.pdf)
   * [No. 34, February 28, 2025, Towards a Common Reporting Framework for AI Incidents](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/towards-a-common-reporting-framework-for-ai-incidents_8c488fdb/f326d4ac-en.pdf)
-  * [No. 35, February 28, 2025, AI Skills and Capabilities in Canada](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/ai-skills-and-capabilities-in-canada_09294563/87f76682-en.pdf)  * 
+  * [No. 35, February 28, 2025, AI Skills and Capabilities in Canada](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/ai-skills-and-capabilities-in-canada_09294563/87f76682-en.pdf) 
 * [OECD-Bericht zu Künstlicher Intelligenz in Deutschland](https://www.ki-strategie-deutschland.de/files/downloads/OECD-Bericht_K%C3%BCnstlicher_Intelligenz_in_Deutschland.pdf)
 * [OECD Digital Economy Papers, No. 341, November 2022, Measuring the Environmental Impacts of Artificial Intelligence Computer and Applications: The AI Footprint](https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/11/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_3dddded5/7babf571-en.pdf)
 * [OECD Legal Instruments, Recommendation of the Council on Artificial Intelligence, adopted May 22, 2019, amended May 3, 2024](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449)
@@ -1042,6 +1042,7 @@ This section contains books that can be reasonably described as free, including 
 * [Charles Perrow, 1999, *Normal Accidents: Living with High-Risk Technologies with a New Afterword and a Postscript on the Y2K Problem*](https://archive.org/details/normalaccidentsl00perr)
 * [Christoph Molnar, 2021, *Interpretable Machine Learning: A Guide for Making Black Box Models Explainable*](https://christophm.github.io/interpretable-ml-book/)
    * [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book)![](https://img.shields.io/github/stars/christophM/interpretable-ml-book?style=social)
+* Damian Okaibedi Eke, Kutoma Wakunuma, Simisola Akintoye, and George Ogoh, editors, 2025 | [Trustworthy AI: African Perspectives](https://link.springer.com/book/10.1007/978-3-031-75674-0)
 * [Deborah G. Johnson and Keith W. Miller, 2009, *Computer Ethics: Analyzing Information Technology*, Fourth Edition](https://archive.org/details/computerethicsan0004edjohn)
 * [Ed Dreby and Keith Helmuth (contributors) and Judy Lumb (editor), 2009, *Fueling Our Future: A Dialogue about Technology, Ethics, Public Policy, and Remedial Action*](https://archive.org/details/fuelingourfuture0000unse/mode/2up)
 * [Ethics for people who work in tech](https://ethicsforpeoplewhoworkintech.com/)
