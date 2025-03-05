@@ -36,6 +36,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
     * [Mexico](#mexico)
     * [Netherlands](#netherlands)
     * [New Zealand](#new-zealand)
+    * [Norway](#norway)
     * [Philippines](#philippines)
     * [Singapore](#singapore)
     * [South Korea](#south-korea)
@@ -603,6 +604,9 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Algorithm Charter for Aotearoa New Zealand](https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-2020_Final-English-1.pdf)
 * [Callaghan Innovation, EU AI Fact Sheet 4, High-risk AI systems](https://www.callaghaninnovation.govt.nz/assets/documents/Resource-EU-AI-Act-Support/EU-AI-Policy-Fact-Sheet-4-High-Risk-AI-Systems.pdf)
 * [Initial advice on Generative Artificial Intelligence in the public service | July 2023](https://www.digital.govt.nz/assets/Standards-guidance/Technology-and-architecture/Generative-AI/Joint-System-Leads-tactical-guidance-on-public-service-use-of-GenAI-September-2023.pdf)
+
+#### Norway
+* Ministry of Local Government and Regional Development, Expert Group on Artificial Intelligence and Elections, February 2025 | [Artificial Intelligence and Democratic Elections — International Experiences and National Recommendations](https://www.regjeringen.no/contentassets/23f8fd1726634f589724d96b49fe994c/en_rapport-ekspertgruppe-ki-og-valg.pdf)
 
 #### Philippines
 
