@@ -117,7 +117,6 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [The Alan Turing Institute, AI Ethics and Governance in Practice](https://www.turing.ac.uk/research/research-projects/ai-ethics-and-governance-practice)
 * [The Alan Turing Institute, Responsible Data Stewardship in Practice](https://www.turing.ac.uk/sites/default/files/2024-06/aieg-ati-5-datastewardshipv1.2.pdf)
 * [The Alan Turing Institute, AI Standards Hub](https://www.turing.ac.uk/research/research-projects/ai-standards-hub)
-* [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](http://sameersingh.org/files/papers/allennlp-interpret-demo-emnlp19.pdf)
 * [Andreessen Horowitz (a16z) AI Canon](https://a16z.com/ai-canon/)
 * [AuditBoard: 5 AI Auditing Frameworks to Encourage Accountability](https://www.auditboard.com/blog/ai-auditing-frameworks/)
 * [Auditing machine learning algorithms: A white paper for public auditors](https://www.auditingalgorithms.net/index.html)
@@ -365,10 +364,12 @@ This section is for responsible ML guidance put forward by organizations or indi
 
 #### Generative AI Explainability
 
+* [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](http://sameersingh.org/files/papers/allennlp-interpret-demo-emnlp19.pdf)
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
 * [Backpack Language Models](https://arxiv.org/pdf/2305.16765)
 * [Jay Alammar, Finding the Words to Say: Hidden State Visualizations for Language Models](https://jalammar.github.io/hidden-states/)
 * [Jay Alammar, Interfaces for Explaining Transformer Language Models](https://jalammar.github.io/explaining-transformers/)
+* [Neuronpedia](https://www.neuronpedia.org/)
 * [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
 * [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
 
