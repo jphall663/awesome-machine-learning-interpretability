@@ -266,7 +266,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Partnership on AI, Responsible Practices for Synthetic Media: A Framework for Collective Action](https://syntheticmedia.partnershiponai.org/)
 * [Partnership on AI and Thorn, Mitigating the risk of generative AI models creating Child Sxual Abuse Materials: An analysis by child safety nonprofit Thorn](https://partnershiponai.org/wp-content/uploads/2024/11/case-study-thorn.pdf)
 * [PwC's Responsible AI](https://www.pwc.com/gx/en/issues/data-and-analytics/artificial-intelligence/what-is-responsible-ai.html)
-* [RAND Corporation, U.S. Tort Liability for Large-Scale Artificial Intelligence Damages
+* RAND Corporation, U.S. Tort Liability for Large-Scale Artificial Intelligence Damages (broken/missing link)
 * [A Primer for Developers and Policymakers](https://www.rand.org/pubs/research_reports/RRA3084-1.html)
 * [RAND Corporation, Analyzing Harms from AI-Generated Images and Safeguarding Online Authenticity](https://www.rand.org/pubs/perspectives/PEA3131-1.html)
 * [Ravit Dotan's Projects](https://www.techbetter.ai/projects-1)
@@ -365,12 +365,12 @@ This section is for responsible ML guidance put forward by organizations or indi
 
 #### Generative AI Explainability
 
+* [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
 * [Backpack Language Models](https://arxiv.org/pdf/2305.16765)
 * [Jay Alammar, Finding the Words to Say: Hidden State Visualizations for Language Models](https://jalammar.github.io/hidden-states/)
 * [Jay Alammar, Interfaces for Explaining Transformer Language Models](https://jalammar.github.io/explaining-transformers/)
-* [Patrick Hall and Daniel Atherton, Generative AI Risk Management Resources](https://github.com/jphall663/gai_risk_management)
 * [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
-* [The Remarkable Robustness of LLMs: Stages of Inference?](https://arxiv.org/pdf/2406.19384v1)
+* [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
 
 #### University Policies and Guidance
 
