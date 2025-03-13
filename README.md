@@ -968,7 +968,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [UNESCO, Caribbean Artificial Intelligence Policy Roadmap](https://unesdoc.unesco.org/ark:/48223/pf0000391996/PDF/391996eng.pdf.multi)
 * [UNESCO, Consultation paper on AI regulation: emerging approaches across the world](https://unesdoc.unesco.org/ark:/48223/pf0000390979)
 * [UNESCO, Global AI Ethics and Governance Observatory](https://www.unesco.org/ethics-ai/en)
-* [UNESCO, Recommendation on the Ethics of Artificial Intelligence, Adopted on 23 November 2021](https://unesdoc.unesco.org/ark:/48223/pf0000381137/PDF/381137eng.pdf.multi)
+* [UNESCO, Recommendation on the Ethics of Artificial Intelligence](https://unesdoc.unesco.org/ark:/48223/pf0000381137/PDF/381137eng.pdf.multi)
  * [UNESCO, Readiness assessment methodology: a tool of the Recommendation on the Ethics of Artificial Intelligence](https://www.unesco.org/en/articles/readiness-assessment-methodology-tool-recommendation-ethics-artificial-intelligence)
 * [UNICEF, Policy guidance on AI for children, Version 2.0, November 2021, Recommendations for building AI policies and systems that uphold child rights](https://www.unicef.org/innocenti/media/1341/file/UNICEF-Global-Insight-policy-guidance-AI-children-2.0-2021.pdf)
 
@@ -1445,7 +1445,7 @@ This section links to other lists of responsible ML or related resources.
 * [Tech & Ethics Curricula](https://docs.google.com/spreadsheets/d/1Z0DqQeZ-Aeq6LmD17J5m8zeeIR6ywWnH-WO-jWtXE9M/edit#gid=0)
 * [Ultraopxt/Awesome AI Ethics & Safety](https://github.com/Ultraopxt/Awesome-AI-Ethics-Safety)![](https://img.shields.io/github/stars/Ultraopxt/Awesome-AI-Ethics-Safety/?style=social)
 * [Worldwide AI ethics: A review of 200 guidelines and recommendations for AI governance](https://doi.org/10.1016/j.patter.2023.100857)
-* [Wyoming Department of Education (WDE) | AI Guidance Resources](https://wde.instructure.com/courses/826)
+* [Wyoming Department of Education (WDE)](https://wde.instructure.com/courses/826)
 * [XAI Resources](https://github.com/pbiecek/xai_resources)![](https://img.shields.io/github/stars/pbiecek/xai_resources?style=social)
 * [xaience](https://github.com/andreysharapov/xaience)![](https://img.shields.io/github/stars/andreysharapov/xaience?style=social)
 
@@ -1457,29 +1457,29 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 
 | Resource | Description |
 | --- | --- |
-| [benchm-ml](https://github.com/szilard/benchm-ml)![](https://img.shields.io/github/stars/szilard/benchm-ml?style=social) | "A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.)." |
-| [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq)![](https://img.shields.io/github/stars/nyu-mll/bbq?style=social) | "Repository for the Bias Benchmark for QA dataset." |
-| [Cataloguing LLM Evaluations](https://github.com/IMDA-BTG/LLM-Evals-Catalogue)![](https://img.shields.io/github/stars/IMDA-BTG/LLM-Evals-Catalogue?style=social) | "This repository stems from our paper, 'Cataloguing LLM Evaluations,' and serves as a living, collaborative catalogue of LLM evaluation frameworks, benchmarks and papers." |
-| [DecodingTrust](https://github.com/AI-secure/DecodingTrust)![](https://img.shields.io/github/stars/huggingface/evaluate?style=social) | "A Comprehensive Assessment of Trustworthiness in GPT Models." |
-| [EleutherAI, Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)![](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social) | "A framework for few-shot evaluation of language models." |
-| [GEM](https://gem-benchmark.com/) | "GEM is a benchmark environment for Natural Language Generation with a focus on its Evaluation, both through human annotations and automated Metrics." |
-| [HELM](https://crfm.stanford.edu/helm/latest/) | "A holistic framework for evaluating foundation models." |
-| [Hugging Face, evaluate](https://github.com/huggingface/evaluate)![](https://img.shields.io/github/stars/huggingface/evaluate?style=social) | "Evaluate: A library for easily evaluating machine learning models and datasets." |
-| [i-gallegos, Fair-LLM-Benchmark](https://github.com/i-gallegos/Fair-LLM-Benchmark)![](https://img.shields.io/github/stars/i-gallegos/Fair-LLM-Benchmark?style=social) | Benchmark from "Bias and Fairness in Large Language Models: A Survey" |
-| [MLCommons, MLCommons AI Safety v0.5 Proof of Concept](https://mlcommons.org/2024/04/mlc-aisafety-v0-5-poc/) | "The MLCommons AI Safety Benchmark aims to assess the safety of AI systems in order to guide development, inform purchasers and consumers, and support standards bodies and policymakers." |
-| [MLCommons, Introducing v0.5 of the AI Safety Benchmark from MLCommons](https://arxiv.org/pdf/2404.12241.pdf) | A paper about the MLCommons AI Safety Benchmark v0.5. |
-| [Nvidia MLPerf](https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/) | "MLPerf™ benchmarks—developed by MLCommons, a consortium of AI leaders from academia, research labs, and industry—are designed to provide unbiased evaluations of training and inference performance for hardware, software, and services." | 
-| [OpenML Benchmarking Suites](https://www.openml.org/search?type=benchmark&study_type=task) | OpenML's collection of over two dozen benchmarking suites. |
-| [Real Toxicity Prompts (Allen Institute for AI)](https://allenai.org/data/real-toxicity-prompts) | "A dataset of 100k sentence snippets from the web for researchers to further address the risk of neural toxic degeneration in models." |
-| [SafetyPrompts.com](https://safetyprompts.com/) | "A Living Catalogue of Open Datasets for LLM Safety." |
-| [Sociotechnical Safety Evaluation Repository](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQObeTxvXtOs--zd98qG2xBHHuTTJOyNISBJPthZFr3at2LCrs3rcv73d4of1A78JV2eLuxECFXJY43/pubhtml) | An extensive spreadsheet of sociotechnical safety evaluations in a spreadsheet. |
-| [TrustLLM-Benchmark](https://trustllmbenchmark.github.io/TrustLLM-Website/index.html) | "A Comprehensive Study of Trustworthiness in Large Language Models." |
-| [Trust-LLM-Benchmark Leaderboard](https://trustllmbenchmark.github.io/TrustLLM-Website/leaderboard.html) | A series of sortable leaderboards of LLMs based on different trustworthiness criteria. |
-| [TruthfulQA](https://github.com/sylinrl/TruthfulQA)![](https://img.shields.io/github/stars/sylinrl/TruthfulQA?style=social) | "TruthfulQA: Measuring How Models Imitate Human Falsehoods." |
-| [WAVES: Benchmarking the Robustness of Image Watermarks](https://wavesbench.github.io/) | "This paper investigates the weaknesses of image watermarking techniques." |
-| [Wild-Time: A Benchmark of in-the-Wild Distribution Shifts over Time](https://github.com/huaxiuyao/Wild-Time)![](https://img.shields.io/github/stars/huaxiuyao/Wild-Time?style=social) | "Benchmark for Natural Temporal Distribution Shift (NeurIPS 2022)." |
-| [Winogender Schemas](https://github.com/rudinger/winogender-schemas)![](https://img.shields.io/github/stars/rudinger/winogender-schemas?style=social) | "Data for evaluating gender bias in coreference resolution systems." |
-| [yandex-research / tabred](https://github.com/yandex-research/tabred)![](https://img.shields.io/github/stars/yandex-research/tabred?style=social) | "A Benchmark of Tabular Machine Learning in-the-Wild with real-world industry-grade tabular datasets." |
+| [benchm-ml, Simple/limited/incomplete benchmark for scalability, speed and accuracy of machine learning libraries for classification](https://github.com/szilard/benchm-ml)![](https://img.shields.io/github/stars/szilard/benchm-ml?style=social)
+| [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq)![](https://img.shields.io/github/stars/nyu-mll/bbq?style=social)
+| [Cataloguing LLM Evaluations](https://github.com/IMDA-BTG/LLM-Evals-Catalogue)![](https://img.shields.io/github/stars/IMDA-BTG/LLM-Evals-Catalogue?style=social)
+| [DecodingTrust](https://github.com/AI-secure/DecodingTrust)![](https://img.shields.io/github/stars/huggingface/evaluate?style=social)
+| [EleutherAI, Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)![](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social)
+| [GEM,benchmark environment for Natural Language Generation](https://gem-benchmark.com/)
+| [HELM, A holistic framework for evaluating foundation models](https://crfm.stanford.edu/helm/latest/)
+| [Hugging Face, evaluate: A library for easily evaluating machine learning models and datasets](https://github.com/huggingface/evaluate)![](https://img.shields.io/github/stars/huggingface/evaluate?style=social)
+| [i-gallegos, Fair-LLM-Benchmark](https://github.com/i-gallegos/Fair-LLM-Benchmark)![](https://img.shields.io/github/stars/i-gallegos/Fair-LLM-Benchmark?style=social)
+| [MLCommons, MLCommons AI Safety v0.5 Proof of Concept](https://mlcommons.org/2024/04/mlc-aisafety-v0-5-poc/)
+| [MLCommons, Introducing v0.5 of the AI Safety Benchmark from MLCommons](https://arxiv.org/pdf/2404.12241.pdf)
+| [Nvidia MLPerf: benchmarks—developed by MLCommons, a consortium of AI leaders from academia, research labs, and industry—are designed to provide unbiased evaluations of training and inference performance for hardware, software, and services](https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/)
+| [OpenML Benchmarking Suites](https://www.openml.org/search?type=benchmark&study_type=task)
+| [Real Toxicity Prompts (Allen Institute for AI)](https://allenai.org/data/real-toxicity-prompts)
+| [SafetyPrompts.com: A Living Catalogue of Open Datasets for LLM Safety ](https://safetyprompts.com/)
+| [Sociotechnical Safety Evaluation Repository](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQObeTxvXtOs--zd98qG2xBHHuTTJOyNISBJPthZFr3at2LCrs3rcv73d4of1A78JV2eLuxECFXJY43/pubhtml)
+| [TrustLLM-Benchmark,'A Comprehensive Study of Trustworthiness in Large Language Models'](https://trustllmbenchmark.github.io/TrustLLM-Website/index.html)
+| [Trust-LLM-Benchmark Leaderboard, 'A series of sortable leaderboards of LLMs based on different trustworthiness criteria'](https://trustllmbenchmark.github.io/TrustLLM-Website/leaderboard.html)
+| [TruthfulQA. 'Measuring How Models Imitate Human Falsehoods'](https://github.com/sylinrl/TruthfulQA)![](https://img.shields.io/github/stars/sylinrl/TruthfulQA?style=social)
+| [WAVES: Benchmarking the Robustness of Image Watermarks](https://wavesbench.github.io/)
+| [Wild-Time: A Benchmark of in-the-Wild Distribution Shifts over Time](https://github.com/huaxiuyao/Wild-Time)![](https://img.shields.io/github/stars/huaxiuyao/Wild-Time?style=social)
+| [Winogender Schemas, 'Data for evaluating gender bias in coreference resolution systems'](https://github.com/rudinger/winogender-schemas)![](https://img.shields.io/github/stars/rudinger/winogender-schemas?style=social)
+| [yandex-research / tabred, 'Benchmark of Tabular Machine Learning in-the-Wild with real-world industry-grade tabular datasets'](https://github.com/yandex-research/tabred)![](https://img.shields.io/github/stars/yandex-research/tabred?style=social)
 
 
 ### Common or Useful Datasets
@@ -1516,13 +1516,13 @@ This section contains open source or open access ML environment management softw
 
 | Resource | Description |
 |----------|-------|
-| [dvc](https://dvc.org/) | "Manage and version images, audio, video, and text files in storage and organize your ML modeling process into a reproducible workflow." |
-| [gigantum](https://github.com/gigantum)![gigantum stars](https://img.shields.io/github/stars/gigantum?style=social) | "Building a better way to create, collaborate, and share data-driven science." |
-| [mlflow](https://mlflow.org/) | "An open source platform for the machine learning lifecycle." |
-| [mlmd](https://github.com/google/ml-metadata)![mlmd stars](https://img.shields.io/github/stars/google/ml-metadata?style=social) | "For recording and retrieving metadata associated with ML developer and data scientist workflows." |
-| [modeldb](https://github.com/VertaAI/modeldb)![modeldb stars](https://img.shields.io/github/stars/VertaAI/modeldb?style=social) | "Open Source ML Model Versioning, Metadata, and Experiment Management." |
-| [neptune](https://neptune.ai/researchers) | "A single place to manage all your model metadata." |
-| [Opik](https://github.com/comet-ml/opik)![](https://img.shields.io/github/stars/comet-ml/opik?style=social) |  "Evaluate, test, and ship LLM applications across your dev and production lifecycles." |
+| [dvc, 'Manage and version images, audio, video, and text files in storage and organize your ML modeling process into a reproducible workflow'](https://dvc.org/)
+| [gigantum, 'Building a better way to create, collaborate, and share data-driven science'](https://github.com/gigantum)![gigantum stars](https://img.shields.io/github/stars/gigantum?style=social)
+| [mlflow, 'An open source platform for the machine learning lifecycle'](https://mlflow.org/)
+| [mlmd,'For recording and retrieving metadata associated with ML developer and data scientist workflows'](https://github.com/google/ml-metadata)![mlmd stars](https://img.shields.io/github/stars/google/ml-metadata?style=social)
+| [modeldb,'Open Source ML Model Versioning, Metadata, and Experiment Management'](https://github.com/VertaAI/modeldb)![modeldb stars](https://img.shields.io/github/stars/VertaAI/modeldb?style=social)
+| [neptune, 'A single place to manage all your model metadata'](https://neptune.ai/researchers)
+| [Opik, 'Evaluate, test, and ship LLM applications across your dev and production lifecycles'](https://github.com/comet-ml/opik)![](https://img.shields.io/github/stars/comet-ml/opik?style=social)
 
 ### Personal Data Protection Tools
 
@@ -1530,7 +1530,7 @@ This section contains tools for personal data protection.
 
 | Name | Description |
 |------|-------------|
-| [LLM Dataset Inference: Did you train on my dataset?](https://github.com/pratyushmaini/llm_dataset_inference/)![](https://img.shields.io/github/stars/pratyushmaini/llm_dataset_inference?style=social) | "Official Repository for Dataset Inference for LLMs" |
+| [LLM Dataset Inference: Did you train on my dataset?](https://github.com/pratyushmaini/llm_dataset_inference/)![](https://img.shields.io/github/stars/pratyushmaini/llm_dataset_inference?style=social)
 
 ### Open Source/Access Responsible AI Software Packages
 
@@ -1540,44 +1540,43 @@ This section contains open source or open access software used to implement resp
 
 | Name | Description |
 |------|-------------|
-| [DiscriLens](https://github.com/wangqianwen0418/DiscriLens)![](https://img.shields.io/github/stars/wangqianwen0418/DiscriLens?style=social) | "Discrimination in Machine Learning." |
-| [Hugging Face, BiasAware: Dataset Bias Detection](https://huggingface.co/spaces/avid-ml/biasaware) | "BiasAware is a specialized tool for detecting and quantifying biases within datasets used for Natural Language Processing (NLP) tasks." |
-| [manifold](https://github.com/uber/manifold)![](https://img.shields.io/github/stars/uber/manifold?style=social) | "A model-agnostic visual debugging tool for machine learning." |
-| [PAIR-code / datacardsplaybook](https://github.com/PAIR-code/datacardsplaybook)![](https://img.shields.io/github/stars/PAIR-code/datacardsplaybook?style=social) | "The Data Cards Playbook helps dataset producers and publishers adopt a people-centered approach to transparency in dataset documentation." |
-| [PAIR-code / facets](https://github.com/PAIR-code/facets)![](https://img.shields.io/github/stars/PAIR-code/facets?style=social) | "Visualizations for machine learning datasets." |
-| [PAIR-code / knowyourdata](https://github.com/pair-code/knowyourdata)![](https://img.shields.io/github/stars/PAIR-code/knowyourdata?style=social) | "A tool to help researchers and product teams understand datasets with the goal of improving data quality, and mitigating fairness and bias issues." |
-| [TensorBoard Projector](http://projector.tensorflow.org) | "Using the TensorBoard Embedding Projector, you can graphically represent high dimensional embeddings. This can be helpful in visualizing, examining, and understanding your embedding layers." |
-| [What-if Tool](https://pair-code.github.io/what-if-tool/index.html#about) | "Visually probe the behavior of trained machine learning models, with minimal coding." |
+| [DiscriLens, 'Discrimination in Machine Learning'](https://github.com/wangqianwen0418/DiscriLens)![](https://img.shields.io/github/stars/wangqianwen0418/DiscriLens?style=social)
+| [Hugging Face, BiasAware: Dataset Bias Detection](https://huggingface.co/spaces/avid-ml/biasaware)
+| [manifold, 'A model-agnostic visual debugging tool for machine learning'](https://github.com/uber/manifold)![](https://img.shields.io/github/stars/uber/manifold?style=social)
+| [PAIR-code / datacardsplaybook, 'The Data Cards Playbook helps dataset producers and publishers adopt a people-centered approach to transparency in dataset documentation'](https://github.com/PAIR-code/datacardsplaybook)![](https://img.shields.io/github/stars/PAIR-code/datacardsplaybook?style=social)
+| [PAIR-code / facets, 'Visualizations for machine learning datasets'](https://github.com/PAIR-code/facets)![](https://img.shields.io/github/stars/PAIR-code/facets?style=social)
+| [PAIR-code / knowyourdata, 'A tool to help researchers and product teams understand datasets with the goal of improving data quality, and mitigating fairness and bias issues'](https://github.com/pair-code/knowyourdata)![](https://img.shields.io/github/stars/PAIR-code/knowyourdata?style=social)
+| [TensorBoard Projector](http://projector.tensorflow.org)
+| [What-if Tool,'A tool to help researchers and product teams understand datasets with the goal of improving data quality, and mitigating fairness and bias issues'](https://pair-code.github.io/what-if-tool/index.html#about) 
 
 #### C/C++
 
 | Name | Description |
 |------|-------------|
-| [Born-again Tree Ensembles](https://github.com/vidalt/BA-Trees)![](https://img.shields.io/github/stars/vidalt/BA-Trees?style=social) | "Born-Again Tree Ensembles: Transforms a random forest into a single, minimal-size, tree with exactly the same prediction function in the entire feature space (ICML 2020)." |
-| [Certifiably Optimal RulE ListS](https://github.com/nlarusstone/corels)![](https://img.shields.io/github/stars/nlarusstone/corels?style=social) | "CORELS is a custom discrete optimization technique for building rule lists over a categorical feature space." |
-| [Secure-ML](https://github.com/shreya-28/Secure-ML)![](https://img.shields.io/github/stars/shreya-28/Secure-ML?style=social) | "Secure Linear Regression in the Semi-Honest Two-Party Setting." |
-
+| [Born-again Tree Ensembles](https://github.com/vidalt/BA-Trees)![](https://img.shields.io/github/stars/vidalt/BA-Trees?style=social) 
+| [Certifiably Optimal RulE ListS](https://github.com/nlarusstone/corels)![](https://img.shields.io/github/stars/nlarusstone/corels?style=social) 
+| [Secure-ML](https://github.com/shreya-28/Secure-ML)![](https://img.shields.io/github/stars/shreya-28/Secure-ML?style=social)
 #### JavaScript
 
 | Name | Description |
 |------|-------------|
-| [LDNOOBW](https://github.com/LDNOOBW)![](https://img.shields.io/github/stars/LDNOOBW?style=social) | "List of Dirty, Naughty, Obscene, and Otherwise Bad Words" |
+| [LDNOOBW,'List of Dirty, Naughty, Obscene, and Otherwise Bad Words'](https://github.com/LDNOOBW)![](https://img.shields.io/github/stars/LDNOOBW?style=social)
 
 #### Python
 
 | Name | Description |
 |------|-------------|
-| [acd](https://github.com/csinva/hierarchical_dnn_interpretations)![](https://img.shields.io/github/stars/csinva/hierarchical_dnn_interpretations?style=social) | "Produces hierarchical interpretations for a single prediction made by a pytorch neural network. Official code for *Hierarchical interpretations for neural network predictions*.” |
-| [aequitas](https://github.com/dssg/aequitas)![](https://img.shields.io/github/stars/dssg/aequitas?style=social) | "Aequitas is an open-source bias audit toolkit for data scientists, machine learning researchers, and policymakers to audit machine learning models for discrimination and bias, and to make informed and equitable decisions around developing and deploying predictive tools.” |
-| [AI Fairness 360](https://github.com/Trusted-AI/AIF360)![](https://img.shields.io/github/stars/Trusted-AI/AIF360?style=social) | "A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.” |
-| [AI Explainability 360](https://github.com/IBM/AIX360)![](https://img.shields.io/github/stars/IBM/AIX360?style=social) | "Interpretability and explainability of data and machine learning models.” |
-| [ALEPython](https://github.com/blent-ai/ALEPython)![](https://img.shields.io/github/stars/blent-ai/ALEPython?style=social) | "Python Accumulated Local Effects package.” |
-| [Aletheia](https://github.com/SelfExplainML/Aletheia)![](https://img.shields.io/github/stars/SelfExplainML/Aletheia?style=social) | "A Python package for unwrapping ReLU DNNs.” |
-| [allennlp](https://github.com/allenai/allennlp)![](https://img.shields.io/github/stars/allenai/allennlp?style=social) | "An open-source NLP research library, built on PyTorch.” |
-| [algofairness](https://github.com/algofairness)![](https://img.shields.io/github/stars/algofairness?style=social) | See [Algorithmic Fairness][http://fairness.haverford.edu/). |
-| [Alibi](https://github.com/SeldonIO/alibi)![](https://img.shields.io/github/stars/SeldonIO/alibi?style=social) | "Alibi is an open source Python library aimed at machine learning model inspection and interpretation. The focus of the library is to provide high-quality implementations of black-box, white-box, local and global explanation methods for classification and regression models.” |
-| [anchor](https://github.com/marcotcr/anchor)![](https://img.shields.io/github/stars/marcotcr/anchor?style=social) | "Code for 'High-Precision Model-Agnostic Explanations' paper.” |
-| [Bayesian Case Model](https://users.cs.duke.edu/~cynthia/code/BCM.zip) |
+| [acd,'Hierarchical interpretations for neural network predictions'](https://github.com/csinva/hierarchical_dnn_interpretations)![](https://img.shields.io/github/stars/csinva/hierarchical_dnn_interpretations?style=social)
+| [aequitas,'Audit machine learning models for discrimination and bias'](https://github.com/dssg/aequitas)![](https://img.shields.io/github/stars/dssg/aequitas?style=social)
+| [AI Fairness 360](https://github.com/Trusted-AI/AIF360)![](https://img.shields.io/github/stars/Trusted-AI/AIF360?style=social)
+| [AI Explainability 360](https://github.com/IBM/AIX360)![](https://img.shields.io/github/stars/IBM/AIX360?style=social)
+| [ALEPython](https://github.com/blent-ai/ALEPython)![](https://img.shields.io/github/stars/blent-ai/ALEPython?style=social)
+| [Aletheia](https://github.com/SelfExplainML/Aletheia)![](https://img.shields.io/github/stars/SelfExplainML/Aletheia?style=social)
+| [allennlp,'An open-source NLP research library, built on PyTorch'](https://github.com/allenai/allennlp)![](https://img.shields.io/github/stars/allenai/allennlp?style=social)
+| [algofairness](https://github.com/algofairness)![](https://img.shields.io/github/stars/algofairness?style=social)
+| [Alibi](https://github.com/SeldonIO/alibi)![](https://img.shields.io/github/stars/SeldonIO/alibi?style=social)
+| [anchor](https://github.com/marcotcr/anchor)![](https://img.shields.io/github/stars/marcotcr/anchor?style=social)
+| [Bayesian Case Model](https://users.cs.duke.edu/~cynthia/code/BCM.zip)
 | [Bayesian Ors-Of-Ands](https://github.com/wangtongada/BOA)![](https://img.shields.io/github/stars/wangtongada/BOA?style=social) | "This code implements the Bayesian or-of-and algorithm as described in the BOA paper. We include the tictactoe dataset in the correct formatting to be used by this code.” |
 | [Bayesian Rule List (BRL)](https://users.cs.duke.edu/~cynthia/code/BRL_supplement_code.zip) | Rudin group at Duke Bayesian case model implementation |
 | [BlackBoxAuditing](https://github.com/algofairness/BlackBoxAuditing)![](https://img.shields.io/github/stars/algofairness/BlackBoxAuditing?style=social) | "Research code for auditing and exploring black box machine-learning models.” |
