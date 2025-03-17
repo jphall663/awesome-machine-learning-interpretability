@@ -104,7 +104,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Acceptable Use Policies for Foundation Models](https://github.com/kklyman/aupsforfms)|![](https://img.shields.io/github/stars/kklyman/aupsforfms?style=social)
 * [Access Now, Regulatory Mapping on Artificial Intelligence in Latin America: Regional AI Public Policy Report](https://www.accessnow.org/wp-content/uploads/2024/07/TRF-LAC-Reporte-Regional-IA-JUN-2024-V3.pdf)
 * [Ada Lovelace Institute, Code and Conduct: How to Create Third-Party Auditing Regimes for AI Systems](https://www.adalovelaceinstitute.org/report/code-conduct-ai/)
-* [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)![](https://img.shields.io/github/stars/mitre/advmlthreatmatrix?style=social)
+* [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)|![](https://img.shields.io/github/stars/mitre/advmlthreatmatrix?style=social)
 * [AI Governance Needs Sociotechnical Expertise: Why the Humanities and Social Sciences Are Critical to Government Efforts](https://datasociety.net/wp-content/uploads/2024/05/DS_AI_Governance_Policy_Brief.pdf)
 * [AI Model Registries: A Foundational Tool for AI Governance](https://arxiv.org/pdf/2410.09645)|(September 2024)
 * [AI Verify](https://aiverifyfoundation.sg/what-is-ai-verify/)
