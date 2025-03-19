@@ -149,6 +149,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Censius, AI Audit](https://censius.ai/wiki/ai-audit)
 * [Censius, An In-Depth Guide To Help You Start Auditing Your AI Models](https://censius.ai/blogs/ai-audit-guide)
 * [Center for AI and Digital Policy Reports](https://www.caidp.org/reports/)
+* Center for AI Policy, February 2025 | [US Open-Source AI Governance: Balancing Ideological and Geopolitical Considerations with China Competition](https://cdn.prod.website-files.com/65af2088cac9fb1fb621091f/67aaca031ed677c879434284_Final_US%20Open-Source%20AI%20Governance.pdf)
 * [Center for Countering Digital Hate (CCDH), YouTube's Anorexia Algorithm: How YouTube Recommends Eating Disorders Videos to Young Girls](https://counterhate.com/wp-content/uploads/2024/12/CCDH.YoutubeED.Nov24.Report_FINAL.pdf)
 * Center for Democracy and Technology (CDT)
   * [AI Policy & Governance](https://cdt.org/area-of-focus/ai-policy-governance/)
@@ -158,6 +159,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Centre for International Governance Innovation Publications](https://www.cigionline.org/publications/)
 * [Closing the AI accountability gap: defining an end-to-end framework for internal algorithmic auditing](https://dl.acm.org/doi/abs/10.1145/3351095.3372873)
 * [Coalition for Content Provenance and Authenticity (C2PA)](https://c2pa.org/)
+* Convergence Analysis, May 2024 | [2024 State of the AI Regulatory Landscape](https://drive.google.com/file/d/13gyYbBixU75QwFQDTku0AMIovbeTp9_g/view)
 * [Crowe LLP: Internal auditor's AI safety checklist](https://www.crowe.com/insights/asset/i/internal-auditors-ai-safety-checklist)
 * [Data Provenance Explorer](https://www.dataprovenance.org/)
 * [Data & Society, AI Red-Teaming Is Not a One-Stop Solution to AI Harms: Recommendations for Using Red-Teaming for AI Accountability](https://datasociety.net/wp-content/uploads/2023/10/Recommendations-for-Using-Red-Teaming-for-AI-Accountability-PolicyBrief.pdf)
@@ -254,6 +256,7 @@ This section is for responsible ML guidance put forward by organizations or indi
      * [Harm categories in Azure AI Content Safety](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/harm-categories?tabs=warning)
      * [Microsoft Responsible AI Standard, v2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cmFl)
   * [GDPR and Generative AI: A Guide for Public Sector Organizations](https://wwps.microsoft.com/blog/gdpr-genai)
+  * [How Microsoft names threat actors](https://learn.microsoft.com/en-us/unified-secops-platform/microsoft-threat-actor-naming)
 * [MITRE, AI Assurance: A Repeatable Process for Assuring AI-enabled Systems, June 2024](https://www.mitre.org/sites/default/files/2024-06/PR-24-1768-AI-Assurance-A-Repeatable-Process-Assuring-AI-Enabled-Systems.pdf)
 * [MLA, How do I cite generative AI in MLA style?](https://style.mla.org/citing-generative-ai/)
 * [model-cards-and-datasheets](https://github.com/ivylee/model-cards-and-datasheets)![](https://img.shields.io/github/stars/ivylee/model-cards-and-datasheets?style=social)
@@ -284,6 +287,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Sample AI Incident Response Checklist](https://bnh-ai.github.io/resources/)
 * [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
 * [SHRM Generative Artificial Intelligence (AI) Chatbot Usage Policy](https://www.shrm.org/resourcesandtools/tools-and-samples/policies/pages/chatgpt-generative-ai-usage.aspx)
+* Simon Institute for Longterm Governance, February 2025 | [Recommendations for the Independent International Scientific Panel on AI and the Global Dialogue on AI Governance](https://drive.google.com/file/d/17mBzqt7foXThI9xcAP8gsTKan34Zk5Mv/view)
 * [Special Competitive Studies Project and Johns Hopkins University Applied Physics Laboratory, Framework for Identifying Highly Consequential AI Use Cases](https://www.scsp.ai/wp-content/uploads/2023/11/SCSP_JHU-HCAI-Framework-Nov-6.pdf)
 * [Stanford University Human-Centered Artificial Intelligence (HAI), Assessing the Implementation of Federal AI Leadership and Compliance Mandates](https://hai.stanford.edu/sites/default/files/2025-01/HAI-RegLab-White-Paper-Federal-AI-Leadership-and-Compliance.pdf)
 * [Stanford University, Open Problems in Technical AI Governance: A repository of open problems in technical AI governance](https://taig.stanford.edu/)
@@ -869,7 +873,8 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Illinois Supreme Court Policy on Artificial Intelligence, Effective January 1, 2025](https://ilcourtsaudio.blob.core.windows.net/antilles-resources/resources/e43964ab-8874-4b7a-be4e-63af019cb6f7/Illinois%20Supreme%20Court%20AI%20Policy.pdf)
 
 **Kentucky**
-* [Legislative Research Commission, Research Report No. 491, Executive Branch Use of Artificial Intelligence Technology](https://apps.legislature.ky.gov/lrc/publications/ResearchReports/RR491.pdf)
+* Cabinet for Health and Family Services, February 27, 2025 | [080.101 AI/Gen AI Policy Version 1.1](https://www.chfs.ky.gov/agencies/os/oats/polstand/080101AIGen%20AI.pdf)
+* Legislative Research Commission | [Research Report No. 491 Executive Branch Use of Artificial Intelligence Technology](https://apps.legislature.ky.gov/lrc/publications/ResearchReports/RR491.pdf)
 
 **Mississippi**
 * [Mississippi Department of Education, Artificial Intelligence Guidance for K-12 Classrooms](https://www.mdek12.org/sites/default/files/Offices/MDE/OTSS/DL/ai_guidance_final.pdf)
@@ -1106,6 +1111,7 @@ This section contains books that can be reasonably described as free, including 
 * [Morton E. Winston and Ralph D. Edelbach, 2000, *Society, Ethics, and Technology*, First Edition](https://archive.org/details/societyethicstec00wins)
 * [Morton E. Winston and Ralph D. Edelbach, 2003, *Society, Ethics, and Technology*, Second Edition](https://archive.org/details/societyethicstec0000unse)
 * [Morton E. Winston and Ralph D. Edelbach, 2006, *Society, Ethics, and Technology*, Third Edition](https://archive.org/details/societyethicstec00edel)
+* [Nathalie A. Smuha, ed., 2025, The Cambridge Handbook of the Law, Ethics and Policy of Artificial Intelligence](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0AD007641DE27F837A3A16DBC0888DD1/9781009367813AR.pdf/The_Cambridge_Handbook_of_the_Law__Ethics_and_Policy_of_Artificial_Intelligence.pdf?event-type=FTLA)
 * [Patrick Hall and Navdeep Gill, 2019, *An Introduction to Machine Learning Interpretability: An Applied Perspective on Fairness, Accountability, Transparency, and Explainable AI*, Second Edition](https://h2o.ai/content/dam/h2o/en/marketing/documents/2019/08/An-Introduction-to-Machine-Learning-Interpretability-Second-Edition.pdf)
 * [Patrick Hall, Navdeep Gill, and Benjamin Cox, 2021, *Responsible Machine Learning: Actionable Strategies for Mitigating Risks & Driving Adoption*](https://info.h2o.ai/rs/644-PKX-778/images/OReilly_Responsible_ML_eBook.pdf)
 * [Paula Boddington, 2017, *Towards a Code of Ethics for Artificial Intelligence*](https://archive.org/details/towardscodeofeth0000bodd)
@@ -1439,6 +1445,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Center for AI and Digital Policy](https://www.caidp.org)
 * [Center for Democracy and Technology](https://cdt.org/)
 * [Center for Security and Emerging Technology](https://cset.georgetown.edu/)
+* [Convergence Analysis](https://www.convergenceanalysis.org/about-us)
 * [Future of Life Institute](https://futureoflife.org/)
 * [Indigenous Protocol and Artificial Intelligence Working Group](https://www.indigenous-ai.net/)
 * [Institute for Advanced Study (IAS), AI Policy and Governance Working Group](https://www.ias.edu/stsv-lab/aipolicy)
