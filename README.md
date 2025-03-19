@@ -544,27 +544,27 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Algorithmic Impact Assessment tool](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)
 * [A Regulatory Framework for AI: Recommendations for PIPEDA Reform](https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/completed-consultations/consultation-ai/reg-fw_202011/)
 * [Artificial Intelligence and Data Act](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act)
-* [The Artificial Intelligence and Data Act (AIDA) – Companion document](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act-aida-companion-document)
-* [Directive on Automated Decision Making (Canada)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
-* [(Draft Guideline) E-23 – Model Risk Management](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/draft-guideline-e-23-model-risk-management)
+* [The Artificial Intelligence and Data Act -AIDA, Companion document](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act-aida-companion-document)
+* [Directive on Automated Decision Making, Canada](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
+* [Draft Guideline, E-23 – Model Risk Management](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/draft-guideline-e-23-model-risk-management)
 * [Health Canada, Transparency for machine learning-enabled medical devices: Guiding principles](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/transparency-machine-learning-guiding-principles.html)
 
 #### Colombia
-* [Marco Ético para la Inteligencia Artificial en Colombia, Ethical Framework for Artificial Intelligence in Colombia](https://minciencias.gov.co/sites/default/files/marco-etico-ia-colombia-2021.pdf)|(Presidency of the Republic of Colombia,November 2021)
+* [Marco Ético para la Inteligencia Artificial en Colombia, Ethical Framework for Artificial Intelligence in Colombia](https://minciencias.gov.co/sites/default/files/marco-etico-ia-colombia-2021.pdf)|(Presidency of the Republic of Colombia, November 2021)
 
 #### Costa Rica
-* [Ministerio de Ciencia, Innovación, Tecnología y Telecomunicaciones (MICITT), Plan Nacional de Ciencia, Tecnología e Innovación 2022–2027](https://cambioclimatico.go.cr/wp-content/uploads/2023/06/Plan-Nacional-Ciencia-Tecnologia-Innovacion-2022-2027.pdf)
+* [Plan Nacional de Ciencia, Tecnología e Innovación 2022–2027](https://cambioclimatico.go.cr/wp-content/uploads/2023/06/Plan-Nacional-Ciencia-Tecnologia-Innovacion-2022-2027.pdf)|(Ministerio de Ciencia, Innovación, Tecnología y Telecomunicaciones (MICITT))
 
 #### Finland
-* [Ministry of Economic Affairs and Employment, Finland's Age of Artificial Intelligence: Turning Finland into a leading country in the application of artificial intelligence. Objective and recommendations for measures](https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160391/TEMrap_47_2017_verkkojulkaisu.pdf)
+* [Finland's Age of Artificial Intelligence: Turning Finland into a leading country in the application of artificial intelligence. Objective and recommendations for measures](https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160391/TEMrap_47_2017_verkkojulkaisu.pdf)|(Ministry of Economic Affairs and Employment)
 
 #### France
-* [Gouvernance des algorithmes d’intelligence artificielle dans le secteur financier (France)](https://acpr.banque-france.fr/sites/default/files/medias/documents/20200612_gouvernance_evaluation_ia.pdf)
+* [Gouvernance des algorithmes d’intelligence artificielle dans le secteur financier,France](https://acpr.banque-france.fr/sites/default/files/medias/documents/20200612_gouvernance_evaluation_ia.pdf)
 
 #### Germany
-* [Bundesamt für Sicherheit in der Informationstechnik, Generative AI Models - Opportunities and Risks for Industry and Authorities](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/Generative_AI_Models.html)
-* [Bundesamt für Sicherheit in der Informationstechnik, German-French recommendations for the use of AI programming assistants](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/ANSSI_BSI_AI_Coding_Assistants.html)
-* [Daten Ethik Kommission, Recommendations of the Data Ethics Commission for the Federal Government's Strategy on Artificial Intelligence, October 9, 2018](https://www.bmi.bund.de/SharedDocs/downloads/EN/themen/it-digital-policy/recommendations-data-ethics-commission.pdf?__blob=publicationFile&v=3)
+* [Generative AI Models - Opportunities and Risks for Industry and Authorities](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/Generative_AI_Models.html)|(Bundesamt für Sicherheit in der Informationstechnik)
+* [German-French recommendations for the use of AI programming assistants](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/ANSSI_BSI_AI_Coding_Assistants.html)|(Bundesamt für Sicherheit in der Informationstechnik)
+* [Recommendations of the Data Ethics Commission for the Federal Government's Strategy on Artificial Intelligence](https://www.bmi.bund.de/SharedDocs/downloads/EN/themen/it-digital-policy/recommendations-data-ethics-commission.pdf?__blob=publicationFile&v=3)|(Daten Ethik Kommission, October 9, 2018)
 * [Germany AI Strategy Report](https://ai-watch.ec.europa.eu/countries/germany/germany-ai-strategy-report_en)
 * [OECD-Bericht zu Künstlicher Intelligenz in Deutschland](https://www.ki-strategie-deutschland.de/files/downloads/OECD-Bericht_K%C3%BCnstlicher_Intelligenz_in_Deutschland.pdf)
 
@@ -572,25 +572,25 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Office of the Privacy Commissioner for Personal Data, Artificial Intelligence: Model Personal Data Protection Framework, June 2024](https://www.pcpd.org.hk/english/resources_centre/publications/files/ai_protection_framework.pdf)
 
 #### Iceland
-* [Ministry of Higher Education, Industry, and Innovation | Aðgerðaáætlun um gervigreind 2024-2026 (Action Plan for Artificial Intelligence 2024-2026) | November 2024](https://samradapi.island.is/api/Documents/1d4c7cba-fd9c-ef11-9bc7-005056bcce7e)
-* [Ministry of Higher Education, Industry, and Innovation | Statistics Iceland | Efnahagsleg tækifæri gervigreindar á Íslandi (Economic Opportunities of Artificial Intelligence in Iceland)](https://samradapi.island.is/api/Documents/1e4c7cba-fd9c-ef11-9bc7-005056bcce7e)
+* [Aðgerðaáætlun um gervigreind 2024-2026 - Action Plan for Artificial Intelligence 2024-2026](https://samradapi.island.is/api/Documents/1d4c7cba-fd9c-ef11-9bc7-005056bcce7e)|(Ministry of Higher Education, Industry, and Innovation, November 2024)
+* [Statistics Iceland | Efnahagsleg tækifæri gervigreindar á Íslandi (Economic Opportunities of Artificial Intelligence in Iceland)](https://samradapi.island.is/api/Documents/1e4c7cba-fd9c-ef11-9bc7-005056bcce7e)|(Ministry of Higher Education, Industry, and Innovation)
 
 #### Ireland
 * [AI - Here for Good: A National Artificial Intelligence Strategy for Ireland](https://enterprise.gov.ie/en/publications/publication-files/national-ai-strategy.pdf)
-* [Department of Finance and Department of Enterprise, Trade and Employment, Artificial Intelligence: Friend or Foe? Summary and Public Policy Considerations, June 2024](https://www.gov.ie/pdf/?file=https://assets.gov.ie/295620/f11c6c66-4012-49fa-bb7f-8f14130f6fa5.pdf)
-* [Department of Public Expenditure, NDP Delivery and Reform, Interim Guidelines for Use of AI in the Public Service, February 2024](https://assets.gov.ie/280459/73ce75af-0015-46af-a9f6-b54f0a3c4fd0.pdf)
+* [Trade and Employment, Artificial Intelligence: Friend or Foe? Summary and Public Policy Considerations](https://www.gov.ie/pdf/?file=https://assets.gov.ie/295620/f11c6c66-4012-49fa-bb7f-8f14130f6fa5.pdf)|(Department of Finance and Department of Enterprise, June 2024)
+* [NDP Delivery and Reform, Interim Guidelines for Use of AI in the Public Service](https://assets.gov.ie/280459/73ce75af-0015-46af-a9f6-b54f0a3c4fd0.pdf)|(Department of Public Expenditure, February 2024)
 * [Ireland's National AI Strategy: AI - Here for Good, Refresh 2024](https://enterprise.gov.ie/en/publications/publication-files/national-ai-strategy-refresh-2024.pdf)
 * [National Standards Authority of Ireland, Top Team on Standards in AI, AI Standards & Assurance Roadmap: Action under 'AI - Here for Good,' the National Artificial Intelligence Strategy for Ireland, July 2023](https://www.nsai.ie/images/uploads/general/NSAI_AI_report_digital_links.pdf)
 
 #### Japan
-* [Japan AI Safety Institute, Guide to Evaluation Perspectives on AI Safety (Version 1.01), September 25, 2024](https://aisi.go.jp/assets/pdf/ai_safety_eval_v1.01_en.pdf)
-* [Japan AI Safety Institute, Guide to Red Teaming Methodology on AI Safety (Version 1.00), September 25, 2024](https://aisi.go.jp/assets/pdf/ai_safety_RT_v1.00_en.pdf)
+* [Guide to Evaluation Perspectives on AI Safety (Version 1.01)](https://aisi.go.jp/assets/pdf/ai_safety_eval_v1.01_en.pdf)|(Japan AI Safety Institute,September 25, 2024)
+* [Guide to Red Teaming Methodology on AI Safety (Version 1.00)](https://aisi.go.jp/assets/pdf/ai_safety_RT_v1.00_en.pdf)|(Japan AI Safety Institute,  September 25, 2024)
 
 #### Malaysia
 * [The National Guidelines on AI Governance & Ethics](https://mastic.mosti.gov.my/publication/the-national-guidelines-on-ai-governance-ethics/)
 
 #### Mexico
-* [Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI), Recomendaciones para el Tratamiento de Datos Personales Derivado del Uso de la Inteligencia Artificial, June 2024](https://home.inai.org.mx/wp-content/documentos/DocumentosSectorPublico/RecomendacionesPDP-IA.pdf)
+* [Acceso a la Información y Protección de Datos Personales - INAI, Recomendaciones para el Tratamiento de Datos Personales Derivado del Uso de la Inteligencia Artificial,](https://home.inai.org.mx/wp-content/documentos/DocumentosSectorPublico/RecomendacionesPDP-IA.pdf)|(Instituto Nacional de Transparencia, June 2024)
 
 #### Netherlands
 * [Autoriteit Persoonsgegevens, Call for input on prohibition on AI systems for emotion recognition in the areas of workplace or education institutions (October 31, 2024)](https://www.autoriteitpersoonsgegevens.nl/en/documents/call-for-input-on-prohibition-on-ai-systems-for-emotion-recognition-in-the-areas-of-workplace-or-education-institutions)
