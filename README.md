@@ -113,6 +113,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * AI Action Summit, January 2025 | [International AI Safety Report: The International Scientific Report on the Safety of Advanced AI](https://assets.publishing.service.gov.uk/media/679a0c48a77d250007d313ee/International_AI_Safety_Report_2025_accessible_f.pdf)
 * [AI Governance Needs Sociotechnical Expertise: Why the Humanities and Social Sciences Are Critical to Government Efforts](https://datasociety.net/wp-content/uploads/2024/05/DS_AI_Governance_Policy_Brief.pdf)
 * [AI Model Registries: A Foundational Tool for AI Governance, September 2024](https://arxiv.org/pdf/2410.09645)
+* [AI Risk Atlas: Taxonomy and Tooling for Navigating AI Risks and Resources](https://arxiv.org/pdf/2503.05780)
 * [AI Verify](https://aiverifyfoundation.sg/what-is-ai-verify/):
   * [AI Verify Foundation](https://aiverifyfoundation.sg/what-is-ai-verify/)
   * [AI Verify Foundation, Cataloguing LLM Evaluations](https://aiverifyfoundation.sg/downloads/Cataloguing_LLM_Evaluations.pdf)
@@ -298,6 +299,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Taylor & Francis, AI Policy](https://taylorandfrancis.com/our-policies/ai-policy/)
 * [Tech Policy Press - Artificial Intelligence](https://www.techpolicy.press/category/artificial-intelligence/)
 * [TechTarget: 9 questions to ask when auditing your AI systems](https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/)
+* [Toward an evaluation science for generative AI systems](https://arxiv.org/pdf/2503.05336)
 * [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
 * [Trustible, Enhancing the Effectiveness of AI Governance Committees](https://www.trustible.ai/post/enhancing-the-effectiveness-of-ai-governance-committees)
 * [Twitter Algorithmic Bias Bounty](https://hackerone.com/twitter-algorithmic-bias?type=team)
@@ -844,6 +846,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Principles of Artificial Intelligence Ethics for the Intelligence Community](https://www.intel.gov/principles-of-artificial-intelligence-ethics-for-the-intelligence-community)
  
 **Securities and Exchange Commission (SEC)**  
+* [Investor Advisory Committee Meeting Agenda for Thursday, March 6, 2025](https://www.sec.gov/about/advisory-committees/investor-advisory-committee/iac030625-agenda)
 * [SEC Charges Two Investment Advisers with Making False and Misleading Statements About Their Use of Artificial Intelligence](https://www.sec.gov/news/press-release/2024-36)
 
 **United States Patent and Trademark Office (USPTO)**
@@ -934,12 +937,14 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Ethical guidelines on the use of artificial intelligence (AI) and data in teaching and learning for Educators](https://school-education.ec.europa.eu/system/files/2023-12/ethical_guidelines_on_the_use_of_artificial_intelligence-nc0722649enn_0.pdf)
   * [Ethics By Design and Ethics of Use Approaches for Artificial Intelligence, Version 1.0, November 25, 2021](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-by-design-and-ethics-of-use-approaches-for-artificial-intelligence_he_en.pdf)
   * [European approach to artificial intelligence](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence)
+  * [First Draft of the General-Purpose AI Code of Practice published, written by independent experts](https://ec.europa.eu/newsroom/dae/redirection/document/109946)
   * [Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
   * [Independent High-Level Expert Group on Artificial Intelligence, Ethics Guidelines for Trustworthy AI](https://www.europarl.europa.eu/cmsdata/196377/AI%20HLEG_Ethics%20Guidelines%20for%20Trustworthy%20AI.pdf)
   * [Independent High-Level Expert Group on Artificial Intelligence, Policy and Investment Recommendations for Trustworthy AI](https://www.europarl.europa.eu/cmsdata/196378/AI%20HLEG_Policy%20and%20Investment%20Recommendations.pdf)
   * [Living Guidelines on the Responsible Use of Generative AI in Research (ERA Forum Stakeholders' document, First Version, March 2024)](https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf)
   * [Living repository to foster learning and exchange on AI literacy](https://digital-strategy.ec.europa.eu/en/library/living-repository-foster-learning-and-exchange-ai-literacy)
     * [Living Repository of AI Literacy Practices v. 31.01.2025](https://ec.europa.eu/newsroom/dae/redirection/document/112203)
+  * [Procurement of AI Updated EU AI model contractual clauses](https://public-buyers-community.ec.europa.eu/communities/procurement-ai/resources/updated-eu-ai-model-contractual-clauses)
 * [Proposal for a directive on adapting non-contractual civil liability rules to artificial intelligence: Complementary impact assessment](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2024)762861)
 
 #### European Council
@@ -1247,6 +1252,7 @@ This section houses initiatives, networks, repositories, and publications that f
 * [Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database](https://osf.io/fvqg3/)
 * [Mitre's AI Risk Database](https://github.com/mitre-atlas/ai-risk-database)![](https://img.shields.io/github/stars/mitre-atlas/ai-risk-database?style=social)
 * [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
+* [Resemble.AI Deepfake Incident Database](https://www.resemble.ai/deepfake-database/)
 * [Verica Open Incident Database (VOID)](https://www.thevoid.community/)
 
 #### Bibliography of Papers on AI Incidents and Failures
@@ -1413,16 +1419,21 @@ This section contains an assortment of papers, articles, essays, and general res
 * [AI already uses as much energy as a small country. It’s only the beginning.](https://www.vox.com/climate/2024/3/28/24111721/ai-uses-a-lot-of-energy-experts-expect-it-to-double-in-just-a-few-years)
 * [The AI Carbon Footprint and Responsibilities of AI Scientists](https://www.mdpi.com/2409-9287/7/1/4)
 * [AI, Climate, and Regulation: From Data Centers to the AI Act](https://arxiv.org/abs/2410.06681)
+* [Artificial Intelligence and Environmental Impact: Moving Beyond Humanizing Vocabulary and Anthropocentrism](https://www.liebertpub.com/doi/abs/10.1089/omi.2024.0197)
 * [Beyond CO2 Emissions: The Overlooked Impact of Water Consumption of Information Retrieval Models](https://dl.acm.org/doi/abs/10.1145/3578337.3605121)
+* [The Carbon Footprint of Artificial Intelligence](https://dl.acm.org/doi/pdf/10.1145/3603746)
 * [The carbon impact of artificial intelligence](https://www.nature.com/articles/s42256-020-0219-9)
 * [Data centre water consumption](https://www.nature.com/articles/s41545-021-00101-w)
 * [Deloitte, Powering artificial intelligence: A study of AI's environmental footprint—today and tomorrow, November 2024](https://www.deloitte.com/content/dam/assets-shared/docs/about/2024/powering-artificial-intelligence.pdf)
+* [Ecological footprints, carbon emissions, and energy transitions: the impact of artificial intelligence (AI)](https://www.nature.com/articles/s41599-024-03520-5.pdf)
 * [Efficiency is Not Enough: A Critical Perspective of Environmentally Sustainable AI](https://arxiv.org/abs/2309.02065)
+* [Ensuring a carbon-neutral future for artificial intelligence](https://www.the-innovation.org/data/article/energy/preview/pdf/XINNENERGY-2024-0095.pdf)
 * [Environment and sustainability development: A ChatGPT perspective](https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003471059-8/environment-sustainability-development-chatgpt-perspective-priyanka-bhaskar-neha-seth)
 * [The Environmental Impact of AI: A Case Study of Water Consumption by Chat GPT](https://puiij.com/index.php/research/article/view/39)
 * [The Environmental Price of Intelligence: Evaluating the Social Cost of Carbon in Machine Learning](https://ieeexplore.ieee.org/abstract/document/10553496)
 * [Generative AI’s environmental costs are soaring — and mostly secret](https://www.nature.com/articles/d41586-024-00478-x)
 * [Green Intelligence Resource Hub](https://docs.google.com/spreadsheets/d/1UCsgAqgonjpP9uPVyssXU0VE0G6Fs7ydxt_mmrpcd1o/edit?usp=sharing)
+* [The growing energy footprint of artificial intelligence](https://www.cell.com/action/showPdf?pii=S2542-4351%2823%2900365-3)
 * [The Hidden Environmental Impact of AI](https://jacobin.com/2024/06/ai-data-center-energy-usage-environment/)
 * [Making AI Less "Thirsty": Uncovering and Addressing the Secret Water Footprint of AI Models](https://arxiv.org/abs/2304.03271)
 * [Microsoft’s Hypocrisy on AI](https://www.theatlantic.com/technology/archive/2024/09/microsoft-ai-oil-contracts/679804/)
@@ -1435,6 +1446,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Toward Responsible AI Use: Considerations for Sustainability Impact Assessment](https://arxiv.org/abs/2312.11996)
 * [Towards A Comprehensive Assessment of AI's Environmental Impact](https://arxiv.org/abs/2405.14004)
 * [Towards Environmentally Equitable AI via Geographical Load Balancing](https://arxiv.org/abs/2307.05494)
+* [Towards green and sustainable artificial intelligence: quantifying the energy footprint of logistic regression and decision tree algorithms](https://ieeexplore.ieee.org/abstract/document/10700922)
 * [Unraveling the Hidden Environmental Impacts of AI Solutions for Environment Life Cycle Assessment of AI Solutions](https://www.mdpi.com/2071-1050/14/9/5172)
 
 ### Groups and Organizations
@@ -1533,6 +1545,8 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 | [HELM](https://crfm.stanford.edu/helm/latest/) | "A holistic framework for evaluating foundation models." |
 | [Hugging Face, evaluate](https://github.com/huggingface/evaluate)![](https://img.shields.io/github/stars/huggingface/evaluate?style=social) | "Evaluate: A library for easily evaluating machine learning models and datasets." |
 | [i-gallegos, Fair-LLM-Benchmark](https://github.com/i-gallegos/Fair-LLM-Benchmark)![](https://img.shields.io/github/stars/i-gallegos/Fair-LLM-Benchmark?style=social) | Benchmark from "Bias and Fairness in Large Language Models: A Survey" |
+| [jphall663, Generative AI Risk Management Resources](https://github.com/jphall663/gai_risk_management)![](https://img.shields.io/github/stars/jphall663/gai_risk_management?style=social) | "A place for ideas and drafts related to GAI risk management." |
+| [MLCommons, AI Luminate: A collaborative, transparent approach to safer AI](https://mlcommons.org/ailuminate/) | "The AILuminate v1.1 benchmark suite is the first AI risk assessment benchmark developed with broad involvement from leading AI companies, academia, and civil society." |
 | [MLCommons, MLCommons AI Safety v0.5 Proof of Concept](https://mlcommons.org/2024/04/mlc-aisafety-v0-5-poc/) | "The MLCommons AI Safety Benchmark aims to assess the safety of AI systems in order to guide development, inform purchasers and consumers, and support standards bodies and policymakers." |
 | [MLCommons, Introducing v0.5 of the AI Safety Benchmark from MLCommons](https://arxiv.org/pdf/2404.12241.pdf) | A paper about the MLCommons AI Safety Benchmark v0.5. |
 | [Nvidia MLPerf](https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/) | "MLPerf™ benchmarks—developed by MLCommons, a consortium of AI leaders from academia, research labs, and industry—are designed to provide unbiased evaluations of training and inference performance for hardware, software, and services." | 
