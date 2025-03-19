@@ -76,6 +76,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
   * [Groups and Organizations](#groups-and-organizations)
   * [Curated Bibliographies](#curated-bibliographies)
   * [List of Lists](#list-of-lists)
+  * [Platforms](#platforms)
 
 * **Technical Resources**
   * [Benchmarks](#benchmarks)
@@ -267,6 +268,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [OWASP, Guide for Preparing and Responding to Deepfake Events: From the OWASP Top 10 for LLM Applications Team, Version 1, September 2024](https://genai.owasp.org/resource/guide-for-preparing-and-responding-to-deepfake-events/)
 * [Oxford Commission on AI & Good Governance, AI in the Public Service: From Principles to Practice](https://oxcaigg.oii.ox.ac.uk/wp-content/uploads/sites/11/2021/12/AI-in-the-Public-Service-Final.pdf)
 * [PAIR Explorables: Datasets Have Worldviews](https://pair.withgoogle.com/explorables/dataset-worldviews/)
+* Paris Peace Forum, February 2025 | [Forging Global Cooperation on AI Risks: Cyber Policy as a Governance Blueprint](https://parispeaceforum.org/app/uploads/2025/02/forging-global-cooperation-on-ai-risks-cyber-policy-as-a-governance-blueprint.pdf)
 * [Partnership on AI, ABOUT ML Reference Document](https://partnershiponai.org/paper/about-ml-reference-document/)
 * [Partnership on AI, PAI’s Guidance for Safe Foundation Model Deployment: A Framework for Collective Action](https://partnershiponai.org/modeldeployment/)
 * [Partnership on AI, Responsible Practices for Synthetic Media: A Framework for Collective Action](https://syntheticmedia.partnershiponai.org/)
@@ -303,6 +305,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [University of Washington Tech Policy Lab, Data Statements](https://techpolicylab.uw.edu/data-statements/)
 * [Warning Signs: The Future of Privacy and Security in an Age of Machine Learning](https://fpf.org/wp-content/uploads/2019/09/FPF_WarningSigns_Report.pdf)
 * [When Not to Trust Your Explanations](https://docs.google.com/presentation/d/10a0PNKwoV3a1XChzvY-T1mWudtzUIZi3sCMzVwGSYfM/edit)
+* [Who Should Develop Which AI Evaluations?](https://oms-www.files.svdcdn.com/production/downloads/reports/Who%20should%20develop%20which%20AI%20evaluations.pdf?dm=1737016728)
 * [Why We Need to Know More: Exploring the State of AI Incident Documentation Practices](https://dl.acm.org/doi/fullHtml/10.1145/3600211.3604700)
 * [WilmerHale, What Are High-Risk AI Systems Within the Meaning of the EU’s AI Act, and What Requirements Apply to Them?](https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20240717-what-are-highrisk-ai-systems-within-the-meaning-of-the-eus-ai-act-and-what-requirements-apply-to-them)
 * [World Economic Forum, AI Value Alignment: Guiding Artificial Intelligence Towards Shared Human Goals](https://www.weforum.org/publications/ai-value-alignment-guiding-artificial-intelligence-towards-shared-human-goals/)
@@ -320,6 +323,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Future of Privacy Forum, EU AI Act: A Comprehensive Implementation & Compliance Timeline](https://fpf.org/resource/eu-ai-act-a-comprehensive-implementation-compliance-timeline/)
 * [Future of Privacy Forum, The Spectrum of Artificial Intelligence](https://fpf.org/wp-content/uploads/2021/01/FPF_AIEcosystem_illo_03.pdf)
 * [Generative AI framework and Generative AI value tree modelling diagram](https://media.licdn.com/dms/image/v2/D4D22AQEKqP2a6_rsCw/feedshare-shrink_1280/B4DZP0cUWFHUAo-/0/1734972885448?e=1738195200&v=beta&t=PMJq6Ti1lisMMkyhnWojcdDt_DAlmYtV6MUQbqWu4hc)
+* [Global Index for AI Safety: AGILE Index on Global AI Safety Readiness Feb 2025](https://agile-index.ai/Global-Index-For-AI-Safety-Report-EN.pdf)
 * [IAPP EU AI Act Cheat Sheet](https://iapp.org/media/pdf/resource_center/eu_ai_act_cheat_sheet.pdf)
 * [IAPP, EU AI Act Compliance Matrix](https://iapp.org/resources/article/eu-ai-act-compliance-matrix/)
 * [Machine Learning Attack_Cheat_Sheet](https://resources.oreilly.com/examples/0636920415947/-/blob/master/Attack_Cheat_Sheet.png)
@@ -574,6 +578,7 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### France
 * [Gouvernance des algorithmes d’intelligence artificielle dans le secteur financier (France)](https://acpr.banque-france.fr/sites/default/files/medias/documents/20200612_gouvernance_evaluation_ia.pdf)
+* VIGINUM | February 7, 2025 | [Challenges and opportunities of artificial intelligence in the fight against information manipulation](https://www.sgdsn.gouv.fr/files/files/Publications/20250207_NP_SGDSN_VIGINUM_Rapport%20menace%20informationnelle%20IA_EN_0.pdf)
 
 #### Germany
 * [Bundesamt für Sicherheit in der Informationstechnik, Generative AI Models - Opportunities and Risks for Industry and Authorities](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/Generative_AI_Models.html)
@@ -875,6 +880,15 @@ This section serves as a repository for policy documents, regulations, guideline
 
 **Utah**
 * [Questions from the Commission on Protecting Privacy and Preventing Discrimination](https://auditor.utah.gov/wp-content/uploads/sites/6/2021/02/Office-of-the-State-Auditor-Questions-to-help-Procuring-Agencies-_-Entities-with-Software-Procurement-Feb-1-2021-Final.pdf)
+
+**Washington**
+* [Washington Technology Solutions Reports & Documents](https://watech.wa.gov/about/reports-documents)
+  * September 2024 | [Initial procurement guidelines for public sector procurement, deployment, and monitoring of Generative AI Technology](https://watech.wa.gov/sites/default/files/2024-11/Initial%20Procurement%20Guidelines%20for%20GenAI%20Final.pdf)
+  * September 2024 | [State of Washington Generative Artificial Intelligence Report](https://watech.wa.gov/sites/default/files/2024-10/WA_State_GenAIReport_FINAL.pdf)
+  * December 2024 | [Guidelines for Deployment of Generative AI](https://watech.wa.gov/sites/default/files/2024-12/Equity%20Analysis%20Guidelines%20for%20Deployment%20of%20Generative%20AI-WaTech_2024.pdf)
+  * December 2024 | [Implementing risk assessments for high-risk AI systems](https://watech.wa.gov/sites/default/files/2025-01/EO%2024-01%20Risk%20Guidance_Final.pdf)
+  * December 1, 2024 | [Office of Privacy and Data Protection Performance Report](https://watech.wa.gov/sites/default/files/2024-12/OPDP%202024%20Performance%20Report%20Final%2012-1-24.pdf)
+  * January 31, 2025 | [Responsible AI in the Public Sector: How the Washington State Government Uses & Governs Artificial Intelligence](https://watech.wa.gov/sites/default/files/2025-01/Responsible%20AI%20in%20the%20Public%20Sector%20-%20WaTech%20%20UC%20Berkeley%20Report%20-%20Final_.pdf)
 
 **Wyoming**
 * Wyoming Department of Education (WDE) | [Guidance for Wyoming School Districts on Developing Artificial Intelligence Use Policy](https://edu.wyoming.gov/wp-content/uploads/2024/06/Guidance-for-AI-Policy-Development.pdf)
@@ -1481,6 +1495,10 @@ This section links to other lists of responsible ML or related resources.
 * [XAI Resources](https://github.com/pbiecek/xai_resources)![](https://img.shields.io/github/stars/pbiecek/xai_resources?style=social)
 * [xaience](https://github.com/andreysharapov/xaience)![](https://img.shields.io/github/stars/andreysharapov/xaience?style=social)
 
+### Platforms
+
+* [Neuronpedia](https://www.neuronpedia.org/)
+
 ## Technical Resources
 
 ### Benchmarks
@@ -1494,6 +1512,7 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 | [Cataloguing LLM Evaluations](https://github.com/IMDA-BTG/LLM-Evals-Catalogue)![](https://img.shields.io/github/stars/IMDA-BTG/LLM-Evals-Catalogue?style=social) | "This repository stems from our paper, 'Cataloguing LLM Evaluations,' and serves as a living, collaborative catalogue of LLM evaluation frameworks, benchmarks and papers." |
 | [DecodingTrust](https://github.com/AI-secure/DecodingTrust)![](https://img.shields.io/github/stars/huggingface/evaluate?style=social) | "A Comprehensive Assessment of Trustworthiness in GPT Models." |
 | [EleutherAI, Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)![](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social) | "A framework for few-shot evaluation of language models." |
+| [Evidently AI 100+ LLM benchmarks and evaluation datasets](https://www.evidentlyai.com/llm-evaluation-benchmarks-datasets) | "A database of LLM benchmarks and datasets to evaluate the performance of language models." |
 | [GEM](https://gem-benchmark.com/) | "GEM is a benchmark environment for Natural Language Generation with a focus on its Evaluation, both through human annotations and automated Metrics." |
 | [HELM](https://crfm.stanford.edu/helm/latest/) | "A holistic framework for evaluating foundation models." |
 | [Hugging Face, evaluate](https://github.com/huggingface/evaluate)![](https://img.shields.io/github/stars/huggingface/evaluate?style=social) | "Evaluate: A library for easily evaluating machine learning models and datasets." |
