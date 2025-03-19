@@ -32,6 +32,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
     * [Hong Kong](#hong-kong)
     * [Iceland](#iceland)
     * [Ireland](#ireland)
+    * [Jamaica](#jamaica)
     * [Japan](#japan)
     * [Malaysia](#malaysia)
     * [Mexico](#mexico)
@@ -278,6 +279,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [A Primer for Developers and Policymakers](https://www.rand.org/pubs/research_reports/RRA3084-1.html)
 * [RAND Corporation, Analyzing Harms from AI-Generated Images and Safeguarding Online Authenticity](https://www.rand.org/pubs/perspectives/PEA3131-1.html)
 * [Ravit Dotan's Projects](https://www.techbetter.ai/projects-1)
+* Responsible AI Institute | [AI Inventories: Practical Challenges for Organizational Risk Management](https://20965052.fs1.hubspotusercontent-na1.net/hubfs/20965052/AI%20Inventories%20Practical%20Challenges%20for%20Organizational%20Risk%20Management%20(3).pdf)
 * [Safe and Reliable Machine Learning](https://www.dropbox.com/s/sdu26h96bc0f4l7/FAT19-AI-Reliability-Final.pdf?dl=0)
 * [Sample AI Incident Response Checklist](https://bnh-ai.github.io/resources/)
 * [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
@@ -339,6 +341,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [LLM Agents can Autonomously Exploit One-day Vulnerabilities](https://arxiv.org/abs/2404.08144)
   * [No, LLM Agents can not Autonomously Exploit One-day Vulnerabilities](https://struct.github.io/auto_agents_1_day.html)
 * [Ofcom, Red Teaming for GenAI Harms: Revealing the Risks and Rewards for Online Safety, July 23, 2024](https://www.ofcom.org.uk/siteassets/resources/documents/consultations/discussion-papers/red-teaming/red-teaming-for-gen-ai-harms.pdf?v=370762)
+* OWASP Version 1.0, January 23, 2025 | [GenAI Red Teaming Guide: A Practical Approach to Evaluating AI Vulnerabilities](https://genai.owasp.org/download/44859/?tmstv=1737593350)
 * [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2209.07858)
 * [Red Teaming of Advanced Information Assurance Concepts](https://ieeexplore.ieee.org/document/821513)
 
@@ -601,6 +604,9 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Ireland's National AI Strategy: AI - Here for Good, Refresh 2024](https://enterprise.gov.ie/en/publications/publication-files/national-ai-strategy-refresh-2024.pdf)
 * [National Standards Authority of Ireland, Top Team on Standards in AI, AI Standards & Assurance Roadmap: Action under 'AI - Here for Good,' the National Artificial Intelligence Strategy for Ireland, July 2023](https://www.nsai.ie/images/uploads/general/NSAI_AI_report_digital_links.pdf)
 
+#### Jamaica
+* National Artificial Intelligence Task Force, September 2024 | [National Artificial Intelligence Policy Recommendations](https://opm.gov.jm/wp-content/uploads/2025/02/National-Artificial-Intelligence-Task-Force-Policy-Recommendations-Final-1.pdf)
+
 #### Japan
 * [Japan AI Safety Institute, Guide to Evaluation Perspectives on AI Safety (Version 1.01), September 25, 2024](https://aisi.go.jp/assets/pdf/ai_safety_eval_v1.01_en.pdf)
 * [Japan AI Safety Institute, Guide to Red Teaming Methodology on AI Safety (Version 1.00), September 25, 2024](https://aisi.go.jp/assets/pdf/ai_safety_RT_v1.00_en.pdf)
@@ -659,6 +665,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Department for Science, Innovation and Technology | Frontier AI: capabilities and risks](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper)
 * [Department for Science, Innovation and Technology | Global Coalition on Telecommunications: principles on AI adoption in the telecommunications industry | January 16, 2025](https://www.gov.uk/government/publications/global-coalition-on-telecommunications-principles-on-ai-adoption-in-the-telecommunications-industry/global-coalition-on-telecommunications-principles-on-ai-adoption-in-the-telecommunications-industry)
 * [Department for Science, Innovation and Technology, Guidance | Introduction to AI Assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance)
+* Government Digital Service and Department for Science, Innovation & Technology, February 2025 | [Artificial Intelligence Playbook for the UK Government](https://assets.publishing.service.gov.uk/media/67aca2f7e400ae62338324bd/AI_Playbook_for_the_UK_Government__12_02_.pdf)
 * [Information Commissioner's Office (ICO) | AI tools in recruitment | November 6, 2024](https://ico.org.uk/action-weve-taken/audits-and-overview-reports/ai-tools-in-recruitment/)
 * [National Physical Laboratory (NPL) | Beginner's guide to measurement GPG118](https://www.npl.co.uk/gpgs/beginners-guide-to-measurement)
 * [Northern Ireland response to the AI Council AI Roadmap](https://matrixni.org/wp-content/uploads/2021/04/NI-Response-to-UK-AI-roadmap.pdf)
@@ -944,6 +951,7 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### OECD
 * [AI, data governance and privacy: Synergies and areas of international co-operation, June 26, 2024](https://www.oecd.org/en/publications/ai-data-governance-and-privacy_2476b1a4-en.html)
+* [Algorithm Impact Assessment Toolkit](https://oecd.ai/en/catalogue/tools/algorithm-impact-assessment-toolkit)
 * [The Bias Assessment Metrics and Measures Repository](https://oecd.ai/en/catalogue/tools/the-bias-assessment-metrics-and-measures-repository)
 * [OECD.AI Catalogue of Tools & Metrics for Trustworthy AI, Anekanta AI, Responsible AI Governance Framework for boards](https://oecd.ai/en/catalogue/tools/responsible-ai-governance-framework-for-boards)
 * [OECD Artificial Intelligence Papers](https://www.oecd-ilibrary.org/science-and-technology/oecd-artificial-intelligence-papers_dee339a8-en)
@@ -1482,6 +1490,7 @@ This section links to other lists of responsible ML or related resources.
 * [IMDA-BTG, LLM-Evals-Catalogue](https://github.com/IMDA-BTG/LLM-Evals-Catalogue)![](https://img.shields.io/github/stars/IMDA-BTG/LLM-Evals-Catalogue?style=social)
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)![](https://img.shields.io/github/stars/radames/Machine-Learning-Ethics-References?style=social)
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)![](https://img.shields.io/github/stars/h2oai/mli-resources?style=social)
+* [MIT AI Agent Index](https://aiagentindex.mit.edu/)
 * [NIST, Comments Received for RFI on Artificial Intelligence Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework/comments-received-rfi-artificial-intelligence-risk-management)
 * [OECD-NIST Catalogue of AI Tools and Metrics](https://oecd.ai/en/catalogue/overview)
 * [OpenAI Cookbook](https://github.com/openai/openai-cookbook/tree/main)![](https://img.shields.io/github/stars/openai/openai-cookbook?style=social)
