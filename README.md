@@ -25,6 +25,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
     * [Canada](#canada)
     * [Colombia](#colombia)
     * [Costa Rice](#costa-rica)
+    * [Denmark](#denmark)
     * [Finland](#finland)
     * [France](#france)
     * [Germany](#germany)
@@ -34,6 +35,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
     * [Japan](#japan)
     * [Malaysia](#malaysia)
     * [Mexico](#mexico)
+    * [Moldova](#moldova)
     * [Netherlands](#netherlands)
     * [New Zealand](#new-zealand)
     * [Norway](#norway)
@@ -41,6 +43,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
     * [Singapore](#singapore)
     * [South Korea](#south-korea)
     * [Switzerland](#switzerland)
+    * [Ukraine](#ukraine)
     * [United Kingdom](#united-kingdom)
     * [United States (Federal Government)](#united-states-federal-government)
     * [United States (State Governments)](#united-states-state-governments)
@@ -287,9 +290,11 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Trustible, Enhancing the Effectiveness of AI Governance Committees](https://www.trustible.ai/post/enhancing-the-effectiveness-of-ai-governance-committees)
 * [Twitter Algorithmic Bias Bounty](https://hackerone.com/twitter-algorithmic-bias?type=team)
 * [Unite.AI: How to perform an AI Audit in 2023](https://www.unite.ai/how-to-perform-an-ai-audit-in-2023/)
-* [University of California, Berkeley, Center for Long-Term Cybersecurity, Decision Points in AI Governance](https://cltc.berkeley.edu/wp-content/uploads/2020/05/Decision_Points_AI_Governance.pdf)
-* [University of California, Berkeley, Center for Long-Term Cybersecurity, Intolerable Risk Threshold Recommendations for Artificial Intelligence: Key Principles, Considerations, and Case Studies to Inform Frontier AI Safety Frameworks for Industry and Government](https://cltc.berkeley.edu/wp-content/uploads/2025/02/Intolerable-Risk-Threshold-Recommendations-for-Artificial-Intelligence.pdf)
-* [University of California, Berkeley, Center for Long-Term Cybersecurity, A Taxonomy of Trustworthiness for Artificial Intelligence](https://cltc.berkeley.edu/wp-content/uploads/2023/12/Taxonomy_of_AI_Trustworthiness_tables.pdf)
+* University of California, Berkeley, Center for Long-Term Cybersecurity
+  * Version 1.1, January 2025 | [AI Risk-Management Standards Profile for General-Purpose AI (GPAI) and Foundation Models](https://cltc.berkeley.edu/wp-content/uploads/2025/01/Berkeley-AI-Risk-Management-Standards-Profile-for-General-Purpose-AI-and-Foundation-Models-v1-1.pdf)
+  * [Decision Points in AI Governance: Three Case Studies Explore Efforts to Operationalize AI Principles](https://cltc.berkeley.edu/wp-content/uploads/2020/05/Decision_Points_AI_Governance.pdf)
+  * February 2025 | [Intolerable Risk Threshold Recommendations for Artificial Intelligence: Key Principles, Considerations, and Case Studies to Inform Frontier AI Safety Frameworks for Industry and Government](https://cltc.berkeley.edu/wp-content/uploads/2025/02/Intolerable-Risk-Threshold-Recommendations-for-Artificial-Intelligence.pdf)
+  * January 2023 | [A Taxonomy of Trustworthiness for Artificial Intelligence](https://cltc.berkeley.edu/wp-content/uploads/2023/12/Taxonomy_of_AI_Trustworthiness_tables.pdf)
 * [University of California, Berkeley, Information Security Office, How to Write an Effective Website Privacy Statement](https://security.berkeley.edu/how-write-effective-website-privacy-statement)
 * [University of Washington Tech Policy Lab, Data Statements](https://techpolicylab.uw.edu/data-statements/)
 * [Warning Signs: The Future of Privacy and Security in an Age of Machine Learning](https://fpf.org/wp-content/uploads/2019/09/FPF_WarningSigns_Report.pdf)
@@ -557,6 +562,9 @@ This section serves as a repository for policy documents, regulations, guideline
 #### Costa Rica
 * [Ministerio de Ciencia, Innovación, Tecnología y Telecomunicaciones (MICITT), Plan Nacional de Ciencia, Tecnología e Innovación 2022–2027](https://cambioclimatico.go.cr/wp-content/uploads/2023/06/Plan-Nacional-Ciencia-Tecnologia-Innovacion-2022-2027.pdf)
 
+#### Denmark
+* Ministry of Finance and Ministry of Industry, Business and Financial Affairs, March 2019 | [National Strategy for Artificial Intelligence](https://en.digst.dk/media/lz0fxbt4/305755_gb_version_final-a.pdf)
+
 #### Finland
 * [Ministry of Economic Affairs and Employment, Finland's Age of Artificial Intelligence: Turning Finland into a leading country in the application of artificial intelligence. Objective and recommendations for measures](https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160391/TEMrap_47_2017_verkkojulkaisu.pdf)
 
@@ -594,6 +602,10 @@ This section serves as a repository for policy documents, regulations, guideline
 #### Mexico
 * [Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI), Recomendaciones para el Tratamiento de Datos Personales Derivado del Uso de la Inteligencia Artificial, June 2024](https://home.inai.org.mx/wp-content/documentos/DocumentosSectorPublico/RecomendacionesPDP-IA.pdf)
 
+#### Moldova
+* Ministry of Economic Development and Digitalization, 2024 | [Cartea Albă cu Privire la Inteligența Artificială și Guvernanța Datelor](https://drive.google.com/file/d/1MDEGQ3snOiYXeM5G1YZfV8yH6ZFWxVTJ/view)
+  * Ministry of Economic Development and Digitalization, 2024 | [White Book on Artificial Intelligence and Data Governance](https://drive.google.com/file/d/1d2VmubZJjwVjzxUT4gjJE7DXTinzdyfO/view?usp=sharing)
+
 #### Netherlands
 * [Autoriteit Persoonsgegevens, Call for input on prohibition on AI systems for emotion recognition in the areas of workplace or education institutions (October 31, 2024)](https://www.autoriteitpersoonsgegevens.nl/en/documents/call-for-input-on-prohibition-on-ai-systems-for-emotion-recognition-in-the-areas-of-workplace-or-education-institutions)
 * [Autoriteit Persoonsgegevens, scraping bijna altijd illegal (Dutch Data Protection Authority, "Scraping is always illegal")](https://www.autoriteitpersoonsgegevens.nl/actueel/ap-scraping-bijna-altijd-illegaal)
@@ -607,6 +619,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Initial advice on Generative Artificial Intelligence in the public service | July 2023](https://www.digital.govt.nz/assets/Standards-guidance/Technology-and-architecture/Generative-AI/Joint-System-Leads-tactical-guidance-on-public-service-use-of-GenAI-September-2023.pdf)
 
 #### Norway
+* Ministry of Local Government and Modernisation | [National Strategy for Artificial Intelligence](https://www.regjeringen.no/contentassets/1febbbb2c4fd4b7d92c67ddd353b6ae8/en-gb/pdfs/ki-strategi_en.pdf)
 * Ministry of Local Government and Regional Development, Expert Group on Artificial Intelligence and Elections, February 2025 | [Artificial Intelligence and Democratic Elections — International Experiences and National Recommendations](https://www.regjeringen.no/contentassets/23f8fd1726634f589724d96b49fe994c/en_rapport-ekspertgruppe-ki-og-valg.pdf)
 
 #### Philippines
@@ -623,6 +636,11 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### Switzerland
 * [Digital Switzerland Strategy 2025](https://digital.swiss/userdata/uploads/strategie-dch-en.pdf)
+
+#### Ukraine
+* Ministry of Digital Transformation | [White Paper on Artificial Intelligence Regulation in Ukraine: Vision of the Ministry of Digital Transformation of Ukraine, Version for Consultation](https://thedigital.gov.ua/storage/uploads/files/page/community/docs/%D0%91%D1%96%D0%BB%D0%B0_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0_%D0%B7_%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%A8%D0%86_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96_%D0%90%D0%9D%D0%93%D0%9B.pdf)
+* Ministry of Digital Transformation | [Дорожня карта з регулювання штучного інтелекту в Україні: Bottom-Up Підхід](https://cms.thedigital.gov.ua/storage/uploads/files/page/community/docs/%D0%94%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8F_%D0%BA%D0%B0%D1%80%D1%82%D0%B0_%D0%B7_%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%A8%D0%86_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96_compressed.pdf)
+* Ministry of Digital Transformation, Ministry of Culture and Information Policy, and National Council of Television and Radio Broadcasting | [Guidelines on the Responsible Use of Artificial Intelligence in the News Media](https://webportal.nrada.gov.ua/wp-content/uploads/2024/05/Ukraine-AI-Guidelines-for-Media.pdf)
 
 #### United Kingdom
 * [AI Safety Institute (AISI), Safety cases at AISI](https://www.aisi.gov.uk/work/safety-cases-at-aisi)
@@ -854,8 +872,8 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Questions from the Commission on Protecting Privacy and Preventing Discrimination](https://auditor.utah.gov/wp-content/uploads/sites/6/2021/02/Office-of-the-State-Auditor-Questions-to-help-Procuring-Agencies-_-Entities-with-Software-Procurement-Feb-1-2021-Final.pdf)
 
 **Wyoming**
-* [Wyoming Department of Education (WDE) | Guidance for Wyoming School Districts on Developing Artificial Intelligence Use Policy](https://edu.wyoming.gov/wp-content/uploads/2024/06/Guidance-for-AI-Policy-Development.pdf)
-* [Wyoming Department of Education (WDE) | AI Guidance Resources](https://wde.instructure.com/courses/826)
+* Wyoming Department of Education (WDE) | [Guidance for Wyoming School Districts on Developing Artificial Intelligence Use Policy](https://edu.wyoming.gov/wp-content/uploads/2024/06/Guidance-for-AI-Policy-Development.pdf)
+* Wyoming Department of Education (WDE) | [AI Guidance Resources](https://wde.instructure.com/courses/826)
 
 #### International and Multilateral Frameworks
 
@@ -1233,6 +1251,7 @@ This section contains trackers, databases, and repositories of laws, policies, a
 * [Institute for the Future of Work, Tracking international legislation relevant to AI at work](https://www.ifow.org/publications/legislation-tracker)
 * [Legal Nodes, Global AI Regulations Tracker: Europe, Americas & Asia-Pacific Overview](https://legalnodes.com/article/global-ai-regulations-tracker)
 * [MIT AI Risk Repository](https://airisk.mit.edu/)
+* [multistate.ai](https://www.multistate.ai/)
 * [National Conference of State Legislatures, Deceptive Audio or Visual Media (‘Deepfakes’) 2024 Legislation](https://www.ncsl.org/technology-and-communication/deceptive-audio-or-visual-media-deepfakes-2024-legislation)
 * [OECD.AI, National AI policies & strategies](https://oecd.ai/en/dashboards/overview)
 * [Raymond Sun, Global AI Regulation Tracker](https://www.techieray.com/GlobalAIRegulationTracker)
@@ -1392,6 +1411,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Center for Security and Emerging Technology](https://cset.georgetown.edu/)
 * [Future of Life Institute](https://futureoflife.org/)
 * [Institute for Advanced Study (IAS), AI Policy and Governance Working Group](https://www.ias.edu/stsv-lab/aipolicy)
+* [Institute for Ethics and the Common Good, Notre Dame-IBM Technology Ethics Lab](https://ethics.nd.edu/labs-and-centers/notre-dame-ibm-technology-ethics-lab/)
 * [Partnership on AI](https://partnershiponai.org/)
     
 ### Curated Bibliographies
