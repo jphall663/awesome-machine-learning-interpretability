@@ -1458,28 +1458,31 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 | Resource | Description |
 | --- | --- |
 | [benchm-ml](https://github.com/szilard/benchm-ml)-![](https://img.shields.io/github/stars/szilard/benchm-ml?style=social) | "A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.)." |
-| [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq)|![](https://img.shields.io/github/stars/nyu-mll/bbq?style=social) | "Repository for the Bias Benchmark for QA dataset." |
+| [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq)-![](https://img.shields.io/github/stars/nyu-mll/bbq?style=social) | "Repository for the Bias Benchmark for QA dataset." |
 | [Cataloguing LLM Evaluations](https://github.com/IMDA-BTG/LLM-Evals-Catalogue)|![](https://img.shields.io/github/stars/IMDA-BTG/LLM-Evals-Catalogue?style=social) | "This repository stems from our paper, 'Cataloguing LLM Evaluations,' and serves as a living, collaborative catalogue of LLM evaluation frameworks, benchmarks and papers." |
-| [DecodingTrust](https://github.com/AI-secure/DecodingTrust)|![](https://img.shields.io/github/stars/huggingface/evaluate?style=social) | "A Comprehensive Assessment of Trustworthiness in GPT Models." |
+| [DecodingTrust](https://github.com/AI-secure/DecodingTrust)-![](https://img.shields.io/github/stars/huggingface/evaluate?style=social) | "A Comprehensive Assessment of Trustworthiness in GPT Models." |
 | [EleutherAI, Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)|![](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social) | "A framework for few-shot evaluation of language models." |
-| [GEM,benchmark environment for Natural Language Generation](https://gem-benchmark.com/)
-| [HELM, A holistic framework for evaluating foundation models](https://crfm.stanford.edu/helm/latest/)
-| [Hugging Face, evaluate: A library for easily evaluating machine learning models and datasets](https://github.com/huggingface/evaluate)![](https://img.shields.io/github/stars/huggingface/evaluate?style=social)
-| [i-gallegos, Fair-LLM-Benchmark](https://github.com/i-gallegos/Fair-LLM-Benchmark)![](https://img.shields.io/github/stars/i-gallegos/Fair-LLM-Benchmark?style=social)
-| [MLCommons, MLCommons AI Safety v0.5 Proof of Concept](https://mlcommons.org/2024/04/mlc-aisafety-v0-5-poc/)
-| [MLCommons, Introducing v0.5 of the AI Safety Benchmark from MLCommons](https://arxiv.org/pdf/2404.12241.pdf)
-| [Nvidia MLPerf: benchmarks—developed by MLCommons, a consortium of AI leaders from academia, research labs, and industry—are designed to provide unbiased evaluations of training and inference performance for hardware, software, and services](https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/)
-| [OpenML Benchmarking Suites](https://www.openml.org/search?type=benchmark&study_type=task)
-| [Real Toxicity Prompts (Allen Institute for AI)](https://allenai.org/data/real-toxicity-prompts)
-| [SafetyPrompts.com: A Living Catalogue of Open Datasets for LLM Safety ](https://safetyprompts.com/)
-| [Sociotechnical Safety Evaluation Repository](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQObeTxvXtOs--zd98qG2xBHHuTTJOyNISBJPthZFr3at2LCrs3rcv73d4of1A78JV2eLuxECFXJY43/pubhtml)
-| [TrustLLM-Benchmark,'A Comprehensive Study of Trustworthiness in Large Language Models'](https://trustllmbenchmark.github.io/TrustLLM-Website/index.html)
-| [Trust-LLM-Benchmark Leaderboard, 'A series of sortable leaderboards of LLMs based on different trustworthiness criteria'](https://trustllmbenchmark.github.io/TrustLLM-Website/leaderboard.html)
-| [TruthfulQA. 'Measuring How Models Imitate Human Falsehoods'](https://github.com/sylinrl/TruthfulQA)![](https://img.shields.io/github/stars/sylinrl/TruthfulQA?style=social)
-| [WAVES: Benchmarking the Robustness of Image Watermarks](https://wavesbench.github.io/)
-| [Wild-Time: A Benchmark of in-the-Wild Distribution Shifts over Time](https://github.com/huaxiuyao/Wild-Time)![](https://img.shields.io/github/stars/huaxiuyao/Wild-Time?style=social)
-| [Winogender Schemas, 'Data for evaluating gender bias in coreference resolution systems'](https://github.com/rudinger/winogender-schemas)![](https://img.shields.io/github/stars/rudinger/winogender-schemas?style=social)
-| [yandex-research / tabred, 'Benchmark of Tabular Machine Learning in-the-Wild with real-world industry-grade tabular datasets'](https://github.com/yandex-research/tabred)![](https://img.shields.io/github/stars/yandex-research/tabred?style=social)
+| [Evidently AI 100+ LLM benchmarks and evaluation datasets](https://www.evidentlyai.com/llm-evaluation-benchmarks-datasets) | "A database of LLM benchmarks and datasets to evaluate the performance of language models." |
+| [GEM](https://gem-benchmark.com/) | "GEM is a benchmark environment for Natural Language Generation with a focus on its Evaluation, both through human annotations and automated Metrics." |
+| [HELM](https://crfm.stanford.edu/helm/latest/) | "A holistic framework for evaluating foundation models." |
+| [Hugging Face, evaluate](https://github.com/huggingface/evaluate)-![](https://img.shields.io/github/stars/huggingface/evaluate?style=social) | "Evaluate: A library for easily evaluating machine learning models and datasets." |
+| [i-gallegos, Fair-LLM-Benchmark](https://github.com/i-gallegos/Fair-LLM-Benchmark)-![](https://img.shields.io/github/stars/i-gallegos/Fair-LLM-Benchmark?style=social) | Benchmark from "Bias and Fairness in Large Language Models: A Survey" |
+| [jphall663, Generative AI Risk Management Resources](https://github.com/jphall663/gai_risk_management)-![](https://img.shields.io/github/stars/jphall663/gai_risk_management?style=social) | "A place for ideas and drafts related to GAI risk management." |
+| [MLCommons, AI Luminate: A collaborative, transparent approach to safer AI](https://mlcommons.org/ailuminate/) | "The AILuminate v1.1 benchmark suite is the first AI risk assessment benchmark developed with broad involvement from leading AI companies, academia, and civil society." |
+| [MLCommons, MLCommons AI Safety v0.5 Proof of Concept](https://mlcommons.org/2024/04/mlc-aisafety-v0-5-poc/) | "The MLCommons AI Safety Benchmark aims to assess the safety of AI systems in order to guide development, inform purchasers and consumers, and support standards bodies and policymakers." |
+| [MLCommons, Introducing v0.5 of the AI Safety Benchmark from MLCommons](https://arxiv.org/pdf/2404.12241.pdf) | A paper about the MLCommons AI Safety Benchmark v0.5. |
+| [Nvidia MLPerf](https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/) | "MLPerf™ benchmarks—developed by MLCommons, a consortium of AI leaders from academia, research labs, and industry—are designed to provide unbiased evaluations of training and inference performance for hardware, software, and services." | 
+| [OpenML Benchmarking Suites](https://www.openml.org/search?type=benchmark&study_type=task) | OpenML's collection of over two dozen benchmarking suites. |
+| [Real Toxicity Prompts (Allen Institute for AI)](https://allenai.org/data/real-toxicity-prompts) | "A dataset of 100k sentence snippets from the web for researchers to further address the risk of neural toxic degeneration in models." |
+| [SafetyPrompts.com](https://safetyprompts.com/) | "A Living Catalogue of Open Datasets for LLM Safety." |
+| [Sociotechnical Safety Evaluation Repository](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQObeTxvXtOs--zd98qG2xBHHuTTJOyNISBJPthZFr3at2LCrs3rcv73d4of1A78JV2eLuxECFXJY43/pubhtml) | An extensive spreadsheet of sociotechnical safety evaluations in a spreadsheet. |
+| [TrustLLM-Benchmark](https://trustllmbenchmark.github.io/TrustLLM-Website/index.html) | "A Comprehensive Study of Trustworthiness in Large Language Models." |
+| [Trust-LLM-Benchmark Leaderboard](https://trustllmbenchmark.github.io/TrustLLM-Website/leaderboard.html) | A series of sortable leaderboards of LLMs based on different trustworthiness criteria. |
+| [TruthfulQA](https://github.com/sylinrl/TruthfulQA)-![](https://img.shields.io/github/stars/sylinrl/TruthfulQA?style=social) | "TruthfulQA: Measuring How Models Imitate Human Falsehoods." |
+| [WAVES: Benchmarking the Robustness of Image Watermarks](https://wavesbench.github.io/) | "This paper investigates the weaknesses of image watermarking techniques." |
+| [Wild-Time: A Benchmark of in-the-Wild Distribution Shifts over Time](https://github.com/huaxiuyao/Wild-Time)-![](https://img.shields.io/github/stars/huaxiuyao/Wild-Time?style=social) | "Benchmark for Natural Temporal Distribution Shift (NeurIPS 2022)." |
+| [Winogender Schemas](https://github.com/rudinger/winogender-schemas)-![](https://img.shields.io/github/stars/rudinger/winogender-schemas?style=social) | "Data for evaluating gender bias in coreference resolution systems." |
+| [yandex-research / tabred](https://github.com/yandex-research/tabred)-![](https://img.shields.io/github/stars/yandex-research/tabred?style=social) | "A Benchmark of Tabular Machine Learning in-the-Wild with real-world industry-grade tabular datasets." |
 
 
 ### Common or Useful Datasets
