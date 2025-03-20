@@ -1490,23 +1490,23 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 This section contains datasets that are commonly used in responsible ML evaulations or repositories of interesting/important data sources:
 
 * [Adult income dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
-* [Balanced Faces in the Wild](https://github.com/visionjo/facerec-bias-bfw)![](https://img.shields.io/github/stars/visionjo/facerec-bias-bfw?style=social)
+* [Balanced Faces in the Wild](https://github.com/visionjo/facerec-bias-bfw)|![](https://img.shields.io/github/stars/visionjo/facerec-bias-bfw?style=social)
 * [Bruegel, A dataset on EU legislation for the digital world](https://www.bruegel.org/dataset/dataset-eu-legislation-digital-world)
 * [COMPAS Recidivism Risk Score Data and Analysis](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis)
   * **Data Repositories**:
     * [All Lending Club loan data](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
     * [Amazon Open Data](https://registry.opendata.aws/amazon-reviews/)
     * [Data.gov](https://data.gov/)
-    * [Home Mortgage Disclosure Act (HMDA) Data](https://www.consumerfinance.gov/data-research/hmda/)
+    * [Home Mortgage Disclosure Act - HMDA, Data](https://www.consumerfinance.gov/data-research/hmda/)
     * [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/)
     * [UCI ML Data Repository](https://archive.ics.uci.edu/)
 * [FANNIE MAE Single Family Loan Performance](https://capitalmarkets.fanniemae.com/credit-risk-transfer/single-family-credit-risk-transfer/fannie-mae-single-family-loan-performance-data)
 * [Have I Been Trained?](https://haveibeentrained.com/)
-* [nikhgarg / EmbeddingDynamicStereotypes](https://github.com/nikhgarg/EmbeddingDynamicStereotypes)![](https://img.shields.io/github/stars/nikhgarg/EmbeddingDynamicStereotypes?style=social)
+* [nikhgarg / EmbeddingDynamicStereotypes](https://github.com/nikhgarg/EmbeddingDynamicStereotypes)|![](https://img.shields.io/github/stars/nikhgarg/EmbeddingDynamicStereotypes?style=social)
 * [Presidential Deepfakes Dataset](https://www.media.mit.edu/publications/presidential-deepfakes-dataset/)
 * [NYPD Stop, Question and Frisk Data](https://www.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page)
-* [socialfoundations / folktables](https://github.com/socialfoundations/folktables)![](https://img.shields.io/github/stars/socialfoundations/folktables?style=social)
-* [Statlog (German Credit Data)](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
+* [socialfoundations / folktables](https://github.com/socialfoundations/folktables)|![](https://img.shields.io/github/stars/socialfoundations/folktables?style=social)
+* [Statlog - German Credit Data](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
 * [Wikipedia Talk Labels: Personal Attacks](https://www.kaggle.com/datasets/jigsaw-team/wikipedia-talk-labels-personal-attacks)
 
 ### Domain-specific Software
@@ -1519,13 +1519,13 @@ This section contains open source or open access ML environment management softw
 
 | Resource | Description |
 |----------|-------|
-| [dvc, 'Manage and version images, audio, video, and text files in storage and organize your ML modeling process into a reproducible workflow'](https://dvc.org/)
-| [gigantum, 'Building a better way to create, collaborate, and share data-driven science'](https://github.com/gigantum)![gigantum stars](https://img.shields.io/github/stars/gigantum?style=social)
-| [mlflow, 'An open source platform for the machine learning lifecycle'](https://mlflow.org/)
-| [mlmd,'For recording and retrieving metadata associated with ML developer and data scientist workflows'](https://github.com/google/ml-metadata)![mlmd stars](https://img.shields.io/github/stars/google/ml-metadata?style=social)
-| [modeldb,'Open Source ML Model Versioning, Metadata, and Experiment Management'](https://github.com/VertaAI/modeldb)![modeldb stars](https://img.shields.io/github/stars/VertaAI/modeldb?style=social)
-| [neptune, 'A single place to manage all your model metadata'](https://neptune.ai/researchers)
-| [Opik, 'Evaluate, test, and ship LLM applications across your dev and production lifecycles'](https://github.com/comet-ml/opik)![](https://img.shields.io/github/stars/comet-ml/opik?style=social)
+| [dvc](https://dvc.org/) | "Manage and version images, audio, video, and text files in storage and organize your ML modeling process into a reproducible workflow." |
+| [gigantum](https://github.com/gigantum)-![gigantum stars](https://img.shields.io/github/stars/gigantum?style=social) | "Building a better way to create, collaborate, and share data-driven science." |
+| [mlflow](https://mlflow.org/) | "An open source platform for the machine learning lifecycle." |
+| [mlmd](https://github.com/google/ml-metadata)-![mlmd stars](https://img.shields.io/github/stars/google/ml-metadata?style=social) | "For recording and retrieving metadata associated with ML developer and data scientist workflows." |
+| [modeldb](https://github.com/VertaAI/modeldb)-![modeldb stars](https://img.shields.io/github/stars/VertaAI/modeldb?style=social) | "Open Source ML Model Versioning, Metadata, and Experiment Management." |
+| [neptune](https://neptune.ai/researchers) | "A single place to manage all your model metadata." |
+| [Opik](https://github.com/comet-ml/opik)-![](https://img.shields.io/github/stars/comet-ml/opik?style=social) |  "Evaluate, test, and ship LLM applications across your dev and production lifecycles." |
 
 ### Personal Data Protection Tools
 
