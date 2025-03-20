@@ -1457,7 +1457,7 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 
 | Resource | Description |
 | --- | --- |
-| [benchm-ml](https://github.com/szilard/benchm-ml)![](https://img.shields.io/github/stars/szilard/benchm-ml?style=social) | "A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.)." |
+| [benchm-ml](https://github.com/szilard/benchm-ml) | "A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.)." |![](https://img.shields.io/github/stars/szilard/benchm-ml?style=social)
 | [Bias Benchmark for QA dataset (BBQ)](https://github.com/nyu-mll/bbq)|![](https://img.shields.io/github/stars/nyu-mll/bbq?style=social) | "Repository for the Bias Benchmark for QA dataset." |
 | [Cataloguing LLM Evaluations](https://github.com/IMDA-BTG/LLM-Evals-Catalogue)|![](https://img.shields.io/github/stars/IMDA-BTG/LLM-Evals-Catalogue?style=social) | "This repository stems from our paper, 'Cataloguing LLM Evaluations,' and serves as a living, collaborative catalogue of LLM evaluation frameworks, benchmarks and papers." |
 | [DecodingTrust](https://github.com/AI-secure/DecodingTrust)|![](https://img.shields.io/github/stars/huggingface/evaluate?style=social) | "A Comprehensive Assessment of Trustworthiness in GPT Models." |
