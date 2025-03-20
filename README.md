@@ -569,7 +569,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [OECD-Bericht zu Künstlicher Intelligenz in Deutschland](https://www.ki-strategie-deutschland.de/files/downloads/OECD-Bericht_K%C3%BCnstlicher_Intelligenz_in_Deutschland.pdf)
 
 #### Hong Kong
-* [Office of the Privacy Commissioner for Personal Data, Artificial Intelligence: Model Personal Data Protection Framework, June 2024](https://www.pcpd.org.hk/english/resources_centre/publications/files/ai_protection_framework.pdf)
+* [Office of the Privacy Commissioner for Personal Data, Artificial Intelligence: Model Personal Data Protection Framework](https://www.pcpd.org.hk/english/resources_centre/publications/files/ai_protection_framework.pdf)|(June 2024)
 
 #### Iceland
 * [Aðgerðaáætlun um gervigreind 2024-2026 - Action Plan for Artificial Intelligence 2024-2026](https://samradapi.island.is/api/Documents/1d4c7cba-fd9c-ef11-9bc7-005056bcce7e)|(Ministry of Higher Education, Industry, and Innovation, November 2024)
@@ -580,7 +580,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Trade and Employment, Artificial Intelligence: Friend or Foe? Summary and Public Policy Considerations](https://www.gov.ie/pdf/?file=https://assets.gov.ie/295620/f11c6c66-4012-49fa-bb7f-8f14130f6fa5.pdf)|(Department of Finance and Department of Enterprise, June 2024)
 * [NDP Delivery and Reform, Interim Guidelines for Use of AI in the Public Service](https://assets.gov.ie/280459/73ce75af-0015-46af-a9f6-b54f0a3c4fd0.pdf)|(Department of Public Expenditure, February 2024)
 * [Ireland's National AI Strategy: AI - Here for Good, Refresh 2024](https://enterprise.gov.ie/en/publications/publication-files/national-ai-strategy-refresh-2024.pdf)
-* [National Standards Authority of Ireland, Top Team on Standards in AI, AI Standards & Assurance Roadmap: Action under 'AI - Here for Good,' the National Artificial Intelligence Strategy for Ireland, July 2023](https://www.nsai.ie/images/uploads/general/NSAI_AI_report_digital_links.pdf)
+* [Top Team on Standards in AI, AI Standards & Assurance Roadmap: Action under 'AI - Here for Good,' the National Artificial Intelligence Strategy for Ireland](https://www.nsai.ie/images/uploads/general/NSAI_AI_report_digital_links.pdf)|(National Standards Authority of Ireland, July 2023)
 
 #### Japan
 * [Guide to Evaluation Perspectives on AI Safety (Version 1.01)](https://aisi.go.jp/assets/pdf/ai_safety_eval_v1.01_en.pdf)|(Japan AI Safety Institute,September 25, 2024)
@@ -593,13 +593,13 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Acceso a la Información y Protección de Datos Personales - INAI, Recomendaciones para el Tratamiento de Datos Personales Derivado del Uso de la Inteligencia Artificial,](https://home.inai.org.mx/wp-content/documentos/DocumentosSectorPublico/RecomendacionesPDP-IA.pdf)|(Instituto Nacional de Transparencia, June 2024)
 
 #### Netherlands
-* [Autoriteit Persoonsgegevens, Call for input on prohibition on AI systems for emotion recognition in the areas of workplace or education institutions (October 31, 2024)](https://www.autoriteitpersoonsgegevens.nl/en/documents/call-for-input-on-prohibition-on-ai-systems-for-emotion-recognition-in-the-areas-of-workplace-or-education-institutions)
-* [Autoriteit Persoonsgegevens, scraping bijna altijd illegal (Dutch Data Protection Authority, "Scraping is always illegal")](https://www.autoriteitpersoonsgegevens.nl/actueel/ap-scraping-bijna-altijd-illegaal)
+* [Call for input on prohibition on AI systems for emotion recognition in the areas of workplace or education institutions](https://www.autoriteitpersoonsgegevens.nl/en/documents/call-for-input-on-prohibition-on-ai-systems-for-emotion-recognition-in-the-areas-of-workplace-or-education-institutions)|(Autoriteit Persoonsgegevens,October 31, 2024)
+* [scraping bijna altijd illegal - Dutch Data Protection Authority, "Scraping is always illegal"](https://www.autoriteitpersoonsgegevens.nl/actueel/ap-scraping-bijna-altijd-illegaal)|(Autoriteit Persoonsgegevens)
 * [General principles for the use of Artificial Intelligence in the financial sector](https://www.dnb.nl/media/jkbip2jc/general-principles-for-the-use-of-artificial-intelligence-in-the-financial-sector.pdf)
-* [Ministry of Infrastructure and Water Management | AI Impact Assessment: The tool for a responsible AI project](https://www.government.nl/binaries/government/documenten/publications/2023/03/02/ai-impact-assessment/2024-IWM-AI-Impact-assessment-2.0-EN.pdf)
+* [AI Impact Assessment: The tool for a responsible AI project](https://www.government.nl/binaries/government/documenten/publications/2023/03/02/ai-impact-assessment/2024-IWM-AI-Impact-assessment-2.0-EN.pdf)|(Ministry of Infrastructure and Water Management)
 
 #### New Zealand
-* [AI Safety Institute (AISI), Advanced AI evaluations at AISI: May update](https://www.aisi.gov.uk/work/advanced-ai-evaluations-may-update)
+* [Advanced AI evaluations at AISI: May update](https://www.aisi.gov.uk/work/advanced-ai-evaluations-may-update)|(AI Safety Institute (AISI))
 * [Algorithm Charter for Aotearoa New Zealand](https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-2020_Final-English-1.pdf)
 * [Callaghan Innovation, EU AI Fact Sheet 4, High-risk AI systems](https://www.callaghaninnovation.govt.nz/assets/documents/Resource-EU-AI-Act-Support/EU-AI-Policy-Fact-Sheet-4-High-Risk-AI-Systems.pdf)
 * [Initial advice on Generative Artificial Intelligence in the public service](https://www.digital.govt.nz/assets/Standards-guidance/Technology-and-architecture/Generative-AI/Joint-System-Leads-tactical-guidance-on-public-service-use-of-GenAI-September-2023.pdf)
@@ -610,40 +610,40 @@ This section serves as a repository for policy documents, regulations, guideline
 #### Philippines
 
 #### Singapore
-* [Monetary Authority of Singapore, Artificial Intelligence Model Risk Management: Observations from a Thematic Review (Information Paper, December 2024](https://www.mas.gov.sg/-/media/mas-media-library/publications/monographs-or-information-paper/imd/2024/information-paper-on-ai-risk-management-final.pdf)
-* [Personal Data Protection Commission (PDPC), Companion to the Model AI Governance Framework – Implementation and Self-Assessment Guide for Organizations](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgisago.pdf)
-* [Personal Data Protection Commission (PDPC), Compendium of Use Cases: Practical Illustrations of the Model AI Governance Framework](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgaigovusecases.pdf)
-* [Personal Data Protection Commission (PDPC), Model Artificial Intelligence Governance Framework (Second Edition)](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)
-* [Personal Data Protection Commission (PDPC), Privacy Enhancing Technology (PET): Proposed Guide on Synthetic Data Generation](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/other-guides/proposed-guide-on-synthetic-data-generation.pdf)
+* [Artificial Intelligence Model Risk Management: Observations from a Thematic Review](https://www.mas.gov.sg/-/media/mas-media-library/publications/monographs-or-information-paper/imd/2024/information-paper-on-ai-risk-management-final.pdf)|(Monetary Authority of Singapore, Information Paper, December 2024)
+* [Companion to the Model AI Governance Framework – Implementation and Self-Assessment Guide for Organizations](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgisago.pdf)|(Personal Data Protection Commission (PDPC))
+* [Compendium of Use Cases: Practical Illustrations of the Model AI Governance Framework](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgaigovusecases.pdf)|(Personal Data Protection Commission (PDPC))
+* [Model Artificial Intelligence Governance Framework (Second Edition)](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf)|(Personal Data Protection Commission (PDPC))
+* [Privacy Enhancing Technology (PET): Proposed Guide on Synthetic Data Generation](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/other-guides/proposed-guide-on-synthetic-data-generation.pdf)|(Personal Data Protection Commission (PDPC))
 
 #### South Korea
-* [National Assembly, 인공지능 발전과 신뢰 기반 조성 등에 관한 기본법안(대안), Basic Act on the Promotion of Artificial Intelligence Development and Establishment of a Trust Framework (Alternative Draft)](https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2V4H1W1T2K5M1O6E4Q9T0V7Q9S0U0)
+* [National Assembly, 인공지능 발전과 신뢰 기반 조성 등에 관한 기본법안(대안), Basic Act on the Promotion of Artificial Intelligence Development and Establishment of a Trust Framework - Alternative Draft](https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2V4H1W1T2K5M1O6E4Q9T0V7Q9S0U0)
 
 #### Switzerland
 * [Digital Switzerland Strategy 2025](https://digital.swiss/userdata/uploads/strategie-dch-en.pdf)
 
 #### United Kingdom
-* [AI Safety Institute (AISI), Safety cases at AISI](https://www.aisi.gov.uk/work/safety-cases-at-aisi)
-* [Department for Science, Innovation and Technology and AI Safety Institute | International Scientific Report on the Safety of Advanced AI](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai)
-* [Department for Science, Innovation and Technology |The Bletchley Declaration](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)
-* [Department for Science, Innovation and Technology| Evaluation of the Cyber AI Hub programme](https://www.gov.uk/government/publications/evaluation-of-the-northern-ireland-cyber-ai-hub-programme/evaluation-of-the-cyber-ai-hub-programme)
-* [Department for Science, Innovation and Technology | Frontier AI: capabilities and risks](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper)
-* [Department for Science, Innovation and Technology | Global Coalition on Telecommunications](https://www.gov.uk/government/publications/global-coalition-on-telecommunications-principles-on-ai-adoption-in-the-telecommunications-industry/global-coalition-on-telecommunications-principles-on-ai-adoption-in-the-telecommunications-industry)
-* [Department for Science, Innovation and Technology, Guidance | Introduction to AI Assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance)
-* [Information Commissioner's Office (ICO) | AI tools in recruitment](https://ico.org.uk/action-weve-taken/audits-and-overview-reports/ai-tools-in-recruitment/)
-* [National Physical Laboratory (NPL) | Beginner's guide to measurement GPG118](https://www.npl.co.uk/gpgs/beginners-guide-to-measurement)
+* [Safety cases at AISI](https://www.aisi.gov.uk/work/safety-cases-at-aisi)|(AI Safety Institute (AISI))
+* [International Scientific Report on the Safety of Advanced AI](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai)|(Department for Science, Innovation and Technology and AI Safety Institute)
+* [The Bletchley Declaration](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)|(Department for Science, Innovation and Technology)
+* [Evaluation of the Cyber AI Hub programme](https://www.gov.uk/government/publications/evaluation-of-the-northern-ireland-cyber-ai-hub-programme/evaluation-of-the-cyber-ai-hub-programme)|(Department for Science, Innovation and Technology)
+* [Frontier AI: capabilities and risks](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper)|(Department for Science, Innovation and Technology)
+* [Global Coalition on Telecommunications](https://www.gov.uk/government/publications/global-coalition-on-telecommunications-principles-on-ai-adoption-in-the-telecommunications-industry/global-coalition-on-telecommunications-principles-on-ai-adoption-in-the-telecommunications-industry)|(Department for Science, Innovation and Technology)
+* [Introduction to AI Assurance](https://www.gov.uk/government/publications/introduction-to-ai-assurance)|(Department for Science, Innovation and Technology, Guidance)
+* [AI tools in recruitment](https://ico.org.uk/action-weve-taken/audits-and-overview-reports/ai-tools-in-recruitment/)|(Information Commissioner's Office (ICO))
+* [Beginner's guide to measurement GPG118](https://www.npl.co.uk/gpgs/beginners-guide-to-measurement)|(National Physical Laboratory (NPL))
 * [Northern Ireland response to the AI Council AI Roadmap](https://matrixni.org/wp-content/uploads/2021/04/NI-Response-to-UK-AI-roadmap.pdf)
 * [Ofcom | Red Teaming for GenAI Harms: Revealing the Risks and Rewards for Online Safety](https://www.ofcom.org.uk/siteassets/resources/documents/consultations/discussion-papers/red-teaming/red-teaming-for-gen-ai-harms.pdf?v=370762)
 * [Online Harms White Paper: Full government response to the consultation](https://www.gov.uk/government/consultations/online-harms-white-paper)
-* [Parliamentary Office of Science and Technology (POST) | POSTnote 735, Energy Security and AI](https://researchbriefings.files.parliament.uk/documents/POST-PN-0735/POST-PN-0735.pdf)
+* [POSTnote 735, Energy Security and AI](https://researchbriefings.files.parliament.uk/documents/POST-PN-0735/POST-PN-0735.pdf)|(Parliamentary Office of Science and Technology (POST))
 * [The Public Sector Bodies (Websites and Mobile Applications) Accessibility Regulations 2018](https://www.legislation.gov.uk/uksi/2018/852/contents/made)
-* [US AISI and UK AISI Joint Pre-Deployment Test: Anthropic's Claude 3.5 Sonnet (October 2024 Release)](https://www.nist.gov/system/files/documents/2024/11/19/Upgraded%20Sonnet-Publication-US.pdf)
-* [US AISI and UK AISI Joint Pre-Deployment Test: OpenAI o1 (December 2024)](https://www.nist.gov/system/files/documents/2024/12/18/US_UK_AI%20Safety%20Institute_%20December_Publication-OpenAIo1.pdf)
+* [Anthropic's Claude 3.5 Sonnet - October 2024 Release](https://www.nist.gov/system/files/documents/2024/11/19/Upgraded%20Sonnet-Publication-US.pdf)|(US AISI and UK AISI Joint Pre-Deployment Test)
+* [OpenAI o1](https://www.nist.gov/system/files/documents/2024/12/18/US_UK_AI%20Safety%20Institute_%20December_Publication-OpenAIo1.pdf)|(US AISI and UK AISI Joint Pre-Deployment Test, December 2024)
 
 #### United States (Federal Government)
 
 **Consumer Financial Protection Bureau (CFPB)**  
-* [12 CFR Part 1002 - Equal Credit Opportunity Act (Regulation B)](https://www.consumerfinance.gov/policy-compliance/rulemaking/regulations/1002/)
+* [12 CFR Part 1002 - Equal Credit Opportunity Act - Regulation B](https://www.consumerfinance.gov/policy-compliance/rulemaking/regulations/1002/)
 * [Chatbots in consumer finance](https://www.consumerfinance.gov/data-research/research-reports/chatbots-in-consumer-finance/chatbots-in-consumer-finance/)
 * [Innovation spotlight: Providing adverse action notices when using AI/ML models](https://www.consumerfinance.gov/about-us/blog/innovation-spotlight-providing-adverse-action-notices-when-using-ai-ml-models/)
 
@@ -668,7 +668,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Privacy Policy and Data Policy](https://data.gov/privacy-policy/)
  
 **Defense Advanced Research Projects Agency (DARPA)**
-* [Explainable Artificial Intelligence (XAI) (Archived)](https://www.darpa.mil/program/explainable-artificial-intelligence)  
+* [Explainable Artificial Intelligence - XAI](https://www.darpa.mil/program/explainable-artificial-intelligence)|(Archived)
 
 **Defense Technical Information Center**  
 * [Computer Security Technology Planning Study, October 1, 1972](https://apps.dtic.mil/sti/citations/AD0758206)
@@ -680,10 +680,10 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Artificial intelligence](https://www.commerce.gov/issues/artificial-intelligence)
 * [Intellectual property](https://www.commerce.gov/issues/intellectual-property)
 * **[National Institute of Standards and Technology (NIST)](https://www.nist.gov/)**
-  * [AI 100-1 Artificial Intelligence Risk Management Framework (NIST AI RMF 1.0)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
+  * [AI 100-1 Artificial Intelligence Risk Management Framework - NIST AI RMF 1.0](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
   * [De-identification Tools](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/tools)
   * [NIST AI 100-2 E2023: Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)
-  * [Assessing Risks and Impacts of AI (ARIA)](https://ai-challenges.nist.gov/aria/library)
+  * [Assessing Risks and Impacts of AI - ARIA](https://ai-challenges.nist.gov/aria/library)
   * [Four Principles of Explainable Artificial Intelligence, Draft NISTIR 8312, 2020-08-17](https://www.nist.gov/system/files/documents/2020/08/17/NIST%20Explainable%20AI%20Draft%20NISTIR8312%20%281%29.pdf)
   * [Four Principles of Explainable Artificial Intelligence, NISTIR 8312, 2021-09-29](https://www.nist.gov/publications/four-principles-explainable-artificial-intelligence)
   * [Engineering Statistics Handbook](https://doi.org/10.18434/M32189)
@@ -692,18 +692,18 @@ This section serves as a repository for policy documents, regulations, guideline
   * [NIST Special Publication 800-30 Revision 1, Guide for Conducting Risk Assessments](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf)
   * [Psychological Foundations of Explainability and Interpretability in Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8367.pdf)
 * **[U.S. Artificial Intelligence Safety Institute (USAISI)](https://www.nist.gov/aisi)**
-  * [US AISI and UK AISI Joint Pre-Deployment Test: Anthropic's Claude 3.5 Sonnet (October 2024 Release)](https://www.nist.gov/system/files/documents/2024/11/19/Upgraded%20Sonnet-Publication-US.pdf)
-  * [US AISI and UK AISI Joint Pre-Deployment Test: OpenAI o1 (December 2024)](https://www.nist.gov/system/files/documents/2024/12/18/US_UK_AI%20Safety%20Institute_%20December_Publication-OpenAIo1.pdf)
+  * [US AISI and UK AISI Joint Pre-Deployment Test: Anthropic's Claude 3.5 Sonnet](https://www.nist.gov/system/files/documents/2024/11/19/Upgraded%20Sonnet-Publication-US.pdf)|(October 2024 Release)
+  * [US AISI and UK AISI Joint Pre-Deployment Test: OpenAI o1](https://www.nist.gov/system/files/documents/2024/12/18/US_UK_AI%20Safety%20Institute_%20December_Publication-OpenAIo1.pdf)|(December 2024)
 * **[National Telecommunications and Information Administration (NTIA)](https://www.ntia.gov/)**
   * [AI Accountability Policy Report](https://www.ntia.gov/issues/artificial-intelligence/ai-accountability-policy-report)
   * [AI System Documentation](https://www.ntia.gov/issues/artificial-intelligence/ai-accountability-policy-report/developing-accountability-inputs-a-deeper-dive/information-flow/ai-system-documentation)
   * [Internet Policy Task Force, Commercial Data Privacy and Innovation in the Internet Economy: A Dynamic Policy Framework](https://www.ntia.doc.gov/files/ntia/publications/iptf_privacy_greenpaper_12162010.pdf)
-  * [NTIA Artificial Intelligence Accountability Policy Report, March 2024](https://www.ntia.gov/sites/default/files/publications/ntia-ai-report-final.pdf)
+  * [NTIA Artificial Intelligence Accountability Policy Report](https://www.ntia.gov/sites/default/files/publications/ntia-ai-report-final.pdf)|(March 2024)
 
 **Department of Defense**  
 * [AI Principles: Recommendations on the Ethical Use of Artificial Intelligence](https://media.defense.gov/2019/Oct/31/2002204458/-1/-1/0/DIB_AI_PRINCIPLES_PRIMARY_DOCUMENT.PDF)
 * [Audit of Governance and Protection of Department of Defense Artificial Intelligence Data and Technology](https://media.defense.gov/2020/Jul/01/2002347967/-1/-1/1/DODIG-2020-098.PDF)
-* [Chief Data and Artificial Intelligence Officer (CDAO) Assessment and Assurance](https://gitlab.jatic.net/home)    
+* [Chief Data and Artificial Intelligence Officer - CDAO, Assessment and Assurance](https://gitlab.jatic.net/home)    
     * [RAI Toolkit](https://rai.tradewindai.com/)
 * Department of the Army
   * [Proceedings of the Thirteenth Annual U.S. Army Operations Research Symposium, Volume 1, October 29 to November 1, 1974](https://apps.dtic.mil/sti/pdfs/ADA007126.pdf)
@@ -712,12 +712,12 @@ This section serves as a repository for policy documents, regulations, guideline
 **Department of Education**
 * [Office of Educational Technology](https://tech.ed.gov/)
   * [Designing for Education with Artificial Intelligence: An Essential Guide for Developers](https://tech.ed.gov/designing-for-education-with-artificial-intelligence/)
-  * [Empowering Education Leaders: A Toolkit for Safe, Ethical, and Equitable AI Integration, October 2024](https://tech.ed.gov/education-leaders-ai-toolkit/)
+  * [Empowering Education Leaders: A Toolkit for Safe, Ethical, and Equitable AI Integration](https://tech.ed.gov/education-leaders-ai-toolkit/)|(October 2024)
 
 **Department of Energy** 
 * [Artificial Intelligence and Technology Office](https://www.energy.gov/ai/artificial-intelligence-technology-office)
-  * [AI Risk Management Playbook (AIRMP)](https://www.energy.gov/ai/doe-ai-risk-management-playbook-airmp)
-  * [AI Use Case Inventory (DOE Use Cases Releasable to Public in Accordance with E.O. 13960)](https://www.energy.gov/sites/default/files/2023-07/DOE_2023_AI_Use_Case_Inventory_0.pdf)
+  * [AI Risk Management Playbook - AIRMP](https://www.energy.gov/ai/doe-ai-risk-management-playbook-airmp)
+  * [AI Use Case Inventory - DOE Use Cases Releasable to Public in Accordance with E.O. 13960](https://www.energy.gov/sites/default/files/2023-07/DOE_2023_AI_Use_Case_Inventory_0.pdf)
   * [Digital Climate Solutions Inventory](https://www.energy.gov/sites/default/files/2022-09/Digital_Climate_Solutions_Inventory.pdf)
   * [Generative Artificial Intelligence Reference Guide](https://www.energy.gov/sites/default/files/2024-06/Generative%20AI%20Reference%20Guide%20v2%206-14-24.pdf)
 
@@ -727,32 +727,32 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Department of Homeland Security Artificial Intelligence Roadmap 2024](https://www.dhs.gov/sites/default/files/2024-03/24_0315_ocio_roadmap_artificialintelligence-ciov3-signed-508.pdf)
 * [The Department of Homeland Security Simplified Artificial Intelligence Use Case Inventory](https://www.dhs.gov/ai/use-case-inventory)
   * [AI at DHS: A Deep Dive into our Use Case Inventory](https://www.dhs.gov/news/2024/12/16/ai-dhs-deep-dive-our-use-case-inventory)
-* [DHS Playbook for Public Sector Generative Artificial Intelligence Deployment, January 2025](https://www.dhs.gov/sites/default/files/2025-01/25_0106_ocio_dhs-playbook-for-public-sector-generative-artificial-intelligence-deployment-508-signed.pdf)
-* [Roles and Responsibilities Framework for Artificial Intelligence in Critical Infrastructure, November 14, 2024](https://www.dhs.gov/sites/default/files/2024-11/24_1114_dhs_ai-roles-and-responsibilities-framework-508.pdf)
+* [DHS Playbook for Public Sector Generative Artificial Intelligence Deployment](https://www.dhs.gov/sites/default/files/2025-01/25_0106_ocio_dhs-playbook-for-public-sector-generative-artificial-intelligence-deployment-508-signed.pdf)|(January 2025)
+* [Roles and Responsibilities Framework for Artificial Intelligence in Critical Infrastructure](https://www.dhs.gov/sites/default/files/2024-11/24_1114_dhs_ai-roles-and-responsibilities-framework-508.pdf)|(November 14, 2024)
 * [Safety and Security Guidelines for Critical Infrastructure Owners and Operators](https://www.dhs.gov/publication/safety-and-security-guidelines-critical-infrastructure-owners-and-operators)
-* [Use of Commercial Generative Artificial Intelligence (AI) Tools](https://www.dhs.gov/sites/default/files/2023-11/23_1114_cio_use_generative_ai_tools.pdf)
+* [Use of Commercial Generative Artificial Intelligence - AI Tools](https://www.dhs.gov/sites/default/files/2023-11/23_1114_cio_use_generative_ai_tools.pdf)
 
 **Department of Justice**  
-* [Artificial Intelligence Strategy for the U.S. Department of Justice, December 2020](https://www.justice.gov/d9/pages/attachments/2021/02/04/doj_artificial_intelligence_strategy_december_2020.pdf)
+* [Artificial Intelligence Strategy for the U.S. Department of Justice](https://www.justice.gov/d9/pages/attachments/2021/02/04/doj_artificial_intelligence_strategy_december_2020.pdf)|(December 2020)
 * [Civil Rights Division, Artificial Intelligence and Civil Rights](https://www.justice.gov/crt/ai)
 * [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974)
-* [Overview of The Privacy Act of 1974 (2020 Edition)](https://www.justice.gov/opcl/overview-privacy-act-1974-2020-edition)
+* [Overview of The Privacy Act of 1974 - 2020 Edition](https://www.justice.gov/opcl/overview-privacy-act-1974-2020-edition)
 
 **Department of Labor**
 
 **Department of State**
-* [Artificial Intelligence (AI)](https://www.state.gov/artificial-intelligence/)
-* [AI Inventory 2024 (Archived Content)](https://2021-2025.state.gov/department-of-state-ai-inventory-2024/)
+* [Artificial Intelligence - AI](https://www.state.gov/artificial-intelligence/)
+* [AI Inventory 2024](https://2021-2025.state.gov/department-of-state-ai-inventory-2024/)|(Archived Content)
 
 **Department of the Treasury**  
-* [Managing Artificial Intelligence-Specific Cybersecurity Risks in the Financial Services Sector, March 2024](https://home.treasury.gov/system/files/136/Managing-Artificial-Intelligence-Specific-Cybersecurity-Risks-In-The-Financial-Services-Sector.pdf)
+* [Managing Artificial Intelligence-Specific Cybersecurity Risks in the Financial Services Sector](https://home.treasury.gov/system/files/136/Managing-Artificial-Intelligence-Specific-Cybersecurity-Risks-In-The-Financial-Services-Sector.pdf)|(March 2024)
 
 **Equal Employment Opportunity Commission (EEOC)**
-* [EEOC Letter (from U.S. senators re: hiring software)](https://www.bennet.senate.gov/public/_cache/files/0/a/0a439d4b-e373-4451-84ed-ba333ce6d1dd/672D2E4304D63A04CC3465C3C8BF1D21.letter-to-chair-dhillon.pdf)
+* [EEOC Letter from U.S. senators re: hiring software](https://www.bennet.senate.gov/public/_cache/files/0/a/0a439d4b-e373-4451-84ed-ba333ce6d1dd/672D2E4304D63A04CC3465C3C8BF1D21.letter-to-chair-dhillon.pdf)
 * [Questions and Answers to Clarify and Provide a Common Interpretation of the Uniform Guidelines on Employee Selection Procedures](https://www.eeoc.gov/laws/guidance/questions-and-answers-clarify-and-provide-common-interpretation-uniform-guidelines)
 
 **Executive Office of the President of the United States**
-* [Obama White House Archives, Consumer Data Privacy in a Networked World: A Framework for Protecting Privacy and Promoting Innovation in the Global Digital Economy, February 2012](https://obamawhitehouse.archives.gov/sites/default/files/privacy-final.pdf)
+* [Obama White House Archives, Consumer Data Privacy in a Networked World: A Framework for Protecting Privacy and Promoting Innovation in the Global Digital Economy](https://obamawhitehouse.archives.gov/sites/default/files/privacy-final.pdf)|(February 2012)
 * [Framework to Advance AI Governance and Risk Management in National Security](https://ai.gov/wp-content/uploads/2024/10/NSM-Framework-to-Advance-AI-Governance-and-Risk-Management-in-National-Security.pdf)
 
 **Federal Deposit Insurance Corporation (FDIC)**  
@@ -764,26 +764,26 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Supervisory Guidance on Model Risk Management](https://www.federalreserve.gov/supervisionreg/srletters/sr1107a1.pdf)
 
 **Federal Trade Commission (FTC)**
-* [Artificial Intelligence/Machine Learning (AI/ML)-Based: Software as a Medical Device (SaMD) Action Plan, updated January 2021](https://www.fda.gov/media/145022/download)
+* [Artificial Intelligence/Machine Learning - AI/ML -Based: Software as a Medical Device (SaMD) Action Plan](https://www.fda.gov/media/145022/download)|(updated January 2021)
 * [Business Blog](https://www.ftc.gov/business-guidance/blog)
-  * [2021-01-11 Facing the facts about facial recognition](https://www.ftc.gov/business-guidance/blog/2021/01/facing-facts-about-facial-recognition)  
-  * [2022-07-11 Location, health, and other sensitive information: FTC committed to fully enforcing the law against illegal use and sharing of highly sensitive data](https://www.ftc.gov/business-guidance/blog/2022/07/location-health-and-other-sensitive-information-ftc-committed-fully-enforcing-law-against-illegal)
-  * [2023-07-25 Protecting the privacy of health information: A baker’s dozen takeaways from FTC cases](https://www.ftc.gov/business-guidance/blog/2023/07/protecting-privacy-health-information-bakers-dozen-takeaways-ftc-cases)
-  * [2023-08-16 Can’t lose what you never had: Claims about digital ownership and creation in the age of generative AI](https://www.ftc.gov/business-guidance/blog/2023/08/cant-lose-what-you-never-had-claims-about-digital-ownership-creation-age-generative-ai)
-  * [2023-08-22 For business opportunity sellers, FTC says “AI” stands for “allegedly inaccurate”](https://www.ftc.gov/business-guidance/blog/2023/08/business-opportunity-sellers-ftc-says-ai-stands-allegedly-inaccurate)
-  * [2023-09-15 Updated FTC-HHS publication outlines privacy and security laws and rules that impact consumer health data](https://www.ftc.gov/business-guidance/blog/2023/09/updated-ftc-hhs-publication-outlines-privacy-security-laws-rules-impact-consumer-health-data)
-  * [2023-09-18 Companies warned about consequences of loose use of consumers’ confidential data](https://www.ftc.gov/business-guidance/blog/2023/09/companies-warned-about-consequences-loose-use-consumers-confidential-data)
-  * [2023-09-27 Could PrivacyCon 2024 be the place to present your research on AI, privacy, or surveillance?](https://www.ftc.gov/business-guidance/blog/2023/09/could-privacycon-2024-be-place-present-your-research-ai-privacy-or-surveillance)
-  * [2022-05-20 Security Beyond Prevention: The Importance of Effective Breach Disclosures](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2022/05/security-beyond-prevention-importance-effective-breach-disclosures)
-  * [2023-02-01 Security Principles: Addressing underlying causes of risk in complex systems](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/02/security-principles-addressing-underlying-causes-risk-complex-systems)
-  * [2023-06-29 Generative AI Raises Competition Concerns](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/06/generative-ai-raises-competition-concerns)
-  * [2023-12-19 Coming face to face with Rite Aid’s allegedly unfair use of facial recognition technology](https://www.ftc.gov/business-guidance/blog/2023/12/coming-face-face-rite-aids-allegedly-unfair-use-facial-recognition-technology)
-* [Children's Online Privacy Protection Rule ("COPPA")](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)
+  * [Facing the facts about facial recognition](https://www.ftc.gov/business-guidance/blog/2021/01/facing-facts-about-facial-recognition)|(2021-01-11)
+  * [Location, health, and other sensitive information: FTC committed to fully enforcing the law against illegal use and sharing of highly sensitive data](https://www.ftc.gov/business-guidance/blog/2022/07/location-health-and-other-sensitive-information-ftc-committed-fully-enforcing-law-against-illegal)|(2022-07-11)
+  * [Protecting the privacy of health information: A baker’s dozen takeaways from FTC cases](https://www.ftc.gov/business-guidance/blog/2023/07/protecting-privacy-health-information-bakers-dozen-takeaways-ftc-cases)|(2023-07-25)
+  * [Can’t lose what you never had: Claims about digital ownership and creation in the age of generative AI](https://www.ftc.gov/business-guidance/blog/2023/08/cant-lose-what-you-never-had-claims-about-digital-ownership-creation-age-generative-ai)|(2023-08-16)
+  * [For business opportunity sellers, FTC says “AI” stands for “allegedly inaccurate”](https://www.ftc.gov/business-guidance/blog/2023/08/business-opportunity-sellers-ftc-says-ai-stands-allegedly-inaccurate)|(2023-08-22)
+  * [Updated FTC-HHS publication outlines privacy and security laws and rules that impact consumer health data](https://www.ftc.gov/business-guidance/blog/2023/09/updated-ftc-hhs-publication-outlines-privacy-security-laws-rules-impact-consumer-health-data)|(2023-09-15)
+  * [Companies warned about consequences of loose use of consumers’ confidential data](https://www.ftc.gov/business-guidance/blog/2023/09/companies-warned-about-consequences-loose-use-consumers-confidential-data)|(2023-09-18)
+  * [Could PrivacyCon 2024 be the place to present your research on AI, privacy, or surveillance?](https://www.ftc.gov/business-guidance/blog/2023/09/could-privacycon-2024-be-place-present-your-research-ai-privacy-or-surveillance)|(2023-09-27)
+  * [Security Beyond Prevention: The Importance of Effective Breach Disclosures](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2022/05/security-beyond-prevention-importance-effective-breach-disclosures)|(2022-05-20)
+  * [Security Principles: Addressing underlying causes of risk in complex systems](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/02/security-principles-addressing-underlying-causes-risk-complex-systems)|(2023-02-01)
+  * [Generative AI Raises Competition Concerns](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/06/generative-ai-raises-competition-concerns)|(2023-06-29)
+  * [Coming face to face with Rite Aid’s allegedly unfair use of facial recognition technology](https://www.ftc.gov/business-guidance/blog/2023/12/coming-face-face-rite-aids-allegedly-unfair-use-facial-recognition-technology)|(2023-12-19)
+* [Children's Online Privacy Protection Rule - "COPPA"](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)
 * [Privacy Policy](https://www.ftc.gov/policy-notices/privacy-policy)
-* [Software as a Medical Device (SAMD) guidance (December 8, 2017)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/software-medical-device-samd-clinical-evaluation)
+* [Software as a Medical Device - SAMD - guidance ](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/software-medical-device-samd-clinical-evaluation)|(December 8, 2017)
 
 **Food and Drug Administration**
-* [Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations (Draft Guidance for Industry and FDA Staff), January 7, 2025](https://www.fda.gov/media/184856/download)
+* [Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations - Draft Guidance for Industry and FDA Staff](https://www.fda.gov/media/184856/download)|(January 7, 2025)
 
 **Government Accountability Office (GAO)** 
 * [Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities, GAO-21-519SP](https://www.gao.gov/products/gao-21-519sp)
@@ -810,10 +810,10 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Public Views on Artificial Intelligence and Intellectual Property Policy](https://www.uspto.gov/sites/default/files/documents/USPTO_AI-Report_2020-10-07.pdf)
 
 **United States Congress, House of Representatives**
-* [118th Congress, Bipartisan House Task Force Report on Artificial Intelligence, December 2024](https://republicans-science.house.gov/_cache/files/a/a/aa2ee12f-8f0c-46a3-8ff8-8e4215d6a72b/E4AF21104CB138F3127D8FF7EA71A393.ai-task-force-report-final.pdf)
+* [118th Congress, Bipartisan House Task Force Report on Artificial Intelligence](https://republicans-science.house.gov/_cache/files/a/a/aa2ee12f-8f0c-46a3-8ff8-8e4215d6a72b/E4AF21104CB138F3127D8FF7EA71A393.ai-task-force-report-final.pdf)|(December 2024)
 
 **United States Congress, Senate**
-* [Committee on Commerce, Science, and Transportation, 2024.11.21 Letter to DOJ Re FARA AI Violation (Senator Ted Cruz to Attorney General Merrick Garland)](https://www.commerce.senate.gov/services/files/55267EFF-11A8-4BD6-BE1E-61452A3C48E3)
+* [Committee on Commerce, Science, and Transportation, 2024.11.21 Letter to DOJ Re FARA AI Violation - Senator Ted Cruz to Attorney General Merrick Garland](https://www.commerce.senate.gov/services/files/55267EFF-11A8-4BD6-BE1E-61452A3C48E3)
 
 **United States Web Design System (USWDS)**
 * [Design principles](https://designsystem.digital.gov/design-principles/)
@@ -821,12 +821,12 @@ This section serves as a repository for policy documents, regulations, guideline
 #### United States (State Governments) 
 
 **California**
-* [California Consumer Privacy Act (CCPA)](https://oag.ca.gov/privacy/ccpa)
-* [California Department of Justice, How to Read a Privacy Policy](https://www.oag.ca.gov/privacy/facts/online-privacy/privacy-policy)
-* [California Department of Justice, Office of the Attorney General, California Attorney General's Legal Advisory on the Application of Existing California Laws to Artificial Intelligence](https://oag.ca.gov/system/files/attachments/press-docs/Legal%20Advisory%20-%20Application%20of%20Existing%20CA%20Laws%20to%20Artificial%20Intelligence.pdf)
-* [California Department of Technology, GenAI Executive Order](https://cdt.ca.gov/technology-innovation/artificial-intelligence-community/genai-executive-order/)
-* [California Privacy Protection Agency (CPPA), Draft Risk Assessment and Automated Decisionmaking Technology Regulations, March 2024](https://cppa.ca.gov/meetings/materials/20240308_item4_draft_risk.pdf)
-* [Office of the Attorney General of California, California Privacy Rights Act (CPRA)](https://www.oag.ca.gov/system/files/initiatives/pdfs/19-0021A1%20%28Consumer%20Privacy%20-%20Version%203%29_1.pdf)
+* [California Consumer Privacy Act - CCPA](https://oag.ca.gov/privacy/ccpa)
+* [How to Read a Privacy Policy](https://www.oag.ca.gov/privacy/facts/online-privacy/privacy-policy)|(California Department of Justice)
+* [Office of the Attorney General, California Attorney General's Legal Advisory on the Application of Existing California Laws to Artificial Intelligence](https://oag.ca.gov/system/files/attachments/press-docs/Legal%20Advisory%20-%20Application%20of%20Existing%20CA%20Laws%20to%20Artificial%20Intelligence.pdf)|(California Department of Justice)
+* [GenAI Executive Order](https://cdt.ca.gov/technology-innovation/artificial-intelligence-community/genai-executive-order/)|(California Department of Technology)
+* [Draft Risk Assessment and Automated Decisionmaking Technology Regulations](https://cppa.ca.gov/meetings/materials/20240308_item4_draft_risk.pdf)|(California Privacy Protection Agency (CPPA), March 2024)
+* [Office of the Attorney General of California, California Privacy Rights Act - CPRA](https://www.oag.ca.gov/system/files/initiatives/pdfs/19-0021A1%20%28Consumer%20Privacy%20-%20Version%203%29_1.pdf)
 
 **Illinois**
 * [Illinois Supreme Court Policy on Artificial Intelligence, Effective January 1, 2025](https://ilcourtsaudio.blob.core.windows.net/antilles-resources/resources/e43964ab-8874-4b7a-be4e-63af019cb6f7/Illinois%20Supreme%20Court%20AI%20Policy.pdf)
@@ -838,108 +838,108 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Mississippi Department of Education, Artificial Intelligence Guidance for K-12 Classrooms](https://www.mdek12.org/sites/default/files/Offices/MDE/OTSS/DL/ai_guidance_final.pdf)
 
 **New York**
-* [New York City Automated Decision Systems Task Force Report (November 2019)](https://www.nyc.gov/assets/adstaskforce/downloads/pdf/ADS-Report-11192019.pdf)
+* [New York City Automated Decision Systems Task Force Report](https://www.nyc.gov/assets/adstaskforce/downloads/pdf/ADS-Report-11192019.pdf)|(November 2019)
 * [New York State Emerging Technology Advisory Board: Recommendations for making NY a leader in responsible AI](https://filecache.mediaroom.com/mr5mr_ibmnewsroom/198517/IBM-ETAB-Report-white-paper-DIGITAL-20241212%5B30%5D.pdf)
 * [RE: Use of External Consumer Data and Information Sources in Underwriting for Life Insurance](https://www.dfs.ny.gov/industry_guidance/circular_letters/cl2019_01)
 
 **North Carolina**
-* [North Carolina State Government Responsible Use of Artificial Intelligence Framework, August 2024](https://it.nc.gov/documents/nc-state-government-responsible-use-artificial-intelligence-framework/download?attachment)
+* [North Carolina State Government Responsible Use of Artificial Intelligence Framework](https://it.nc.gov/documents/nc-state-government-responsible-use-artificial-intelligence-framework/download?attachment)|(August 2024)
 
 **Texas**
-* [Federal Reserve Bank of Dallas, Regulation B, Equal Credit Opportunity, Credit Scoring Interpretations: Withdrawl of Proposed Business Credit Amendments, June 3, 1982](https://fraser.stlouisfed.org/files/docs/historical/frbdal/circulars/frbdallas_circ_19820603_no82-063.pdf)
+* [Federal Reserve Bank of Dallas, Regulation B, Equal Credit Opportunity, Credit Scoring Interpretations: Withdrawl of Proposed Business Credit Amendments](https://fraser.stlouisfed.org/files/docs/historical/frbdal/circulars/frbdallas_circ_19820603_no82-063.pdf)|(June 3, 1982)
 
 **Utah**
 * [Questions from the Commission on Protecting Privacy and Preventing Discrimination](https://auditor.utah.gov/wp-content/uploads/sites/6/2021/02/Office-of-the-State-Auditor-Questions-to-help-Procuring-Agencies-_-Entities-with-Software-Procurement-Feb-1-2021-Final.pdf)
 
 **Wyoming**
-* [Wyoming Department of Education (WDE) | Guidance for Wyoming School Districts on Developing Artificial Intelligence Use Policy](https://edu.wyoming.gov/wp-content/uploads/2024/06/Guidance-for-AI-Policy-Development.pdf)
-* [Wyoming Department of Education (WDE) | AI Guidance Resources](https://wde.instructure.com/courses/826)
+* [Guidance for Wyoming School Districts on Developing Artificial Intelligence Use Policy](https://edu.wyoming.gov/wp-content/uploads/2024/06/Guidance-for-AI-Policy-Development.pdf)|(Wyoming Department of Education (WDE))
+* [AI Guidance Resources](https://wde.instructure.com/courses/826)|(Wyoming Department of Education (WDE))
 
 #### International and Multilateral Frameworks
 
 #### European Union Policies and Regulations
 
 #### Council of Europe
-* [Budapest Centre for Mass Atrocities Prevention, On the Use of Artificial Intelligence in the Framework of the Syrian War, July 2021](https://www.genocideprevention.eu/files/On_the_Use_of_Artificial_Intelligence_in_the_framework_of_the_Syrian_War.pdf)
+* [On the Use of Artificial Intelligence in the Framework of the Syrian War](https://www.genocideprevention.eu/files/On_the_Use_of_Artificial_Intelligence_in_the_framework_of_the_Syrian_War.pdf)|(Budapest Centre for Mass Atrocities Prevention,July 2021)
 * [Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law](https://rm.coe.int/1680afae3c)
 * [European Audiovisual Observatory, IRIS, AI and the audiovisual sector: navigating the current legal landscape](https://rm.coe.int/iris-2024-3-ia-legal-landscape/1680b1e999)
 * [The Framework Convention on Artificial Intelligence](https://www.coe.int/en/web/artificial-intelligence/the-framework-convention-on-artificial-intelligence)
   * [Explanatory Report to the Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law](https://rm.coe.int/1680afae67)
 * [Guidelines on the Responsible Implementation of Artificial Intelligence Systems in Journalism](https://rm.coe.int/cdmsi-2023-014-guidelines-on-the-responsible-implementation-of-artific/1680adb4c6)
-* [Recommendation CM/Rec(2020)1 of the Committee of Ministers to member States on the human rights impacts of algorithmic systems](https://search.coe.int/cm?i=09000016809e1154)
+* [Recommendation CM/Rec - 2020 - 1 of the Committee of Ministers to member States on the human rights impacts of algorithmic systems](https://search.coe.int/cm?i=09000016809e1154)
 
 #### European Commission and Parliament
-* [Assessment List for Trustworthy Artificial Intelligence (ALTAI) for self-assessment - Shaping Europe’s digital future - European Commission](https://ec.europa.eu/digital-single-market/en/news/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment)
-* [Proposal for a Regulation laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence-artificial-intelligence)
-  * [Amendments adopted by the European Parliament on 14 June 2023 on the proposal for a regulation of the European Parliament and of the Council on laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) and amending certain Union legislative acts](https://www.europarl.europa.eu/doceo/document/TA-9-2023-0236_EN.html)
-* [The Digital Services Act package (EU Digital Services Act and Digital Markets Act)](https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package)
+* [Assessment List for Trustworthy Artificial Intelligence - ALTAI - for self-assessment - Shaping Europe’s digital future - European Commission](https://ec.europa.eu/digital-single-market/en/news/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment)
+* [Proposal for a Regulation laying down harmonised rules on artificial intelligence - Artificial Intelligence Act](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence-artificial-intelligence)
+  * [Amendments adopted by the European Parliament on 14 June 2023 on the proposal for a regulation of the European Parliament and of the Council on laying down harmonised rules on artificial intelligence -Artificial Intelligence Act- and amending certain Union legislative acts](https://www.europarl.europa.eu/doceo/document/TA-9-2023-0236_EN.html)
+* [The Digital Services Act package - EU Digital Services Act and Digital Markets Act](https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package)
 * [Civil liability regime for artificial intelligence](https://www.europarl.europa.eu/doceo/document/TA-9-2020-0276_EN.pdf)
-* [European Parliament, Addressing AI risks in the workplace: Workers and algorithms](https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2024)762323)
-* [European Parliament, The impact of the General Data Protection Regulation (GDPR) on artificial intelligence](https://www.europarl.europa.eu/RegData/etudes/STUD/2020/641530/EPRS_STU(2020)641530_EN.pdf)
-* [European Commission, Analysis of the preliminary AI standardisation work plan in support of the AI Act](https://publications.jrc.ec.europa.eu/repository/handle/JRC132833)
-* [European Commission, Communication from the Commission (4/25/2018), Artificial Intelligence for Europe](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2018%3A237%3AFIN)
-* [European Commission, Data Protection Certification Mechanisms: Study on Articles 42 and 43 of the Regulation (EU) 2016/679](https://commission.europa.eu/publications/study-data-protection-certification-mechanisms_en?prefLang=lv)
-* [European Commission, Ethical guidelines on the use of artificial intelligence (AI) and data in teaching and learning for Educators](https://school-education.ec.europa.eu/system/files/2023-12/ethical_guidelines_on_the_use_of_artificial_intelligence-nc0722649enn_0.pdf)
-* [European Commission, Ethics By Design and Ethics of Use Approaches for Artificial Intelligence, Version 1.0, November 25, 2021](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-by-design-and-ethics-of-use-approaches-for-artificial-intelligence_he_en.pdf)
-* [European Commission, European approach to artificial intelligence](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence)
-* [European Commission, Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
-* [European Commission, Independent High-Level Expert Group on Artificial Intelligence, Ethics Guidelines for Trustworthy AI](https://www.europarl.europa.eu/cmsdata/196377/AI%20HLEG_Ethics%20Guidelines%20for%20Trustworthy%20AI.pdf)
-* [European Commission, Independent High-Level Expert Group on Artificial Intelligence, Policy and Investment Recommendations for Trustworthy AI](https://www.europarl.europa.eu/cmsdata/196378/AI%20HLEG_Policy%20and%20Investment%20Recommendations.pdf)
-* [European Commission, Living Guidelines on the Responsible Use of Generative AI in Research (ERA Forum Stakeholders' document, First Version, March 2024)](https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf)
+* [Addressing AI risks in the workplace: Workers and algorithms](https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2024)762323)|(European Parliament)
+* [The impact of the General Data Protection Regulation (GDPR) on artificial intelligence](https://www.europarl.europa.eu/RegData/etudes/STUD/2020/641530/EPRS_STU(2020)641530_EN.pdf)|(European Parliament)
+* [Analysis of the preliminary AI standardisation work plan in support of the AI Act](https://publications.jrc.ec.europa.eu/repository/handle/JRC132833)|(European Commission)
+* [Communication from the Commission (4/25/2018), Artificial Intelligence for Europe](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2018%3A237%3AFIN)|(European Commission)
+* [Data Protection Certification Mechanisms: Study on Articles 42 and 43 of the Regulation (EU) 2016/679](https://commission.europa.eu/publications/study-data-protection-certification-mechanisms_en?prefLang=lv)|(European Commission)
+* [Ethical guidelines on the use of artificial intelligence (AI) and data in teaching and learning for Educators](https://school-education.ec.europa.eu/system/files/2023-12/ethical_guidelines_on_the_use_of_artificial_intelligence-nc0722649enn_0.pdf)|(European Commission)
+* [Ethics By Design and Ethics of Use Approaches for Artificial Intelligence, Version 1.0,](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-by-design-and-ethics-of-use-approaches-for-artificial-intelligence_he_en.pdf)|(European Commission, November 25, 2021)
+* [European approach to artificial intelligence](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence)|(European Commission)
+* [Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)|(European Commission)
+* [Independent High-Level Expert Group on Artificial Intelligence, Ethics Guidelines for Trustworthy AI](https://www.europarl.europa.eu/cmsdata/196377/AI%20HLEG_Ethics%20Guidelines%20for%20Trustworthy%20AI.pdf)|(European Commission)
+* [Independent High-Level Expert Group on Artificial Intelligence, Policy and Investment Recommendations for Trustworthy AI](https://www.europarl.europa.eu/cmsdata/196378/AI%20HLEG_Policy%20and%20Investment%20Recommendations.pdf)|(European Commission)
+* [Living Guidelines on the Responsible Use of Generative AI in Research - ERA Forum Stakeholders' document, First Version, March 2024](https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf)|(European Commission)
 * [Proposal for a directive on adapting non-contractual civil liability rules to artificial intelligence: Complementary impact assessment](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2024)762861)
 
 #### European Council
 * [Artificial intelligence act: Council and Parliament strike a deal on the first rules for AI in the world](https://www.consilium.europa.eu/en/press/press-releases/2023/12/09/artificial-intelligence-act-council-and-parliament-strike-a-deal-on-the-first-worldwide-rules-for-ai/)
-* [Council Conclusions on the Use of Artificial Intelligence in the Field of Justice, December 16, 2024](https://data.consilium.europa.eu/doc/document/ST-16933-2024-INIT/en/pdf)
+* [Council Conclusions on the Use of Artificial Intelligence in the Field of Justice](https://data.consilium.europa.eu/doc/document/ST-16933-2024-INIT/en/pdf)|(December 16, 2024)
 
 #### European Data Protection Authorities
 * [Data Protection Authority of Belgium General Secretariat, Artificial Intelligence Systems and the GDPR: A Data Protection Perspective](https://www.autoriteprotectiondonnees.be/publications/artificial-intelligence-systems-and-the-gdpr---a-data-protection-perspective.pdf)
-* [European Data Protection Board (EDPB), AI Auditing documents](https://www.edpb.europa.eu/our-work-tools/our-documents/support-pool-expert-projects/ai-auditing_en)
-* [European Data Protection Board (EDPB), Opinion 28/2024 on certain data protection aspects related to the processing of personal data in the context of AI models](https://www.edpb.europa.eu/system/files/2024-12/edpb_opinion_202428_ai-models_en.pdf)
-* [European Data Protection Supervisor, First EDPS Orientations for EUIs using Generative AI](https://www.edps.europa.eu/data-protection/our-work/publications/guidelines/2024-06-03-first-edps-orientations-euis-using-generative-ai_en)
-* [European Data Protection Supervisor, Generative AI and the EUDPR. First EDPS Orientations for ensuring data protection compliance when using Generative AI systems, June 3, 2024](https://www.edps.europa.eu/system/files/2024-06/24-06-03_genai_orientations_en.pdf)
-* [European Labour Authority (ELA), Artificial Intelligence and Algorithms in Risk Assessment: Addressing Bias, Discrimination and other Legal and Ethical Issues](https://www.ela.europa.eu/sites/default/files/2023-08/ELA-Handbook-AI-training.pdf)
+* [AI Auditing documents](https://www.edpb.europa.eu/our-work-tools/our-documents/support-pool-expert-projects/ai-auditing_en)|(European Data Protection Board (EDPB))
+* [Opinion 28/2024 on certain data protection aspects related to the processing of personal data in the context of AI models](https://www.edpb.europa.eu/system/files/2024-12/edpb_opinion_202428_ai-models_en.pdf)|(European Data Protection Board (EDPB))
+* [First EDPS Orientations for EUIs using Generative AI](https://www.edps.europa.eu/data-protection/our-work/publications/guidelines/2024-06-03-first-edps-orientations-euis-using-generative-ai_en)|(European Data Protection Supervisor)
+* [Generative AI and the EUDPR. First EDPS Orientations for ensuring data protection compliance when using Generative AI systems](https://www.edps.europa.eu/system/files/2024-06/24-06-03_genai_orientations_en.pdf)|(European Data Protection Supervisor,June 3, 2024)
+* [Artificial Intelligence and Algorithms in Risk Assessment: Addressing Bias, Discrimination and other Legal and Ethical Issues](https://www.ela.europa.eu/sites/default/files/2023-08/ELA-Handbook-AI-training.pdf)|(European Labour Authority (ELA))
 
 #### OECD
-* [AI, data governance and privacy: Synergies and areas of international co-operation, June 26, 2024](https://www.oecd.org/en/publications/ai-data-governance-and-privacy_2476b1a4-en.html)
+* [AI, data governance and privacy: Synergies and areas of international co-operation](https://www.oecd.org/en/publications/ai-data-governance-and-privacy_2476b1a4-en.html)|(June 26, 2024]
 * [The Bias Assessment Metrics and Measures Repository](https://oecd.ai/en/catalogue/tools/the-bias-assessment-metrics-and-measures-repository)
 * [OECD.AI Catalogue of Tools & Metrics for Trustworthy AI, Anekanta AI, Responsible AI Governance Framework for boards](https://oecd.ai/en/catalogue/tools/responsible-ai-governance-framework-for-boards)
 * [OECD Artificial Intelligence Papers](https://www.oecd-ilibrary.org/science-and-technology/oecd-artificial-intelligence-papers_dee339a8-en)
-  * [No. 1, September 18, 2023, Initial policy considerations for generative artificial intelligence](https://www.oecd-ilibrary.org/deliver/fae2d1e6-en.pdf?itemId=%2Fcontent%2Fpaper%2Ffae2d1e6-en&mimeType=pdf)
-  * [No. 2, October 17, 2023, Emerging trends in AI skill demand across 14 OECD countries](https://www.oecd-ilibrary.org/deliver/7c691b9a-en.pdf?itemId=%2Fcontent%2Fpaper%2F7c691b9a-en&mimeType=pdf)
-  * [No. 3, October 27, 2023, The state of implementation of the OECD AI Principles four years on](https://www.oecd-ilibrary.org/deliver/835641c9-en.pdf?itemId=%2Fcontent%2Fpaper%2F835641c9-en&mimeType=pdf)
-  * [No. 4, October 27, 2023, Stocktaking for the development of an AI incident definition](https://www.oecd-ilibrary.org/deliver/c323ac71-en.pdf?itemId=%2Fcontent%2Fpaper%2Fc323ac71-en&mimeType=pdf)
-  * [No. 5, November 7, 2023, Common guideposts to promote interoperability in AI risk management](https://www.oecd-ilibrary.org/deliver/ba602d18-en.pdf?itemId=%2Fcontent%2Fpaper%2Fba602d18-en&mimeType=pdf)
-  * [No. 6, November 13, 2023, What technologies are at the core of AI?](https://www.oecd-ilibrary.org/deliver/32406765-en.pdf?itemId=%2Fcontent%2Fpaper%2F32406765-en&mimeType=pdf)
-  * [No. 7, November 24, 2023, Using AI to support people with disability in the labour market](https://www.oecd-ilibrary.org/deliver/008b32b7-en.pdf?itemId=%2Fcontent%2Fpaper%2F008b32b7-en&mimeType=pdf)
-  * [No. 8, March 5, 2024, Explanatory memorandum on the updated OECD definition of an AI system](https://www.oecd-ilibrary.org/deliver/623da898-en.pdf?itemId=%2Fcontent%2Fpaper%2F623da898-en&mimeType=pdf)
-  * [No. 9, December 15, 2023, Generative artificial intelligence in finance](https://www.oecd-ilibrary.org/deliver/ac7149cc-en.pdf?itemId=%2Fcontent%2Fpaper%2Fac7149cc-en&mimeType=pdf)
-  * [No. 10, January 19, 2024, Collective action for responsible AI in health](https://www.oecd-ilibrary.org/deliver/f2050177-en.pdf?itemId=%2Fcontent%2Fpaper%2Ff2050177-en&mimeType=pdf)
-  * [No. 11, March 15, 2024, Using AI in the workplace](https://www.oecd-ilibrary.org/deliver/73d417f9-en.pdf?itemId=%2Fcontent%2Fpaper%2F73d417f9-en&mimeType=pdf)
-  * [No. 12, March 22, 2024, Generative AI for anti-corruption and integrity in government](https://www.oecd-ilibrary.org/deliver/657a185a-en.pdf?itemId=%2Fcontent%2Fpaper%2F657a185a-en&mimeType=pdf)
-  * [No. 13, April 10, 2024, Artificial intelligence and wage inequality](https://www.oecd-ilibrary.org/deliver/bf98a45c-en.pdf?itemId=%2Fcontent%2Fpaper%2Fbf98a45c-en&mimeType=pdf)
-  * [No. 14, April 10, 2024, Artificial intelligence and the changing demand for skills in the labour market](https://www.oecd-ilibrary.org/deliver/88684e36-en.pdf?itemId=%2Fcontent%2Fpaper%2F88684e36-en&mimeType=pdf)
-  * [No. 15, April 16, 2024, The impact of Artificial Intelligence on productivity, distribution and growth](https://www.oecd-ilibrary.org/deliver/8d900037-en.pdf?itemId=%2Fcontent%2Fpaper%2F8d900037-en&mimeType=pdf)
-  * [No. 16, May 6, 2024, Defining AI incidents and related terms](https://www.oecd-ilibrary.org/deliver/d1a8d965-en.pdf?itemId=%2Fcontent%2Fpaper%2Fd1a8d965-en&mimeType=pdf)
-  * [No. 17, May 30, 2024, Artificial intelligence and the changing demand for skills in Canada](https://www.oecd-ilibrary.org/deliver/1b20cdb6-en.pdf?itemId=%2Fcontent%2Fpaper%2F1b20cdb6-en&mimeType=pdf)
-  * [No. 18, May 24, 2024, Artificial intelligence, data and competition](https://www.oecd-ilibrary.org/deliver/e7e88884-en.pdf?itemId=%2Fcontent%2Fpaper%2Fe7e88884-en&mimeType=pdf)
-  * [No. 19, June 13, 2024, A new dawn for public employment services](https://www.oecd-ilibrary.org/deliver/5dc3eb8e-en.pdf?itemId=%2Fcontent%2Fpaper%2F5dc3eb8e-en&mimeType=pdf)
-  * [No. 20, June 13, 2024, Governing with Artificial Intelligence](https://www.oecd-ilibrary.org/deliver/26324bc2-en.pdf?itemId=%2Fcontent%2Fpaper%2F26324bc2-en&mimeType=pdf)
-  * [No. 21, June 24, 2024, Using AI to manage minimum income benefits and unemployment assistance](https://www.oecd-ilibrary.org/deliver/718c93a1-en.pdf?itemId=%2Fcontent%2Fpaper%2F718c93a1-en&mimeType=pdf)
-  * [No. 22, June 26, 2024, AI, data governance and privacy](https://www.oecd-ilibrary.org/deliver/2476b1a4-en.pdf?itemId=%2Fcontent%2Fpaper%2F2476b1a4-en&mimeType=pdf)
-  * [No. 23, August 14, 2024, The potential impact of Artificial Intelligence on equity and inclusion in education](https://www.oecd-ilibrary.org/deliver/15df715b-en.pdf?itemId=%2Fcontent%2Fpaper%2F15df715b-en&mimeType=pdf)
-  * [No. 24, September 5, 2024, Regulatory approaches to Artificial Intelligence in finance](https://www.oecd-ilibrary.org/deliver/f1498c02-en.pdf?itemId=%2Fcontent%2Fpaper%2Ff1498c02-en&mimeType=pdf)
-  * [No. 25, September 5, 2024, Measuring the demand for AI skills in the United Kingdom](https://www.oecd-ilibrary.org/deliver/1d6474ef-en.pdf?itemId=%2Fcontent%2Fpaper%2F1d6474ef-en&mimeType=pdf)
-  * [No. 26, October 31, 2024, Who will be the workers most affected by AI?](https://www.oecd-ilibrary.org/deliver/14dc6f89-en.pdf?itemId=%2Fcontent%2Fpaper%2F14dc6f89-en&mimeType=pdf)
-  * [No. 27, November 14, 2024, Assessing potential future artificial intelligence risks, benefits and policy imperatives](https://www.oecd-ilibrary.org/deliver/3f4e3dfb-en.pdf?itemId=%2Fcontent%2Fpaper%2F3f4e3dfb-en&mimeType=pdf)
-  * [No. 28, November 20, 2024, Artificial Intelligence and the health workforce](https://www.oecd-ilibrary.org/deliver/9a31d8af-en.pdf?itemId=%2Fcontent%2Fpaper%2F9a31d8af-en&mimeType=pdf)
-  * [No. 29, November 22, 2024, Miracle or Myth? Assessing the macroeconomic productivity gains from Artificial Intelligence](https://www.oecd-ilibrary.org/deliver/b524a072-en.pdf?itemId=%2Fcontent%2Fpaper%2Fb524a072-en&mimeType=pdf)
-  * [No. 30, December 12, 2024, A Sectoral Taxonomy of AI Intensity](https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/12/a-sectoral-taxonomy-of-ai-intensity_c2baae71/1f6377b5-en.pdf)
-  * [No. 31, February 6, 2025, Algorithmic Management in the Workplace: New Evidence from an OECD Employer Survey](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/algorithmic-management-in-the-workplace_3c84ed6d/287c13c4-en.pdf)
-  * [No. 32, February 7, 2025, Steering AI's Future: Strategies for Anticipatory Governance](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/steering-ai-s-future_70e4a856/5480ff0a-en.pdf)
-  * [No. 33, February 9, 2025, Intellectual Property Issues in Artificial Intelligence Trained on Scraped Data](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/intellectual-property-issues-in-artificial-intelligence-trained-on-scraped-data_a07f010b/d5241a23-en.pdf)
-  * [No. 34, February 28, 2025, Towards a Common Reporting Framework for AI Incidents](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/towards-a-common-reporting-framework-for-ai-incidents_8c488fdb/f326d4ac-en.pdf)
-  * [No. 35, February 28, 2025, AI Skills and Capabilities in Canada](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/ai-skills-and-capabilities-in-canada_09294563/87f76682-en.pdf) 
+  * [No. 1,Initial policy considerations for generative artificial intelligence](https://www.oecd-ilibrary.org/deliver/fae2d1e6-en.pdf?itemId=%2Fcontent%2Fpaper%2Ffae2d1e6-en&mimeType=pdf)|(September 18, 2023)
+  * [No. 2,Emerging trends in AI skill demand across 14 OECD countries](https://www.oecd-ilibrary.org/deliver/7c691b9a-en.pdf?itemId=%2Fcontent%2Fpaper%2F7c691b9a-en&mimeType=pdf)|(October 17, 2023)
+  * [No. 3,The state of implementation of the OECD AI Principles four years on](https://www.oecd-ilibrary.org/deliver/835641c9-en.pdf?itemId=%2Fcontent%2Fpaper%2F835641c9-en&mimeType=pdf)|( October 27, 2023)
+  * [No. 4,Stocktaking for the development of an AI incident definition](https://www.oecd-ilibrary.org/deliver/c323ac71-en.pdf?itemId=%2Fcontent%2Fpaper%2Fc323ac71-en&mimeType=pdf)|(October 27, 2023)
+  * [No. 5,Common guideposts to promote interoperability in AI risk management](https://www.oecd-ilibrary.org/deliver/ba602d18-en.pdf?itemId=%2Fcontent%2Fpaper%2Fba602d18-en&mimeType=pdf)|(November 7, 2023)
+  * [No. 6,What technologies are at the core of AI?](https://www.oecd-ilibrary.org/deliver/32406765-en.pdf?itemId=%2Fcontent%2Fpaper%2F32406765-en&mimeType=pdf)|(November 13, 2023)
+  * [No. 7,Using AI to support people with disability in the labour market](https://www.oecd-ilibrary.org/deliver/008b32b7-en.pdf?itemId=%2Fcontent%2Fpaper%2F008b32b7-en&mimeType=pdf)|(November 24, 2023)
+  * [No. 8,Explanatory memorandum on the updated OECD definition of an AI system](https://www.oecd-ilibrary.org/deliver/623da898-en.pdf?itemId=%2Fcontent%2Fpaper%2F623da898-en&mimeType=pdf)|(March 5, 2024)
+  * [No. 9,Generative artificial intelligence in finance](https://www.oecd-ilibrary.org/deliver/ac7149cc-en.pdf?itemId=%2Fcontent%2Fpaper%2Fac7149cc-en&mimeType=pdf)|(December 15, 2023)
+  * [No. 10,Collective action for responsible AI in health](https://www.oecd-ilibrary.org/deliver/f2050177-en.pdf?itemId=%2Fcontent%2Fpaper%2Ff2050177-en&mimeType=pdf)|(January 19, 2024)
+  * [No. 11,Using AI in the workplace](https://www.oecd-ilibrary.org/deliver/73d417f9-en.pdf?itemId=%2Fcontent%2Fpaper%2F73d417f9-en&mimeType=pdf)|(March 15, 2024)
+  * [No. 12,Generative AI for anti-corruption and integrity in government](https://www.oecd-ilibrary.org/deliver/657a185a-en.pdf?itemId=%2Fcontent%2Fpaper%2F657a185a-en&mimeType=pdf)|(March 22, 2024)
+  * [No. 13,Artificial intelligence and wage inequality](https://www.oecd-ilibrary.org/deliver/bf98a45c-en.pdf?itemId=%2Fcontent%2Fpaper%2Fbf98a45c-en&mimeType=pdf)|(April 10, 2024)
+  * [No. 14, Artificial intelligence and the changing demand for skills in the labour market](https://www.oecd-ilibrary.org/deliver/88684e36-en.pdf?itemId=%2Fcontent%2Fpaper%2F88684e36-en&mimeType=pdf)|(April 10, 2024)
+  * [No. 15, The impact of Artificial Intelligence on productivity, distribution and growth](https://www.oecd-ilibrary.org/deliver/8d900037-en.pdf?itemId=%2Fcontent%2Fpaper%2F8d900037-en&mimeType=pdf)|(April 16, 2024)
+  * [No. 16,Defining AI incidents and related terms](https://www.oecd-ilibrary.org/deliver/d1a8d965-en.pdf?itemId=%2Fcontent%2Fpaper%2Fd1a8d965-en&mimeType=pdf)|(May 6, 2024)
+  * [No. 17,Artificial intelligence and the changing demand for skills in Canada](https://www.oecd-ilibrary.org/deliver/1b20cdb6-en.pdf?itemId=%2Fcontent%2Fpaper%2F1b20cdb6-en&mimeType=pdf)|(May 30, 2024)
+  * [No. 18,Artificial intelligence, data and competition](https://www.oecd-ilibrary.org/deliver/e7e88884-en.pdf?itemId=%2Fcontent%2Fpaper%2Fe7e88884-en&mimeType=pdf)|(May 24, 2024)
+  * [No. 19,A new dawn for public employment services](https://www.oecd-ilibrary.org/deliver/5dc3eb8e-en.pdf?itemId=%2Fcontent%2Fpaper%2F5dc3eb8e-en&mimeType=pdf)|(June 13, 2024)
+  * [No. 20,Governing with Artificial Intelligence](https://www.oecd-ilibrary.org/deliver/26324bc2-en.pdf?itemId=%2Fcontent%2Fpaper%2F26324bc2-en&mimeType=pdf)|(June 13, 2024)
+  * [No. 21,Using AI to manage minimum income benefits and unemployment assistance](https://www.oecd-ilibrary.org/deliver/718c93a1-en.pdf?itemId=%2Fcontent%2Fpaper%2F718c93a1-en&mimeType=pdf)|(June 24, 2024)
+  * [No. 22,AI, data governance and privacy](https://www.oecd-ilibrary.org/deliver/2476b1a4-en.pdf?itemId=%2Fcontent%2Fpaper%2F2476b1a4-en&mimeType=pdf)|(June 26,2024)
+  * [No. 23,The potential impact of Artificial Intelligence on equity and inclusion in education](https://www.oecd-ilibrary.org/deliver/15df715b-en.pdf?itemId=%2Fcontent%2Fpaper%2F15df715b-en&mimeType=pdf)|( August 14, 2024)
+  * [No. 24,Regulatory approaches to Artificial Intelligence in finance](https://www.oecd-ilibrary.org/deliver/f1498c02-en.pdf?itemId=%2Fcontent%2Fpaper%2Ff1498c02-en&mimeType=pdf)|(September 5, 2024)
+  * [No. 25,Measuring the demand for AI skills in the United Kingdom](https://www.oecd-ilibrary.org/deliver/1d6474ef-en.pdf?itemId=%2Fcontent%2Fpaper%2F1d6474ef-en&mimeType=pdf)|(September 5, 2024)
+  * [No. 26,Who will be the workers most affected by AI?](https://www.oecd-ilibrary.org/deliver/14dc6f89-en.pdf?itemId=%2Fcontent%2Fpaper%2F14dc6f89-en&mimeType=pdf)|( October 31, 2024)
+  * [No. 27,Assessing potential future artificial intelligence risks, benefits and policy imperatives](https://www.oecd-ilibrary.org/deliver/3f4e3dfb-en.pdf?itemId=%2Fcontent%2Fpaper%2F3f4e3dfb-en&mimeType=pdf)|(November 14, 2024)
+  * [No. 28,Artificial Intelligence and the health workforce](https://www.oecd-ilibrary.org/deliver/9a31d8af-en.pdf?itemId=%2Fcontent%2Fpaper%2F9a31d8af-en&mimeType=pdf)|(November 20, 2024)
+  * [No. 29, Miracle or Myth? Assessing the macroeconomic productivity gains from Artificial Intelligence](https://www.oecd-ilibrary.org/deliver/b524a072-en.pdf?itemId=%2Fcontent%2Fpaper%2Fb524a072-en&mimeType=pdf)|( November 22, 2024)
+  * [No. 30,A Sectoral Taxonomy of AI Intensity](https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/12/a-sectoral-taxonomy-of-ai-intensity_c2baae71/1f6377b5-en.pdf)|(December 12, 2024)
+  * [No. 31,Algorithmic Management in the Workplace: New Evidence from an OECD Employer Survey](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/algorithmic-management-in-the-workplace_3c84ed6d/287c13c4-en.pdf)|( February 6, 2025)
+  * [No. 32,Steering AI's Future: Strategies for Anticipatory Governance](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/steering-ai-s-future_70e4a856/5480ff0a-en.pdf)|( February 7, 2025)
+  * [No. 33,Intellectual Property Issues in Artificial Intelligence Trained on Scraped Data](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/intellectual-property-issues-in-artificial-intelligence-trained-on-scraped-data_a07f010b/d5241a23-en.pdf)|(February 9, 2025)
+  * [No. 34,Towards a Common Reporting Framework for AI Incidents](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/towards-a-common-reporting-framework-for-ai-incidents_8c488fdb/f326d4ac-en.pdf)|( February 28, 2025)
+  * [No. 35,AI Skills and Capabilities in Canada](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/ai-skills-and-capabilities-in-canada_09294563/87f76682-en.pdf)|(February 28, 2025)
 * [OECD-Bericht zu Künstlicher Intelligenz in Deutschland](https://www.ki-strategie-deutschland.de/files/downloads/OECD-Bericht_K%C3%BCnstlicher_Intelligenz_in_Deutschland.pdf)
 * [OECD Digital Economy Papers, No. 341, November 2022, Measuring the Environmental Impacts of Artificial Intelligence Computer and Applications: The AI Footprint](https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/11/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_3dddded5/7babf571-en.pdf)
 * [OECD Legal Instruments, Recommendation of the Council on Artificial Intelligence](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449)
@@ -947,30 +947,30 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### OSCE
 * [#SAIFE Resource Hub: Spotlight on Artificial Intelligence and Freedom of Expression](https://www.osce.org/saife/index.html)
-* [Artificial Intelligence and Disinformation: State-Aligned Information Operations and the Distortion of the Public Sphere, July 2022](https://www.osce.org/files/f/documents/e/b/522166.pdf)
+* [Artificial Intelligence and Disinformation: State-Aligned Information Operations and the Distortion of the Public Sphere](https://www.osce.org/files/f/documents/e/b/522166.pdf)|(July 2022)
 * [Spotlight on Artificial Intelligence and Freedom of Expression: A Policy Manual](https://www.osce.org/files/f/documents/8/f/510332_1.pdf)
 
 #### NATO
 * [AI in Precision Persuasion. Unveiling Tactics and Risks on Social Media](https://stratcomcoe.org/publications/ai-in-precision-persuasion-unveiling-tactics-and-risks-on-social-media/309)
 * [Narrative Detection and Topic Modelling in the Baltics](https://stratcomcoe.org/publications/narrative-detection-and-topic-modelling-in-the-baltics/303)
-* ["NATO-Mation": Strategies for Leading in the Age of Artificial Intelligence, NDC Research Paper No. 15, December 2020](https://www.ulib.sk/files/english/nato-library/collections/monographs/ndc-research-paper/ndc_rp_15.pdf)
-* [Summary of the NATO Artificial Intelligence Strategy, October 22, 2021](https://www.nato.int/cps/en/natohq/official_texts_187617.htm)
-  * [An Artificial Intelligence Strategy for NATO, October 25, 2021](https://www.nato.int/docu/review/articles/2021/10/25/an-artificial-intelligence-strategy-for-nato/index.html)
-* [Summary of NATO's revised Artificial Intelligence (AI) strategy, July 10, 2024](https://www.nato.int/cps/en/natohq/official_texts_227237.htm)
+* ["NATO-Mation": Strategies for Leading in the Age of Artificial Intelligence, NDC Research Paper No. 15](https://www.ulib.sk/files/english/nato-library/collections/monographs/ndc-research-paper/ndc_rp_15.pdf)|(December 2020)
+* [Summary of the NATO Artificial Intelligence Strategy](https://www.nato.int/cps/en/natohq/official_texts_187617.htm)|(October 22, 2021)
+  * [An Artificial Intelligence Strategy for NATO](https://www.nato.int/docu/review/articles/2021/10/25/an-artificial-intelligence-strategy-for-nato/index.html)|(October 25, 2021)
+* [Summary of NATO's revised Artificial Intelligence - AI - strategy](https://www.nato.int/cps/en/natohq/official_texts_227237.htm)|(July 10, 2024)
 
 #### United Nations
 * [Chief Executives Board for Coordination, 2022-10-27, Principles for the ethical use of artificial intelligence in the United Nations system](https://unsceb.org/sites/default/files/2023-03/CEB_2022_2_Add.1%20%28AI%20ethics%20principles%29.pdf)
-* [Governing AI for Humanity, Final Report, September 2024](https://digitallibrary.un.org/record/4062495/files/1416782-EN.pdf?ln=en)
-* [Office for Information and Communications Technology, A Framework for Ethical AI at the United Nations, March 15, 2021](https://unite.un.org/sites/unite.un.org/files/unite_paper_-_ethical_ai_at_the_un.pdf)
-* [Office of the Secretary-General's Envoy on Technology, High-Level Advisory Body on Artificial Intelligence](https://www.un.org/techenvoy/ai-advisory-body)
+* [Governing AI for Humanity, Final Report](https://digitallibrary.un.org/record/4062495/files/1416782-EN.pdf?ln=en)|(September 2024)
+* [A Framework for Ethical AI at the United Nations](https://unite.un.org/sites/unite.un.org/files/unite_paper_-_ethical_ai_at_the_un.pdf)|(Office for Information and Communications Technology,March 15, 2021)
+* [High-Level Advisory Body on Artificial Intelligence](https://www.un.org/techenvoy/ai-advisory-body)|(Office of the Secretary-General's Envoy on Technology)
 * [Office of the United Nations High Commissioner for Human Rights](https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/taxonomy-GenAI-Human-Rights-Harms.pdf)
-* [UNESCO, Artificial Intelligence: examples of ethical dilemmas](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases)
-* [UNESCO, Caribbean Artificial Intelligence Policy Roadmap](https://unesdoc.unesco.org/ark:/48223/pf0000391996/PDF/391996eng.pdf.multi)
-* [UNESCO, Consultation paper on AI regulation: emerging approaches across the world](https://unesdoc.unesco.org/ark:/48223/pf0000390979)
-* [UNESCO, Global AI Ethics and Governance Observatory](https://www.unesco.org/ethics-ai/en)
-* [UNESCO, Recommendation on the Ethics of Artificial Intelligence](https://unesdoc.unesco.org/ark:/48223/pf0000381137/PDF/381137eng.pdf.multi)
- * [UNESCO, Readiness assessment methodology: a tool of the Recommendation on the Ethics of Artificial Intelligence](https://www.unesco.org/en/articles/readiness-assessment-methodology-tool-recommendation-ethics-artificial-intelligence)
-* [UNICEF, Policy guidance on AI for children, Version 2.0, November 2021, Recommendations for building AI policies and systems that uphold child rights](https://www.unicef.org/innocenti/media/1341/file/UNICEF-Global-Insight-policy-guidance-AI-children-2.0-2021.pdf)
+* [Artificial Intelligence: examples of ethical dilemmas](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases)|(UNESCO)
+* [Caribbean Artificial Intelligence Policy Roadmap](https://unesdoc.unesco.org/ark:/48223/pf0000391996/PDF/391996eng.pdf.multi)|(UNESCO)
+* [Consultation paper on AI regulation: emerging approaches across the world](https://unesdoc.unesco.org/ark:/48223/pf0000390979)|(UNESCO)
+* [Global AI Ethics and Governance Observatory](https://www.unesco.org/ethics-ai/en)|(UNESCO)
+* [Recommendation on the Ethics of Artificial Intelligence](https://unesdoc.unesco.org/ark:/48223/pf0000381137/PDF/381137eng.pdf.multi)|(UNESCO)
+ * [Readiness assessment methodology: a tool of the Recommendation on the Ethics of Artificial Intelligence](https://www.unesco.org/en/articles/readiness-assessment-methodology-tool-recommendation-ethics-artificial-intelligence)|(UNESCO)
+* [Policy guidance on AI for children, Version 2.0, November 2021, Recommendations for building AI policies and systems that uphold child rights](https://www.unicef.org/innocenti/media/1341/file/UNICEF-Global-Insight-policy-guidance-AI-children-2.0-2021.pdf)|(UNICEF)
 
 ### Law Texts and Drafts
 
@@ -981,14 +981,14 @@ This section is a collection of law texts and drafts pertaining to responsible A
 * [Arizona, House Bill 2685](https://www.azleg.gov/legtext/55leg/2r/bills/hb2685h.htm)
 * [Australia, Privacy Act 1988](https://www.legislation.gov.au/Details/C2014C00076)
 * [California, Civil Rights Council - First Modifications to Proposed Employment Regulations on Automated-Decision Systems, Title 2, California Code of Regulations](https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2024/10/First-Modifications-to-Text-of-Proposed-Modifications-to-Employment-Regulations-Regarding-Automated-Decision-Systems.pdf)
-* [California, Consumer Privacy Act of 2018, Civil Code - DIVISION 3. OBLIGATIONS [1427 - 3273.69]](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&part=4.&lawCode=CIV&title=1.81.5)
+* [California, Consumer Privacy Act of 2018, Civil Code - DIVISION 3. OBLIGATIONS: 1427 - 3273.69](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&part=4.&lawCode=CIV&title=1.81.5)
 * [Colorado, SB24-205 Consumer Protections for Artificial Intelligence, Concerning consumer protections in interactions with artificial intelligence systems](https://leg.colorado.gov/bills/SB24-205)
 * [European Union, General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
   * [Article 22 EU GDPR "Automated individual decision-making, including profiling"](https://www.privacy-regulation.eu/en/article-22-automated-individual-decision-making-including-profiling-GDPR.htm)
-* [Executive Order 13960 (2020-12-03), Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government](https://www.federalregister.gov/documents/2020/12/08/2020-27065/promoting-the-use-of-trustworthy-artificial-intelligence-in-the-federal-government)
+* [Executive Order 13960 - 2020-12-03, Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government](https://www.federalregister.gov/documents/2020/12/08/2020-27065/promoting-the-use-of-trustworthy-artificial-intelligence-in-the-federal-government)
 * [Facial Recognition and Biometric Technology Moratorium Act of 2020](https://drive.google.com/file/d/1gkTcjFtieMQdsQ01dmDa49B6HY9ZyKr8/view)
-* [Federal Consumer Online Privacy Rights Act (COPRA)](https://www.consumerprivacyact.com/federal/)
-* [Germany, Bundesrat Drucksache 222/24 - Entwurf eines Gesetzes zum strafrechtlichen Schutz von Persönlichkeitsrechten vor Deepfakes (Draft Law on the Criminal Protection of Personality Rights from Deepfakes)](https://www.bundesrat.de/SharedDocs/drucksachen/2024/0201-0300/222-24(B).pdf?__blob=publicationFile&v=1)
+* [Federal Consumer Online Privacy Rights Act - COPRA](https://www.consumerprivacyact.com/federal/)
+* [Germany, Bundesrat Drucksache 222/24 - Entwurf eines Gesetzes zum strafrechtlichen Schutz von Persönlichkeitsrechten vor Deepfakes - Draft Law on the Criminal Protection of Personality Rights from Deepfakes)](https://www.bundesrat.de/SharedDocs/drucksachen/2024/0201-0300/222-24(B).pdf?__blob=publicationFile&v=1)
 * [Illinois, Biometric Information Privacy Act](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57)
 * [Justice in Policing Act](https://democrats-judiciary.house.gov/issues/issue/?IssueID=14924)
 * [National Conference of State Legislatures (NCSL) 2020 Consumer Data Privacy Legislation](https://www.ncsl.org/technology-and-communication/2020-consumer-data-privacy-legislation)
@@ -996,9 +996,9 @@ This section is a collection of law texts and drafts pertaining to responsible A
 * [Rhode Island, Executive Order 24-06: Artificial Intelligence and Data Centers of Excellence](https://governor.ri.gov/executive-orders/executive-order-24-06)
 * [Virginia, Consumer Data Protection Act](https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/)
 * [Washington State, SB 6513 - 2019-20](https://apps.leg.wa.gov/billsummary/?BillNumber=6513&Year=2020&Initiative=false)
-* [United States Congress, 118th Congress (2023-2024), H.R.5586 - DEEPFAKES Accountability Act](https://www.congress.gov/bill/118th-congress/house-bill/5586/text)
-* [United States Congress, 118th Congress (2023-2024), H.R. 9720, AI Incident Reporting and Security Enhancement Act](https://science.house.gov/bills?ID=95D5A008-EA1A-4D43-A363-DC2D129DFDCD)
-* [United States Congress, 118th Congress (2023-2024), S.4769 - VET Artificial Intelligence Act](https://www.congress.gov/bill/118th-congress/senate-bill/4769/text)
+* [H.R.5586 - DEEPFAKES Accountability Act](https://www.congress.gov/bill/118th-congress/house-bill/5586/text)|(United States Congress, 118th Congress (2023-2024))
+* [H.R. 9720, AI Incident Reporting and Security Enhancement Act](https://science.house.gov/bills?ID=95D5A008-EA1A-4D43-A363-DC2D129DFDCD)|(United States Congress, 118th Congress (2023-2024))
+* [S.4769 - VET Artificial Intelligence Act](https://www.congress.gov/bill/118th-congress/senate-bill/4769/text)|(United States Congress, 118th Congress (2023-2024))
 
 ## Education Resources
 
