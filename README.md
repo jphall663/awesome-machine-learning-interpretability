@@ -331,6 +331,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Future of Privacy Forum, EU AI Act: A Comprehensive Implementation & Compliance Timeline](https://fpf.org/resource/eu-ai-act-a-comprehensive-implementation-compliance-timeline/)
 * [Future of Privacy Forum, The Spectrum of Artificial Intelligence](https://fpf.org/wp-content/uploads/2021/01/FPF_AIEcosystem_illo_03.pdf)
 * [Generative AI framework and Generative AI value tree modelling diagram](https://media.licdn.com/dms/image/v2/D4D22AQEKqP2a6_rsCw/feedshare-shrink_1280/B4DZP0cUWFHUAo-/0/1734972885448?e=1738195200&v=beta&t=PMJq6Ti1lisMMkyhnWojcdDt_DAlmYtV6MUQbqWu4hc)
+* [Global Index for AI Safety: AGILE Index on Global AI Safety Readiness Feb 2025](https://agile-index.ai/Global-Index-For-AI-Safety-Report-EN.pdf)
 * [IAPP EU AI Act Cheat Sheet](https://iapp.org/media/pdf/resource_center/eu_ai_act_cheat_sheet.pdf)
 * [IAPP, EU AI Act Compliance Matrix](https://iapp.org/resources/article/eu-ai-act-compliance-matrix/)
 * [Machine Learning Attack_Cheat_Sheet](https://resources.oreilly.com/examples/0636920415947/-/blob/master/Attack_Cheat_Sheet.png)
@@ -346,6 +347,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [LLM Agents can Autonomously Exploit One-day Vulnerabilities](https://arxiv.org/abs/2404.08144)
   * [No, LLM Agents can not Autonomously Exploit One-day Vulnerabilities](https://struct.github.io/auto_agents_1_day.html)
 * [Ofcom, Red Teaming for GenAI Harms: Revealing the Risks and Rewards for Online Safety](https://www.ofcom.org.uk/siteassets/resources/documents/consultations/discussion-papers/red-teaming/red-teaming-for-gen-ai-harms.pdf?v=370762)| July 23, 2024
+* [GenAI Red Teaming Guide: A Practical Approach to Evaluating AI Vulnerabilities](https://genai.owasp.org/download/44859/?tmstv=1737593350)| OWASP Version 1.0, January 23, 2025
 * [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2209.07858)
 * [Red Teaming of Advanced Information Assurance Concepts](https://ieeexplore.ieee.org/document/821513)
 
@@ -384,6 +386,8 @@ This section is for responsible ML guidance put forward by organizations or indi
 
 #### Generative AI Explainability
 
+* [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](http://sameersingh.org/files/papers/allennlp-interpret-demo-emnlp19.pdf)
+* [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
 * [Backpack Language Models](https://arxiv.org/pdf/2305.16765)
 * [Finding the Words to Say: Hidden State Visualizations for Language Models](https://jalammar.github.io/hidden-states/)| Jay Alammar
 * [Interfaces for Explaining Transformer Language Models](https://jalammar.github.io/explaining-transformers/)| Jay Alammar
