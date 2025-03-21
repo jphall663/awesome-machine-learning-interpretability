@@ -391,8 +391,10 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Backpack Language Models](https://arxiv.org/pdf/2305.16765)
 * [Finding the Words to Say: Hidden State Visualizations for Language Models](https://jalammar.github.io/hidden-states/)| Jay Alammar
 * [Interfaces for Explaining Transformer Language Models](https://jalammar.github.io/explaining-transformers/)| Jay Alammar
+* [Neuronpedia](https://www.neuronpedia.org/)
 * [Generative AI Risk Management Resources](https://github.com/jphall663/gai_risk_management)| Patrick Hall and Daniel Atherton
 * [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
+* [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
 * [The Remarkable Robustness of LLMs: Stages of Inference?](https://arxiv.org/pdf/2406.19384v1)
 
 #### University Policies and Guidance
