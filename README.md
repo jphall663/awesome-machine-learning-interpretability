@@ -960,17 +960,17 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### United Nations
 * [Chief Executives Board for Coordination, 2022-10-27, Principles for the ethical use of artificial intelligence in the United Nations system](https://unsceb.org/sites/default/files/2023-03/CEB_2022_2_Add.1%20%28AI%20ethics%20principles%29.pdf)
-* [Governing AI for Humanity, Final Report](https://digitallibrary.un.org/record/4062495/files/1416782-EN.pdf?ln=en)|(September 2024)
-* [A Framework for Ethical AI at the United Nations](https://unite.un.org/sites/unite.un.org/files/unite_paper_-_ethical_ai_at_the_un.pdf)|(Office for Information and Communications Technology,March 15, 2021)
-* [High-Level Advisory Body on Artificial Intelligence](https://www.un.org/techenvoy/ai-advisory-body)|(Office of the Secretary-General's Envoy on Technology)
+* [Governing AI for Humanity, Final Report](https://digitallibrary.un.org/record/4062495/files/1416782-EN.pdf?ln=en)| September 2024
+* [A Framework for Ethical AI at the United Nations](https://unite.un.org/sites/unite.un.org/files/unite_paper_-_ethical_ai_at_the_un.pdf)| Office for Information and Communications Technology, March 15, 2021
+* [High-Level Advisory Body on Artificial Intelligence](https://www.un.org/techenvoy/ai-advisory-body)| Office of the Secretary-General's Envoy on Technology 
 * [Office of the United Nations High Commissioner for Human Rights](https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/taxonomy-GenAI-Human-Rights-Harms.pdf)
-* [Artificial Intelligence: examples of ethical dilemmas](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases)|(UNESCO)
-* [Caribbean Artificial Intelligence Policy Roadmap](https://unesdoc.unesco.org/ark:/48223/pf0000391996/PDF/391996eng.pdf.multi)|(UNESCO)
-* [Consultation paper on AI regulation: emerging approaches across the world](https://unesdoc.unesco.org/ark:/48223/pf0000390979)|(UNESCO)
-* [Global AI Ethics and Governance Observatory](https://www.unesco.org/ethics-ai/en)|(UNESCO)
-* [Recommendation on the Ethics of Artificial Intelligence](https://unesdoc.unesco.org/ark:/48223/pf0000381137/PDF/381137eng.pdf.multi)|(UNESCO)
- * [Readiness assessment methodology: a tool of the Recommendation on the Ethics of Artificial Intelligence](https://www.unesco.org/en/articles/readiness-assessment-methodology-tool-recommendation-ethics-artificial-intelligence)|(UNESCO)
-* [Policy guidance on AI for children, Version 2.0, November 2021, Recommendations for building AI policies and systems that uphold child rights](https://www.unicef.org/innocenti/media/1341/file/UNICEF-Global-Insight-policy-guidance-AI-children-2.0-2021.pdf)|(UNICEF)
+* [Artificial Intelligence: examples of ethical dilemmas](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases)| UNESCO
+* [Caribbean Artificial Intelligence Policy Roadmap](https://unesdoc.unesco.org/ark:/48223/pf0000391996/PDF/391996eng.pdf.multi)| UNESCO
+* [Consultation paper on AI regulation: emerging approaches across the world](https://unesdoc.unesco.org/ark:/48223/pf0000390979)| UNESCO
+* [Global AI Ethics and Governance Observatory](https://www.unesco.org/ethics-ai/en)| UNESCO
+* [Recommendation on the Ethics of Artificial Intelligence](https://unesdoc.unesco.org/ark:/48223/pf0000381137/PDF/381137eng.pdf.multi)| UNESCO
+ * [Readiness assessment methodology: a tool of the Recommendation on the Ethics of Artificial Intelligence](https://www.unesco.org/en/articles/readiness-assessment-methodology-tool-recommendation-ethics-artificial-intelligence)| UNESCO
+* [Policy guidance on AI for children, Version 2.0, November 2021, Recommendations for building AI policies and systems that uphold child rights](https://www.unicef.org/innocenti/media/1341/file/UNICEF-Global-Insight-policy-guidance-AI-children-2.0-2021.pdf)| UNICEF
 
 ### Law Texts and Drafts
 
@@ -983,7 +983,7 @@ This section is a collection of law texts and drafts pertaining to responsible A
 * [California, Civil Rights Council - First Modifications to Proposed Employment Regulations on Automated-Decision Systems, Title 2, California Code of Regulations](https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2024/10/First-Modifications-to-Text-of-Proposed-Modifications-to-Employment-Regulations-Regarding-Automated-Decision-Systems.pdf)
 * [California, Consumer Privacy Act of 2018, Civil Code - DIVISION 3. OBLIGATIONS: 1427 - 3273.69](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&part=4.&lawCode=CIV&title=1.81.5)
 * [Colorado, SB24-205 Consumer Protections for Artificial Intelligence, Concerning consumer protections in interactions with artificial intelligence systems](https://leg.colorado.gov/bills/SB24-205)
-* [European Union, General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
+* [European Union, General Data Protection Regulation -GDPR](https://gdpr-info.eu/)
   * [Article 22 EU GDPR "Automated individual decision-making, including profiling"](https://www.privacy-regulation.eu/en/article-22-automated-individual-decision-making-including-profiling-GDPR.htm)
 * [Executive Order 13960 - 2020-12-03, Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government](https://www.federalregister.gov/documents/2020/12/08/2020-27065/promoting-the-use-of-trustworthy-artificial-intelligence-in-the-federal-government)
 * [Facial Recognition and Biometric Technology Moratorium Act of 2020](https://drive.google.com/file/d/1gkTcjFtieMQdsQ01dmDa49B6HY9ZyKr8/view)
@@ -991,14 +991,14 @@ This section is a collection of law texts and drafts pertaining to responsible A
 * [Germany, Bundesrat Drucksache 222/24 - Entwurf eines Gesetzes zum strafrechtlichen Schutz von Persönlichkeitsrechten vor Deepfakes - Draft Law on the Criminal Protection of Personality Rights from Deepfakes)](https://www.bundesrat.de/SharedDocs/drucksachen/2024/0201-0300/222-24(B).pdf?__blob=publicationFile&v=1)
 * [Illinois, Biometric Information Privacy Act](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57)
 * [Justice in Policing Act](https://democrats-judiciary.house.gov/issues/issue/?IssueID=14924)
-* [National Conference of State Legislatures (NCSL) 2020 Consumer Data Privacy Legislation](https://www.ncsl.org/technology-and-communication/2020-consumer-data-privacy-legislation)
+* [National Conference of State Legislatures -NCSL, 2020 Consumer Data Privacy Legislation](https://www.ncsl.org/technology-and-communication/2020-consumer-data-privacy-legislation)
 * [Nebraska, LB1203 - Regulate artificial intelligence in media and political advertisements under the Nebraska Political Accountability and Disclosure Act](https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55088)
 * [Rhode Island, Executive Order 24-06: Artificial Intelligence and Data Centers of Excellence](https://governor.ri.gov/executive-orders/executive-order-24-06)
 * [Virginia, Consumer Data Protection Act](https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/)
 * [Washington State, SB 6513 - 2019-20](https://apps.leg.wa.gov/billsummary/?BillNumber=6513&Year=2020&Initiative=false)
-* [H.R.5586 - DEEPFAKES Accountability Act](https://www.congress.gov/bill/118th-congress/house-bill/5586/text)|(United States Congress, 118th Congress (2023-2024))
-* [H.R. 9720, AI Incident Reporting and Security Enhancement Act](https://science.house.gov/bills?ID=95D5A008-EA1A-4D43-A363-DC2D129DFDCD)|(United States Congress, 118th Congress (2023-2024))
-* [S.4769 - VET Artificial Intelligence Act](https://www.congress.gov/bill/118th-congress/senate-bill/4769/text)|(United States Congress, 118th Congress (2023-2024))
+* [H.R.5586 - DEEPFAKES Accountability Act](https://www.congress.gov/bill/118th-congress/house-bill/5586/text)| United States Congress, 118th Congress (2023-2024)
+* [H.R. 9720, AI Incident Reporting and Security Enhancement Act](https://science.house.gov/bills?ID=95D5A008-EA1A-4D43-A363-DC2D129DFDCD)| United States Congress, 118th Congress (2023-2024)
+* [S.4769 - VET Artificial Intelligence Act](https://www.congress.gov/bill/118th-congress/senate-bill/4769/text)| United States Congress, 118th Congress (2023-2024)
 
 ## Education Resources
 
@@ -1009,8 +1009,8 @@ This section is a curated collection of guides and tutorials that simplify respo
 * [COMPAS Analysis Using Aequitas](https://github.com/dssg/aequitas/blob/master/docs/source/examples/compas_demo.ipynb)|![](https://img.shields.io/github/stars/dssg/aequitas?style=social)
 * [Explaining Quantitative Measures of Fairness - with SHAP](https://github.com/slundberg/shap/blob/master/notebooks/overviews/Explaining%20quantitative%20measures%20of%20fairness.ipynb)|![](https://img.shields.io/github/stars/slundberg/shap?style=social)
 * [Getting a Window into your Black Box Model](http://projects.rajivshah.com/inter/ReasonCode_NFL.html)
-* [From GLM to GBM Part 1](https://www.h2o.ai/blog/from-glm-to-gbm-part-1/)|(H20.ai)
-* [From GLM to GBM Part 2](https://www.h2o.ai/blog/from-glm-to-gbm-part-2/)|(H20.ai)
+* [From GLM to GBM Part 1](https://www.h2o.ai/blog/from-glm-to-gbm-part-1/)| H20.ai
+* [From GLM to GBM Part 2](https://www.h2o.ai/blog/from-glm-to-gbm-part-2/)| H20.ai
 * [IML](https://mybinder.org/v2/gh/christophM/iml/master?filepath=./notebooks/tutorial-intro.ipynb)
 * [Interpretable Machine Learning with Python](https://github.com/jphall663/interpretable_machine_learning_with_python)|![](https://img.shields.io/github/stars/jphall663/interpretable_machine_learning_with_python?style=social)
 * [Interpreting Machine Learning Models with the iml Package](http://uc-r.github.io/iml-pkg)
@@ -1036,39 +1036,39 @@ This section is a curated collection of guides and tutorials that simplify respo
 
 This section contains books that can be reasonably described as free, including some "historical" books dealing broadly with ethical and responsible tech.
 
-* [How Humans Judge Machines](https://archive.org/details/mit_press_book_9780262363266)|(César A. Hidalgo, Diana Orghian, Jordi Albo-Canals, Filipa de Almeida, and Natalia Martin, 2021)
-* [Normal Accidents: Living with High-Risk Technologies](https://archive.org/details/normalaccidentsl0000perr)|(Charles Perrow, 1984)
-* [Normal Accidents: Living with High-Risk Technologies with a New Afterword and a Postscript on the Y2K Problem](https://archive.org/details/normalaccidentsl00perr)|(Charles Perrow, 1999)
-* [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)|(Christoph Molnar, 2021)
+* [How Humans Judge Machines](https://archive.org/details/mit_press_book_9780262363266)| César A. Hidalgo, Diana Orghian, Jordi Albo-Canals, Filipa de Almeida, and Natalia Martin, 2021
+* [Normal Accidents: Living with High-Risk Technologies](https://archive.org/details/normalaccidentsl0000perr)| Charles Perrow, 1984
+* [Normal Accidents: Living with High-Risk Technologies with a New Afterword and a Postscript on the Y2K Problem](https://archive.org/details/normalaccidentsl00perr)| Charles Perrow, 1999
+* [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)| Christoph Molnar, 2021
 * [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book)|![](https://img.shields.io/github/stars/christophM/interpretable-ml-book?style=social)
 * [Trustworthy AI: African Perspectives](https://link.springer.com/book/10.1007/978-3-031-75674-0)
-* [Computer Ethics: Analyzing Information Technology, Fourth Edition](https://archive.org/details/computerethicsan0004edjohn)|(Deborah G. Johnson and Keith W. Miller, 2009)
-* [Fueling Our Future: A Dialogue about Technology, Ethics, Public Policy, and Remedial Action](https://archive.org/details/fuelingourfuture0000unse/mode/2up)|(Ed Dreby and Keith Helmuth (contributors) and Judy Lumb (editor), 2009)
+* [Computer Ethics: Analyzing Information Technology, Fourth Edition](https://archive.org/details/computerethicsan0004edjohn)| Deborah G. Johnson and Keith W. Miller, 2009
+* [Fueling Our Future: A Dialogue about Technology, Ethics, Public Policy, and Remedial Action](https://archive.org/details/fuelingourfuture0000unse/mode/2up)| Ed Dreby and Keith Helmuth (contributors) and Judy Lumb (editor), 2009
 * [Ethics for people who work in tech](https://ethicsforpeoplewhoworkintech.com/)
-* [Regulating under Uncertainty: Governance Options for Generative AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4918704)|(Florence G'sell)
-* [Ethics in Information Technology](https://archive.org/details/ethicsininformat00reyn)|(George Reynolds, 2002)
-* [Ethics in Information Technology, Instructor's Edition](https://archive.org/details/ethicsininformat0000reyn)|(George Reynolds, 2002)
-* [Computer Power and Human Reason: From Judgment to Calculation](https://archive.org/details/computerpowerhum0000weiz_v0i3/mode/2up)|(Joseph Weizenbaum, 1976)
-* [Who Shall Live? Medicine, Technology, Ethics](https://archive.org/details/whoshalllivemedi0000hous)|(Kenneth Vaux (editor), 1970)
-* [Trustworthy Machine Learning: Concepts for Developing Accurate, Fair, Robust, Explainable, Transparent, Inclusive, Empowering, and Beneficial Machine Learning Systems](http://www.trustworthymachinelearning.com/)|(Kush R. Varshney, 2022)
-* [Computer and Information Ethics](https://archive.org/details/computerinformat0000wood_q3r6)|(Marsha Cook Woodbury, 2003)
-* [Computers, Ethics, and Society](https://archive.org/details/computersethicss0000unse)|(M. David Ermann, Mary B. Williams, and Claudio Gutierrez, 1990)
-* [Society, Ethics, and Technology, First Edition](https://archive.org/details/societyethicstec00wins)|(Morton E. Winston and Ralph D. Edelbach, 2000)
-* [Society, Ethics, and Technology, Second Edition](https://archive.org/details/societyethicstec0000unse)|(Morton E. Winston and Ralph D. Edelbach, 2003)
-* [Society, Ethics, and Technology, Third Edition](https://archive.org/details/societyethicstec00edel)|(Morton E. Winston and Ralph D. Edelbach, 2006)
-* [An Introduction to Machine Learning Interpretability: An Applied Perspective on Fairness, Accountability, Transparency, and Explainable AI, Second Edition](https://h2o.ai/content/dam/h2o/en/marketing/documents/2019/08/An-Introduction-to-Machine-Learning-Interpretability-Second-Edition.pdf)|(Patrick Hall and Navdeep Gill, 2019)
-* [Responsible Machine Learning: Actionable Strategies for Mitigating Risks & Driving Adoption](https://info.h2o.ai/rs/644-PKX-778/images/OReilly_Responsible_ML_eBook.pdf)|(Patrick Hall, Navdeep Gill, and Benjamin Cox, 2021)
-* [Towards a Code of Ethics for Artificial Intelligence](https://archive.org/details/towardscodeofeth0000bodd)|(Paula Boddington, 2017)
-* [Explanatory Model Analysis: Explore, Explain, and Examine Predictive Models. With examples in R and Python](https://ema.drwhy.ai/)|(Przemyslaw Biecek and Tomasz Burzykowski, 2020)
-* [Adversarial Model Analysis](https://ama.drwhy.ai/)|(Przemyslaw Biecek, 2023)
-* [Science and Technology Ethics](https://archive.org/details/sciencetechnolog0000unse_k7m6)|(Raymond E. Spier (editor), 2003)
-* [Ethical Aspects of Information Technology](https://archive.org/details/ethicalaspectsof00spin)|(Richard A. Spinello, 1995)
-* [Case Studies in Information and Computer Ethics](https://archive.org/details/unset0000unse_l0l0)|(Richard A. Spinello, 1997)
-* [Case Studies in Information Technology Ethics, Second Edition](https://archive.org/details/casestudiesininf02edspin)|(Richard A. Spinello, 2003)
-* [Fairness and Machine Learning: Limitations and Opportunities](https://fairmlbook.org/)|(Solon Barocas, Moritz Hardt, and Arvind Narayanan, 2022)
-* [Information Technology Ethics: Cultural Perspectives](https://archive.org/details/informationtechn0000unse_k8c9)|(Soraj Hongladarom and Charles Ess, 2007)
-* [Controlling Technology: Ethics and the Responsible Engineer, First Edition](https://archive.org/details/controllingtechn0000unge_y4t3)|(Stephen H. Unger, 1982)
-* [Controlling Technology: Ethics and the Responsible Engineer, Second Edition](https://archive.org/details/controllingtechn0000unge)|(Stephen H. Unger, 1994)
+* [Regulating under Uncertainty: Governance Options for Generative AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4918704)| Florence G'sell
+* [Ethics in Information Technology](https://archive.org/details/ethicsininformat00reyn)| George Reynolds, 2002
+* [Ethics in Information Technology, Instructor's Edition](https://archive.org/details/ethicsininformat0000reyn)| George Reynolds, 2002
+* [Computer Power and Human Reason: From Judgment to Calculation](https://archive.org/details/computerpowerhum0000weiz_v0i3/mode/2up)| Joseph Weizenbaum, 1976
+* [Who Shall Live? Medicine, Technology, Ethics](https://archive.org/details/whoshalllivemedi0000hous)| Kenneth Vaux (editor), 1970
+* [Trustworthy Machine Learning: Concepts for Developing Accurate, Fair, Robust, Explainable, Transparent, Inclusive, Empowering, and Beneficial Machine Learning Systems](http://www.trustworthymachinelearning.com/)| Kush R. Varshney, 2022
+* [Computer and Information Ethics](https://archive.org/details/computerinformat0000wood_q3r6)| Marsha Cook Woodbury, 2003
+* [Computers, Ethics, and Society](https://archive.org/details/computersethicss0000unse)| M. David Ermann, Mary B. Williams, and Claudio Gutierrez, 1990
+* [Society, Ethics, and Technology, First Edition](https://archive.org/details/societyethicstec00wins)| Morton E. Winston and Ralph D. Edelbach, 2000
+* [Society, Ethics, and Technology, Second Edition](https://archive.org/details/societyethicstec0000unse)| Morton E. Winston and Ralph D. Edelbach, 2003
+* [Society, Ethics, and Technology, Third Edition](https://archive.org/details/societyethicstec00edel)| Morton E. Winston and Ralph D. Edelbach, 2006
+* [An Introduction to Machine Learning Interpretability: An Applied Perspective on Fairness, Accountability, Transparency, and Explainable AI, Second Edition](https://h2o.ai/content/dam/h2o/en/marketing/documents/2019/08/An-Introduction-to-Machine-Learning-Interpretability-Second-Edition.pdf)| Patrick Hall and Navdeep Gill, 2019
+* [Responsible Machine Learning: Actionable Strategies for Mitigating Risks & Driving Adoption](https://info.h2o.ai/rs/644-PKX-778/images/OReilly_Responsible_ML_eBook.pdf)| Patrick Hall, Navdeep Gill, and Benjamin Cox, 2021
+* [Towards a Code of Ethics for Artificial Intelligence](https://archive.org/details/towardscodeofeth0000bodd)| Paula Boddington, 2017
+* [Explanatory Model Analysis: Explore, Explain, and Examine Predictive Models. With examples in R and Python](https://ema.drwhy.ai/)| Przemyslaw Biecek and Tomasz Burzykowski, 2020
+* [Adversarial Model Analysis](https://ama.drwhy.ai/)| Przemyslaw Biecek, 2023
+* [Science and Technology Ethics](https://archive.org/details/sciencetechnolog0000unse_k7m6)| Raymond E. Spier (editor), 2003
+* [Ethical Aspects of Information Technology](https://archive.org/details/ethicalaspectsof00spin)| Richard A. Spinello, 1995
+* [Case Studies in Information and Computer Ethics](https://archive.org/details/unset0000unse_l0l0)| Richard A. Spinello, 1997
+* [Case Studies in Information Technology Ethics, Second Edition](https://archive.org/details/casestudiesininf02edspin)| Richard A. Spinello, 2003
+* [Fairness and Machine Learning: Limitations and Opportunities](https://fairmlbook.org/)| Solon Barocas, Moritz Hardt, and Arvind Narayanan, 2022
+* [Information Technology Ethics: Cultural Perspectives](https://archive.org/details/informationtechn0000unse_k8c9)| Soraj Hongladarom and Charles Ess, 2007
+* [Controlling Technology: Ethics and the Responsible Engineer, First Edition](https://archive.org/details/controllingtechn0000unge_y4t3)| Stephen H. Unger, 1982
+* [Controlling Technology: Ethics and the Responsible Engineer, Second Edition](https://archive.org/details/controllingtechn0000unge)| Stephen H. Unger, 1994
 
 ### Glossaries and Dictionaries
 
@@ -1085,7 +1085,7 @@ This section features a collection of glossaries and dictionaries that are geare
 * [Council of Europe Artificial Intelligence Glossary](https://www.coe.int/en/web/artificial-intelligence/glossary)
 * [Coursera: Artificial Intelligence - AI - Terms: A to Z Glossary](https://www.coursera.org/articles/ai-terms)
 * [Dataconomy: AI dictionary: Be a native speaker of Artificial Intelligence](https://dataconomy.com/2022/04/23/artificial-intelligence-terms-ai-glossary/)
-* [Dictionary of Artificial Intelligence](https://archive.org/details/dictionaryofarti0000merc)|(Dennis Mercadal, 1990)
+* [Dictionary of Artificial Intelligence](https://archive.org/details/dictionaryofarti0000merc)| Dennis Mercadal, 1990
 * [European Commission, EU-U.S. Terminology and Taxonomy for Artificial Intelligence - Second Edition](https://digital-strategy.ec.europa.eu/en/library/eu-us-terminology-and-taxonomy-artificial-intelligence-second-edition)
 * [European Commission, Glossary of human-centric artificial intelligence](https://publications.jrc.ec.europa.eu/repository/handle/JRC129614)
 * [G2: 70+ A to Z Artificial Intelligence Terms in Technology](https://www.g2.com/articles/artificial-intelligence-terms)
@@ -1098,16 +1098,16 @@ This section features a collection of glossaries and dictionaries that are geare
 * [IBM AI glossary](https://www.ibm.com/cloud/architecture/architecture/practices/cognitive-glossary/)
 * [IEEE, A Glossary for Discussion of Ethics of Autonomous and Intelligent Systems, Version 1](https://standards.ieee.org/wp-content/uploads/import/documents/other/eadv2_glossary.pdf)
 * [ISO/IEC DIS 22989(en) Information technology — Artificial intelligence — Artificial intelligence concepts and terminology](https://www.iso.org/obp/ui/fr/#iso:std:iso-iec:22989:dis:ed-1:v1:en)
-* [Dictionary of Artificial Intelligence & Robotics](https://archive.org/details/dictionaryofarti00rose)|(Jerry M. Rosenberg, 1986)
+* [Dictionary of Artificial Intelligence & Robotics](https://archive.org/details/dictionaryofarti00rose)| Jerry M. Rosenberg, 1986
 * [MakeUseOf: A Glossary of AI Jargon: 29 AI Terms You Should Know](https://www.makeuseof.com/glossary-ai-jargon-terms/)
 * [Moveworks: AI Terms Glossary](https://www.moveworks.com/us/en/resources/ai-terms-glossary)
 * [National Institute of Standards and Technology - NIST, NIST AI 100-2 E2023: Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)
 * [National Institute of Standards and Technology - NIST, The Language of Trustworthy AI: An In-Depth Glossary of Terms](https://airc.nist.gov/AI_RMF_Knowledge_Base/Glossary)
-* [Dictionary of Cognitive Science: Neuroscience, Psychology, Artificial Intelligence, Linguistics, and Philosophy](https://archive.org/details/dictionaryofcogn0000unse)|(Oliver Houdé, 2004)
+* [Dictionary of Cognitive Science: Neuroscience, Psychology, Artificial Intelligence, Linguistics, and Philosophy](https://archive.org/details/dictionaryofcogn0000unse)| Oliver Houdé, 2004
 * [Open Access Vocabulary](https://repository.ifla.org/bitstream/123456789/3272/1/Open%20Access%20Vocabulary%20Feb2024%20v2.pdf)
-* [A Multilingual Dictionary of Artificial Intelligence: English, German, French, Spanish, Italian](https://archive.org/details/multilingualdict0000voll)|(Otto Vollnhals, 1992)
-* [The Facts on File Dictionary of Artificial Intelligence](https://archive.org/details/factsonfiledicti00smit)|(Raoul Smith, 1989)
-* [Collins Dictionary of Artificial Intelligence](https://archive.org/details/collinsdictionar0000unse_w3w7)|(Raoul Smith, 1990)
+* [A Multilingual Dictionary of Artificial Intelligence: English, German, French, Spanish, Italian](https://archive.org/details/multilingualdict0000voll)| Otto Vollnhals, 1992
+* [The Facts on File Dictionary of Artificial Intelligence](https://archive.org/details/factsonfiledicti00smit)| Raoul Smith, 1989
+* [Collins Dictionary of Artificial Intelligence](https://archive.org/details/collinsdictionar0000unse_w3w7)| Raoul Smith, 1990
 * [Salesforce: AI From A to Z: The Generative AI Glossary for Business Leaders](https://www.salesforce.com/blog/generative-ai-glossary/)
 * [Siemens, Artificial Intelligence Glossary](https://www.siemens.com/global/en/company/stories/artificial-intelligence/ai-glossary.html)
 * [Stanford University HAI Artificial Intelligence Definitions](https://hai.stanford.edu/sites/default/files/2023-03/AI-Key-Terms-Glossary-Definition.pdf)
@@ -1118,8 +1118,8 @@ This section features a collection of glossaries and dictionaries that are geare
 * [University of New South Wales, Bill Wilson, The Machine Learning Dictionary](https://www.cse.unsw.edu.au/~billw/mldict.html)
 * [VAIR - Vocabulary of AI Risks](https://delaramglp.github.io/vair/)
 * [Wikipedia: Glossary of artificial intelligence](https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence)
-* [The International Dictionary of Artificial Intelligence, First Edition](https://archive.org/details/internationaldic0000rayn/mode/2up)|(William J. Raynor, Jr, 1999)
-* [International Dictionary of Artificial Intelligence, Second Edition](https://archive.org/details/internationaldic0000rayn_t1n5/mode/2up)|(William J. Raynor, Jr, 2009)
+* [The International Dictionary of Artificial Intelligence, First Edition](https://archive.org/details/internationaldic0000rayn/mode/2up)| William J. Raynor, Jr, 1999
+* [International Dictionary of Artificial Intelligence, Second Edition](https://archive.org/details/internationaldic0000rayn_t1n5/mode/2up)| William J. Raynor, Jr, 2009
 
 ### Open-ish Classes
 
@@ -1131,10 +1131,10 @@ This section features a selection of educational courses focused on ethical cons
 * [Build a Large Language Model: From Scratch](https://github.com/rasbt/LLMs-from-scratch/tree/main)|![](https://img.shields.io/github/stars/rasbt/LLMs-from-scratch?style=social)
 * [Carnegie Mellon University, Computational Ethics for NLP](http://demo.clab.cs.cmu.edu/ethical_nlp/)
 * [Certified Ethical Emerging Technologist](https://certnexus.com/certification/ceet/)
-* [DeepLearning.AI, Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone)|(Coursera)
-* [DeepLearning.AI, Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)|(Coursera)
-* [Google Cloud, Introduction to Generative AI](https://www.coursera.org/learn/introduction-to-generative-ai)|(Coursera)
-* [Vanderbilt University, Prompt Engineering for ChatGPT](https://www.coursera.org/learn/prompt-engineering)|(Coursera)
+* [DeepLearning.AI, Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone)| Coursera
+* [DeepLearning.AI, Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)| Coursera
+* [Google Cloud, Introduction to Generative AI](https://www.coursera.org/learn/introduction-to-generative-ai)| Coursera
+* [Vanderbilt University, Prompt Engineering for ChatGPT](https://www.coursera.org/learn/prompt-engineering)| Coursera
 * [CS103F: Ethical Foundations of Computer Science](https://www.cs.utexas.edu/~ans/classes/cs109/schedule.html)
 * [DeepLearning.AI](https://www.deeplearning.ai/courses/)
 * [ETH Zürich ReliableAI 2022 Course Project repository](https://github.com/angelognazzo/Reliable-Trustworthy-AI)|![](https://img.shields.io/github/stars/angelognazzo/Reliable-Trustworthy-AI?style=social)
@@ -1156,7 +1156,7 @@ This section features a selection of educational courses focused on ethical cons
 * [Introduction to AI Ethics](https://www.kaggle.com/code/var0101/introduction-to-ai-ethics)
 * [INFO 4270: Ethics and Policy in Data Science](https://docs.google.com/document/d/1GV97qqvjQNvyM2I01vuRaAwHe9pQAZ9pbP7KkKveg1o/)
 * [Introduction to Responsible Machine Learning](https://jphall663.github.io/GWU_rml/)
-* [Visualizing A Neural Machine Translation Model - Mechanics of Seq2seq Models With Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)|(Jay Alammar)
+* [Visualizing A Neural Machine Translation Model - Mechanics of Seq2seq Models With Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)| Jay Alammar
 * [Machine Learning Fairness by Google](https://developers.google.com/machine-learning/crash-course/fairness/video-lecture)
 * [OECD.AI, Disability-Centered AI And Ethics MOOC](https://oecd.ai/en/catalogue/tools/disability-centered-ai-and-ethics-mooc)
 * [Piotr Sapieżyński's CS 4910 - Special Topics in Computer Science: Algorithm Audits](https://sapiezynski.com/cs4910.html)
@@ -1195,7 +1195,7 @@ This section houses initiatives, networks, repositories, and publications that f
 #### Bibliography of Papers on AI Incidents and Failures
 
 * [AI Ethics Issues in Real World: Evidence from AI Incident Database](https://doi.org/10.48550/arXiv.2206.07635)
-* [Deepfake Pornography Goes to Washington: Measuring the Prevalence of AI-Generated Non-Consensual Intimate Imagery Targeting Congress](https://static1.squarespace.com/static/6612cbdfd9a9ce56ef931004/t/67586997eaec5c6ae3bb5e24/1733847451191/ASP+DFP+Report.pdf)|(American Sunlight Project, December 11, 2024)
+* [Deepfake Pornography Goes to Washington: Measuring the Prevalence of AI-Generated Non-Consensual Intimate Imagery Targeting Congress](https://static1.squarespace.com/static/6612cbdfd9a9ce56ef931004/t/67586997eaec5c6ae3bb5e24/1733847451191/ASP+DFP+Report.pdf)| American Sunlight Project, December 11, 2024
 * [The Atlas of AI Incidents in Mobile Computing: Visualizing the Risks and Benefits of AI Gone Mobile](https://doi.org/10.48550/arXiv.2407.15685)
 * [Artificial Intelligence Incidents & Ethics: A Narrative Review](https://doi.org/10.54489/ijtim.v2i2.80)
 * [Artificial Intelligence Safety and Cybersecurity: A Timeline of AI Failures](https://doi.org/10.48550/arXiv.1610.07997)
@@ -1224,17 +1224,17 @@ This section contains trackers, databases, and repositories of laws, policies, a
 * [The Ethical AI Database](https://www.eaidb.org/)
 * [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
 * [GobLab UAI, Ethical AI Standards in Chile: Responsible and Transparent Algorithms](https://goblab.uai.cl/en/ethical-algorithms/)
-* [Global AI Legislation Tracker](https://iapp.org/resources/article/global-ai-legislation-tracker/)|(International Association of Privacy Professionals (IAPP))
-* [UK data protection reform: An overview](https://iapp.org/resources/article/uk-data-protection-reform-an-overview/)|(International Association of Privacy Professionals (IAPP))
-* [US State Privacy Legislation Tracker](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/)|(International Association of Privacy Professionals (IAPP))
+* [Global AI Legislation Tracker](https://iapp.org/resources/article/global-ai-legislation-tracker/)| International Association of Privacy Professionals (IAPP)
+* [UK data protection reform: An overview](https://iapp.org/resources/article/uk-data-protection-reform-an-overview/)| International Association of Privacy Professionals (IAPP)
+* [US State Privacy Legislation Tracker](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/)| International Association of Privacy Professionals (IAPP)
 * [Institute for the Future of Work, Tracking international legislation relevant to AI at work](https://www.ifow.org/publications/legislation-tracker)
 * [Legal Nodes, Global AI Regulations Tracker: Europe, Americas & Asia-Pacific Overview](https://legalnodes.com/article/global-ai-regulations-tracker)
 * [MIT AI Risk Repository](https://airisk.mit.edu/)
 * [National Conference of State Legislatures, Deceptive Audio or Visual Media - ‘Deepfakes’ - 2024 Legislation](https://www.ncsl.org/technology-and-communication/deceptive-audio-or-visual-media-deepfakes-2024-legislation)
-* [National AI policies & strategies](https://oecd.ai/en/dashboards/overview)|(OECD.AI)
-* [Global AI Regulation Tracker](https://www.techieray.com/GlobalAIRegulationTracker)|(Raymond Sun)
-* [Global AI Regulation Tracker](https://www.runwaystrategies.co/global-ai-regulation-tracker)|(Runway Strategies)
-* [Artificial Intelligence (AI) Policy Collection](https://digital.library.unt.edu/explore/collections/AIPC/)|(University of North Texas)
+* [National AI policies & strategies](https://oecd.ai/en/dashboards/overview)| OECD.AI
+* [Global AI Regulation Tracker](https://www.techieray.com/GlobalAIRegulationTracker)| Raymond Sun
+* [Global AI Regulation Tracker](https://www.runwaystrategies.co/global-ai-regulation-tracker)| Runway Strategies
+* [Artificial Intelligence (AI) Policy Collection](https://digital.library.unt.edu/explore/collections/AIPC/)| University of North Texas
 * [VidhiSharma.AI, Global AI Governance Tracker](https://vidhisharmaai.com/global-ai-governance-tracker/)
 * [White & Case, AI Watch: Global regulatory tracker - United States](https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-united-states)
 
@@ -1320,7 +1320,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Nepotistically Trained Generative-AI Models Collapse](https://arxiv.org/abs/2311.12202)
 * [Non-discrimination Criteria for Generative Language Models](https://arxiv.org/abs/2403.08564)
 * [OpenAI—written evidence - LLM0113, House of Lords Communications and Digital Select Committee inquiry: Large language models](https://committees.parliament.uk/writtenevidence/126981/pdf/)
-  * [Former OpenAI Researcher Says the Company Broke Copyright Law](https://www.nytimes.com/2024/10/23/technology/openai-copyright-law.html)
+* [Former OpenAI Researcher Says the Company Broke Copyright Law](https://www.nytimes.com/2024/10/23/technology/openai-copyright-law.html)
 * [Open Problems in Technical AI Governance](https://arxiv.org/pdf/2407.14981)
 * [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
 * [The perpetual motion machine of AI-generated data and the distraction of ChatGPT as a ‘scientist’](https://www.nature.com/articles/s41587-023-02103-0)
@@ -1358,7 +1358,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Beyond CO2 Emissions: The Overlooked Impact of Water Consumption of Information Retrieval Models](https://dl.acm.org/doi/abs/10.1145/3578337.3605121)
 * [The carbon impact of artificial intelligence](https://www.nature.com/articles/s42256-020-0219-9)
 * [Data centre water consumption](https://www.nature.com/articles/s41545-021-00101-w)
-* [Deloitte, Powering artificial intelligence: A study of AI's environmental footprint—today and tomorrow](https://www.deloitte.com/content/dam/assets-shared/docs/about/2024/powering-artificial-intelligence.pdf)|(November 2024)
+* [Deloitte, Powering artificial intelligence: A study of AI's environmental footprint—today and tomorrow](https://www.deloitte.com/content/dam/assets-shared/docs/about/2024/powering-artificial-intelligence.pdf)| November 2024
 * [Efficiency is Not Enough: A Critical Perspective of Environmentally Sustainable AI](https://arxiv.org/abs/2309.02065)
 * [Environment and sustainability development: A ChatGPT perspective](https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003471059-8/environment-sustainability-development-chatgpt-perspective-priyanka-bhaskar-neha-seth)
 * [The Environmental Impact of AI: A Case Study of Water Consumption by Chat GPT](https://puiij.com/index.php/research/article/view/39)
@@ -1432,7 +1432,7 @@ This section links to other lists of responsible ML or related resources.
 * [criticalML](https://github.com/rockita/criticalML)|![](https://img.shields.io/github/stars/rockita/criticalML?style=social)
 * [Ethics for people who work in tech](https://ethicsforpeoplewhoworkintech.com/)
 * [Evaluation Repository for 'Sociotechnical Safety Evaluation of Generative AI Systems'](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQObeTxvXtOs--zd98qG2xBHHuTTJOyNISBJPthZFr3at2LCrs3rcv73d4of1A78JV2eLuxECFXJY43/pubhtml)
-* [GET Program for AI Ethics and Governance Standards](https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=93)|(IEEE GET Program)
+* [GET Program for AI Ethics and Governance Standards](https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=93)| IEEE GET Program
 * [IMDA-BTG, LLM-Evals-Catalogue](https://github.com/IMDA-BTG/LLM-Evals-Catalogue)|![](https://img.shields.io/github/stars/IMDA-BTG/LLM-Evals-Catalogue?style=social)
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References)|![](https://img.shields.io/github/stars/radames/Machine-Learning-Ethics-References?style=social)
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)|![](https://img.shields.io/github/stars/h2oai/mli-resources?style=social)
@@ -1774,14 +1774,14 @@ For official government files pertaining to responsible AI practices that have b
 *[Data Availability and Transparency Act 2022](https://web.archive.org/web/20240314232025/https://www.datacommissioner.gov.au/law/dat-act)| Australia, Office of the National Data Commissioner, April 1, 2022, archived March 14, 2024
   * [Introducing the DATA Scheme](https://www.datacommissioner.gov.au/the-data-scheme)
   * [Federal Register of Legislation, Data Availability and Transparency Act 2022](https://www.legislation.gov.au/C2022A00011/latest/text)
-* [Developing Financial Sector Resilience in a Digital World: Selected Themes in Technology and Related Risks](https://web.archive.org/web/20230802000841/https://www.osfi-bsif.gc.ca/Eng/Docs/tchrsk.pdf)|Canada, Office of the Superintendent of Financial Institutions of Canada, September 2020, archived August 2, 2023
+* [Developing Financial Sector Resilience in a Digital World: Selected Themes in Technology and Related Risks](https://web.archive.org/web/20230802000841/https://www.osfi-bsif.gc.ca/Eng/Docs/tchrsk.pdf)| Canada, Office of the Superintendent of Financial Institutions of Canada, September 2020, archived August 2, 2023
   * [Same or slightly revised document but different URL](https://www.osfi-bsif.gc.ca/sites/default/files/documents/tchrsk_EN.pdf)
 *[Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 DPA, Its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data NPC Advisory No. 2024-04](https://web.archive.org/web/20250112215325/https://privacy.gov.ph/wp-content/uploads/2024/12/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf)| Philippines, National Privacy Commission, December 19, 2024, archived January 12, 2025 
   * [Same or slightly revised document but different URL](https://privacy.gov.ph/wp-content/uploads/2025/02/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf)
-* [Generative Artificial Intelligence Risk Assessment SIMM 5305-F](https://web.archive.org/web/20240524154534/https://cdt.ca.gov/wp-content/uploads/2024/03/SIMM-5305-F-Generative-Artificial-Intelligence-Risk-Assessment-FINAL.pdf)|State of California, Department of Technology, Office of Information Security, March 2024, archived May 24, 2024
+* [Generative Artificial Intelligence Risk Assessment SIMM 5305-F](https://web.archive.org/web/20240524154534/https://cdt.ca.gov/wp-content/uploads/2024/03/SIMM-5305-F-Generative-Artificial-Intelligence-Risk-Assessment-FINAL.pdf)| State of California, Department of Technology, Office of Information Security, March 2024, archived May 24, 2024
   * [February 2025 update](https://cdt.ca.gov/wp-content/uploads/2025/01/SIMM-5305-F-GenAI-Risk-Assessment-2025_0131-final.pdf)
-* [Generative Artificial Intelligence Lexicon](https://web.archive.org/web/20240926203350/https://www.ai.mil/lexicon_ai_terms.html)|United States, Department of Defense, Chief Digital and Artificial Intelligence Office (CDAO), archived September 26, 2024
-* [Artificial Intelligence and Worker Well-Being: Principles and Best Practices for Developers and Employers](https://web.archive.org/web/20250205182942/https://www.dol.gov/sites/dolgov/files/general/ai/AI-Principles-Best-Practices.pdf)|United States, Department of Labor, archived February 5, 2025
+* [Generative Artificial Intelligence Lexicon](https://web.archive.org/web/20240926203350/https://www.ai.mil/lexicon_ai_terms.html)| United States, Department of Defense, Chief Digital and Artificial Intelligence Office (CDAO), archived September 26, 2024
+* [Artificial Intelligence and Worker Well-Being: Principles and Best Practices for Developers and Employers](https://web.archive.org/web/20250205182942/https://www.dol.gov/sites/dolgov/files/general/ai/AI-Principles-Best-Practices.pdf)| United States, Department of Labor, archived February 5, 2025
 *[National Artificial Intelligence Research and Development Strategic Plan 2023 Update](https://web.archive.org/web/20250116083052/https://www.whitehouse.gov/wp-content/uploads/2023/05/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf)| United States, Executive Office of the President, National Science and Technology Council, Select Committee on Artificial Intelligence, May 2023, archived January 16, 2025
 *[M-21-06 Memorandum for the Heads of Executive Departments and Agencies, Guidance for Regulation of Artificial Intelligence Applications](https://web.archive.org/web/20250118013159/https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-06.pdf)| United States, Executive Office of the President, Office of Management and Budget, November 17, 2020, archived January 18, 2025
 *[M-24-18 Memorandum for the Heads of Executive Departments and Agencies, Advancing the Responsible Acquisition of Artificial Intelligence in Government](https://web.archive.org/web/20250118023352/https://www.whitehouse.gov/wp-content/uploads/2024/10/M-24-18-AI-Acquisition-Memorandum.pdf)| United States, Executive Office of the President, Office of Management and Budget, September 24, 2024, archived January 18, 2025
@@ -1789,16 +1789,16 @@ For official government files pertaining to responsible AI practices that have b
  *[Aiming for truth, fairness, and equity in your company’s use of AI](https://web.archive.org/web/20250117235232/https://www.ftc.gov/business-guidance/blog/2021/04/aiming-truth-fairness-equity-your-companys-use-ai)| United States, Federal Trade Commission, Elisa Jillson, April 19, 2021, archived January 17, 2025
 *[Using Artificial Intelligence and Algorithms](https://web.archive.org/web/20240115210007/https://www.ftc.gov/business-guidance/blog/2020/04/using-artificial-intelligence-and-algorithms)| United States, Federal Trade Commission, Andrew Smith, April 8, 2020, archived January 15, 2024
 *[Office of Science and Technology Policy](https://web.archive.org/web/20250120110259/https://www.whitehouse.gov/ostp/)| United States, The White House, Office of Science and Technology Policy, January 13, 2021, archived January 20, 2025
-* [National Science and Technology Council](https://web.archive.org/web/20250118020849/https://www.whitehouse.gov/ostp/ostps-teams/nstc/)|United States, The White House, Office of Science and Technology Policy, January 16, 2021, archived January 18, 2025
-* [Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People, HTML](https://web.archive.org/web/20250119213350/https://www.whitehouse.gov/ostp/ai-bill-of-rights/)|United States, The White House, Office of Science and Technology Policy, October 4, 2022, archived January 20, 2025
+* [National Science and Technology Council](https://web.archive.org/web/20250118020849/https://www.whitehouse.gov/ostp/ostps-teams/nstc/)| United States, The White House, Office of Science and Technology Policy, January 16, 2021, archived January 18, 2025
+* [Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People, HTML](https://web.archive.org/web/20250119213350/https://www.whitehouse.gov/ostp/ai-bill-of-rights/)| United States, The White House, Office of Science and Technology Policy, October 4, 2022, archived January 20, 2025
 *[Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People, PDF](https://web.archive.org/web/20250119213350/https://www.whitehouse.gov/ostp/ai-bill-of-rights/)| United States, The White House, Office of Science and Technology Policy, October 4, 2022, archived January 20, 2025
-*[FACT SHEET: Biden-⁠Harris Administration Takes New Steps to Advance Responsible Artificial Intelligence Research, Development, and Deployment](https://web.archive.org/web/20250117044009/https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/23/fact-sheet-biden-harris-administration-takes-new-steps-to-advance-responsible-artificial-intelligence-research-development-and-deployment/)|United States, The White House, May 23, 2023, archived January 17, 2025
-*[FACT SHEET: Biden-⁠Harris Administration Secures Voluntary Commitments from Leading Artificial Intelligence Companies to Manage the Risks Posed by AI](https://web.archive.org/web/20250120131235/https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/21/fact-sheet-biden-harris-administration-secures-voluntary-commitments-from-leading-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/)|United States, The White House, July 21, 2023, archived January 20, 2025
-*[Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://web.archive.org/web/20250120132537/https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)|United States, The White House, October 30, 2023, archived January 20, 2025
-*[FACT SHEET: President Biden Issues Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence](https://web.archive.org/web/20250118214923/https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/)|United States, The White House, October 30, 2023, archived January 18, 2025
-*[FACT SHEET: Biden-⁠Harris Administration Announces New AI Actions and Receives Additional Major Voluntary Commitment on AI](https://web.archive.org/web/20250120101805/https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/26/fact-sheet-biden-harris-administration-announces-new-ai-actions-and-receives-additional-major-voluntary-commitment-on-ai/)|United States, The White House, July 26, 2024, archived January 20, 2025
-*[FACT SHEET: Biden-⁠Harris Administration Outlines Coordinated Approach to Harness Power of AI for U.S. National Security](https://web.archive.org/web/20250119050242/https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/24/fact-sheet-biden-harris-administration-outlines-coordinated-approach-to-harness-power-of-ai-for-u-s-national-security/)|United States, The White House, October 24, 2024, archived January 19, 2025
-* [Memorandum on Advancing the United States’ Leadership in Artificial Intelligence; Harnessing Artificial Intelligence to Fulfill National Security Objectives; and Fostering the Safety, Security, and Trustworthiness of Artificial Intelligence](https://web.archive.org/web/20250116072308/https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/)|United States, The White House, October 24, 2024, archived January 16, 2025
+*[FACT SHEET: Biden-⁠Harris Administration Takes New Steps to Advance Responsible Artificial Intelligence Research, Development, and Deployment](https://web.archive.org/web/20250117044009/https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/23/fact-sheet-biden-harris-administration-takes-new-steps-to-advance-responsible-artificial-intelligence-research-development-and-deployment/)| United States, The White House, May 23, 2023, archived January 17, 2025
+*[FACT SHEET: Biden-⁠Harris Administration Secures Voluntary Commitments from Leading Artificial Intelligence Companies to Manage the Risks Posed by AI](https://web.archive.org/web/20250120131235/https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/21/fact-sheet-biden-harris-administration-secures-voluntary-commitments-from-leading-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/)| United States, The White House, July 21, 2023, archived January 20, 2025
+*[Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://web.archive.org/web/20250120132537/https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)| United States, The White House, October 30, 2023, archived January 20, 2025
+*[FACT SHEET: President Biden Issues Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence](https://web.archive.org/web/20250118214923/https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/)| United States, The White House, October 30, 2023, archived January 18, 2025
+*[FACT SHEET: Biden-⁠Harris Administration Announces New AI Actions and Receives Additional Major Voluntary Commitment on AI](https://web.archive.org/web/20250120101805/https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/26/fact-sheet-biden-harris-administration-announces-new-ai-actions-and-receives-additional-major-voluntary-commitment-on-ai/)| United States, The White House, July 26, 2024, archived January 20, 2025
+*[FACT SHEET: Biden-⁠Harris Administration Outlines Coordinated Approach to Harness Power of AI for U.S. National Security](https://web.archive.org/web/20250119050242/https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/24/fact-sheet-biden-harris-administration-outlines-coordinated-approach-to-harness-power-of-ai-for-u-s-national-security/)| United States, The White House, October 24, 2024, archived January 19, 2025
+* [Memorandum on Advancing the United States’ Leadership in Artificial Intelligence; Harnessing Artificial Intelligence to Fulfill National Security Objectives; and Fostering the Safety, Security, and Trustworthiness of Artificial Intelligence](https://web.archive.org/web/20250116072308/https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/)| United States, The White House, October 24, 2024, archived January 16, 2025
 
 ### Citing Awesome Machine Learning Interpretability
 
