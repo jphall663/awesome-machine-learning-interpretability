@@ -110,7 +110,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Access Now, Regulatory Mapping on Artificial Intelligence in Latin America: Regional AI Public Policy Report](https://www.accessnow.org/wp-content/uploads/2024/07/TRF-LAC-Reporte-Regional-IA-JUN-2024-V3.pdf)
 * [Ada Lovelace Institute, Code and Conduct: How to Create Third-Party Auditing Regimes for AI Systems](https://www.adalovelaceinstitute.org/report/code-conduct-ai/)
 * [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)|![](https://img.shields.io/github/stars/mitre/advmlthreatmatrix?style=social)
-* [International AI Safety Report: The International Scientific Report on the Safety of Advanced AI]| AI Action Summit, January 2025
+* [International AI Safety Report: The International Scientific Report on the Safety of Advanced AI](https://assets.publishing.service.gov.uk/media/679a0c48a77d250007d313ee/International_AI_Safety_Report_2025_accessible_f.pdf)| AI Action Summit, January 2025
 * [AI Governance Needs Sociotechnical Expertise: Why the Humanities and Social Sciences Are Critical to Government Efforts](https://datasociety.net/wp-content/uploads/2024/05/DS_AI_Governance_Policy_Brief.pdf)
 * [AI Model Registries: A Foundational Tool for AI Governance](https://arxiv.org/pdf/2410.09645)| September 2024
 * [AI Risk Atlas: Taxonomy and Tooling for Navigating AI Risks and Resources](https://arxiv.org/pdf/2503.05780)
