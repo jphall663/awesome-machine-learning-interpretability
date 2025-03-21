@@ -65,7 +65,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
 
 * **AI Incidents, Critiques, and Research Resources**
   * [AI Incident Information Sharing Resources](#ai-incident-information-sharing-resources)
-    * [Bibliography of Papers on AI Incidents and Failures](#bibliography-of-papers-on-ai-incidents-and-failures)
+   * [Bibliography of Papers on AI Incidents and Failures](#bibliography-of-papers-on-ai-incidents-and-failures)
   * [AI Law, Policy, and Guidance Trackers](#ai-law-policy-and-guidance-trackers)
   * [Challenges and Competitions](#challenges-and-competitions)
   * [Critiques of AI](#critiques-of-ai)
@@ -106,17 +106,17 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Ada Lovelace Institute, Code and Conduct: How to Create Third-Party Auditing Regimes for AI Systems](https://www.adalovelaceinstitute.org/report/code-conduct-ai/)
 * [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)|![](https://img.shields.io/github/stars/mitre/advmlthreatmatrix?style=social)
 * [AI Governance Needs Sociotechnical Expertise: Why the Humanities and Social Sciences Are Critical to Government Efforts](https://datasociety.net/wp-content/uploads/2024/05/DS_AI_Governance_Policy_Brief.pdf)
-* [AI Model Registries: A Foundational Tool for AI Governance](https://arxiv.org/pdf/2410.09645)|(September 2024)
+* [AI Model Registries: A Foundational Tool for AI Governance](https://arxiv.org/pdf/2410.09645)| September 2024
 * [AI Verify](https://aiverifyfoundation.sg/what-is-ai-verify/)
   * [AI Verify Foundation](https://aiverifyfoundation.sg/what-is-ai-verify/)
   * [AI Verify Foundation, Cataloguing LLM Evaluations](https://aiverifyfoundation.sg/downloads/Cataloguing_LLM_Evaluations.pdf)
   * [AI Verify Foundation, Generative AI: Implications for Trust and Governance](https://aiverifyfoundation.sg/downloads/Discussion_Paper.pdf)
   * [AI Verfiy Foundation, Model Governance Framework for Generative AI](https://aiverifyfoundation.sg/wp-content/uploads/2024/05/Model-AI-Governance-Framework-for-Generative-AI-May-2024-1-1.pdf)
 * [AI Snake Oil](https://www.aisnakeoil.com/)
-* [American Sunlight Project, Deepfake Pornography Goes to Washington: Measuring the Prevalence of AI-Generated Non-Consensual Intimate Imagery Targeting Congress](https://static1.squarespace.com/static/6612cbdfd9a9ce56ef931004/t/67586997eaec5c6ae3bb5e24/1733847451191/ASP+DFP+Report.pdf)|(December 11, 2024)
-* [AI Ethics and Governance in Practice](https://www.turing.ac.uk/research/research-projects/ai-ethics-and-governance-practice)|(The Alan Turing Institute)
-* [Responsible Data Stewardship in Practice](https://www.turing.ac.uk/sites/default/files/2024-06/aieg-ati-5-datastewardshipv1.2.pdf)|(The Alan Turing Institute)
-* [AI Standards Hub](https://www.turing.ac.uk/research/research-projects/ai-standards-hub)|(The Alan Turing Institute)
+* [American Sunlight Project, Deepfake Pornography Goes to Washington: Measuring the Prevalence of AI-Generated Non-Consensual Intimate Imagery Targeting Congress](https://static1.squarespace.com/static/6612cbdfd9a9ce56ef931004/t/67586997eaec5c6ae3bb5e24/1733847451191/ASP+DFP+Report.pdf)| December 11, 2024
+* [AI Ethics and Governance in Practice](https://www.turing.ac.uk/research/research-projects/ai-ethics-and-governance-practice)| The Alan Turing Institute
+* [Responsible Data Stewardship in Practice](https://www.turing.ac.uk/sites/default/files/2024-06/aieg-ati-5-datastewardshipv1.2.pdf)| The Alan Turing Institute
+* [AI Standards Hub](https://www.turing.ac.uk/research/research-projects/ai-standards-hub)| The Alan Turing Institute
 * [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](http://sameersingh.org/files/papers/allennlp-interpret-demo-emnlp19.pdf)
 * [Andreessen Horowitz (a16z) AI Canon](https://a16z.com/ai-canon/)
 * [AuditBoard: 5 AI Auditing Frameworks to Encourage Accountability](https://www.auditboard.com/blog/ai-auditing-frameworks/)
