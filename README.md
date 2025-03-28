@@ -240,7 +240,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Knowledge Centre Data & Society, Implementing the AI Act in Belgium: Scope of Application and Authorities, December 2024](https://data-en-maatschappij.ai/uploads/Policy-brief-Implementing-the-AI-act-in-Belgium_2024-12-23-115650_shpg.pdf)
 * [Know Your Data](https://knowyourdata.withgoogle.com/)
 * [Language Model Risk Cards: Starter Set](https://github.com/leondz/lm_risk_cards)![](https://img.shields.io/github/stars/leondz/lm_risk_cards?style=social)
-* [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
+* [Large language models, ed with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-ed-with)
 * [Larry G. Wlosinski, April 30, 2021, Information System Contingency Planning Guidance](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-3/information-system-contingency-planning-guidance)
 * [Library of Congress, LC Labs AI Planning Framework](https://github.com/LibraryOfCongress/labs-ai-framework)![](https://img.shields.io/github/stars/LibraryOfCongress/labs-ai-framework?style=social)
 * [Llama 2 Responsible Use Guide](https://ai.meta.com/llama/responsible-use-guide/)
@@ -394,6 +394,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Neuronpedia](https://www.neuronpedia.org/)
 * [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
 * [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
+* [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)
 
 #### University Policies and Guidance
 
