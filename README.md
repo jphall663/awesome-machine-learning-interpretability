@@ -227,7 +227,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [Mapping Technical Safety Research at AI Companies: A literature review and incentives analysis](https://arxiv.org/pdf/2409.07878)
   * [Understanding the First Wave of AI Safety Institutes: Characteristics, Functions, and Challenges](https://www.iaps.ai/research/understanding-aisis)
 * [Institute of Internal Auditors](https://www.theiia.org/en/pages/search-results/?keyword=artificial+intelligence)
-* [Internal auditor's AI safety checklist](https://www.crowe.com/insights/asset/i/internal-auditors-ai-safety-checklist) Crowe LLP | Convergence Analysis, May 2024
+* [Internal auditor's AI safety checklist](https://www.crowe.com/insights/asset/i/internal-auditors-ai-safety-checklist) | Crowe LLP, Convergence Analysis, May 2024
 * [International AI Safety Report: The International Scientific Report on the Safety of Advanced AI](https://assets.publishing.service.gov.uk/media/679a0c48a77d250007d313ee/International_AI_Safety_Report_2025_accessible_f.pdf) | AI Action Summit, January 2025
 * ISACA
   * [Auditing Artificial Intelligence](https://ec.europa.eu/futurium/en/system/files/ged/auditing-artificial-intelligence.pdf)
@@ -252,7 +252,7 @@ This section is for responsible ML guidance put forward by organizations or indi
      * [Microsoft Responsible AI Standard, v2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cmFl)
   * [GDPR and Generative AI: A Guide for Public Sector Organizations](https://wwps.microsoft.com/blog/gdpr-genai)
   * [How Microsoft names threat actors](https://learn.microsoft.com/en-us/unified-secops-platform/microsoft-threat-actor-naming)
-* [Mitigating the risk of generative AI models creating Child Sxual Abuse Materials: An analysis by child safety nonprofit Thorn](https://partnershiponai.org/wp-content/uploads/2024/11/case-study-thorn.pdf) | Partnership on AI and Thorn
+* [Mitigating the risk of generative AI models creating Child Sexual Abuse Materials: An analysis by child safety nonprofit Thorn](https://partnershiponai.org/wp-content/uploads/2024/11/case-study-thorn.pdf) | Partnership on AI and Thorn
 * [Model Transparency Ratings](https://aimodelratings.com/) | Trustible
 * [model-cards-and-datasheets](https://github.com/ivylee/model-cards-and-datasheets) | ![](https://img.shields.io/github/stars/ivylee/model-cards-and-datasheets?style=social)
 * [Navigating the AI Frontier: A Primer on the Evolution and Impact of AI Agents](https://reports.weforum.org/docs/WEF_Navigating_the_AI_Frontier_2024.pdf) | World Economic Forum and Capgemini, December 2024
@@ -498,12 +498,14 @@ This section serves as a repository for policy documents, regulations, guideline
 
 * [National Strategy for Artificial Intelligence](https://en.digst.dk/media/lz0fxbt4/305755_gb_version_final-a.pdf) | Ministry of Finance and Ministry of Industry, Business and Financial Affairs, March 2019
 
+#### Denmark
+* Ministry of Finance and Ministry of Industry, Business and Financial Affairs, March 2019 | [National Strategy for Artificial Intelligence](https://en.digst.dk/media/lz0fxbt4/305755_gb_version_final-a.pdf)
+
 #### Finland
 
 * [Finland's Age of Artificial Intelligence: Turning Finland into a leading country in the application of artificial intelligence. Objective and recommendations for measures](https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160391/TEMrap_47_2017_verkkojulkaisu.pdf) | Ministry of Economic Affairs and Employment
 
 #### France
-
 * [Challenges and opportunities of artificial intelligence in the fight against information manipulation](https://www.sgdsn.gouv.fr/files/files/Publications/20250207_NP_SGDSN_VIGINUM_Rapport%20menace%20informationnelle%20IA_EN_0.pdf) | VIGINUM, February 7, 2025
 * [Gouvernance des algorithmes d’intelligence artificielle dans le secteur financier](https://acpr.banque-france.fr/sites/default/files/medias/documents/20200612_gouvernance_evaluation_ia.pdf) | (France)
 
@@ -523,8 +525,8 @@ This section serves as a repository for policy documents, regulations, guideline
 #### Iceland
 
 * Ministry of Higher Education, Industry, and Innovation
-* [Aðgerðaáætlun um gervigreind 2024-2026](https://samradapi.island.is/api/Documents/1d4c7cba-fd9c-ef11-9bc7-005056bcce7e) | Action Plan for Artificial Intelligence 2024-2026 | November 2024
-* [Efnahagsleg tækifæri gervigreindar á Íslandi](https://samradapi.island.is/api/Documents/1e4c7cba-fd9c-ef11-9bc7-005056bcce7e) | Economic Opportunities of Artificial Intelligence in Iceland, Statistics Iceland
+  * [Aðgerðaáætlun um gervigreind 2024-2026](https://samradapi.island.is/api/Documents/1d4c7cba-fd9c-ef11-9bc7-005056bcce7e) | Action Plan for Artificial Intelligence 2024-2026 | November 2024
+  * [Efnahagsleg tækifæri gervigreindar á Íslandi](https://samradapi.island.is/api/Documents/1e4c7cba-fd9c-ef11-9bc7-005056bcce7e) | Economic Opportunities of Artificial Intelligence in Iceland, Statistics Iceland
 
 #### Ireland
 
@@ -578,6 +580,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Artificial Intelligence and Democratic Elections — International Experiences and National Recommendations](https://www.regjeringen.no/contentassets/23f8fd1726634f589724d96b49fe994c/en_rapport-ekspertgruppe-ki-og-valg.pdf) | Ministry of Local Government and Regional Development, Expert Group on Artificial Intelligence and Elections, February 2025
 * [National Strategy for Artificial Intelligence](https://www.regjeringen.no/contentassets/1febbbb2c4fd4b7d92c67ddd353b6ae8/en-gb/pdfs/ki-strategi_en.pdf) | Ministry of Local Government and Modernisation
 
+
 #### Philippines
 
 #### Singapore
@@ -618,7 +621,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Information Commissioner's Office, AI tools in recruitment](https://ico.org.uk/action-weve-taken/audits-and-overview-reports/ai-tools-in-recruitment/) | ICO, November 6, 2024
 * [International Scientific Report on the Safety of Advanced AI](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai) | Department for Science, Innovation and Technology and AI Safety Institute
 * [Northern Ireland response to the AI Council AI Roadmap](https://matrixni.org/wp-content/uploads/2021/04/NI-Response-to-UK-AI-roadmap.pdf)
-* [Ofcom | Red Teaming for GenAI Harms: Revealing the Risks and Rewards for Online Safety | July 23, 2024](https://www.ofcom.org.uk/siteassets/resources/documents/consultations/discussion-papers/red-teaming/red-teaming-for-gen-ai-harms.pdf?v=370762)
+* [Red Teaming for GenAI Harms: Revealing the Risks and Rewards for Online Safety | July 23, 2024](https://www.ofcom.org.uk/siteassets/resources/documents/consultations/discussion-papers/red-teaming/red-teaming-for-gen-ai-harms.pdf?v=370762) | Ofcom
 * [Online Harms White Paper: Full government response to the consultation](https://www.gov.uk/government/consultations/online-harms-white-paper)
 * [Parliamentary Office of Science and Technology](https://researchbriefings.files.parliament.uk/documents/POST-PN-0735/POST-PN-0735.pdf) | (POST), POSTnote 735, Energy Security and AI
 * [The Public Sector Bodies Accessibility Regulations 2018](https://www.legislation.gov.uk/uksi/2018/852/contents/made) | (Websites and Mobile Applications)
@@ -909,7 +912,6 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Opinion 28/2024 on certain data protection aspects related to the processing of personal data in the context of AI models](https://www.edpb.europa.eu/system/files/2024-12/edpb_opinion_202428_ai-models_en.pdf) | European Data Protection Board (EDPB)
 
 #### OECD
-
 * [AI, data governance and privacy: Synergies and areas of international co-operation](https://www.oecd.org/en/publications/ai-data-governance-and-privacy_2476b1a4-en.html) | June 26, 2024
 * [Algorithm Impact Assessment Toolkit](https://oecd.ai/en/catalogue/tools/algorithm-impact-assessment-toolkit)
 * [OECD.AI Catalogue of Tools & Metrics for Trustworthy AI, Anekanta AI, Responsible AI Governance Framework for boards](https://oecd.ai/en/catalogue/tools/responsible-ai-governance-framework-for-boards)
