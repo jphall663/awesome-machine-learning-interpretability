@@ -395,15 +395,18 @@ This section is for responsible ML guidance put forward by organizations or indi
 #### Generative AI Explainability
 
 * [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](http://sameersingh.org/files/papers/allennlp-interpret-demo-emnlp19.pdf)
+* Anthropic:
+ * [Chain-of-thought Faithfulness](https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-cot)
+ * [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
+ * [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
+ * [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
 * [Backpack Language Models](https://arxiv.org/pdf/2305.16765)
 * Jay Alammar
   * [Finding the Words to Say: Hidden State Visualizations for Language Models](https://jalammar.github.io/hidden-states/)
   * [Interfaces for Explaining Transformer Language Models](https://jalammar.github.io/explaining-transformers/)
 * [Neuronpedia](https://www.neuronpedia.org/)
-* [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
-* [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
-* [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)
+
 
 #### University Policies and Guidance
 
