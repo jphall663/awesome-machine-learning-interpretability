@@ -671,6 +671,8 @@ This section serves as a repository for policy documents, regulations, guideline
 
 **Department of Commerce**
 * [Artificial intelligence](https://www.commerce.gov/issues/artificial-intelligence)
+* [Bureau of Industry and Security](https://www.bis.gov/)
+  * [Framework for Artificial Intelligence Diffusion](https://public-inspection.federalregister.gov/2025-00636.pdf)
 * [Intellectual property](https://www.commerce.gov/issues/intellectual-property)
 * [National Telecommunications and Information Administration](https://www.ntia.gov/) | (NTIA)
   * [AI Accountability Policy Report](https://www.ntia.gov/issues/artificial-intelligence/ai-accountability-policy-report)
@@ -796,11 +798,15 @@ This section serves as a repository for policy documents, regulations, guideline
 
 **Office of the Director of National Intelligence (ODNI)**
 * [The AIM Initiative: A Strategy for Augmenting Intelligence Using Machines](https://www.dni.gov/files/ODNI/documents/AIM-Strategy.pdf)
+* [Artificial Intelligence Ethics Framework for the Intelligence Community v 1.0 as of June 2020](https://www.dni.gov/files/ODNI/documents/AI_Ethics_Framework_for_the_Intelligence_Community_10.pdf)
 * [Principles of Artificial Intelligence Ethics for the Intelligence Community](https://www.intel.gov/principles-of-artificial-intelligence-ethics-for-the-intelligence-community)
 
 **Office of Management and Budget (OMB)**
 * [M-25-21 Memorandum for the Heads of Executive Departments and Agencies - Accelerating Federal Use of AI through Innovation, Governance, and Public Trust](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf) | April 3, 2025
 * [M-25-22 Memorandum for the Heads of Executive Departments and Agencies - Driving Efficient Acquisition of Artificial Intelligence in Government](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf) | April 3, 2025
+
+**Office of Personnel Management**
+* [The Artificial Intelligence Classification Policy and Talent Acquisition Guidance - The AI in Government Act of 2020](https://chcoc.gov/sites/default/files/The%20Artificial%20Intelligence%20Classification%20Policy%20and%20Talent%20Acquisition%20Guidance%20-%20The%20AI%20in%20Government%20Act%20of%202020.pdf) | April 29, 2024
 
 **Securities and Exchange Commission (SEC)**  
 * [Investor Advisory Committee Meeting Agenda for Thursday](https://www.sec.gov/about/advisory-committees/investor-advisory-committee/iac030625-agenda) | March 6, 2025
@@ -840,13 +846,20 @@ This section serves as a repository for policy documents, regulations, guideline
 **Mississippi**
 * [Mississippi Department of Education, Artificial Intelligence Guidance for K-12 Classrooms](https://www.mdek12.org/sites/default/files/Offices/MDE/OTSS/DL/ai_guidance_final.pdf)
 
+**Nebraska**
+* [Nebraska Information Technology Commission 8-609 Artificial intelligence policy](https://nitc.nebraska.gov/standards/8-609.pdf) | November 8, 2024
+
 **New York**
+* [Acceptable Use of Artificial Intelligence Technologies](https://its.ny.gov/system/files/documents/2025/04/nys-p24-001-acceptable-use-of-artificial-intelligence-technologies.pdf) | Office of Information Technology Services, March 11, 2025
 * [New York City Automated Decision Systems Task Force Report](https://www.nyc.gov/assets/adstaskforce/downloads/pdf/ADS-Report-11192019.pdf) | November 2019
 * [New York State Emerging Technology Advisory Board: Recommendations for making NY a leader in responsible AI](https://filecache.mediaroom.com/mr5mr_ibmnewsroom/198517/IBM-ETAB-Report-white-paper-DIGITAL-20241212%5B30%5D.pdf)
 * [RE: Use of External Consumer Data and Information Sources in Underwriting for Life Insurance](https://www.dfs.ny.gov/industry_guidance/circular_letters/cl2019_01)
 
 **North Carolina**
 * [North Carolina State Government Responsible Use of Artificial Intelligence Framework](https://it.nc.gov/documents/nc-state-government-responsible-use-artificial-intelligence-framework/download?attachment) | August 2024
+
+**Pennsylvania**
+* [Artificial Intelligence Policy](https://www.pa.gov/content/dam/copapwp-pagov/en/oa/documents/policies/it-policies/artificial%20intelligence%20policy.pdf) | Office of Administration, March 11, 2025
 
 **Texas**
 * [Federal Reserve Bank of Dallas, Regulation B, Equal Credit Opportunity, Credit Scoring Interpretations: Withdrawal of Proposed Business Credit Amendments](https://fraser.stlouisfed.org/files/docs/historical/frbdal/circulars/frbdallas_circ_19820603_no82-063.pdf) | June 3, 1982
@@ -859,6 +872,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Guidelines for Deployment of Generative AI](https://watech.wa.gov/sites/default/files/2024-12/Equity%20Analysis%20Guidelines%20for%20Deployment%20of%20Generative%20AI-WaTech_2024.pdf) | December 2024
   * [Implementing risk assessments for high-risk AI systems](https://watech.wa.gov/sites/default/files/2025-01/EO%2024-01%20Risk%20Guidance_Final.pdf) | December 2024
   * [Initial procurement guidelines for public sector procurement, deployment, and monitoring of Generative AI Technology](https://watech.wa.gov/sites/default/files/2024-11/Initial%20Procurement%20Guidelines%20for%20GenAI%20Final.pdf) | September 2024
+  * [Interim Guidelines for Purposeful and Responsible Use of Generative Artificial Intelligence](https://watech.wa.gov/sites/default/files/2023-09/State%2520Agency%2520Generative%2520AI%2520Guidelines%25208-7-23%2520.pdf) | August 8, 2023
   * [Office of Privacy and Data Protection Performance Report](https://watech.wa.gov/sites/default/files/2024-12/OPDP%202024%20Performance%20Report%20Final%2012-1-24.pdf) | December 1, 2024
   * [Responsible AI in the Public Sector: How the Washington State Government Uses & Governs Artificial Intelligence](https://watech.wa.gov/sites/default/files/2025-01/Responsible%20AI%20in%20the%20Public%20Sector%20-%20WaTech%20%20UC%20Berkeley%20Report%20-%20Final_.pdf) | January 31, 2025
   * [State of Washington Generative Artificial Intelligence Report](https://watech.wa.gov/sites/default/files/2024-10/WA_State_GenAIReport_FINAL.pdf) | September 2024
