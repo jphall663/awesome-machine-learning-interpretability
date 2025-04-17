@@ -57,7 +57,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
     * [OSCE](#osce)
     * [NATO](#nato)
     * [United Nations](#united-nations)
-  * [Law Texts and Drafts](#law-texts-and-drafts)
+  * [Documents in Legal Genres](#documents-in-legal-genres)
 
 * **Education Resources**
   * [Comprehensive Software Examples and Tutorials](#comprehensive-software-examples-and-tutorials)
@@ -166,6 +166,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [Repurposing the Wheel: Lessons for AI Standards](https://cset.georgetown.edu/publication/repurposing-the-wheel/)
   * [Translating AI Risk Management Into Practice](https://cset.georgetown.edu/article/translating-ai-risk-management-into-practice/)
   * [Understanding AI Harms: An Overview](https://cset.georgetown.edu/article/understanding-ai-harms-an-overview/)
+* [Character Flaws: School Shooters, Anorexia Coaches, and Sexualized Minors: A Look at Harmful Character Chatbots and the Communities That Build Them](https://public-assets.graphika.com/reports/graphika-report-character-flaws.pdf) | Graphika Atlas Report, March 2025
 * [Closing the AI accountability gap: defining an end-to-end framework for internal algorithmic auditing](https://dl.acm.org/doi/abs/10.1145/3351095.3372873)
 * [Coalition for Content Provenance and Authenticity](https://c2pa.org/) | (C2PA)
 * [Countries With Draft AI Legislation or Frameworks](https://dominiquesheltonleipzig.com/country-legislation-frameworks/) | Dominique Shelton Leipzig
@@ -780,6 +781,7 @@ This section serves as a repository for policy documents, regulations, guideline
 
 **Government Accountability Office (GAO)**
 * [Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities, GAO-21-519SP](https://www.gao.gov/products/gao-21-519sp)
+* [Fraud and Improper Payments: Data Quality and a Skilled Workforce Are Essential for Unlocking the Benefits of Artificial Intelligence](https://www.gao.gov/assets/gao-25-108412.pdf)
 * [Veteran Suicide: VA Efforts to Identify Veterans at Risk through Analysis of Health Record Information](https://www.gao.gov/assets/gao-22-105165.pdf)
 
 **National Security Agency (NSA)**
@@ -794,6 +796,10 @@ This section serves as a repository for policy documents, regulations, guideline
 **Office of the Director of National Intelligence (ODNI)**
 * [The AIM Initiative: A Strategy for Augmenting Intelligence Using Machines](https://www.dni.gov/files/ODNI/documents/AIM-Strategy.pdf)
 * [Principles of Artificial Intelligence Ethics for the Intelligence Community](https://www.intel.gov/principles-of-artificial-intelligence-ethics-for-the-intelligence-community)
+
+**Office of Management and Budget (OMB)**
+* [M-25-21 Memorandum for the Heads of Executive Departments and Agencies - Accelerating Federal Use of AI through Innovation, Governance, and Public Trust](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf) | April 3, 2025
+* [M-25-22 Memorandum for the Heads of Executive Departments and Agencies - Driving Efficient Acquisition of Artificial Intelligence in Government](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf) | April 3, 2025
 
 **Securities and Exchange Commission (SEC)**  
 * [Investor Advisory Committee Meeting Agenda for Thursday](https://www.sec.gov/about/advisory-committees/investor-advisory-committee/iac030625-agenda) | March 6, 2025
@@ -992,9 +998,9 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Policy guidance on AI for children, Recommendations for building AI policies and systems that uphold child rights](https://www.unicef.org/innocenti/media/1341/file/UNICEF-Global-Insight-policy-guidance-AI-children-2.0-2021.pdf) | UNICEF
 * [Principles for the ethical use of artificial intelligence in the United Nations system](https://unsceb.org/sites/default/files/2023-03/CEB_2022_2_Add.1%20%28AI%20ethics%20principles%29.pdf) | Chief Executives Board for Coordination, 2022-10-27
 
-### Law Texts and Drafts
+### Documents in Legal Genres
 
-This section is a collection of law texts and drafts pertaining to responsible AI.
+Legislation, litigation, and other legal materials relevant to AI policy and governance.
 
 * [An Act relating to artificial intelligence; requiring disclosure of deepfakes in campaign communications; relating to cybersecurity; and relating to data privacy.](https://www.akleg.gov/basis/Bill/Detail/33?Root=HB306) | Alaska State Legislature, HB 306
 * [Algorithmic Accountability Act of 2023](https://www.govinfo.gov/app/details/BILLS-118hr5628ih/)
@@ -1002,18 +1008,26 @@ This section is a collection of law texts and drafts pertaining to responsible A
 * [Australia, Privacy Act 1988](https://www.legislation.gov.au/Details/C2014C00076)
 * [California, Civil Rights Council - First Modifications to Proposed Employment Regulations on Automated-Decision Systems, Title 2, California Code of Regulations](https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2024/10/First-Modifications-to-Text-of-Proposed-Modifications-to-Employment-Regulations-Regarding-Automated-Decision-Systems.pdf)
 * [California, Consumer Privacy Act of 2018](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&part=4.&lawCode=CIV&title=1.81.5) | Civil Code - DIVISION 3. OBLIGATIONS [1427 - 3273.69]
+* [Cherkin et al. v. PowerSchool Holdings Inc. N.D. Cal. May 2024 – EdTech Privacy Class Action](https://s3.documentcloud.org/documents/25260275/cherkin-v-powerschool-complaint-20240506.pdf)
 * [Colorado, SB24-205 Consumer Protections for Artificial Intelligence, Concerning consumer protections in interactions with artificial intelligence systems](https://leg.colorado.gov/bills/SB24-205)
 * [European Union, General Data Protection Regulation](https://gdpr-info.eu/) |  (GDPR)
   * [Article 22 EU GDPR "Automated individual decision-making, including profiling"](https://www.privacy-regulation.eu/en/article-22-automated-individual-decision-making-including-profiling-GDPR.htm)
+* [Popa v. Harriet Carter Gifts Inc. W.D. Pa. Mar. 2025 – Class Action on Digital Wiretapping](https://app.midpage.ai/document/popa-v-harriet-carter-gifts-10829535?refG=true)
 * [Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government](https://www.federalregister.gov/documents/2020/12/08/2020-27065/promoting-the-use-of-trustworthy-artificial-intelligence-in-the-federal-government) | Executive Order 13960 (2020-12-03)
 * [Facial Recognition and Biometric Technology Moratorium Act of 2020](https://drive.google.com/file/d/1gkTcjFtieMQdsQ01dmDa49B6HY9ZyKr8/view)
 * [Federal Consumer Online Privacy Rights Act](https://www.consumerprivacyact.com/federal/) | (COPRA)
+* [GDPR Complaint Filed by noyb Against OpenAI](https://noyb.eu/sites/default/files/2024-04/OpenAI%20Complaint_EN_redacted.pdf) | Austria DSB, April 2024
 * [Germany, Bundesrat Drucksache 222/24 - Entwurf eines Gesetzes zum strafrechtlichen Schutz von Persönlichkeitsrechten vor Deepfakes](https://tinyurl.com/d7r8baz8) |  (Draft Law on the Criminal Protection of Personality Rights from Deepfakes)
 * [Illinois, Biometric Information Privacy Act](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57)
+* [In re Clearview AI Inc. N.D. Ill. Aug. 2022 – MDL Opinion on Amended Complaint & Retail Defendants](https://cases.justia.com/federal/district-courts/illinois/ilndce/1:2021cv00135/395030/407/0.pdf?ts=1660231616)
 * [Justice in Policing Act](https://democrats-judiciary.house.gov/issues/issue/?IssueID=14924)
 * [National Conference of State Legislatures 2020 Consumer Data Privacy Legislation](https://www.ncsl.org/technology-and-communication/2020-consumer-data-privacy-legislation) | (NCSL)
 * [Nebraska, LB1203 - Regulate artificial intelligence in media and political advertisements under the Nebraska Political Accountability and Disclosure Act](https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55088)
+* [The New York Times Company v. Microsoft Corp. OpenAI Inc. et al. December 2023 – Complaint](https://nytco-assets.nytimes.com/2023/12/NYT_Complaint_Dec2023.pdf)
+* [The New York Times Company v. Microsoft Corporation OpenAI Inc. et al. November 2024 – Opinion & Order on Discovery Dispute](https://www.sdnyblog.com/files/2024/11/23-cv-11195-SHS-OTW-NYT-v.-Microsoft-Opinion.pdf)
 * [Rhode Island, Executive Order 24-06: Artificial Intelligence and Data Centers of Excellence](https://governor.ri.gov/executive-orders/executive-order-24-06)
+* [Silverman et al. v. Meta Platforms Inc. N.D. Cal. 2023 Class Action Complaint](https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.1.0_3.pdf)
+* [Thaler v. Perlmutter March 2025 – Appellate Opinion on Copyright and Artificial Intelligence](https://media.cadc.uscourts.gov/opinions/docs/2025/03/23-5233.pdf)
 * [Virginia, Consumer Data Protection Act](https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/)
 * [Washington State, SB 6513 - 2019-20](https://apps.leg.wa.gov/billsummary/?BillNumber=6513&Year=2020&Initiative=false)
 * [United States Congress, 118th Congress, H.R.5586 - DEEPFAKES Accountability Act](https://www.congress.gov/bill/118th-congress/house-bill/5586/text) | (2023-2024)
