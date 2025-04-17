@@ -679,6 +679,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [NTIA Artificial Intelligence Accountability Policy Report](https://www.ntia.gov/sites/default/files/publications/ntia-ai-report-final.pdf) | March 2024
 * [National Institute of Standards and Technology](https://www.nist.gov/)
   * [Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations](https://csrc.nist.gov/pubs/ai/100/2/e2023/final) | NIST AI 100-2 E2023
+  * [Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations updated](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2025.pdf) | NIST AI 100-2e2025
   * [Artificial Intelligence Risk Management Framework](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf) | AI 100-1 (NIST AI RMF 1.0)
   * [Assessing Risks and Impacts of AI](https://ai-challenges.nist.gov/aria/library) | (ARIA)
   * [De-identification Tools](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/tools)
