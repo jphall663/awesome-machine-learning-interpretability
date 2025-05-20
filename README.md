@@ -53,6 +53,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
       * [European Commission and Parliament](#european-commission-and-parliament)
       * [European Council](#european-council)
       * [European Data Protection Authorities](#european-data-protection-authorities)
+      * [Europol](#europol)
     * [OECD](#oecd)
     * [OSCE](#osce)
     * [NATO](#nato)
@@ -118,7 +119,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [AI-Generated Disinformation in Europe and Africa: Use Cases, Solutions and Transnational Learning](https://www.kas.de/documents/285576/0/Study+_+AI-Generated+Disinformation+in+Europe+and+Africa+-+Ebook+%281%29.pdf/a51f9394-e955-21a1-df30-38585122303c?version=1.0&t=1739539822992) | Konrad Adenauer Stiftung, January 31, 2025
 * [AI Governance Needs Sociotechnical Expertise: Why the Humanities and Social Sciences Are Critical to Government Efforts](https://datasociety.net/wp-content/uploads/2024/05/DS_AI_Governance_Policy_Brief.pdf)			
 * [AI in the Public Service: From Principles to Practice](https://oxcaigg.oii.ox.ac.uk/wp-content/uploads/sites/11/2021/12/AI-in-the-Public-Service-Final.pdf) | Oxford Commission on AI & Good Governance			
-* [AI Inventories: Practical Challenges for Organizational Risk Management](https://tinyurl.com/mrxrdc3y) | Responsible AI Institute			
+* [AI Inventories: Practical Challenges for Organizational Risk Management](https://tinyurl.com/mrxrdc3y) | Responsible AI Institute and Chevron			
 * [AI Model Registries: A Foundational Tool for AI Governance](https://arxiv.org/pdf/2410.09645) | September 2024			
 * [AI Policy](https://taylorandfrancis.com/our-policies/ai-policy/) | Taylor & Francis			
 * [AI Red-Teaming Is Not a One-Stop Solution to AI Harms: Recommendations for Using Red-Teaming for AI Accountability](https://datasociety.net/wp-content/uploads/2023/10/Recommendations-for-Using-Red-Teaming-for-AI-Accountability-PolicyBrief.pdf) | Data & Society
@@ -163,10 +164,12 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [Chinese Critiques of Large Language Models: Finding the Path to General Intelligence](https://cset.georgetown.edu/wp-content/uploads/CSET-Chinese-Critiques-of-Large-Language-Models-Finding-the-Path-to-General-Artificial-Intelligence.pdf) | January 2025
   * [CSET's Harm Taxonomy for the AI Incident Database](https://github.com/georgetown-cset/CSET-AIID-harm-taxonomy) | ![](https://img.shields.io/github/stars/georgetown-cset/CSET-AIID-harm-taxonomy?style=social)
   * [CSET Publications](https://cset.georgetown.edu/publications/)
+  * [Putting Explainable AI to the Test: A Critical Look at AI Evaluation Approaches](https://cset.georgetown.edu/wp-content/uploads/CSET-Putting-Explainable-AI-to-the-Test.pdf) | February 2025
   * [Repurposing the Wheel: Lessons for AI Standards](https://cset.georgetown.edu/publication/repurposing-the-wheel/)
   * [Translating AI Risk Management Into Practice](https://cset.georgetown.edu/article/translating-ai-risk-management-into-practice/)
   * [Understanding AI Harms: An Overview](https://cset.georgetown.edu/article/understanding-ai-harms-an-overview/)
 * [Character Flaws: School Shooters, Anorexia Coaches, and Sexualized Minors: A Look at Harmful Character Chatbots and the Communities That Build Them](https://public-assets.graphika.com/reports/graphika-report-character-flaws.pdf) | Graphika Atlas Report, March 2025
+* [Children & AI Design Code: A Protocol for the development and use of AI systems that impact children](https://5rightsfoundation.com/wp-content/uploads/2025/03/5rights_AI_CODE_DIGITAL.pdf)
 * [Closing the AI accountability gap: defining an end-to-end framework for internal algorithmic auditing](https://dl.acm.org/doi/abs/10.1145/3351095.3372873)
 * [Coalition for Content Provenance and Authenticity](https://c2pa.org/) | (C2PA)
 * [Countries With Draft AI Legislation or Frameworks](https://dominiquesheltonleipzig.com/country-legislation-frameworks/) | Dominique Shelton Leipzig
@@ -179,6 +182,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Distill](https://distill.pub)
 * [Ethical and social risks of harm from Language Models](https://www.deepmind.com/publications/ethical-and-social-risks-of-harm-from-language-models)
 * [Ethics for people who work in tech](https://ethicsforpeoplewhoworkintech.com/)
+* [EU AI Act – Provider Only: Certification Scheme v1.5](https://forhumanity.center/site/wp-content/uploads/2025/03/Excerpt-EU-Artificial-Intelligence-Act-Provider-only-v1.5.pdf) | ForHumanity, March 2025
 * [Fairly's Global AI Regulations Map](https://github.com/fairlyAI/global-ai-regulations-map/blob/dev/README.md) | ![](https://img.shields.io/github/stars/fairlyAI/global-ai-regulations-map?style=social)
 * [Fairness and Bias in Algorithmic Hiring: A Multidisciplinary Survey](https://dl.acm.org/doi/10.1145/3696457)
 * [FATML Principles and Best Practices](https://www.fatml.org/resources/principles-and-best-practices)
@@ -707,6 +711,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Guidelines for secure AI system development](https://media.defense.gov/2023/Nov/27/2003346994/-1/-1/0/GUIDELINES-FOR-SECURE-AI-SYSTEM-DEVELOPMENT.PDF)
 
 **Department of Education**
+* [Inventory of U.S. Department of Education AI Use Cases](https://www.ed.gov/about/ed-overview/artificial-intelligence-ai-guidance)
 * [Office of Educational Technology](https://tech.ed.gov/)
   * [Designing for Education with Artificial Intelligence: An Essential Guide for Developers](https://tech.ed.gov/designing-for-education-with-artificial-intelligence/)
   * [Empowering Education Leaders: A Toolkit for Safe, Ethical, and Equitable AI Integration](https://tech.ed.gov/education-leaders-ai-toolkit/) | October 2024
@@ -800,6 +805,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [The AIM Initiative: A Strategy for Augmenting Intelligence Using Machines](https://www.dni.gov/files/ODNI/documents/AIM-Strategy.pdf)
 * [Artificial Intelligence Ethics Framework for the Intelligence Community v 1.0 as of June 2020](https://www.dni.gov/files/ODNI/documents/AI_Ethics_Framework_for_the_Intelligence_Community_10.pdf)
 * [Principles of Artificial Intelligence Ethics for the Intelligence Community](https://www.intel.gov/principles-of-artificial-intelligence-ethics-for-the-intelligence-community)
+* [Annual Threat Assessment of the U.S. Intelligence Community](https://www.dni.gov/files/ODNI/documents/assessments/ATA-2025-Unclassified-Report.pdf) | March 2025
 
 **Office of Management and Budget (OMB)**
 * [M-25-21 Memorandum for the Heads of Executive Departments and Agencies - Accelerating Federal Use of AI through Innovation, Governance, and Public Trust](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf) | April 3, 2025
@@ -860,6 +866,7 @@ This section serves as a repository for policy documents, regulations, guideline
 
 **Pennsylvania**
 * [Artificial Intelligence Policy](https://www.pa.gov/content/dam/copapwp-pagov/en/oa/documents/policies/it-policies/artificial%20intelligence%20policy.pdf) | Office of Administration, March 11, 2025
+* [Lessons from Pennsyklvania's Generative AI Pilot with ChatGPT](https://www.pa.gov/content/dam/copapwp-pagov/en/oa/documents/programs/information-technology/documents/openai-pilot-report-2025.pdf) | March 2025
 
 **Texas**
 * [Federal Reserve Bank of Dallas, Regulation B, Equal Credit Opportunity, Credit Scoring Interpretations: Withdrawal of Proposed Business Credit Amendments](https://fraser.stlouisfed.org/files/docs/historical/frbdal/circulars/frbdallas_circ_19820603_no82-063.pdf) | June 3, 1982
@@ -936,6 +943,10 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Generative AI and the EUDPR. First EDPS Orientations for ensuring data protection compliance when using Generative AI systems](https://www.edps.europa.eu/system/files/2024-06/24-06-03_genai_orientations_en.pdf) | European Data Protection Supervisor, June 3, 2024
 * [Opinion 28/2024 on certain data protection aspects related to the processing of personal data in the context of AI models](https://www.edpb.europa.eu/system/files/2024-12/edpb_opinion_202428_ai-models_en.pdf) | European Data Protection Board (EDPB)
 
+#### Europol
+
+* [The changing DNA of serious and organised crime](https://www.europol.europa.eu/cms/sites/default/files/documents/EU-SOCTA-2025.pdf) | 2025
+
 #### OECD
 * [AI, data governance and privacy: Synergies and areas of international co-operation](https://www.oecd.org/en/publications/ai-data-governance-and-privacy_2476b1a4-en.html) | June 26, 2024
 * [Algorithm Impact Assessment Toolkit](https://oecd.ai/en/catalogue/tools/algorithm-impact-assessment-toolkit)
@@ -979,6 +990,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [OECD-Bericht zu Künstlicher Intelligenz in Deutschland](https://www.ki-strategie-deutschland.de/files/downloads/OECD-Bericht_K%C3%BCnstlicher_Intelligenz_in_Deutschland.pdf)
 * [OECD Digital Economy Papers, No. 341, November 2022, Measuring the Environmental Impacts of Artificial Intelligence Computer and Applications: The AI Footprint](https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/11/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_3dddded5/7babf571-en.pdf)
 * [OECD Legal Instruments, Recommendation of the Council on Artificial Intelligence, adopted May 22, 2019, amended May 3, 2024](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449)
+* [Open, Useful and Re-usable data (OURdata) Index: 2019](https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/03/open-useful-and-re-usable-data-ourdata-index-2019_4c070c33/45f6de2d-en.pdf)
 * [Measuring the environmental impacts of artificial intelligence compute and applications](https://www.oecd.org/en/publications/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_7babf571-en.html)
 * [The Bias Assessment Metrics and Measures Repository](https://oecd.ai/en/catalogue/tools/the-bias-assessment-metrics-and-measures-repository)
 
@@ -1042,6 +1054,7 @@ Legislation, litigation, and other legal materials relevant to AI policy and gov
 * [The New York Times Company v. Microsoft Corporation OpenAI Inc. et al. November 2024 – Opinion & Order on Discovery Dispute](https://www.sdnyblog.com/files/2024/11/23-cv-11195-SHS-OTW-NYT-v.-Microsoft-Opinion.pdf)
 * [Rhode Island, Executive Order 24-06: Artificial Intelligence and Data Centers of Excellence](https://governor.ri.gov/executive-orders/executive-order-24-06)
 * [Silverman et al. v. Meta Platforms Inc. N.D. Cal. 2023 Class Action Complaint](https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.1.0_3.pdf)
+* [Texas draft of responsible AI bill by Capriglione](https://www.mba.org/docs/default-source/policy/state-relations/draft_texas-ai_10.28.24.pdf?sfvrsn=9f83267e_1) | October 28, 2024
 * [Thaler v. Perlmutter March 2025 – Appellate Opinion on Copyright and Artificial Intelligence](https://media.cadc.uscourts.gov/opinions/docs/2025/03/23-5233.pdf)
 * [Virginia, Consumer Data Protection Act](https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/)
 * [Washington State, SB 6513 - 2019-20](https://apps.leg.wa.gov/billsummary/?BillNumber=6513&Year=2020&Initiative=false)
@@ -1117,7 +1130,7 @@ This section contains books that can be reasonably described as free, including 
 * [Society, Ethics, and Technology](https://archive.org/details/societyethicstec00wins) | Morton E. Winston and Ralph D. Edelbach, 2000, First Edition
 * [The Cambridge Handbook of the Law, Ethics and Policy of Artificial Intelligence](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0AD007641DE27F837A3A16DBC0888DD1/9781009367813AR.pdf/The_Cambridge_Handbook_of_the_Law__Ethics_and_Policy_of_Artificial_Intelligence.pdf?event-type=FTLA) | Nathalie A. Smuha, ed., 2025
 * [Towards a Code of Ethics for Artificial Intelligence](https://archive.org/details/towardscodeofeth0000bodd) | Paula Boddington, 2017
-* [Trustworthy AI: African Perspectives](https://link.springer.com/book/10.1007/978-3-031-75674-0) | Damian Okaibedi Eke, Kutoma Wakunuma, Simisola Akintoye, and George Ogoh, editors, 2025
+* [Trustworthy AI: African Perspectives](https://link.springer.com/book/10.1007/978-3-031-75674-0) | Damian Okaibedi Eke, Kutoma Wakunuma, Simisola Akintoye, and George Ogoh, eds., 2025
 * [Trustworthy Machine Learning: Concepts for Developing Accurate, Fair, Robust, Explainable, Transparent, Inclusive, Empowering, and Beneficial Machine Learning Systems](http://www.trustworthymachinelearning.com/) | Kush R. Varshney, 2022
 * [Who Shall Live? Medicine, Technology, Ethics](https://archive.org/details/whoshalllivemedi0000hous) | Kenneth Vaux (editor), 1970
 
@@ -1498,6 +1511,7 @@ This section links to other lists of responsible ML or related resources.
 * [criticalML](https://github.com/rockita/criticalML) | ![](https://img.shields.io/github/stars/rockita/criticalML?style=social)
 * [Ethics for people who work in tech](https://ethicsforpeoplewhoworkintech.com/)
 * [Evaluation Repository for 'Sociotechnical Safety Evaluation of Generative AI Systems'](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQObeTxvXtOs--zd98qG2xBHHuTTJOyNISBJPthZFr3at2LCrs3rcv73d4of1A78JV2eLuxECFXJY43/pubhtml)
+* [Inventory of U.S. Department of Education AI Use Cases](https://www.ed.gov/about/ed-overview/artificial-intelligence-ai-guidance)
 * [GET Program for AI Ethics and Governance Standards](https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=93) | IEEE GET Program
 * [LLM-Evals-Catalogue](https://github.com/IMDA-BTG/LLM-Evals-Catalogue) | ![](https://img.shields.io/github/stars/IMDA-BTG/LLM-Evals-Catalogue?style=social) | IMDA-BTG
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References) | ![](https://img.shields.io/github/stars/radames/Machine-Learning-Ethics-References?style=social)
