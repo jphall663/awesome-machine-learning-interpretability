@@ -1459,18 +1459,34 @@ This section contains an assortment of papers, articles, essays, and general res
 
 ### Groups and Organizations
 
+* [Ada Lovelace Institute](https://www.adalovelaceinstitute.org)* 
+* [AI & Faith](https://aiandfaith.org)
+* [AI Ethics Lab](https://aiethicslab.com)
+* [AI for Good Foundation](https://ai4good.org)
 * [AI Forum New Zealand, AI Governance Working Group](https://aiforum.org.nz/our-work/working-groups/ai-governance-working-group/)
+* [AI Now Institute](https://ainowinstitute.org)
+* [AI Policy Exchange](https://aipolicyexchange.org/)
+* [AI Transparency Institute](https://aitransparencyinstitute.com/)
 * [AI Village](https://aivillage.org/)
+* [The Alan Turing Institute](https://www.turing.ac.uk/)
 * [Center for Advancing Safety of Machine Intelligence](https://casmi.northwestern.edu/)
 * [Center for AI and Digital Policy](https://www.caidp.org)
 * [Center for Democracy and Technology](https://cdt.org/)
+* [Center for Humane Technology](https://www.humanetech.com/)
 * [Center for Security and Emerging Technology](https://cset.georgetown.edu/)
 * [Convergence Analysis](https://www.convergenceanalysis.org/about-us)
+* [Data & Society](https://datasociety.net)
+* [Distributed AI Research Institute (DAIR)](https://www.dair-institute.org)
 * [Future of Life Institute](https://futureoflife.org/)
 * [Indigenous Protocol and Artificial Intelligence Working Group](https://www.indigenous-ai.net/)
 * [Institute for Advanced Study, AI Policy and Governance Working Group](https://www.ias.edu/stsv-lab/aipolicy)
 * [Institute for Ethics and the Common Good, Notre Dame-IBM Technology Ethics Lab](https://ethics.nd.edu/labs-and-centers/notre-dame-ibm-technology-ethics-lab/)
+* [Leverhulme Centre for the Future of Intelligence](https://lcfi.ac.uk)
+* [Montreal AI Ethics Institute](https://montrealethics.ai)
 * [Partnership on AI](https://partnershiponai.org/)
+* [Responsible Artificial Intelligence Institute](https://responsible.ai)
+* [Stanford University Human-Centered Artificial Intelligence (HAI)](https://hai.stanford.edu/)
+* [TheGovLab](https://thegovlab.org/)
 
 ### Curated Bibliographies
 
