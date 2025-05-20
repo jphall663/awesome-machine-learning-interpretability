@@ -53,7 +53,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
       * [European Commission and Parliament](#european-commission-and-parliament)
       * [European Council](#european-council)
       * [European Data Protection Authorities](#european-data-protection-authorities)
-      * [Europol](#europol)
+      * [European Union entites (various)](#europol)
     * [OECD](#oecd)
     * [OSCE](#osce)
     * [NATO](#nato)
@@ -944,9 +944,11 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Generative AI and the EUDPR. First EDPS Orientations for ensuring data protection compliance when using Generative AI systems](https://www.edps.europa.eu/system/files/2024-06/24-06-03_genai_orientations_en.pdf) | European Data Protection Supervisor, June 3, 2024
 * [Opinion 28/2024 on certain data protection aspects related to the processing of personal data in the context of AI models](https://www.edpb.europa.eu/system/files/2024-12/edpb_opinion_202428_ai-models_en.pdf) | European Data Protection Board (EDPB)
 
-#### Europol
+#### European Union entities (various)
 
-* [The changing DNA of serious and organised crime](https://www.europol.europa.eu/cms/sites/default/files/documents/EU-SOCTA-2025.pdf) | 2025
+* [Analysis of EU AI Office stakeholder consultations: defining AI systems and prohibited applications](https://ec.europa.eu/newsroom/dae/redirection/document/115454) | Centre for European Policy Studies, May 2025
+  * [Multi-Stakeholder Consultation for Commission Guidelines on the Application of the Definition of an AI System and the Prohibited AI Practices Established in the AI Act](https://ec.europa.eu/newsroom/dae/redirection/document/115453)
+* [The changing DNA of serious and organised crime](https://www.europol.europa.eu/cms/sites/default/files/documents/EU-SOCTA-2025.pdf) | Europol 2025
 
 #### OECD
 * [AI, data governance and privacy: Synergies and areas of international co-operation](https://www.oecd.org/en/publications/ai-data-governance-and-privacy_2476b1a4-en.html) | June 26, 2024
