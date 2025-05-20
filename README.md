@@ -1461,7 +1461,7 @@ This section contains an assortment of papers, articles, essays, and general res
 ### Groups and Organizations
 
 * [Aapti Institute](https://aapti.in/)
-* [Ada Lovelace Institute](https://www.adalovelaceinstitute.org)* 
+* [Ada Lovelace Institute](https://www.adalovelaceinstitute.org) 
 * [AI & Faith](https://aiandfaith.org)
 * [AI Ethics Lab](https://aiethicslab.com)
 * [AI for Good Foundation](https://ai4good.org)
