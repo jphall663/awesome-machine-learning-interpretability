@@ -53,7 +53,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
       * [European Commission and Parliament](#european-commission-and-parliament)
       * [European Council](#european-council)
       * [European Data Protection Authorities](#european-data-protection-authorities)
-      * [European Union entites (various)](#europol)
+      * [European Union entites (various)](#european-union-entities-various)
     * [OECD](#oecd)
     * [OSCE](#osce)
     * [NATO](#nato)
