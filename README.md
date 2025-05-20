@@ -74,6 +74,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
   * [Challenges and Competitions](#challenges-and-competitions)
   * [Critiques of AI](#critiques-of-ai)
     * [Environmental Costs of AI](#environmental-costs-of-ai)
+    * [AI Slop Genre]
   * [Groups and Organizations](#groups-and-organizations)
   * [Curated Bibliographies](#curated-bibliographies)
   * [List of Lists](#list-of-lists)
@@ -1451,6 +1452,10 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Towards Environmentally Equitable AI via Geographical Load Balancing](https://arxiv.org/abs/2307.05494)
 * [Towards green and sustainable artificial intelligence: quantifying the energy footprint of logistic regression and decision tree algorithms](https://ieeexplore.ieee.org/abstract/document/10700922)
 * [Unraveling the Hidden Environmental Impacts of AI Solutions for Environment Life Cycle Assessment of AI Solutions](https://www.mdpi.com/2071-1050/14/9/5172)
+
+#### AI Slop Genre
+
+* [Living the Slop Life](https://www.nytimes.com/2025/05/19/style/ai-slop-slop-bowls-shein-slop-hauls.html) | The New York Times, Emma Goldberg, 5/19/2025
 
 ### Groups and Organizations
 
