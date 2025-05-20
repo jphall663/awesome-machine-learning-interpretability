@@ -1059,9 +1059,10 @@ Legislation, litigation, and other legal materials relevant to AI policy and gov
 * [Thaler v. Perlmutter March 2025 – Appellate Opinion on Copyright and Artificial Intelligence](https://media.cadc.uscourts.gov/opinions/docs/2025/03/23-5233.pdf)
 * [Virginia, Consumer Data Protection Act](https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/)
 * [Washington State, SB 6513 - 2019-20](https://apps.leg.wa.gov/billsummary/?BillNumber=6513&Year=2020&Initiative=false)
-* [United States Congress, 118th Congress, H.R.5586 - DEEPFAKES Accountability Act](https://www.congress.gov/bill/118th-congress/house-bill/5586/text) | (2023-2024)
-* [United States Congress, 118th Congress, H.R. 9720, AI Incident Reporting and Security Enhancement Act](https://science.house.gov/bills?ID=95D5A008-EA1A-4D43-A363-DC2D129DFDCD) | (2023-2024)
-* [United States Congress, 118th Congress, S.4769 - VET Artificial Intelligence Act](https://www.congress.gov/bill/118th-congress/senate-bill/4769/text) | (2023-2024)
+* [United States Congress, 118th Congress, H.R.5586 - DEEPFAKES Accountability Act](https://www.congress.gov/bill/118th-congress/house-bill/5586/text) | 2023-2024
+* [United States Congress, 118th Congress, H.R. 9720, AI Incident Reporting and Security Enhancement Act](https://science.house.gov/bills?ID=95D5A008-EA1A-4D43-A363-DC2D129DFDCD) | 2023-2024
+* [United States Congress, 118th Congress, S.4769 - VET Artificial Intelligence Act](https://www.congress.gov/bill/118th-congress/senate-bill/4769/text) | 2023-2024
+* [Willis v. Bank National Association as Trustee Igloo Series Trust LLC](https://caselaw.findlaw.com/court/us-dis-crt-n-d-tex-dal-div/117272437.html) | 2025
 
 ## Education Resources
 
@@ -1459,6 +1460,7 @@ This section contains an assortment of papers, articles, essays, and general res
 
 ### Groups and Organizations
 
+* [Aapti Institute](https://aapti.in/)
 * [Ada Lovelace Institute](https://www.adalovelaceinstitute.org)* 
 * [AI & Faith](https://aiandfaith.org)
 * [AI Ethics Lab](https://aiethicslab.com)
@@ -1469,6 +1471,8 @@ This section contains an assortment of papers, articles, essays, and general res
 * [AI Transparency Institute](https://aitransparencyinstitute.com/)
 * [AI Village](https://aivillage.org/)
 * [The Alan Turing Institute](https://www.turing.ac.uk/)
+* [Algorithmic Justice League](https://www.ajl.org/)
+* [Berkman Klein Center for Internet & Society at Harvard University](https://cyber.harvard.edu/)
 * [Center for Advancing Safety of Machine Intelligence](https://casmi.northwestern.edu/)
 * [Center for AI and Digital Policy](https://www.caidp.org)
 * [Center for Democracy and Technology](https://cdt.org/)
