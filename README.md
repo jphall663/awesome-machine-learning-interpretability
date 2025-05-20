@@ -74,7 +74,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
   * [Challenges and Competitions](#challenges-and-competitions)
   * [Critiques of AI](#critiques-of-ai)
     * [Environmental Costs of AI](#environmental-costs-of-ai)
-    * [AI Slop Genre]
+    * [AI Slop Genre](#ai-slop-genre)
   * [Groups and Organizations](#groups-and-organizations)
   * [Curated Bibliographies](#curated-bibliographies)
   * [List of Lists](#list-of-lists)
