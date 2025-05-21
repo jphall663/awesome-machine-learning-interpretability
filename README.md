@@ -75,6 +75,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
   * [Critiques of AI](#critiques-of-ai)
     * [Environmental Costs of AI](#environmental-costs-of-ai)
     * [AI Slop Genre](#ai-slop-genre)
+    * [Measurement Critiques](#measurement-critiques)
   * [Groups and Organizations](#groups-and-organizations)
   * [Curated Bibliographies](#curated-bibliographies)
   * [List of Lists](#list-of-lists)
@@ -229,7 +230,8 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Implementing the AI Act in Belgium: Scope of Application and Authorities](https://data-en-maatschappij.ai/uploads/Policy-brief-Implementing-the-AI-act-in-Belgium_2024-12-23-115650_shpg.pdf) | Data & Society Knowledge Centre, December 2024
 * [Independent Audit of AI Systems](https://forhumanity.center/independent-audit-of-ai-systems/)
 * [Information System Contingency Planning Guidance](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-3/information-system-contingency-planning-guidance) | Larry G. Wlosinski, April 30, 2021
-* Institute for AI Policy and Strategy (IAPS)
+* [Institute for AI Policy and Strategy (IAPS)](https://www.iaps.ai/ourresearch)
+  * [AI Agent Governance: A Field Guide](https://static1.squarespace.com/static/64edf8e7f2b10d716b5ba0e1/t/6801438c58c2692374995db0/1744913293841/Agent+Governance_+A+Field+Guide.pdf) | April 2025
   * [Key questions for the International Network of AI Safety Institutes](https://www.iaps.ai/research/international-network-aisis)
   * [Mapping Technical Safety Research at AI Companies: A literature review and incentives analysis](https://arxiv.org/pdf/2409.07878)
   * [Understanding the First Wave of AI Safety Institutes: Characteristics, Functions, and Challenges](https://www.iaps.ai/research/understanding-aisis)
@@ -242,6 +244,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [Capability Maturity Model Integration Resources](https://cmmiinstitute.com/)
 * [ISO/IEC 42001:2023, Information technology — Artificial intelligence — Management system](https://www.iso.org/standard/81230.html)
 * [ITI's AI Security Policy Principles](https://www.itic.org/documents/artificial-intelligence/ITI_AI-Security-Principles_102124_FINAL.pdf) | Information Technology Industry (ITI) Council, October 2024
+* [Just Security's Artificial Intelligence Archive](https://www.justsecurity.org/99958/just-securitys-artificial-intelligence-archive/)
 * [Know Your Data](https://knowyourdata.withgoogle.com/)
 * [Language Model Risk Cards: Starter Set](https://github.com/leondz/lm_risk_cards) | ![](https://img.shields.io/github/stars/leondz/lm_risk_cards?style=social)
 * [Large language models explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-ed-with)
@@ -468,6 +471,7 @@ This section serves as a repository for policy documents, regulations, guideline
 
 * Department of Industry, Science and Resources
   * [AI Governance: Leadership insights and the Voluntary AI Safety Standard in practice](https://www.industry.gov.au/news/ai-governance-leadership-insights-and-voluntary-ai-safety-standard-practice) | Department of Industry, Science and Resources
+  * [Artificial Intelligence Model Clauses](https://www.buyict.gov.au/sys_attachment.do?sys_id=e535e2ca935caa10438b39cdfaba103d) | Digital Transformation Agency, Version 2.0, March 2025
   * [Australia’s AI Ethics Principles](https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-framework/australias-ai-ethics-principles)
   * [Introducing mandatory guardrails for AI in high-risk settings: proposals paper](https://consult.industry.gov.au/ai-mandatory-guardrails)
   * [The AI Impact Navigator](https://www.industry.gov.au/publications/ai-impact-navigator) | October 21, 2024
@@ -480,6 +484,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Guidance on privacy and the use of commercially available AI products](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-the-use-of-commercially-available-ai-products)
 * [National framework for the assurance of artificial intelligence in government](https://www.finance.gov.au/sites/default/files/2024-06/National-framework-for-the-assurance-of-AI-in-government.pdf)
 * [Testing the Reliability, Validity, and Equity of Terrorism Risk Assessment Instruments](https://www.homeaffairs.gov.au/foi/files/2023/fa-230400097-document-released-part-1.PDF)
+* [Understanding Responsibilities in AI Practices](https://www.digital.nsw.gov.au/policy/artificial-intelligence/nsw-artificial-intelligence-assessment-framework/responsibilities) | NSW Digital Strategy
 
 #### Brazil
 
@@ -660,7 +665,9 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Highlights of the 2023 Executive Order on Artificial Intelligence for Congress](https://crsreports.congress.gov/product/pdf/R/R47843/2) | November 17, 2023
 
 **Copyright Office**
-* [Copyright and Artificial Intelligence, Part 1: Digital Replicas](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf) |  July 2024
+* [Copyright and Artificial Intelligence Part 1 Digital Replicas](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf) |  July 2024
+* [Copyright and Artificial Intelligence Part 2 Copyrightability](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf) |  January 2025
+* [Copyright and Artificial Intelligence Part 3 Generative AI Training](https://copyrightlately.com/pdfviewer/copyright-and-artificial-intelligence-part-3-generative-ai-training-report-pre-publication-version/) | May 2025
 
 **Data.gov**
 * [Privacy Policy and Data Policy](https://data.gov/privacy-policy/)
@@ -725,6 +732,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Generative Artificial Intelligence Reference Guide](https://www.energy.gov/sites/default/files/2024-06/Generative%20AI%20Reference%20Guide%20v2%206-14-24.pdf)
 
 **Department of Homeland Security**  
+* [Acquisition and Use of Artificial Intelligence and Machine Learning Technologies by DHS Components](https://www.dhs.gov/sites/default/files/2023-09/23_0913_mgmt_139-06-acquistion-use-ai-technologies-dhs-components.pdf) | Policy Statement 139-06, August 8, 2023
 * [Artificial Intelligence and Autonomous Systems](https://www.dhs.gov/science-and-technology/artificial-intelligence)
 * [Artificial Intelligence Safety and Security Board](https://www.dhs.gov/artificial-intelligence-safety-and-security-board)
 * [Department of Homeland Security Artificial Intelligence Roadmap 2024](https://www.dhs.gov/sites/default/files/2024-03/24_0315_ocio_roadmap_artificialintelligence-ciov3-signed-508.pdf)
@@ -789,9 +797,17 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Software as a Medical Device guidance](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/software-medical-device-samd-clinical-evaluation) | SaMD guidance, December 8, 2017
 
 **Government Accountability Office (GAO)**
-* [Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities, GAO-21-519SP](https://www.gao.gov/products/gao-21-519sp)
+* [Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities, GAO-21-519SP](https://www.gao.gov/products/gao-21-519sp) | June 2021
+  * [Highlights of GAO-21-519SP](https://www.gao.gov/assets/gao-21-519sp-highlights.pdf)
 * [Fraud and Improper Payments: Data Quality and a Skilled Workforce Are Essential for Unlocking the Benefits of Artificial Intelligence](https://www.gao.gov/assets/gao-25-108412.pdf)
+* [Generative AI's Environmental and Human Effects](https://www.gao.gov/assets/gao-25-107172.pdf) | Technology Assessment, Artificial Intelligence, April 2025
 * [Veteran Suicide: VA Efforts to Identify Veterans at Risk through Analysis of Health Record Information](https://www.gao.gov/assets/gao-22-105165.pdf)
+
+**NASA**
+* [NASA Framework for the Ethical Use of Artificial Intelligence](https://ntrs.nasa.gov/api/citations/20210012886/downloads/NASA-TM-20210012886.pdf) | NASA/TM-20210012886, April 2021
+
+**National Endowment for the Humanities**
+* [Policy on the Use of Artificial Intelligence for NEH Grant Proposals](https://www.neh.gov/sites/default/files/2024-10/NEH.AI_.Policy-10.23.24.pdf) | October 23, 2024
 
 **National Security Agency (NSA)**
 * [Central Security Service, Artificial Intelligence Security Center](https://www.nsa.gov/AISC/)
@@ -834,6 +850,9 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### United States (State Governments)
 
+**Alabama**
+* [Artificial Intelligence Governance Policy AI-GV-P1](https://oit.alabama.gov/wp-content/uploads/2025/01/Artificial-Intelligence-Governance-Policy.pdf) | State of Alabama, Office of Information Technology, Version 1, Effective January 31, 2025
+
 **California**
 * [California Consumer Privacy Act](https://oag.ca.gov/privacy/ccpa) | (CCPA)
 * California Department of Justice
@@ -842,6 +861,14 @@ This section serves as a repository for policy documents, regulations, guideline
 * [California Department of Technology, GenAI Executive Order](https://cdt.ca.gov/technology-innovation/artificial-intelligence-community/genai-executive-order/)
 * [California Privacy Protection Agency, Draft Risk Assessment and Automated Decisionmaking Technology Regulations](https://cppa.ca.gov/meetings/materials/20240308_item4_draft_risk.pdf) | CPPA, March 2024
 * [Office of the Attorney General of California, California Privacy Rights Act](https://www.oag.ca.gov/system/files/initiatives/pdfs/19-0021A1%20%28Consumer%20Privacy%20-%20Version%203%29_1.pdf) | (CPRA)
+* [Sonoma County Administrative Policy 9-6 Information Technology Artificial Intelligence Policy](https://sonomacounty.ca.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/HR/Employee%20Resources/Administrative%20Policy%20Manual/9-6%20AI%20Policy/AI%20Policy.pdf) | September 10, 2024
+
+**Connecticut**
+* [State of Connecticut Judicial Branch JBAPPM Policy 1013 Artificial Intelligence Responsible Use Framework, Meaningful Guardrails + Workforce Empowerment and Education + Purposeful Use = Responsible AI Innovation](https://www.jud.ct.gov/faq/CTJBResponsibleAIPolicyFramework2.1.24.pdf) | Version 1.0, February 1, 2024
+* [State of Connecticut Policy AI-01 AI Responsible Use Framework, Meaningful Guardrails + Workforce Empowerment and Education + Purposeful Use = Responsible AI Innovation](https://portal.ct.gov/-/media/OPM/Fin-General/Policies/CT-Responsible-AI-Policy-Framework-Final-02012024.pdf) | Version 1.0, February 1, 2024
+
+**Florida**
+* [Report on Miami-Dade County's Policy on Artificial Intelligence–Directive No. 231203](https://documents.miamidade.gov/mayor/memos/03.22.24-Report-on-Miami-Dade-Countys-Policy-on-Artificial-Intelligence-Directive-No-231203.pdf) | Miami-Dade County, March 22, 2024
 
 **Illinois**
 * [Illinois Supreme Court Policy on Artificial Intelligence](https://ilcourtsaudio.blob.core.windows.net/antilles-resources/resources/e43964ab-8874-4b7a-be4e-63af019cb6f7/Illinois%20Supreme%20Court%20AI%20Policy.pdf) | Effective January 1, 2025
@@ -850,32 +877,50 @@ This section serves as a repository for policy documents, regulations, guideline
 * [080.101 AI/Gen AI Policy Version 1.1](https://www.chfs.ky.gov/agencies/os/oats/polstand/080101AIGen%20AI.pdf) | Cabinet for Health and Family Services, February 27, 2025
 * [Research Report No. 491 Executive Branch Use of Artificial Intelligence Technology](https://apps.legislature.ky.gov/lrc/publications/ResearchReports/RR491.pdf) | Legislative Research Commission
 
+**Maine**
+* [Generative Artificial Intelligence Policy](https://www.maine.gov/oit/sites/maine.gov.oit/files/inline-files/GenAIPolicy.pdf) | Maine State Government, Department of Administrative and Financial Services, Office of Information Technology (OIT), issued July 19, 2024, revised February 28, 2025
+
 **Mississippi**
 * [Mississippi Department of Education, Artificial Intelligence Guidance for K-12 Classrooms](https://www.mdek12.org/sites/default/files/Offices/MDE/OTSS/DL/ai_guidance_final.pdf)
 
 **Nebraska**
 * [Nebraska Information Technology Commission 8-609 Artificial intelligence policy](https://nitc.nebraska.gov/standards/8-609.pdf) | November 8, 2024
 
+**New Jersey**
+* [Legal Practice Preliminary Guidelines on the Use of Artificial Intelligence by New Jersey Lawyers](https://www.njcourts.gov/sites/default/files/notices/2024/01/n240125a.pdf)
+
 **New York**
 * [Acceptable Use of Artificial Intelligence Technologies](https://its.ny.gov/system/files/documents/2025/04/nys-p24-001-acceptable-use-of-artificial-intelligence-technologies.pdf) | Office of Information Technology Services, March 11, 2025
 * [New York City Automated Decision Systems Task Force Report](https://www.nyc.gov/assets/adstaskforce/downloads/pdf/ADS-Report-11192019.pdf) | November 2019
 * [New York State Emerging Technology Advisory Board: Recommendations for making NY a leader in responsible AI](https://filecache.mediaroom.com/mr5mr_ibmnewsroom/198517/IBM-ETAB-Report-white-paper-DIGITAL-20241212%5B30%5D.pdf)
-* [RE: Use of External Consumer Data and Information Sources in Underwriting for Life Insurance](https://www.dfs.ny.gov/industry_guidance/circular_letters/cl2019_01)
+* [Use of External Consumer Data and Information Sources in Underwriting for Life Insurance](https://www.dfs.ny.gov/industry_guidance/circular_letters/cl2019_01)
 
 **North Carolina**
 * [North Carolina State Government Responsible Use of Artificial Intelligence Framework](https://it.nc.gov/documents/nc-state-government-responsible-use-artificial-intelligence-framework/download?attachment) | August 2024
+
+**North Dakota**
+* [State of North Dakota Artificial Intelligence Policy](https://www.ndit.nd.gov/sites/www/files/documents/Policies/artificial_intelligence_policy_2024.pdf)
 
 **Pennsylvania**
 * [Artificial Intelligence Policy](https://www.pa.gov/content/dam/copapwp-pagov/en/oa/documents/policies/it-policies/artificial%20intelligence%20policy.pdf) | Office of Administration, March 11, 2025
 * [Lessons from Pennsyklvania's Generative AI Pilot with ChatGPT](https://www.pa.gov/content/dam/copapwp-pagov/en/oa/documents/programs/information-technology/documents/openai-pilot-report-2025.pdf) | March 2025
 
+**Tennessee**
+* [Artificial Intelligence and Generative AI Policy ISM 20](https://www.nashville.gov/sites/default/files/2024-04/ISM-20-Artificial-Intelligence-and-Generative-Artificial-Intelligence-Use.pdf?ct=1713207273) | Metropolitan Government of Nashville and Davidson County, Department of Information Technology Services, Version 1.0, April 15, 2024
+* [Enterprise Artificial Intelligence policy 200-POL-007](https://www.tn.gov/content/dam/tn/finance/artificial-intelligence/Enterprise_Artificial_Intelligence_Policy.pdf) | Department of Finance and Administration, Strategic Technology Solutions, Version 1.0, October 30, 2024
+
 **Texas**
 * [Federal Reserve Bank of Dallas, Regulation B, Equal Credit Opportunity, Credit Scoring Interpretations: Withdrawal of Proposed Business Credit Amendments](https://fraser.stlouisfed.org/files/docs/historical/frbdal/circulars/frbdallas_circ_19820603_no82-063.pdf) | June 3, 1982
 
 **Utah**
+* [Artificial Intelligence Framework for Utah P-12 Education](https://www.utah.gov/pmn/files/1116147.pdf) | March 2024
 * [Questions from the Commission on Protecting Privacy and Preventing Discrimination](https://auditor.utah.gov/wp-content/uploads/sites/6/2021/02/Office-of-the-State-Auditor-Questions-to-help-Procuring-Agencies-_-Entities-with-Software-Procurement-Feb-1-2021-Final.pdf)
 
+**Virginia**
+* [Policy Standards for the Utilization of Artificial Intelligence by the Commonwealth of Virginia](https://www.vita.virginia.gov/media/vitavirginiagov/it-governance/ea/pdf/Utilization-of-Artificial-Intelligence-by-COV-Policy-Standard.pdf)
+
 **Washington**
+* [City of Seattle Generative Artificial Intelligence Policy POL-209](https://seattle.gov/documents/Departments/SeattleIT/City-of-Seattle-Generative-Artificial-Intelligence-Policy.pdf)
 * [Washington Technology Solutions Reports & Documents](https://watech.wa.gov/about/reports-documents)
   * [Guidelines for Deployment of Generative AI](https://watech.wa.gov/sites/default/files/2024-12/Equity%20Analysis%20Guidelines%20for%20Deployment%20of%20Generative%20AI-WaTech_2024.pdf) | December 2024
   * [Implementing risk assessments for high-risk AI systems](https://watech.wa.gov/sites/default/files/2025-01/EO%2024-01%20Risk%20Guidance_Final.pdf) | December 2024
@@ -1370,6 +1415,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Insanely Complicated, Hopelessly Inadequate](https://www.lrb.co.uk/the-paper/v43/n02/paul-taylor/insanely-complicated-hopelessly-inadequate)
 * [Internet of Bugs, Debunking Devin: "First AI Software Engineer" Upwork lie exposed!](https://www.youtube.com/watch?v=tNmgmwEtoWE)
 * [It’s Time to Stop Taking Sam Altman at His Word](https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/)
+* [Large Language Models are Unreliable for Cyber Threat Intelligence](https://arxiv.org/pdf/2503.23175)
 * [Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models](https://arxiv.org/abs/2401.01301)
 * [Lazy use of AI leads to Amazon products called “I cannot fulfill that request”](https://arstechnica.com/ai/2024/01/lazy-use-of-ai-leads-to-amazon-products-called-i-cannot-fulfill-that-request/)
 * [Leak, Cheat, Repeat: Data Contamination and Evaluation Malpractices in Closed-Source LLMs](https://arxiv.org/pdf/2402.03927.pdf)
@@ -1386,6 +1432,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Nepotistically Trained Generative-AI Models Collapse](https://arxiv.org/abs/2311.12202)
 * [Non-discrimination Criteria for Generative Language Models](https://arxiv.org/abs/2403.08564)
 * [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
+* [On the Very Real Dangers of the Artificial Intelligence Hype Machine](https://lithub.com/on-the-very-real-dangers-of-the-artificial-intelligence-hype-machine/)
 * [OpenAI—written evidence, House of Lords Communications and Digital Select Committee inquiry: Large language models](https://committees.parliament.uk/writtenevidence/126981/pdf/) | (LLM0113)
   * [Former OpenAI Researcher Says the Company Broke Copyright Law](https://www.nytimes.com/2024/10/23/technology/openai-copyright-law.html)
 * [Open Problems in Technical AI Governance](https://arxiv.org/pdf/2407.14981)
@@ -1459,6 +1506,10 @@ This section contains an assortment of papers, articles, essays, and general res
 #### AI Slop Genre
 
 * [Living the Slop Life](https://www.nytimes.com/2025/05/19/style/ai-slop-slop-bowls-shein-slop-hauls.html) | The New York Times, Emma Goldberg, 5/19/2025
+
+#### Measurement Critiques
+
+* [The Leaderboard Illusion](https://arxiv.org/pdf/2504.20879)
 
 ### Groups and Organizations
 
@@ -1881,6 +1932,7 @@ For official government files pertaining to responsible AI practices that have b
 * [Artificial Intelligence and Worker Well-Being: Principles and Best Practices for Developers and Employers](https://web.archive.org/web/20250205182942/https://www.dol.gov/sites/dolgov/files/general/ai/AI-Principles-Best-Practices.pdf) | United States, Department of Labor, archived February 5, 2025
 * [Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People, HTML](https://web.archive.org/web/20250119213350/https://www.whitehouse.gov/ostp/ai-bill-of-rights/) | United States, The White House, Office of Science and Technology Policy, October 4, 2022, archived January 20, 2025
 * [Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People, PDF](https://web.archive.org/web/20250119213350/https://www.whitehouse.gov/ostp/ai-bill-of-rights/) | United States, The White House, Office of Science and Technology Policy, October 4, 2022, archived January 20, 2025
+* [CISA Roadmap for Artificial Intelligence 2023 2024](https://web.archive.org/web/20250221181621/https://www.cisa.gov/sites/default/files/2023-11/2023-2024_CISA-Roadmap-for-AI_508c.pdf) | United States, Cybersecurity and Infrastructure Security Agency, November 2023
 * [Data Availability and Transparency Act 2022](https://web.archive.org/web/20240314232025/https://www.datacommissioner.gov.au/law/dat-act)| Australia, Office of the National Data Commissioner, April 1, 2022, archived March 14, 2024
 * [Developing Financial Sector Resilience in a Digital World: Selected Themes in Technology and Related Risks](https://web.archive.org/web/20230802000841/https://www.osfi-bsif.gc.ca/Eng/Docs/tchrsk.pdf) | Canada, Office of the Superintendent of Financial Institutions of Canada, September 2020, archived August 2, 2023
   * [Same or slightly revised document but different URL](https://www.osfi-bsif.gc.ca/sites/default/files/documents/tchrsk_EN.pdf)
