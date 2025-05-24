@@ -799,6 +799,7 @@ This section serves as a repository for policy documents, regulations, guideline
 **Government Accountability Office (GAO)**
 * [Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities, GAO-21-519SP](https://www.gao.gov/products/gao-21-519sp) | June 2021
   * [Highlights of GAO-21-519SP](https://www.gao.gov/assets/gao-21-519sp-highlights.pdf)
+* [Artificial Intelligence: Use and Oversight in Financial Services GAO-25-107197](https://www.gao.gov/assets/gao-25-107197.pdf) | May 19, 2025
 * [Fraud and Improper Payments: Data Quality and a Skilled Workforce Are Essential for Unlocking the Benefits of Artificial Intelligence](https://www.gao.gov/assets/gao-25-108412.pdf)
 * [Generative AI's Environmental and Human Effects](https://www.gao.gov/assets/gao-25-107172.pdf) | Technology Assessment, Artificial Intelligence, April 2025
 * [Veteran Suicide: VA Efforts to Identify Veterans at Risk through Analysis of Health Record Information](https://www.gao.gov/assets/gao-22-105165.pdf)
