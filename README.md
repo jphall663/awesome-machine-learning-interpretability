@@ -675,7 +675,7 @@ This section serves as a repository for policy documents, regulations, guideline
 **Copyright Office**
 * [Copyright and Artificial Intelligence Part 1 Digital Replicas](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf) |  July 2024
 * [Copyright and Artificial Intelligence Part 2 Copyrightability](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf) |  January 2025
-* [Copyright and Artificial Intelligence Part 3 Generative AI Training](https://copyrightlately.com/pdfviewer/copyright-and-artificial-intelligence-part-3-generative-ai-training-report-pre-publication-version/) | May 2025
+* [Copyright and Artificial Intelligence Part 3 Generative AI Training](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf) | May 2025
 
 **Data.gov**
 * [Privacy Policy and Data Policy](https://data.gov/privacy-policy/)
@@ -692,6 +692,7 @@ This section serves as a repository for policy documents, regulations, guideline
 **Department of Commerce**
 * [Artificial intelligence](https://www.commerce.gov/issues/artificial-intelligence)
 * [Bureau of Industry and Security](https://www.bis.gov/)
+  * [Department of Commerce Rescinds Biden-Era Artificial Intelligence Diffusion Rule, Strengthens Chip-Related Export Controls](https://media.bis.gov/sites/default/files/documents/05.07%20Recission%20of%20AI%20Diffusion%20Press%20Release.pdf) | Bureau of Industry and Security, May 12, 2025
   * [Framework for Artificial Intelligence Diffusion](https://public-inspection.federalregister.gov/2025-00636.pdf)
 * [Intellectual property](https://www.commerce.gov/issues/intellectual-property)
 * [National Telecommunications and Information Administration](https://www.ntia.gov/) | (NTIA)
@@ -717,6 +718,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [US AISI and UK AISI Joint Pre-Deployment Test: OpenAI o1](https://www.nist.gov/system/files/documents/2024/12/18/US_UK_AI%20Safety%20Institute_%20December_Publication-OpenAIo1.pdf) | December 2024
 
 **Department of Defense**  
+* [AI Data Security](https://media.defense.gov/2025/May/22/2003720601/-1/-1/0/CSI_AI_DATA_SECURITY.PDF) | Joint Cybersecurity Information, Best Practices for Securing Data Used to Train & Operate AI Systems, May 2025, Ver. 1.0
 * [AI Principles: Recommendations on the Ethical Use of Artificial Intelligence](https://media.defense.gov/2019/Oct/31/2002204458/-1/-1/0/DIB_AI_PRINCIPLES_PRIMARY_DOCUMENT.PDF)
 * [Audit of Governance and Protection of Department of Defense Artificial Intelligence Data and Technology](https://media.defense.gov/2020/Jul/01/2002347967/-1/-1/1/DODIG-2020-098.PDF)
 * [Content Credentials: Strengthening Multimedia Integrity in the Generative AI Era](https://media.defense.gov/2025/Jan/29/2003634788/-1/-1/0/CSI-CONTENT-CREDENTIALS.PDF) | January 2025
@@ -739,6 +741,9 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Digital Climate Solutions Inventory](https://www.energy.gov/sites/default/files/2022-09/Digital_Climate_Solutions_Inventory.pdf)
   * [Generative Artificial Intelligence Reference Guide](https://www.energy.gov/sites/default/files/2024-06/Generative%20AI%20Reference%20Guide%20v2%206-14-24.pdf)
 
+**Department of Health and Human Services**
+* [Strategic Plan for the Use of Artificial Intelligence in Health Human Services and Public Health Strategic Plan](https://irp.nih.gov/system/files/media/file/2025-03/2025-hhs-ai-strategic-plan_full_508.pdf) | January 2025
+
 **Department of Homeland Security**  
 * [Acquisition and Use of Artificial Intelligence and Machine Learning Technologies by DHS Components](https://www.dhs.gov/sites/default/files/2023-09/23_0913_mgmt_139-06-acquistion-use-ai-technologies-dhs-components.pdf) | Policy Statement 139-06, August 8, 2023
 * [Artificial Intelligence and Autonomous Systems](https://www.dhs.gov/science-and-technology/artificial-intelligence)
@@ -757,6 +762,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Civil Rights Division, Artificial Intelligence and Civil Rights](https://www.justice.gov/crt/ai)
 * [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974)
   * [Overview of The Privacy Act of 1974](https://www.justice.gov/opcl/overview-privacy-act-1974-2020-edition) | (2020 Edition)
+* [Shaping the Department's Artificial Intelligence Efforts 2021-2025](https://www.justice.gov/archives/media/1385331/dl?inline)
 
 **Department of Labor**
 
