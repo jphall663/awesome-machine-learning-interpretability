@@ -121,8 +121,10 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [AI-Generated Disinformation in Europe and Africa: Use Cases, Solutions and Transnational Learning](https://www.kas.de/documents/285576/0/Study+_+AI-Generated+Disinformation+in+Europe+and+Africa+-+Ebook+%281%29.pdf/a51f9394-e955-21a1-df30-38585122303c?version=1.0&t=1739539822992) | Konrad Adenauer Stiftung, January 31, 2025
 * [AI Governance Alliance Briefing Paper Series](https://www3.weforum.org/docs/WEF_AI_Governance_Alliance_Briefing_Paper_Series_2024.pdf) | World Economic Forum, January 2024
 * [AI Governance Needs Sociotechnical Expertise: Why the Humanities and Social Sciences Are Critical to Government Efforts](https://datasociety.net/wp-content/uploads/2024/05/DS_AI_Governance_Policy_Brief.pdf)			
+* [AI in Africa](https://landscapestudy.tiiny.site/) | Global Center on AI Governance, AI in Africa: A Landscape Study, April 2025
 * [AI in the Public Service: From Principles to Practice](https://oxcaigg.oii.ox.ac.uk/wp-content/uploads/sites/11/2021/12/AI-in-the-Public-Service-Final.pdf) | Oxford Commission on AI & Good Governance			
 * [AI Inventories: Practical Challenges for Organizational Risk Management](https://tinyurl.com/mrxrdc3y) | Responsible AI Institute and Chevron			
+* [AI Liability Along the Value Chain](https://wp.table.media/wp-content/uploads/2025/04/01152117/AI-Liability-Along-the-Value-Chain_Beatriz-Arcila.pdf) | Mozilla, 2025
 * [AI Model Registries: A Foundational Tool for AI Governance](https://arxiv.org/pdf/2410.09645) | September 2024			
 * [AI Policy](https://taylorandfrancis.com/our-policies/ai-policy/) | Taylor & Francis			
 * [AI Red-Teaming Is Not a One-Stop Solution to AI Harms: Recommendations for Using Red-Teaming for AI Accountability](https://datasociety.net/wp-content/uploads/2023/10/Recommendations-for-Using-Red-Teaming-for-AI-Accountability-PolicyBrief.pdf) | Data & Society
@@ -497,12 +499,14 @@ This section serves as a repository for policy documents, regulations, guideline
 #### Canada
 
 * [A Regulatory Framework for AI: Recommendations for PIPEDA Reform](https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/completed-consultations/consultation-ai/reg-fw_202011/)
-* [Algorithmic Impact Assessment tool](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)
 * [An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts](https://www.parl.ca/legisinfo/en/bill/44-1/c-27)
+* [AI in Canada](https://oecd.ai/en/dashboards/countries/Canada) | OECD AI policies in Canada
+* [Algorithmic Impact Assessment tool](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)
 * [Artificial Intelligence and Data Act](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act)
+* [The Artificial Intelligence and Data Act Companion document](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act-aida-companion-document) | (AIDA)
 * [Directive on Automated Decision Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592) | (Canada)
 * [E-23 – Model Risk Management](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/draft-guideline-e-23-model-risk-management) | (Draft Guideline)
-* [The Artificial Intelligence and Data Act – Companion document](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act-aida-companion-document) | (AIDA)
+* [Responsible use of artificial intelligence in government](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai.html) | Government of Canada
 * [Transparency for machine learning-enabled medical devices: Guiding principles](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/transparency-machine-learning-guiding-principles.html) | Health Canada
 
 #### Colombia
@@ -740,6 +744,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Artificial Intelligence and Autonomous Systems](https://www.dhs.gov/science-and-technology/artificial-intelligence)
 * [Artificial Intelligence Safety and Security Board](https://www.dhs.gov/artificial-intelligence-safety-and-security-board)
 * [Department of Homeland Security Artificial Intelligence Roadmap 2024](https://www.dhs.gov/sites/default/files/2024-03/24_0315_ocio_roadmap_artificialintelligence-ciov3-signed-508.pdf)
+* [DHS Has Taken Steps to Develop and Govern Artificial Intelligence, But More Action is Needed to Ensure Appropriate Use](https://www.oig.dhs.gov/sites/default/files/assets/2025-02/OIG-25-10-Jan25.pdf) | Office of Inspector General, OIG-25-10, January 30, 2025
 * [DHS Playbook for Public Sector Generative Artificial Intelligence Deployment](https://www.dhs.gov/sites/default/files/2025-01/25_0106_ocio_dhs-playbook-for-public-sector-generative-artificial-intelligence-deployment-508-signed.pdf) | January 2025
 * [Roles and Responsibilities Framework for Artificial Intelligence in Critical Infrastructure](https://www.dhs.gov/sites/default/files/2024-11/24_1114_dhs_ai-roles-and-responsibilities-framework-508.pdf) | November 14, 2024
 * [Safety and Security Guidelines for Critical Infrastructure Owners and Operators](https://www.dhs.gov/publication/safety-and-security-guidelines-critical-infrastructure-owners-and-operators)
@@ -760,6 +765,8 @@ This section serves as a repository for policy documents, regulations, guideline
 * [AI Inventory 2024](https://2021-2025.state.gov/department-of-state-ai-inventory-2024/) |  (Archived Content)
 
 **Department of the Treasury**  
+* Internal Revenue Service (IRS)
+  * [Interim Policy for AI Governance](https://www.irs.gov/pub/foia/ig/spder/raas-10-0325-0001-public.pdf) | March 11, 2025
 * [Managing Artificial Intelligence-Specific Cybersecurity Risks in the Financial Services Sector](https://home.treasury.gov/system/files/136/Managing-Artificial-Intelligence-Specific-Cybersecurity-Risks-In-The-Financial-Services-Sector.pdf) | March 2024
 
 **Equal Employment Opportunity Commission (EEOC)**
@@ -768,6 +775,7 @@ This section serves as a repository for policy documents, regulations, guideline
 
 **Executive Office of the President of the United States**
 * [Consumer Data Privacy in a Networked World: A Framework for Protecting Privacy and Promoting Innovation in the Global Digital Economy, February 2012](https://obamawhitehouse.archives.gov/sites/default/files/privacy-final.pdf) | Obama White House Archives
+* [Fact Sheet Eliminating Barriers for Federal Artificial Intelligence Use and Procurement](https://www.whitehouse.gov/wp-content/uploads/2025/02/AI-Memo-Fact-Sheet.pdf)
 * [Framework to Advance AI Governance and Risk Management in National Security](https://ai.gov/wp-content/uploads/2024/10/NSM-Framework-to-Advance-AI-Governance-and-Risk-Management-in-National-Security.pdf)
 
 **Federal Deposit Insurance Corporation (FDIC)**  
@@ -813,6 +821,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Veteran Suicide: VA Efforts to Identify Veterans at Risk through Analysis of Health Record Information](https://www.gao.gov/assets/gao-22-105165.pdf)
 
 **NASA**
+* [Examining Proposed Uses of LLMs to Produce or Assess Assurance Arguments](https://ntrs.nasa.gov/api/citations/20250001849/downloads/NASA-TM-20250001849.pdf) | NASA/TM–20250001849, March 2025
 * [NASA Framework for the Ethical Use of Artificial Intelligence](https://ntrs.nasa.gov/api/citations/20210012886/downloads/NASA-TM-20210012886.pdf) | NASA/TM-20210012886, April 2021
 
 **National Endowment for the Humanities**
@@ -826,6 +835,7 @@ This section serves as a repository for policy documents, regulations, guideline
 
 **Office of the Comptroller of the Currency (OCC)**  
 * [2021 Model Risk Management Handbook](https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/model-risk-management/index-model-risk-management.html)
+* [AI in Financial Services Remarks at NFHA Responsible AI Symposium](https://occ.gov/news-issuances/speeches/2025/pub-speech-2025-38.pdf) | Rodney E. Hood, April 29, 2025
 
 **Office of the Director of National Intelligence (ODNI)**
 * [The AIM Initiative: A Strategy for Augmenting Intelligence Using Machines](https://www.dni.gov/files/ODNI/documents/AIM-Strategy.pdf)
@@ -864,6 +874,7 @@ This section serves as a repository for policy documents, regulations, guideline
 
 **Alabama**
 * [Artificial Intelligence Governance Policy AI-GV-P1](https://oit.alabama.gov/wp-content/uploads/2025/01/Artificial-Intelligence-Governance-Policy.pdf) | State of Alabama, Office of Information Technology, Version 1, Effective January 31, 2025
+* [Generative AI Task Force Final Report](https://governor.alabama.gov/assets/2025/03/GenAI-TaskForce-Report_Final_20250321.pdf) | State of Alabama, Governor's Task Force on Generative Artificial Intelligence: Providing for the Responsible and Productive Use of Generative Artificial Intelligence in State Government, March 2025
 
 **California**
 * [California Consumer Privacy Act](https://oag.ca.gov/privacy/ccpa) | (CCPA)
@@ -891,6 +902,9 @@ This section serves as a repository for policy documents, regulations, guideline
 
 **Maine**
 * [Generative Artificial Intelligence Policy](https://www.maine.gov/oit/sites/maine.gov.oit/files/inline-files/GenAIPolicy.pdf) | Maine State Government, Department of Administrative and Financial Services, Office of Information Technology (OIT), issued July 19, 2024, revised February 28, 2025
+
+**Massachusetts**
+* [Enterprise Use and Development of Generative Artificial Intelligence Policy](https://www.mass.gov/doc/enterprise-use-and-development-of-generative-artificial-intelligence-policy/download) | Executive Office of Technology Services and Security (EOTSS), Enterprise Privacy Office, GenAI Policy, AI.001, January 31, 2025
 
 **Mississippi**
 * [Mississippi Department of Education, Artificial Intelligence Guidance for K-12 Classrooms](https://www.mdek12.org/sites/default/files/Offices/MDE/OTSS/DL/ai_guidance_final.pdf)
@@ -1226,7 +1240,6 @@ This section features a collection of glossaries and dictionaries that are geare
 * [EU-U.S. Terminology and Taxonomy for Artificial Intelligence](https://digital-strategy.ec.europa.eu/en/library/eu-us-terminology-and-taxonomy-artificial-intelligence-second-edition) | European Commission, Second Edition
 * [G2: 70+ A to Z Artificial Intelligence Terms in Technology](https://www.g2.com/articles/artificial-intelligence-terms)
 * [General Services Administration: AI Guide for Government: Key AI terminology](https://coe.gsa.gov/coe/ai-guide-for-government/what-is-ai-key-terminology/)
-* [Generative Artificial Intelligence Lexicon](https://www.ai.mil/lexicon_ai_terms.html) | Chief Digital and Artificial Intelligence Office (CDAO)
 * [Glossary for Discussion of Ethics of Autonomous and Intelligent Systems](https://standards.ieee.org/wp-content/uploads/import/documents/other/eadv2_glossary.pdf) | IEEE, Version 1
 * [Glossary of artificial intelligence](https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence) | Wikipedia
 * [Glossary of human-centric artificial intelligence](https://publications.jrc.ec.europa.eu/repository/handle/JRC129614) | European Commission
@@ -1239,6 +1252,7 @@ This section features a collection of glossaries and dictionaries that are geare
 * [IBM AI glossary](https://www.ibm.com/cloud/architecture/architecture/practices/cognitive-glossary/)
 * [International Dictionary of Artificial Intelligence](https://archive.org/details/internationaldic0000rayn_t1n5/mode/2up) | William J. Raynor, Jr, 2009, Second Edition
 * [ISO/IEC DIS 22989 Information technology — Artificial intelligence — Artificial intelligence concepts and terminology](https://www.iso.org/obp/ui/fr/#iso:std:iso-iec:22989:dis:ed-1:v1:en)
+* [Lexicon](https://www.ai.mil/Lexicon/) | Chief Digital and Artificial Intelligence Office (CDAO)
 * [Open Access Vocabulary](https://repository.ifla.org/bitstream/123456789/3272/1/Open%20Access%20Vocabulary%20Feb2024%20v2.pdf)
 * [TechTarget: Artificial intelligence glossary: 60+ terms to know](https://www.techtarget.com/whatis/feature/Artificial-intelligence-glossary-60-terms-to-know)
 * [The Alan Turing Institute: Data science and AI glossary](https://www.turing.ac.uk/news/data-science-and-ai-glossary)
@@ -1332,6 +1346,7 @@ This section houses initiatives, networks, repositories, and publications that f
 * [Indexing AI Risks with Incidents, Issues, and Variants](https://doi.org/10.48550/arXiv.2211.10384)
 * [Good Systems, Bad Data?: Interpretations of AI Hype and Failures](https://doi.org/10.1002/pra2.275)
 * [How Does AI Fail Us? A Typological Theorization of AI Failures](https://aisel.aisnet.org/icis2023/aiinbus/aiinbus/25/)
+* [New Noodlophile Stealer Distributes Via Fake AI Video Generation Platforms](https://engage.morphisec.com/hubfs/Noodlophile_Ransomware_ThreatAnalysis.pdf) | Morphisec Threat Analysis
 * [Omission and Commission Errors Underlying AI Failures](https://doi.org/10.1007/s00146-022-01585-x)
 * [Ontologies for Reasoning about Failures in AI Systems](https://mclumd.github.io/ALMECOM%20Papers/2007/Schmill%20et%20al.%20-%202007%20-%20Ontologies%20for%20reasoning%20about%20failures%20in%20AI%20syst.pdf)
 * [Planning for Natural Language Failures with the AI Playbook](https://doi.org/10.1145/3411764.3445735)
@@ -1381,6 +1396,7 @@ This section contains challenges and competitions related to responsible ML.
 This section contains an assortment of papers, articles, essays, and general resources that take critical stances toward generative AI.
 
 * [Against predictive optimization](https://predictive-optimization.cs.princeton.edu/)
+* [AI Bias is Not Ideological. It's Science.](https://www.techpolicy.press/ai-bias-is-not-ideological-its-science/)
 * [AI can only do 5% of jobs, says MIT economist who fears tech stock crash](https://torontosun.com/business/money-news/ai-can-only-do-5-of-jobs-says-mit-economist-who-fears-tech-stock-crash)
 * [AI chatbots use racist stereotypes even after anti-racism training](https://www.newscientist.com/article/2421067-ai-chatbots-use-racist-stereotypes-even-after-anti-racism-training/)
 * [AI coding assistants do not boost productivity or prevent burnout, study finds](https://www.techspot.com/news/104945-ai-coding-assistants-do-not-boost-productivity-or.html)
@@ -1453,6 +1469,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Press Pause on the Silicon Valley Hype Machine](https://www.nytimes.com/2024/05/15/opinion/artificial-intelligence-ai-openai-chatgpt-overrated-hype.html) | Julia Angwin
 * [Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in Transformer Models](https://arxiv.org/pdf/2311.00871.pdf)
 * [Promising the future, encoding the past: AI hype and public media imagery](https://link.springer.com/article/10.1007/s43681-024-00474-x)
+* [Proof or Bluff? Evaluating LLMs on 2025 USA Math Olympiad](https://arxiv.org/pdf/2503.21934v1) | arXiv, March 2025
 * [Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646)
 * [Re-evaluating GPT-4’s bar exam performance](https://link.springer.com/article/10.1007/s10506-024-09396-9)
 * [Researchers surprised by gender stereotypes in ChatGPT](https://www.dtu.dk/english/news/all-news/researchers-surprised-by-gender-stereotypes-in-chatgpt?id=7e5936d1-dfce-485b-8a90-78f7c757177d)
@@ -1548,6 +1565,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Data & Society](https://datasociety.net)
 * [Distributed AI Research Institute (DAIR)](https://www.dair-institute.org)
 * [Future of Life Institute](https://futureoflife.org/)
+* [Global Center on AI Governance](https://www.globalcenter.ai/)
 * [Indigenous Protocol and Artificial Intelligence Working Group](https://www.indigenous-ai.net/)
 * [Institute for Advanced Study, AI Policy and Governance Working Group](https://www.ias.edu/stsv-lab/aipolicy)
 * [Institute for Ethics and the Common Good, Notre Dame-IBM Technology Ethics Lab](https://ethics.nd.edu/labs-and-centers/notre-dame-ibm-technology-ethics-lab/)
@@ -1604,6 +1622,7 @@ This section links to other lists of responsible ML or related resources.
 * [Evaluation Repository for 'Sociotechnical Safety Evaluation of Generative AI Systems'](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQObeTxvXtOs--zd98qG2xBHHuTTJOyNISBJPthZFr3at2LCrs3rcv73d4of1A78JV2eLuxECFXJY43/pubhtml)
 * [Inventory of U.S. Department of Education AI Use Cases](https://www.ed.gov/about/ed-overview/artificial-intelligence-ai-guidance)
 * [GET Program for AI Ethics and Governance Standards](https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=93) | IEEE GET Program
+* [Global Digital Policy Roundup March 2025](https://www.techpolicy.press/global-digital-policy-roundup-march-2025/)
 * [LLM-Evals-Catalogue](https://github.com/IMDA-BTG/LLM-Evals-Catalogue) | ![](https://img.shields.io/github/stars/IMDA-BTG/LLM-Evals-Catalogue?style=social) | IMDA-BTG
 * [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References) | ![](https://img.shields.io/github/stars/radames/Machine-Learning-Ethics-References?style=social)
 * [Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources) | ![](https://img.shields.io/github/stars/h2oai/mli-resources?style=social)
