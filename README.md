@@ -119,6 +119,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [AI Canon](https://a16z.com/ai-canon/) | Andreessen Horowitz (a16z)			
 * [AI Ethics and Governance in Practice](https://www.turing.ac.uk/research/research-projects/ai-ethics-and-governance-practice) | The Alan Turing Institute			
 * [AI-Generated Disinformation in Europe and Africa: Use Cases, Solutions and Transnational Learning](https://www.kas.de/documents/285576/0/Study+_+AI-Generated+Disinformation+in+Europe+and+Africa+-+Ebook+%281%29.pdf/a51f9394-e955-21a1-df30-38585122303c?version=1.0&t=1739539822992) | Konrad Adenauer Stiftung, January 31, 2025
+* [AI Governance Alliance Briefing Paper Series](https://www3.weforum.org/docs/WEF_AI_Governance_Alliance_Briefing_Paper_Series_2024.pdf) | World Economic Forum, January 2024
 * [AI Governance Needs Sociotechnical Expertise: Why the Humanities and Social Sciences Are Critical to Government Efforts](https://datasociety.net/wp-content/uploads/2024/05/DS_AI_Governance_Policy_Brief.pdf)			
 * [AI in the Public Service: From Principles to Practice](https://oxcaigg.oii.ox.ac.uk/wp-content/uploads/sites/11/2021/12/AI-in-the-Public-Service-Final.pdf) | Oxford Commission on AI & Good Governance			
 * [AI Inventories: Practical Challenges for Organizational Risk Management](https://tinyurl.com/mrxrdc3y) | Responsible AI Institute and Chevron			
@@ -209,6 +210,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [Responsible AI practices](https://ai.google/responsibility/responsible-ai-practices/)
   * [Testing and Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging)
   * [The Data Cards Playbook](https://sites.research.google/datacardsplaybook/)
+* [Governing Artificial Intelligence From Ethical Principles Toward Organizational AI Governance Practices](https://www.utupub.fi/bitstream/handle/10024/179166/Annales%20E%20124%20Birkstedt%20DISS.pdf?sequence=1) | Teemu Birkstedt, University of Turku, 2024
 * [Guide for Preparing and Responding to Deepfake Events: From the OWASP Top 10 for LLM Applications Team](https://genai.owasp.org/resource/guide-for-preparing-and-responding-to-deepfake-events/) | OWASP, Version 1, September 2024
 * [Guidelines for AI in parliaments](https://www.ipu.org/file/20632/download) | Inter-Parliamentary Union, December 2024
 * [Guidelines on the Application of the Definition of an AI System in the AI Act: ELI Proposal for a Three-Factor Approach](https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/ELI_Response_on_the_definition_of_an_AI_System.pdf) | European Law Institute, Response of the ELI to the EU Commission's Consultation, November 1, 2024
@@ -265,6 +267,8 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Mitigating the risk of generative AI models creating Child Sexual Abuse Materials: An analysis by child safety nonprofit Thorn](https://partnershiponai.org/wp-content/uploads/2024/11/case-study-thorn.pdf) | Partnership on AI and Thorn
 * [Model Transparency Ratings](https://aimodelratings.com/) | Trustible
 * [model-cards-and-datasheets](https://github.com/ivylee/model-cards-and-datasheets) | ![](https://img.shields.io/github/stars/ivylee/model-cards-and-datasheets?style=social)
+* [Navigating AI Compliance Part 1 Tracing Failure Patterns in History](https://securityandtechnology.org/wp-content/uploads/2024/12/Navigating-AI-Compliance.pdf) | Institute for Security and Technology (IST), December 2024
+* [Navigating AI Compliance Part 2 Risk Mitigation Strategies for Safeguarding Against Future Failures](https://securityandtechnology.org/wp-content/uploads/2025/03/Navigating-AI-Compliance-Part-2-Risk-Mitigation-Strategies-for-Safeguarding-Against-Future-Failures.pdf) | Institute for Security and Technology (IST), March 2025
 * [Navigating the AI Frontier: A Primer on the Evolution and Impact of AI Agents](https://reports.weforum.org/docs/WEF_Navigating_the_AI_Frontier_2024.pdf) | World Economic Forum and Capgemini, December 2024
 * [NewsGuard AI Tracking Center](https://www.newsguardtech.com/special-reports/ai-tracking-center/)
 * [On Risk Assessment and Mitigation for Algorithmic Systems](https://drive.google.com/file/d/1ZMt7igUcKUq00yakCnbxBCcaA7vajAix/view) | Integrity Institute Report, February 2024
@@ -433,7 +437,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Harvard Graduate School of Education, HGSE AI Policy](https://registrar.gse.harvard.edu/AI-policy)
 * [Harvard University, AI Guidance & FAQs](https://oue.fas.harvard.edu/ai-guidance)
 * [Harvard University, Guidelines for Using ChatGPT and other Generative AI tools at Harvard](https://provost.harvard.edu/guidelines-using-chatgpt-and-other-generative-ai-tools-harvard)
-* [Massachusetts Institute of Technology, Initial guidance for use of Generative AI tools](https://ist.mit.edu/ai-guidance)
+* [Massachusetts Institute of Technology, Guidance for use of Generative AI tools](https://ist.mit.edu/ai-guidance)
 * [Massachusetts Institute of Technology, Generative AI & Your Course](https://tll.mit.edu/teaching-resources/course-design/gen-ai-your-course/)
 * [Stanford Graduate School of Business, Course Policies on Generative AI Use](https://tlhub.stanford.edu/docs/course-policies-on-generative-ai-use/)
 * [Stanford University, Artificial Intelligence Teaching Guide](https://teachingcommons.stanford.edu/teaching-guides/artificial-intelligence-teaching-guide)
@@ -796,10 +800,14 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Artificial Intelligence/Machine Learning-Based: Software as a Medical Device Action Plan](https://www.fda.gov/media/145022/download) | SaMD, updated January 2021
 * [Software as a Medical Device guidance](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/software-medical-device-samd-clinical-evaluation) | SaMD guidance, December 8, 2017
 
+**General Services Administration**
+* [AI Guide for Government](https://coe.gsa.gov/coe/ai-guide-for-government/introduction/)
+
 **Government Accountability Office (GAO)**
 * [Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities, GAO-21-519SP](https://www.gao.gov/products/gao-21-519sp) | June 2021
   * [Highlights of GAO-21-519SP](https://www.gao.gov/assets/gao-21-519sp-highlights.pdf)
 * [Artificial Intelligence: Use and Oversight in Financial Services GAO-25-107197](https://www.gao.gov/assets/gao-25-107197.pdf) | May 19, 2025
+* [Considerations for the Use of Artificial Intelligence to Support Regulatory Decision-Making for Drug and Biological Products Draft Guidance](https://www.fda.gov/media/184830/download) | January 2025
 * [Fraud and Improper Payments: Data Quality and a Skilled Workforce Are Essential for Unlocking the Benefits of Artificial Intelligence](https://www.gao.gov/assets/gao-25-108412.pdf)
 * [Generative AI's Environmental and Human Effects](https://www.gao.gov/assets/gao-25-107172.pdf) | Technology Assessment, Artificial Intelligence, April 2025
 * [Veteran Suicide: VA Efforts to Identify Veterans at Risk through Analysis of Health Record Information](https://www.gao.gov/assets/gao-22-105165.pdf)
@@ -835,6 +843,9 @@ This section serves as a repository for policy documents, regulations, guideline
 **Securities and Exchange Commission (SEC)**  
 * [Investor Advisory Committee Meeting Agenda for Thursday](https://www.sec.gov/about/advisory-committees/investor-advisory-committee/iac030625-agenda) | March 6, 2025
 * [SEC Charges Two Investment Advisers with Making False and Misleading Statements About Their Use of Artificial Intelligence](https://www.sec.gov/news/press-release/2024-36)
+
+**Social Security Administration (SSA)**  
+* [Compliance Plan for OMB Memoranda M-24-10](https://www.ssa.gov/ai/policy/SSA%20M-24-10%20Compliance%20Plan.pdf) | September 2024
 
 **United States Patent and Trademark Office (USPTO)**
 * [Artificial Intelligence Strategy](https://www.uspto.gov/sites/default/files/documents/uspto-ai-strategy.pdf) | January 2025
@@ -1079,6 +1090,7 @@ This section serves as a repository for policy documents, regulations, guideline
 Legislation, litigation, and other legal materials relevant to AI policy and governance.
 
 * [An Act relating to artificial intelligence; requiring disclosure of deepfakes in campaign communications; relating to cybersecurity; and relating to data privacy.](https://www.akleg.gov/basis/Bill/Detail/33?Root=HB306) | Alaska State Legislature, HB 306
+* [Agenda Book for Advisory Committee on Evidence Rules – Panel on Artificial Intelligence and the Rules of Evidence](https://www.uscourts.gov/sites/default/files/2024-04_agenda_book_for_evidence_rules_meeting_final.pdf) | April 19, 2024  
 * [Algorithmic Accountability Act of 2023](https://www.govinfo.gov/app/details/BILLS-118hr5628ih/)
 * [Arizona, House Bill 2685](https://www.azleg.gov/legtext/55leg/2r/bills/hb2685h.htm)
 * [Australia, Privacy Act 1988](https://www.legislation.gov.au/Details/C2014C00076)
