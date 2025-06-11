@@ -713,6 +713,8 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Measurement Uncertainty](https://www.nist.gov/itl/sed/topic-areas/measurement-uncertainty)
     * [International Bureau of Weights and Measures, Evaluation of measurement data—Guide to the expression of uncertainty in measurement](https://www.bipm.org/documents/20126/2071204/JCGM_100_2008_E.pdf/cb0ef43f-baa5-11cf-3f85-4dcd86f77bd6) | (BIPM)
   * [Psychological Foundations of Explainability and Interpretability in Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8367.pdf)
+* National Oceanic and Atmospheric Administration (NOAA)
+  * [NOAA Artificial Intelligence Strategy: Analytics for Next-Generation Earth Science](https://sciencecouncil.noaa.gov/wp-content/uploads/2023/04/2020-AI-Strategy.pdf) | February 2020
 * Office of the Under Secretary for Economic Affairs
   * [Generative Artificial Intelligence and Open Data](https://www.commerce.gov/sites/default/files/2025-01/GenerativeAI-Open-Data.pdf) | Guidelines and Best Practices, Version 1, January 16, 2025
 * [U.S. Artificial Intelligence Safety Institute](https://www.nist.gov/aisi) | (USAISI)
@@ -729,6 +731,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * Department of the Army
   * [Proceedings of the Thirteenth Annual U.S. Army Operations Research Symposium](https://apps.dtic.mil/sti/pdfs/ADA007126.pdf) | Volume 1, October 29 to November 1, 1974
 * [Guidelines for secure AI system development](https://media.defense.gov/2023/Nov/27/2003346994/-1/-1/0/GUIDELINES-FOR-SECURE-AI-SYSTEM-DEVELOPMENT.PDF)
+* [U.S. Department of Defense Responsible Artificial Intelligence Strategy and Implementation Pathway](https://media.defense.gov/2022/Jun/22/2003022604/-1/-1/0/Department-of-Defense-Responsible-Artificial-Intelligence-Strategy-and-Implementation-Pathway.PDF) | June 2022
 
 **Department of Education**
 * [Inventory of U.S. Department of Education AI Use Cases](https://www.ed.gov/about/ed-overview/artificial-intelligence-ai-guidance)
@@ -771,6 +774,7 @@ This section serves as a repository for policy documents, regulations, guideline
 **Department of State**
 * [Artificial Intelligence](https://www.state.gov/artificial-intelligence/)
 * [AI Inventory 2024](https://2021-2025.state.gov/department-of-state-ai-inventory-2024/) |  (Archived Content)
+* [Enterprise Artificial Intelligence Strategy FY2024-FY-2025 Empowering Diplomacy through Responsible AI](https://www.state.gov/wp-content/uploads/2023/11/Department-of-State-Enterprise-Artificial-Intelligence-Strategy.pdf) | October 2023
 
 **Department of the Treasury**  
 * Internal Revenue Service (IRS)
@@ -785,6 +789,9 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Consumer Data Privacy in a Networked World: A Framework for Protecting Privacy and Promoting Innovation in the Global Digital Economy, February 2012](https://obamawhitehouse.archives.gov/sites/default/files/privacy-final.pdf) | Obama White House Archives
 * [Fact Sheet Eliminating Barriers for Federal Artificial Intelligence Use and Procurement](https://www.whitehouse.gov/wp-content/uploads/2025/02/AI-Memo-Fact-Sheet.pdf)
 * [Framework to Advance AI Governance and Risk Management in National Security](https://ai.gov/wp-content/uploads/2024/10/NSM-Framework-to-Advance-AI-Governance-and-Risk-Management-in-National-Security.pdf)
+
+**Federal Aviation Administration (FAA)**
+* [Roadmap for Artificial Intelligence Safety Assurance](https://www.faa.gov/media/82891) | Version I, July 23, 2024
 
 **Federal Deposit Insurance Corporation (FDIC)**  
 
@@ -878,6 +885,7 @@ This section serves as a repository for policy documents, regulations, guideline
 
 **United States Congress, Senate**
 * [Decoupling America’s Artificial Intelligence Capabilities from China Act](https://www.hawley.senate.gov/wp-content/uploads/2025/01/Hawley-Decoupling-Americas-Artificial-Intelligence-Capabilities-from-China-Act.pdf) | U.S. Senate, 119th Congress, introduced by Senator Josh Hawley, January 2025
+* [Driving U.S. Innovation in Artificial Intelligence: A Roadmap for Artificial Intelligence Policy in the United States Senate](https://www.schumer.senate.gov/imo/media/doc/Roadmap_Electronic1.32pm.pdf) | The Bipartisan Senate AI Working Group, May 2024
 * [Letter to DOJ Re FARA AI Violation](https://www.commerce.senate.gov/services/files/55267EFF-11A8-4BD6-BE1E-61452A3C48E3) | Senator Ted Cruz to Attorney General Merrick Garland, Committee on Commerce, Science, and Transportation, 2024.11.21
 * [Letter to Sundar Pichai concerning Google's decision to reverse its previous safety and ethical commitments on its development of AI products](https://www.markey.senate.gov/imo/media/doc/letter_to_google_on_ai_principles_revisions2.pdf) | Letter from Senators Edward J. Markey, Jeffrey A. Merkley, and Peter Welch, February 19, 2025
 
@@ -915,6 +923,9 @@ This section serves as a repository for policy documents, regulations, guideline
 **Illinois**
 * [Illinois Supreme Court Policy on Artificial Intelligence](https://ilcourtsaudio.blob.core.windows.net/antilles-resources/resources/e43964ab-8874-4b7a-be4e-63af019cb6f7/Illinois%20Supreme%20Court%20AI%20Policy.pdf) | Effective January 1, 2025
 
+**Indiana**
+* [State of Indiana Artificial Intelligence](https://www.in.gov/mph/cdo/files/State-of-Indiana-Artificial-Intelligence-Policy.pdf) | Version 1.1, December 2024
+
 **Kentucky**
 * [080.101 AI/Gen AI Policy Version 1.1](https://www.chfs.ky.gov/agencies/os/oats/polstand/080101AIGen%20AI.pdf) | Cabinet for Health and Family Services, February 27, 2025
 * [Research Report No. 491 Executive Branch Use of Artificial Intelligence Technology](https://apps.legislature.ky.gov/lrc/publications/ResearchReports/RR491.pdf) | Legislative Research Commission
@@ -944,6 +955,9 @@ This section serves as a repository for policy documents, regulations, guideline
 **North Carolina**
 * [North Carolina State Government Responsible Use of Artificial Intelligence Framework](https://it.nc.gov/documents/nc-state-government-responsible-use-artificial-intelligence-framework/download?attachment) | August 2024
 
+**South Carolina**
+* [South Carolina State Agencies Artificial Intelligence Strategy](https://admin.sc.gov/sites/admin/files/Documents/OED/Final%20SC%20AI%20Strategy.pdf) | June 2024
+
 **North Dakota**
 * [State of North Dakota Artificial Intelligence Policy](https://www.ndit.nd.gov/sites/www/files/documents/Policies/artificial_intelligence_policy_2024.pdf)
 
@@ -956,6 +970,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Enterprise Artificial Intelligence policy 200-POL-007](https://www.tn.gov/content/dam/tn/finance/artificial-intelligence/Enterprise_Artificial_Intelligence_Policy.pdf) | Department of Finance and Administration, Strategic Technology Solutions, Version 1.0, October 30, 2024
 
 **Texas**
+* [Artificial Intelligence Strategic Plan Fiscal Years 2025-2027](https://www.txdot.gov/content/dam/docs/str/ai-strategic-plan-09-20-2024.pdf) | Texas Department of Transportation
 * [Federal Reserve Bank of Dallas, Regulation B, Equal Credit Opportunity, Credit Scoring Interpretations: Withdrawal of Proposed Business Credit Amendments](https://fraser.stlouisfed.org/files/docs/historical/frbdal/circulars/frbdallas_circ_19820603_no82-063.pdf) | June 3, 1982
 
 **Utah**
@@ -1526,6 +1541,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [AI already uses as much energy as a small country. It’s only the beginning.](https://www.vox.com/climate/2024/3/28/24111721/ai-uses-a-lot-of-energy-experts-expect-it-to-double-in-just-a-few-years)
 * [AI, Climate, and Regulation: From Data Centers to the AI Act](https://arxiv.org/abs/2410.06681)
 * [Artificial Intelligence and Environmental Impact: Moving Beyond Humanizing Vocabulary and Anthropocentrism](https://www.liebertpub.com/doi/abs/10.1089/omi.2024.0197)
+* [Beyond AI as an environmental pharmakon: Principles for reopening the problem-space of machine learning's carbon footprint](https://doi.org/10.1177/25148486251332087)
 * [Beyond CO2 Emissions: The Overlooked Impact of Water Consumption of Information Retrieval Models](https://dl.acm.org/doi/abs/10.1145/3578337.3605121)
 * [Data centre water consumption](https://www.nature.com/articles/s41545-021-00101-w)
 * [Ecological footprints, carbon emissions, and energy transitions: the impact of artificial intelligence ](https://www.nature.com/articles/s41599-024-03520-5.pdf)
@@ -1549,12 +1565,15 @@ This section contains an assortment of papers, articles, essays, and general res
 * [The Environmental Price of Intelligence: Evaluating the Social Cost of Carbon in Machine Learning](https://ieeexplore.ieee.org/abstract/document/10553496)
 * [The growing energy footprint of artificial intelligence](https://www.cell.com/action/showPdf?pii=S2542-4351%2823%2900365-3)
 * [The Hidden Cost of AI: Carbon Footprint and Mitigation Strategies](https://dx.doi.org/10.2139/ssrn.5036344)
+* [The Hidden Cost of AI: Unraveling the Power-Hungry Nature of Large Language Models](https://www.preprints.org/frontend/manuscript/30dc8badac9e44da699113e5b5cd6737/download_pub)
+* [The Hidden Costs of AI-driven Data Center Demand: Five Systemic Tensions](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1039&context=amcis2025)
 * [The Hidden Environmental Impact of AI](https://jacobin.com/2024/06/ai-data-center-energy-usage-environment/)
 * [The mechanisms of AI hype and its planetary and social costs](https://link.springer.com/article/10.1007/s43681-024-00461-2)
 * [Toward Responsible AI Use: Considerations for Sustainability Impact Assessment](https://arxiv.org/abs/2312.11996)
 * [Towards A Comprehensive Assessment of AI's Environmental Impact](https://arxiv.org/abs/2405.14004)
 * [Towards Environmentally Equitable AI via Geographical Load Balancing](https://arxiv.org/abs/2307.05494)
 * [Towards green and sustainable artificial intelligence: quantifying the energy footprint of logistic regression and decision tree algorithms](https://ieeexplore.ieee.org/abstract/document/10700922)
+* [Tracking the carbon footprint of global generative artificial intelligence](https://www.cell.com/action/showPdf?pii=S2666-6758%2825%2900069-4)
 * [Unraveling the Hidden Environmental Impacts of AI Solutions for Environment Life Cycle Assessment of AI Solutions](https://www.mdpi.com/2071-1050/14/9/5172)
 
 #### AI Slop Genre
