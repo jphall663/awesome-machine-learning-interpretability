@@ -713,6 +713,8 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Measurement Uncertainty](https://www.nist.gov/itl/sed/topic-areas/measurement-uncertainty)
     * [International Bureau of Weights and Measures, Evaluation of measurement data—Guide to the expression of uncertainty in measurement](https://www.bipm.org/documents/20126/2071204/JCGM_100_2008_E.pdf/cb0ef43f-baa5-11cf-3f85-4dcd86f77bd6) | (BIPM)
   * [Psychological Foundations of Explainability and Interpretability in Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8367.pdf)
+* Office of the Under Secretary for Economic Affairs
+  * [Generative Artificial Intelligence and Open Data](https://www.commerce.gov/sites/default/files/2025-01/GenerativeAI-Open-Data.pdf) | Guidelines and Best Practices, Version 1, January 16, 2025
 * [U.S. Artificial Intelligence Safety Institute](https://www.nist.gov/aisi) | (USAISI)
   * [US AISI and UK AISI Joint Pre-Deployment Test: Anthropic's Claude 3.5 Sonnet](https://www.nist.gov/system/files/documents/2024/11/19/Upgraded%20Sonnet-Publication-US.pdf) | October 2024 Release
   * [US AISI and UK AISI Joint Pre-Deployment Test: OpenAI o1](https://www.nist.gov/system/files/documents/2024/12/18/US_UK_AI%20Safety%20Institute_%20December_Publication-OpenAIo1.pdf) | December 2024
@@ -830,6 +832,9 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Examining Proposed Uses of LLMs to Produce or Assess Assurance Arguments](https://ntrs.nasa.gov/api/citations/20250001849/downloads/NASA-TM-20250001849.pdf) | NASA/TM–20250001849, March 2025
 * [NASA Framework for the Ethical Use of Artificial Intelligence](https://ntrs.nasa.gov/api/citations/20210012886/downloads/NASA-TM-20210012886.pdf) | NASA/TM-20210012886, April 2021
 
+**National Association of Attorneys General**
+* [Letter to Congress Opposing AI Preemption Amendment](https://www.scag.gov/media/opvgxagq/2025-05-15-letter-to-congress-re-proposed-ai-preemption-_final.pdf) | Letter by state attorneys general opposing federal preemption of state AI regulation, May 16, 2025
+
 **National Endowment for the Humanities**
 * [Policy on the Use of Artificial Intelligence for NEH Grant Proposals](https://www.neh.gov/sites/default/files/2024-10/NEH.AI_.Policy-10.23.24.pdf) | October 23, 2024
 
@@ -869,9 +874,12 @@ This section serves as a repository for policy documents, regulations, guideline
 
 **United States Congress, House of Representatives**
 * [Bipartisan House Task Force Report on Artificial Intelligence](https://republicans-science.house.gov/_cache/files/a/a/aa2ee12f-8f0c-46a3-8ff8-8e4215d6a72b/E4AF21104CB138F3127D8FF7EA71A393.ai-task-force-report-final.pdf) | 118th Congress, December 2024
+* [Letter to Inflection AI re: AI Censorship](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/2025-03-13-jdj-to-inflection-ai-white-re-ai-censorship-1%29.pdf) | U.S. House Judiciary Committee, March 13, 2025
 
 **United States Congress, Senate**
+* [Decoupling America’s Artificial Intelligence Capabilities from China Act](https://www.hawley.senate.gov/wp-content/uploads/2025/01/Hawley-Decoupling-Americas-Artificial-Intelligence-Capabilities-from-China-Act.pdf) | U.S. Senate, 119th Congress, introduced by Senator Josh Hawley, January 2025
 * [Letter to DOJ Re FARA AI Violation](https://www.commerce.senate.gov/services/files/55267EFF-11A8-4BD6-BE1E-61452A3C48E3) | Senator Ted Cruz to Attorney General Merrick Garland, Committee on Commerce, Science, and Transportation, 2024.11.21
+* [Letter to Sundar Pichai concerning Google's decision to reverse its previous safety and ethical commitments on its development of AI products](https://www.markey.senate.gov/imo/media/doc/letter_to_google_on_ai_principles_revisions2.pdf) | Letter from Senators Edward J. Markey, Jeffrey A. Merkley, and Peter Welch, February 19, 2025
 
 **United States Web Design System (USWDS)**
 * [Design principles](https://designsystem.digital.gov/design-principles/)
@@ -892,12 +900,17 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Office of the Attorney General of California, California Privacy Rights Act](https://www.oag.ca.gov/system/files/initiatives/pdfs/19-0021A1%20%28Consumer%20Privacy%20-%20Version%203%29_1.pdf) | (CPRA)
 * [Sonoma County Administrative Policy 9-6 Information Technology Artificial Intelligence Policy](https://sonomacounty.ca.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/HR/Employee%20Resources/Administrative%20Policy%20Manual/9-6%20AI%20Policy/AI%20Policy.pdf) | September 10, 2024
 
+**Colorado**
+* [Report and Recommendations: Artificial Intelligence Impact Task Force](https://leg.colorado.gov/sites/default/files/images/report_and_recommendations_5.pdf) | Colorado Legislative Council Staff, February 2025
+
 **Connecticut**
 * [State of Connecticut Judicial Branch JBAPPM Policy 1013 Artificial Intelligence Responsible Use Framework, Meaningful Guardrails + Workforce Empowerment and Education + Purposeful Use = Responsible AI Innovation](https://www.jud.ct.gov/faq/CTJBResponsibleAIPolicyFramework2.1.24.pdf) | Version 1.0, February 1, 2024
 * [State of Connecticut Policy AI-01 AI Responsible Use Framework, Meaningful Guardrails + Workforce Empowerment and Education + Purposeful Use = Responsible AI Innovation](https://portal.ct.gov/-/media/OPM/Fin-General/Policies/CT-Responsible-AI-Policy-Framework-Final-02012024.pdf) | Version 1.0, February 1, 2024
 
 **Florida**
+* [Provenance of Digital Content Florida HB 369 Bill Analysis](https://www.flsenate.gov/Session/Bill/2025/369/Analyses/h0369e.COM.PDF) | Florida House of Representatives, April 2025
 * [Report on Miami-Dade County's Policy on Artificial Intelligence–Directive No. 231203](https://documents.miamidade.gov/mayor/memos/03.22.24-Report-on-Miami-Dade-Countys-Policy-on-Artificial-Intelligence-Directive-No-231203.pdf) | Miami-Dade County, March 22, 2024
+* [Second Report on Miami-Dade County's Policy on Artificial Intelligence Directive No. 231203](https://www.miamidade.gov/technology/library/artificial-intelligence-report-2025.pdf) | Miami-Dade County, April 8, 2025
 
 **Illinois**
 * [Illinois Supreme Court Policy on Artificial Intelligence](https://ilcourtsaudio.blob.core.windows.net/antilles-resources/resources/e43964ab-8874-4b7a-be4e-63af019cb6f7/Illinois%20Supreme%20Court%20AI%20Policy.pdf) | Effective January 1, 2025
@@ -925,6 +938,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Acceptable Use of Artificial Intelligence Technologies](https://its.ny.gov/system/files/documents/2025/04/nys-p24-001-acceptable-use-of-artificial-intelligence-technologies.pdf) | Office of Information Technology Services, March 11, 2025
 * [New York City Automated Decision Systems Task Force Report](https://www.nyc.gov/assets/adstaskforce/downloads/pdf/ADS-Report-11192019.pdf) | November 2019
 * [New York State Emerging Technology Advisory Board: Recommendations for making NY a leader in responsible AI](https://filecache.mediaroom.com/mr5mr_ibmnewsroom/198517/IBM-ETAB-Report-white-paper-DIGITAL-20241212%5B30%5D.pdf)
+* [New York State Artificial Intelligence Governance](https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2025-23s50.pdf) | Office of the New York State Comptroller, Report 2023-S-50, April 2025
 * [Use of External Consumer Data and Information Sources in Underwriting for Life Insurance](https://www.dfs.ny.gov/industry_guidance/circular_letters/cl2019_01)
 
 **North Carolina**
@@ -1109,6 +1123,8 @@ This section serves as a repository for policy documents, regulations, guideline
 
 Legislation, litigation, and other legal materials relevant to AI policy and governance.
 
+* [AI Learning Agenda](https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S747v0.pdf) | General Assembly of North Carolina, Session 2025, Senate Bill DRS245362-LR-142A	
+* [An Act Addressing Innovations in Artificial Intelligence](https://www.cga.ct.gov/2025/ba/pdf/2025SB-01249-R000606-BA.pdf) | OLR Bill Analysis SB 1249
 * [An Act relating to artificial intelligence; requiring disclosure of deepfakes in campaign communications; relating to cybersecurity; and relating to data privacy.](https://www.akleg.gov/basis/Bill/Detail/33?Root=HB306) | Alaska State Legislature, HB 306
 * [Agenda Book for Advisory Committee on Evidence Rules – Panel on Artificial Intelligence and the Rules of Evidence](https://www.uscourts.gov/sites/default/files/2024-04_agenda_book_for_evidence_rules_meeting_final.pdf) | April 19, 2024  
 * [Algorithmic Accountability Act of 2023](https://www.govinfo.gov/app/details/BILLS-118hr5628ih/)
@@ -1118,6 +1134,7 @@ Legislation, litigation, and other legal materials relevant to AI policy and gov
 * [California, Consumer Privacy Act of 2018](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&part=4.&lawCode=CIV&title=1.81.5) | Civil Code - DIVISION 3. OBLIGATIONS [1427 - 3273.69]
 * [Cherkin et al. v. PowerSchool Holdings Inc. N.D. Cal. May 2024 – EdTech Privacy Class Action](https://s3.documentcloud.org/documents/25260275/cherkin-v-powerschool-complaint-20240506.pdf)
 * [Colorado, SB24-205 Consumer Protections for Artificial Intelligence, Concerning consumer protections in interactions with artificial intelligence systems](https://leg.colorado.gov/bills/SB24-205)
+* [Decoupling America’s Artificial Intelligence Capabilities from China Act](https://www.hawley.senate.gov/wp-content/uploads/2025/01/Hawley-Decoupling-Americas-Artificial-Intelligence-Capabilities-from-China-Act.pdf) | U.S. Senate, 119th Congress, introduced by Senator Josh Hawley, January 2025
 * [European Union, General Data Protection Regulation](https://gdpr-info.eu/) |  (GDPR)
   * [Article 22 EU GDPR "Automated individual decision-making, including profiling"](https://www.privacy-regulation.eu/en/article-22-automated-individual-decision-making-including-profiling-GDPR.htm)
 * [Popa v. Harriet Carter Gifts Inc. W.D. Pa. Mar. 2025 – Class Action on Digital Wiretapping](https://app.midpage.ai/document/popa-v-harriet-carter-gifts-10829535?refG=true)
@@ -1531,6 +1548,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [The Environmental Impact of AI: A Case Study of Water Consumption by Chat GPT](https://puiij.com/index.php/research/article/view/39)
 * [The Environmental Price of Intelligence: Evaluating the Social Cost of Carbon in Machine Learning](https://ieeexplore.ieee.org/abstract/document/10553496)
 * [The growing energy footprint of artificial intelligence](https://www.cell.com/action/showPdf?pii=S2542-4351%2823%2900365-3)
+* [The Hidden Cost of AI: Carbon Footprint and Mitigation Strategies](https://dx.doi.org/10.2139/ssrn.5036344)
 * [The Hidden Environmental Impact of AI](https://jacobin.com/2024/06/ai-data-center-energy-usage-environment/)
 * [The mechanisms of AI hype and its planetary and social costs](https://link.springer.com/article/10.1007/s43681-024-00461-2)
 * [Toward Responsible AI Use: Considerations for Sustainability Impact Assessment](https://arxiv.org/abs/2312.11996)
