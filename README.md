@@ -234,7 +234,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Implementing the AI Act in Belgium: Scope of Application and Authorities](https://data-en-maatschappij.ai/uploads/Policy-brief-Implementing-the-AI-act-in-Belgium_2024-12-23-115650_shpg.pdf) | Data & Society Knowledge Centre, December 2024
 * [Independent Audit of AI Systems](https://forhumanity.center/independent-audit-of-ai-systems/)
 * [Information System Contingency Planning Guidance](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-3/information-system-contingency-planning-guidance) | Larry G. Wlosinski, April 30, 2021
-* [Institute for AI Policy and Strategy (IAPS)](https://www.iaps.ai/ourresearch)
+* [Institute for AI Policy and Strategy](https://www.iaps.ai/ourresearch) | (IAPS)
   * [AI Agent Governance: A Field Guide](https://static1.squarespace.com/static/64edf8e7f2b10d716b5ba0e1/t/6801438c58c2692374995db0/1744913293841/Agent+Governance_+A+Field+Guide.pdf) | April 2025
   * [Key questions for the International Network of AI Safety Institutes](https://www.iaps.ai/research/international-network-aisis)
   * [Mapping Technical Safety Research at AI Companies: A literature review and incentives analysis](https://arxiv.org/pdf/2409.07878)
