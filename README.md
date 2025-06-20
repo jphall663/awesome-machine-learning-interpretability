@@ -1616,7 +1616,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Montreal AI Ethics Institute](https://montrealethics.ai)
 * [Partnership on AI](https://partnershiponai.org/)
 * [Responsible Artificial Intelligence Institute](https://responsible.ai)
-* [Stanford University Human-Centered Artificial Intelligence (HAI)](https://hai.stanford.edu/)
+* [Stanford University Human-Centered Artificial Intelligence](https://hai.stanford.edu/) |  (HAI)
 * [TheGovLab](https://thegovlab.org/)
 
 ### Curated Bibliographies
