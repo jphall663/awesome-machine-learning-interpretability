@@ -1099,7 +1099,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [OECD-Bericht zu Künstlicher Intelligenz in Deutschland](https://www.ki-strategie-deutschland.de/files/downloads/OECD-Bericht_K%C3%BCnstlicher_Intelligenz_in_Deutschland.pdf)
 * [OECD Digital Economy Papers, No. 341, November 2022, Measuring the Environmental Impacts of Artificial Intelligence Computer and Applications: The AI Footprint](https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/11/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_3dddded5/7babf571-en.pdf)
 * [OECD Legal Instruments, Recommendation of the Council on Artificial Intelligence, adopted May 22, 2019, amended May 3, 2024](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449)
-* [Open, Useful and Re-usable data (OURdata) Index: 2019](https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/03/open-useful-and-re-usable-data-ourdata-index-2019_4c070c33/45f6de2d-en.pdf)
+* [Open, Useful and Re-usable data Index: 2019](https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/03/open-useful-and-re-usable-data-ourdata-index-2019_4c070c33/45f6de2d-en.pdf) |  (OURdata)
 * [Measuring the environmental impacts of artificial intelligence compute and applications](https://www.oecd.org/en/publications/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_7babf571-en.html)
 * [The Bias Assessment Metrics and Measures Repository](https://oecd.ai/en/catalogue/tools/the-bias-assessment-metrics-and-measures-repository)
 
