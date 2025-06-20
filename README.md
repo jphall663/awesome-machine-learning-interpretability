@@ -109,29 +109,29 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [2024 State of the AI Regulatory Landscape](https://drive.google.com/file/d/13gyYbBixU75QwFQDTku0AMIovbeTp9_g/view)
 * [8 Principles of Responsible ML](https://ethical.institute/principles.html)
 * [A Brief Overview of AI Governance for Responsible Machine Learning Systems](https://arxiv.org/pdf/2211.13130.pdf)
-* [A checklist for auditing AI systems](https://ictinstitute.nl/a-checklist-for-auditing-ai-systems/) | ICT Institute			
-* [A Digital Pandemic: Uncovering the Role of 'Yahoo Boys' in the Surge of Social Media-Enabled Financial Sextortion Targeting Minors](https://networkcontagion.us/wp-content/uploads/Yahoo-Boys_1.2.24.pdf) | Network Contagion Research Institute (NCRI), January 2024			
-* [Acceptable Use Policies for Foundation Models](https://github.com/kklyman/aupsforfms) | ![](https://img.shields.io/github/stars/kklyman/aupsforfms?style=social)			
-* [Access Now, Regulatory Mapping on Artificial Intelligence in Latin America: Regional AI Public Policy Report](https://www.accessnow.org/wp-content/uploads/2024/07/TRF-LAC-Reporte-Regional-IA-JUN-2024-V3.pdf)			
-* [Ada Lovelace Institute, Code and Conduct: How to Create Third-Party Auditing Regimes for AI Systems](https://www.adalovelaceinstitute.org/report/code-conduct-ai/)			
-* [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix) | ![](https://img.shields.io/github/stars/mitre/advmlthreatmatrix?style=social)			
-* [AI Assurance: A Repeatable Process for Assuring AI-enabled Systems](https://www.mitre.org/sites/default/files/2024-06/PR-24-1768-AI-Assurance-A-Repeatable-Process-Assuring-AI-Enabled-Systems.pdf) | MITRE, June 2024			
-* [AI Canon](https://a16z.com/ai-canon/) | Andreessen Horowitz (a16z)			
-* [AI Ethics and Governance in Practice](https://www.turing.ac.uk/research/research-projects/ai-ethics-and-governance-practice) | The Alan Turing Institute			
+* [A checklist for auditing AI systems](https://ictinstitute.nl/a-checklist-for-auditing-ai-systems/) | ICT Institute
+* [A Digital Pandemic: Uncovering the Role of 'Yahoo Boys' in the Surge of Social Media-Enabled Financial Sextortion Targeting Minors](https://networkcontagion.us/wp-content/uploads/Yahoo-Boys_1.2.24.pdf) | Network Contagion Research Institute (NCRI), January 2024
+* [Acceptable Use Policies for Foundation Models](https://github.com/kklyman/aupsforfms) | ![](https://img.shields.io/github/stars/kklyman/aupsforfms?style=social)
+* [Access Now, Regulatory Mapping on Artificial Intelligence in Latin America: Regional AI Public Policy Report](https://www.accessnow.org/wp-content/uploads/2024/07/TRF-LAC-Reporte-Regional-IA-JUN-2024-V3.pdf)
+* [Ada Lovelace Institute, Code and Conduct: How to Create Third-Party Auditing Regimes for AI Systems](https://www.adalovelaceinstitute.org/report/code-conduct-ai/)
+* [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix) | ![](https://img.shields.io/github/stars/mitre/advmlthreatmatrix?style=social)
+* [AI Assurance: A Repeatable Process for Assuring AI-enabled Systems](https://www.mitre.org/sites/default/files/2024-06/PR-24-1768-AI-Assurance-A-Repeatable-Process-Assuring-AI-Enabled-Systems.pdf) | MITRE, June 2024
+* [AI Canon](https://a16z.com/ai-canon/) | Andreessen Horowitz (a16z)
+* [AI Ethics and Governance in Practice](https://www.turing.ac.uk/research/research-projects/ai-ethics-and-governance-practice) | The Alan Turing Institute
 * [AI-Generated Disinformation in Europe and Africa: Use Cases, Solutions and Transnational Learning](https://www.kas.de/documents/285576/0/Study+_+AI-Generated+Disinformation+in+Europe+and+Africa+-+Ebook+%281%29.pdf/a51f9394-e955-21a1-df30-38585122303c?version=1.0&t=1739539822992) | Konrad Adenauer Stiftung, January 31, 2025
 * [AI Governance Alliance Briefing Paper Series](https://www3.weforum.org/docs/WEF_AI_Governance_Alliance_Briefing_Paper_Series_2024.pdf) | World Economic Forum, January 2024
-* [AI Governance Needs Sociotechnical Expertise: Why the Humanities and Social Sciences Are Critical to Government Efforts](https://datasociety.net/wp-content/uploads/2024/05/DS_AI_Governance_Policy_Brief.pdf)			
+* [AI Governance Needs Sociotechnical Expertise: Why the Humanities and Social Sciences Are Critical to Government Efforts](https://datasociety.net/wp-content/uploads/2024/05/DS_AI_Governance_Policy_Brief.pdf)
 * [AI in Africa](https://landscapestudy.tiiny.site/) | Global Center on AI Governance, AI in Africa: A Landscape Study, April 2025
-* [AI in the Public Service: From Principles to Practice](https://oxcaigg.oii.ox.ac.uk/wp-content/uploads/sites/11/2021/12/AI-in-the-Public-Service-Final.pdf) | Oxford Commission on AI & Good Governance			
-* [AI Inventories: Practical Challenges for Organizational Risk Management](https://tinyurl.com/mrxrdc3y) | Responsible AI Institute and Chevron			
+* [AI in the Public Service: From Principles to Practice](https://oxcaigg.oii.ox.ac.uk/wp-content/uploads/sites/11/2021/12/AI-in-the-Public-Service-Final.pdf) | Oxford Commission on AI & Good Governance
+* [AI Inventories: Practical Challenges for Organizational Risk Management](https://tinyurl.com/mrxrdc3y) | Responsible AI Institute and Chevron
 * [AI Liability Along the Value Chain](https://wp.table.media/wp-content/uploads/2025/04/01152117/AI-Liability-Along-the-Value-Chain_Beatriz-Arcila.pdf) | Mozilla, 2025
-* [AI Model Registries: A Foundational Tool for AI Governance](https://arxiv.org/pdf/2410.09645) | September 2024			
-* [AI Policy](https://taylorandfrancis.com/our-policies/ai-policy/) | Taylor & Francis			
+* [AI Model Registries: A Foundational Tool for AI Governance](https://arxiv.org/pdf/2410.09645) | September 2024
+* [AI Policy](https://taylorandfrancis.com/our-policies/ai-policy/) | Taylor & Francis
 * [AI Red-Teaming Is Not a One-Stop Solution to AI Harms: Recommendations for Using Red-Teaming for AI Accountability](https://datasociety.net/wp-content/uploads/2023/10/Recommendations-for-Using-Red-Teaming-for-AI-Accountability-PolicyBrief.pdf) | Data & Society
-* [AI Risk Atlas: Taxonomy and Tooling for Navigating AI Risks and Resources](https://arxiv.org/pdf/2503.05780)			
-* [AI Snake Oil](https://www.aisnakeoil.com/)			
-* [AI Standards Hub](https://www.turing.ac.uk/research/research-projects/ai-standards-hub) | The Alan Turing Institute			
-* [AI Verify](https://aiverifyfoundation.sg/what-is-ai-verify/)			
+* [AI Risk Atlas: Taxonomy and Tooling for Navigating AI Risks and Resources](https://arxiv.org/pdf/2503.05780)
+* [AI Snake Oil](https://www.aisnakeoil.com/)
+* [AI Standards Hub](https://www.turing.ac.uk/research/research-projects/ai-standards-hub) | The Alan Turing Institute
+* [AI Verify](https://aiverifyfoundation.sg/what-is-ai-verify/)
   * [AI Verify Foundation](https://aiverifyfoundation.sg/what-is-ai-verify/)
   * [Cataloguing LLM Evaluations](https://aiverifyfoundation.sg/downloads/Cataloguing_LLM_Evaluations.pdf)
   * [Generative AI: Implications for Trust and Governance](https://aiverifyfoundation.sg/downloads/Discussion_Paper.pdf)
@@ -228,7 +228,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * IEEE
   * [A Flexible Maturity Model for AI Governance Based on the NIST AI Risk Management Framework](https://ieeeusa.org/product/a-flexible-maturity-model-for-ai-governance/)
   * [An Overview of Artificial Intelligence Ethics](https://ieeexplore.ieee.org/document/9844014)
-  * [P3119 Standard for the Procurement of Artificial Intelligence and Automated Decision Systems](https://standards.ieee.org/ieee/3119/10729/)  
+  * [P3119 Standard for the Procurement of Artificial Intelligence and Automated Decision Systems](https://standards.ieee.org/ieee/3119/10729/)
   * [Std 1012-1998 Standard for Software Verification and Validation](https://people.eecs.ku.edu/~hossein/Teaching/Stds/1012.pdf)
   * [The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems, General Principles](https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_general_principles_v2.pdf)
 * [Implementing the AI Act in Belgium: Scope of Application and Authorities](https://data-en-maatschappij.ai/uploads/Policy-brief-Implementing-the-AI-act-in-Belgium_2024-12-23-115650_shpg.pdf) | Data & Society Knowledge Centre, December 2024
@@ -342,7 +342,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [AI Risk-Management Standards Profile for General-Purpose AI and Foundation Models](https://cltc.berkeley.edu/wp-content/uploads/2025/01/Berkeley-AI-Risk-Management-Standards-Profile-for-General-Purpose-AI-and-Foundation-Models-v1-1.pdf) | Version 1.1, January 2025
   * [Decision Points in AI Governance: Three Case Studies Explore Efforts to Operationalize AI Principles](https://cltc.berkeley.edu/wp-content/uploads/2020/05/Decision_Points_AI_Governance.pdf)
   * [Intolerable Risk Threshold Recommendations for Artificial Intelligence: Key Principles, Considerations, and Case Studies to Inform Frontier AI Safety Frameworks for Industry and Government](https://cltc.berkeley.edu/wp-content/uploads/2025/02/Intolerable-Risk-Threshold-Recommendations-for-Artificial-Intelligence.pdf) | February 2025
-  * [A Taxonomy of Trustworthiness for Artificial Intelligence](https://cltc.berkeley.edu/wp-content/uploads/2023/12/Taxonomy_of_AI_Trustworthiness_tables.pdf) | January 2023  
+  * [A Taxonomy of Trustworthiness for Artificial Intelligence](https://cltc.berkeley.edu/wp-content/uploads/2023/12/Taxonomy_of_AI_Trustworthiness_tables.pdf) | January 2023
 
 #### Infographics and Cheat Sheets
 
@@ -653,12 +653,12 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### United States (Federal Government)
 
-**Consumer Financial Protection Bureau (CFPB)**  
+**Consumer Financial Protection Bureau (CFPB)**
 * [12 CFR Part 1002 - Equal Credit Opportunity Act](https://www.consumerfinance.gov/policy-compliance/rulemaking/regulations/1002/) | (Regulation B)
 * [Chatbots in consumer finance](https://www.consumerfinance.gov/data-research/research-reports/chatbots-in-consumer-finance/chatbots-in-consumer-finance/)
 * [Innovation spotlight: Providing adverse action notices when using AI/ML models](https://www.consumerfinance.gov/about-us/blog/innovation-spotlight-providing-adverse-action-notices-when-using-ai-ml-models/)
 
-**Commodity Futures Trading Commission (CFTC)**  
+**Commodity Futures Trading Commission (CFTC)**
 * [A Primer on Artificial Intelligence in Securities Markets](https://www.cftc.gov/media/2846/LabCFTC_PrimerArtificialIntelligence102119/download)
 * [Responsible Artificial Intelligence in Financial Markets](https://www.cftc.gov/PressRoom/PressReleases/8905-24)
 
@@ -683,7 +683,7 @@ This section serves as a repository for policy documents, regulations, guideline
 **Defense Advanced Research Projects Agency (DARPA)**
 * [Explainable Artificial Intelligence](https://www.darpa.mil/program/explainable-artificial-intelligence) |  (XAI) (Archived)
 
-**Defense Technical Information Center**  
+**Defense Technical Information Center**
 * [Computer Security Technology Planning Study](https://apps.dtic.mil/sti/citations/AD0758206) | October 1, 1972
 
 **Department of Agriculture (USDA)**
@@ -721,7 +721,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [US AISI and UK AISI Joint Pre-Deployment Test: Anthropic's Claude 3.5 Sonnet](https://www.nist.gov/system/files/documents/2024/11/19/Upgraded%20Sonnet-Publication-US.pdf) | October 2024 Release
   * [US AISI and UK AISI Joint Pre-Deployment Test: OpenAI o1](https://www.nist.gov/system/files/documents/2024/12/18/US_UK_AI%20Safety%20Institute_%20December_Publication-OpenAIo1.pdf) | December 2024
 
-**Department of Defense**  
+**Department of Defense**
 * [AI Data Security](https://media.defense.gov/2025/May/22/2003720601/-1/-1/0/CSI_AI_DATA_SECURITY.PDF) | Joint Cybersecurity Information, Best Practices for Securing Data Used to Train & Operate AI Systems, May 2025, Ver. 1.0
 * [AI Principles: Recommendations on the Ethical Use of Artificial Intelligence](https://media.defense.gov/2019/Oct/31/2002204458/-1/-1/0/DIB_AI_PRINCIPLES_PRIMARY_DOCUMENT.PDF)
 * [Audit of Governance and Protection of Department of Defense Artificial Intelligence Data and Technology](https://media.defense.gov/2020/Jul/01/2002347967/-1/-1/1/DODIG-2020-098.PDF)
@@ -749,7 +749,7 @@ This section serves as a repository for policy documents, regulations, guideline
 **Department of Health and Human Services**
 * [Strategic Plan for the Use of Artificial Intelligence in Health Human Services and Public Health Strategic Plan](https://irp.nih.gov/system/files/media/file/2025-03/2025-hhs-ai-strategic-plan_full_508.pdf) | January 2025
 
-**Department of Homeland Security**  
+**Department of Homeland Security**
 * [Acquisition and Use of Artificial Intelligence and Machine Learning Technologies by DHS Components](https://www.dhs.gov/sites/default/files/2023-09/23_0913_mgmt_139-06-acquistion-use-ai-technologies-dhs-components.pdf) | Policy Statement 139-06, August 8, 2023
 * [Artificial Intelligence and Autonomous Systems](https://www.dhs.gov/science-and-technology/artificial-intelligence)
 * [Artificial Intelligence Safety and Security Board](https://www.dhs.gov/artificial-intelligence-safety-and-security-board)
@@ -762,7 +762,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [AI at DHS: A Deep Dive into our Use Case Inventory](https://www.dhs.gov/news/2024/12/16/ai-dhs-deep-dive-our-use-case-inventory)
 * [Use of Commercial Generative Artificial Intelligence Tools](https://www.dhs.gov/sites/default/files/2023-11/23_1114_cio_use_generative_ai_tools.pdf)
 
-**Department of Justice**  
+**Department of Justice**
 * [Artificial Intelligence Strategy for the U.S. Department of Justice](https://www.justice.gov/d9/pages/attachments/2021/02/04/doj_artificial_intelligence_strategy_december_2020.pdf) | December 2020
 * [Civil Rights Division, Artificial Intelligence and Civil Rights](https://www.justice.gov/crt/ai)
 * [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974)
@@ -776,7 +776,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [AI Inventory 2024](https://2021-2025.state.gov/department-of-state-ai-inventory-2024/) |  (Archived Content)
 * [Enterprise Artificial Intelligence Strategy FY2024-FY-2025 Empowering Diplomacy through Responsible AI](https://www.state.gov/wp-content/uploads/2023/11/Department-of-State-Enterprise-Artificial-Intelligence-Strategy.pdf) | October 2023
 
-**Department of the Treasury**  
+**Department of the Treasury**
 * Internal Revenue Service (IRS)
   * [Interim Policy for AI Governance](https://www.irs.gov/pub/foia/ig/spder/raas-10-0325-0001-public.pdf) | March 11, 2025
 * [Managing Artificial Intelligence-Specific Cybersecurity Risks in the Financial Services Sector](https://home.treasury.gov/system/files/136/Managing-Artificial-Intelligence-Specific-Cybersecurity-Risks-In-The-Financial-Services-Sector.pdf) | March 2024
@@ -793,7 +793,7 @@ This section serves as a repository for policy documents, regulations, guideline
 **Federal Aviation Administration (FAA)**
 * [Roadmap for Artificial Intelligence Safety Assurance](https://www.faa.gov/media/82891) | Version I, July 23, 2024
 
-**Federal Deposit Insurance Corporation (FDIC)**  
+**Federal Deposit Insurance Corporation (FDIC)**
 
 **Federal Housing Finance Agency (FHFA)**
 * [Advisory Bulletin AB 2013-07 Model Risk Management Guidance](https://www.fhfa.gov/sites/default/files/2023-03/ab_2013-07_model_risk_management_guidance.pdf)
@@ -803,7 +803,7 @@ This section serves as a repository for policy documents, regulations, guideline
 
 **Federal Trade Commission (FTC)**
 * [Business Blog](https://www.ftc.gov/business-guidance/blog)
-  * [2021-01-11 Facing the facts about facial recognition](https://www.ftc.gov/business-guidance/blog/2021/01/facing-facts-about-facial-recognition)  
+  * [2021-01-11 Facing the facts about facial recognition](https://www.ftc.gov/business-guidance/blog/2021/01/facing-facts-about-facial-recognition)
   * [2022-07-11 Location, health, and other sensitive information: FTC committed to fully enforcing the law against illegal use and sharing of highly sensitive data](https://www.ftc.gov/business-guidance/blog/2022/07/location-health-and-other-sensitive-information-ftc-committed-fully-enforcing-law-against-illegal)
   * [2023-07-25 Protecting the privacy of health information: A baker’s dozen takeaways from FTC cases](https://www.ftc.gov/business-guidance/blog/2023/07/protecting-privacy-health-information-bakers-dozen-takeaways-ftc-cases)
   * [2023-08-16 Can’t lose what you never had: Claims about digital ownership and creation in the age of generative AI](https://www.ftc.gov/business-guidance/blog/2023/08/cant-lose-what-you-never-had-claims-about-digital-ownership-creation-age-generative-ai)
@@ -848,10 +848,10 @@ This section serves as a repository for policy documents, regulations, guideline
 **National Security Agency (NSA)**
 * [Central Security Service, Artificial Intelligence Security Center](https://www.nsa.gov/AISC/)
 
-**National Security Commission on Artificial Intelligence**  
+**National Security Commission on Artificial Intelligence**
 * [Final Report](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/48187/nscai_full_report_digital.04d6b124173c.pdf)
 
-**Office of the Comptroller of the Currency (OCC)**  
+**Office of the Comptroller of the Currency (OCC)**
 * [2021 Model Risk Management Handbook](https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/model-risk-management/index-model-risk-management.html)
 * [AI in Financial Services Remarks at NFHA Responsible AI Symposium](https://occ.gov/news-issuances/speeches/2025/pub-speech-2025-38.pdf) | Rodney E. Hood, April 29, 2025
 
@@ -868,11 +868,11 @@ This section serves as a repository for policy documents, regulations, guideline
 **Office of Personnel Management**
 * [The Artificial Intelligence Classification Policy and Talent Acquisition Guidance - The AI in Government Act of 2020](https://chcoc.gov/sites/default/files/The%20Artificial%20Intelligence%20Classification%20Policy%20and%20Talent%20Acquisition%20Guidance%20-%20The%20AI%20in%20Government%20Act%20of%202020.pdf) | April 29, 2024
 
-**Securities and Exchange Commission (SEC)**  
+**Securities and Exchange Commission (SEC)**
 * [Investor Advisory Committee Meeting Agenda for Thursday](https://www.sec.gov/about/advisory-committees/investor-advisory-committee/iac030625-agenda) | March 6, 2025
 * [SEC Charges Two Investment Advisers with Making False and Misleading Statements About Their Use of Artificial Intelligence](https://www.sec.gov/news/press-release/2024-36)
 
-**Social Security Administration (SSA)**  
+**Social Security Administration (SSA)**
 * [Compliance Plan for OMB Memoranda M-24-10](https://www.ssa.gov/ai/policy/SSA%20M-24-10%20Compliance%20Plan.pdf) | September 2024
 
 **United States Patent and Trademark Office (USPTO)**
@@ -1138,10 +1138,10 @@ This section serves as a repository for policy documents, regulations, guideline
 
 Legislation, litigation, and other legal materials relevant to AI policy and governance.
 
-* [AI Learning Agenda](https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S747v0.pdf) | General Assembly of North Carolina, Session 2025, Senate Bill DRS245362-LR-142A	
+* [AI Learning Agenda](https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S747v0.pdf) | General Assembly of North Carolina, Session 2025, Senate Bill DRS245362-LR-142A
 * [An Act Addressing Innovations in Artificial Intelligence](https://www.cga.ct.gov/2025/ba/pdf/2025SB-01249-R000606-BA.pdf) | OLR Bill Analysis SB 1249
 * [An Act relating to artificial intelligence; requiring disclosure of deepfakes in campaign communications; relating to cybersecurity; and relating to data privacy.](https://www.akleg.gov/basis/Bill/Detail/33?Root=HB306) | Alaska State Legislature, HB 306
-* [Agenda Book for Advisory Committee on Evidence Rules – Panel on Artificial Intelligence and the Rules of Evidence](https://www.uscourts.gov/sites/default/files/2024-04_agenda_book_for_evidence_rules_meeting_final.pdf) | April 19, 2024  
+* [Agenda Book for Advisory Committee on Evidence Rules – Panel on Artificial Intelligence and the Rules of Evidence](https://www.uscourts.gov/sites/default/files/2024-04_agenda_book_for_evidence_rules_meeting_final.pdf) | April 19, 2024
 * [Algorithmic Accountability Act of 2023](https://www.govinfo.gov/app/details/BILLS-118hr5628ih/)
 * [Arizona, House Bill 2685](https://www.azleg.gov/legtext/55leg/2r/bills/hb2685h.htm)
 * [Australia, Privacy Act 1988](https://www.legislation.gov.au/Details/C2014C00076)
@@ -1338,10 +1338,11 @@ This section features a selection of educational courses focused on ethical cons
 * [Introduction to Generative AI](https://www.coursera.org/learn/introduction-to-generative-ai) | Coursera, Google Cloud
 * [Introduction to Responsible Machine Learning](https://jphall663.github.io/GWU_rml/)
 * [Machine Learning Fairness by Google](https://developers.google.com/machine-learning/crash-course/fairness/video-lecture)
+* [Machine Learning Interpretability - Explain interpretable and black box models with LIME, SHAP, partial dependency plots and more](https://www.trainindata.com/p/machine-learning-interpretability)
 * [Prompt Engineering for ChatGPT](https://www.coursera.org/learn/prompt-engineering) | Coursera, Vanderbilt University
 * [Tech & Ethics Curricula](https://docs.google.com/spreadsheets/d/1Z0DqQeZ-Aeq6LmD17J5m8zeeIR6ywWnH-WO-jWtXE9M/edit#gid=0)
 * [Trustworthy Deep Learning](https://berkeley-deep-learning.github.io/cs294-131-s19/)
-* [Visualizing A Neural Machine Translation Model - Mechanics of Seq2seq Models With Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) | Jay Alammar  
+* [Visualizing A Neural Machine Translation Model - Mechanics of Seq2seq Models With Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) | Jay Alammar
 
 ### Podcasts and Channels
 
@@ -1587,7 +1588,7 @@ This section contains an assortment of papers, articles, essays, and general res
 ### Groups and Organizations
 
 * [Aapti Institute](https://aapti.in/)
-* [Ada Lovelace Institute](https://www.adalovelaceinstitute.org) 
+* [Ada Lovelace Institute](https://www.adalovelaceinstitute.org)
 * [AI & Faith](https://aiandfaith.org)
 * [AI Ethics Lab](https://aiethicslab.com)
 * [AI for Good Foundation](https://ai4good.org)
