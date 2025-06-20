@@ -1606,7 +1606,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Center for Security and Emerging Technology](https://cset.georgetown.edu/)
 * [Convergence Analysis](https://www.convergenceanalysis.org/about-us)
 * [Data & Society](https://datasociety.net)
-* [Distributed AI Research Institute (DAIR)](https://www.dair-institute.org)
+* [Distributed AI Research Institute](https://www.dair-institute.org) |  (DAIR)
 * [Future of Life Institute](https://futureoflife.org/)
 * [Global Center on AI Governance](https://www.globalcenter.ai/)
 * [Indigenous Protocol and Artificial Intelligence Working Group](https://www.indigenous-ai.net/)
