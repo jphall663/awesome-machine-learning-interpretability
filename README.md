@@ -23,7 +23,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
     * [Brazil](#brazil)
     * [Canada](#canada)
     * [Colombia](#colombia)
-    * [Costa Rice](#costa-rica)
+    * [Costa Rica](#costa-rica)
     * [Denmark](#denmark)
     * [Finland](#finland)
     * [France](#france)
