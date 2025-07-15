@@ -438,7 +438,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [Finding the Words to Say: Hidden State Visualizations for Language Models](https://jalammar.github.io/hidden-states/)
   * [Interfaces for Explaining Transformer Language Models](https://jalammar.github.io/explaining-transformers/)
 * [Neuronpedia](https://www.neuronpedia.org/)
-
+* [Unveiling LLMs: The Evolution of Latent Representations in a Dynamic Knowledge Graph](https://openreview.net/forum?id=dWYRjT501w)[![Static Badge](https://img.shields.io/badge/pyPI-latent--explorer-red)](https://github.com/Ipazia-AI/latent-explorer)
 
 #### University Policies and Guidance
 
