@@ -144,6 +144,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [Model Governance Framework for Generative AI](https://aiverifyfoundation.sg/wp-content/uploads/2024/05/Model-AI-Governance-Framework-for-Generative-AI-May-2024-1-1.pdf)
 * [AI-Relevant Regulatory Precedents: A Systematic Search Across All Federal Agencies](https://www.iaps.ai/research/ai-relevant-regulatory-precedent)
 * [Architectural Risk Analysis of Large Language Models](https://berryvilleiml.com/results/BIML-LLM24.pdf) | Berryville Institute of Machine Learning, requires free account
+* [Artificial Intelligence Controls Matrix Bundle](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix#)
 * [Artificial Intelligence Impact Assessment](https://ecp.nl/wp-content/uploads/2018/11/Artificial-Intelligence-Impact-Assesment.pdf) | ECP Platform voor de InformatieSamenleving, November 2018
 * [Artificial Intelligence in the Securities Industry](https://www.finra.org/sites/default/files/2020-06/ai-report-061020.pdf) | Financial Industry Regulatory Authority
 * [Assessing the Implementation of Federal AI Leadership and Compliance Mandates](https://hai.stanford.edu/sites/default/files/2025-01/HAI-RegLab-White-Paper-Federal-AI-Leadership-and-Compliance.pdf) | Stanford University Human-Centered Artificial Intelligence (HAI)
@@ -631,6 +632,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Government Use of Artificial Intelligence in New Zealand: Final Report on Phase 1 of the New Zealand Law Foundation's Artificial Intelligence and Law in New Zealand Project](https://www.data.govt.nz/assets/data-ethics/algorithm/NZLF-report.pdf) | 2019
 * [Initial advice on Generative Artificial Intelligence in the public service](https://www.digital.govt.nz/assets/Standards-guidance/Technology-and-architecture/Generative-AI/Joint-System-Leads-tactical-guidance-on-public-service-use-of-GenAI-September-2023.pdf) | July 2023
 * [New Zealand Income Insurance: service model and automated decision making](https://www.mbie.govt.nz/dmsdocument/26492-nzii-service-model-and-adm-pdf) | Ministry of Business, Innovation & Employment
+* [New Zealand's Strategy for Artificial Intelligence: Investing with confidence](https://www.mbie.govt.nz/assets/new-zealands-strategy-for-artificial-intelligence.pdf) | Ministry of Business, Innovation & Employment, Accelerating Private Sector AI Adoption and Innovation, July 2025
 * [Public Scrutiny of Automated Decisions: Early Lessons and Emerging Methods](https://www.data.govt.nz/assets/Uploads/Public-Scrutiny-of-Automated-Decisions.pdf) | An Upturn and Omidyar Network Report
 
 #### Norway
@@ -745,6 +747,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations](https://csrc.nist.gov/pubs/ai/100/2/e2023/final) | NIST AI 100-2 E2023
   * [Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations updated](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2025.pdf) | NIST AI 100-2e2025
   * [Artificial Intelligence Risk Management Framework](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf) | AI 100-1 (NIST AI RMF 1.0)
+  * [Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf) | NIST AI 600-1
   * [Assessing Risks and Impacts of AI](https://ai-challenges.nist.gov/aria/library) | (ARIA)
   * [De-identification Tools](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/tools)
   * [Engineering Statistics Handbook](https://doi.org/10.18434/M32189)
@@ -830,6 +833,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Consumer Data Privacy in a Networked World: A Framework for Protecting Privacy and Promoting Innovation in the Global Digital Economy, February 2012](https://obamawhitehouse.archives.gov/sites/default/files/privacy-final.pdf) | Obama White House Archives
 * [Fact Sheet Eliminating Barriers for Federal Artificial Intelligence Use and Procurement](https://www.whitehouse.gov/wp-content/uploads/2025/02/AI-Memo-Fact-Sheet.pdf)
 * [Framework to Advance AI Governance and Risk Management in National Security](https://ai.gov/wp-content/uploads/2024/10/NSM-Framework-to-Advance-AI-Governance-and-Risk-Management-in-National-Security.pdf)
+* [Winning the Race: America's AI Action Plan](https://whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf) | July 2025
 
 **Federal Aviation Administration (FAA)**
 * [Roadmap for Artificial Intelligence Safety Assurance](https://www.faa.gov/media/82891) | Version I, July 23, 2024
@@ -1632,6 +1636,7 @@ This section contains an assortment of papers, articles, essays, and general res
 
 #### AI Slop Genre
 
+* [AI Slop Might Finally Cure Our Internet Addiction](https://www.theatlantic.com/technology/archive/2025/07/ai-slop-internet-addiction/683619/)
 * [Living the Slop Life](https://www.nytimes.com/2025/05/19/style/ai-slop-slop-bowls-shein-slop-hauls.html) | The New York Times, Emma Goldberg, 5/19/2025
 
 #### Measurement Critiques
