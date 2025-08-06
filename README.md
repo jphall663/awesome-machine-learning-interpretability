@@ -696,6 +696,10 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### United States (Federal Government)
 
+**Bureau of Labor Statistics**
+* [Bureau of Labor Statistics Report to the Committees on Appropriations of the House of Representatives and the Senate on Measuring the Effects of New Technologies on the American Workforce](https://www.bls.gov/bls/congressional-reports/measuring-the-effects-of-new-technologies-on-the-american-workforce.pdf)
+* [Incorporating AI impacts in BLS employment projections: occupational case studies](https://www.bls.gov/opub/mlr/2025/article/incorporating-ai-impacts-in-bls-employment-projections.htm) | February 2025
+
 **Consumer Financial Protection Bureau (CFPB)**  
 * [12 CFR Part 1002 - Equal Credit Opportunity Act](https://www.consumerfinance.gov/policy-compliance/rulemaking/regulations/1002/) | (Regulation B)
 * [Chatbots in consumer finance](https://www.consumerfinance.gov/data-research/research-reports/chatbots-in-consumer-finance/chatbots-in-consumer-finance/)
@@ -814,6 +818,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Shaping the Department's Artificial Intelligence Efforts 2021-2025](https://www.justice.gov/archives/media/1385331/dl?inline)
 
 **Department of Labor**
+* [Artificial Intelligence Use Case Inventory](https://www.dol.gov/agencies/oasam/centers-offices/ocio/ai-inventory)
 
 **Department of State**
 * [Artificial Intelligence](https://www.state.gov/artificial-intelligence/)
@@ -874,6 +879,7 @@ This section serves as a repository for policy documents, regulations, guideline
 **Government Accountability Office (GAO)**
 * [Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities, GAO-21-519SP](https://www.gao.gov/products/gao-21-519sp) | June 2021
   * [Highlights of GAO-21-519SP](https://www.gao.gov/assets/gao-21-519sp-highlights.pdf)
+* [Artificial Intelligence: Generative AI Use and Management at Federal Agencies](https://www.gao.gov/assets/gao-25-107653.pdf) | July 2025
 * [Artificial Intelligence: Use and Oversight in Financial Services GAO-25-107197](https://www.gao.gov/assets/gao-25-107197.pdf) | May 19, 2025
 * [Considerations for the Use of Artificial Intelligence to Support Regulatory Decision-Making for Drug and Biological Products Draft Guidance](https://www.fda.gov/media/184830/download) | January 2025
 * [Fraud and Improper Payments: Data Quality and a Skilled Workforce Are Essential for Unlocking the Benefits of Artificial Intelligence](https://www.gao.gov/assets/gao-25-108412.pdf)
@@ -883,6 +889,9 @@ This section serves as a repository for policy documents, regulations, guideline
 **NASA**
 * [Examining Proposed Uses of LLMs to Produce or Assess Assurance Arguments](https://ntrs.nasa.gov/api/citations/20250001849/downloads/NASA-TM-20250001849.pdf) | NASA/TM–20250001849, March 2025
 * [NASA Framework for the Ethical Use of Artificial Intelligence](https://ntrs.nasa.gov/api/citations/20210012886/downloads/NASA-TM-20210012886.pdf) | NASA/TM-20210012886, April 2021
+
+**National Archives**
+* [Potential Labor Market Impacts of Artificial Intelligence: An Empirical Analysis](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Potential-Labor-Market-Impacts-of-Artificial-Intelligence-An-Empirical-Analysis-July-2024.pdf)
 
 **National Association of Attorneys General**
 * [Letter to Congress Opposing AI Preemption Amendment](https://www.scag.gov/media/opvgxagq/2025-05-15-letter-to-congress-re-proposed-ai-preemption-_final.pdf) | Letter by state attorneys general opposing federal preemption of state AI regulation, May 16, 2025
@@ -1601,6 +1610,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Artificial Intelligence and Environmental Impact: Moving Beyond Humanizing Vocabulary and Anthropocentrism](https://www.liebertpub.com/doi/abs/10.1089/omi.2024.0197)
 * [Beyond AI as an environmental pharmakon: Principles for reopening the problem-space of machine learning's carbon footprint](https://doi.org/10.1177/25148486251332087)
 * [Beyond CO2 Emissions: The Overlooked Impact of Water Consumption of Information Retrieval Models](https://dl.acm.org/doi/abs/10.1145/3578337.3605121)
+* [The Climate and Sustainability Implications of Generative AI](https://mit-genai.pubpub.org/pub/8ulgrckc/release/2)
 * [Data centre water consumption](https://www.nature.com/articles/s41545-021-00101-w)
 * [Ecological footprints, carbon emissions, and energy transitions: the impact of artificial intelligence ](https://www.nature.com/articles/s41599-024-03520-5.pdf)
 * [Efficiency is Not Enough: A Critical Perspective of Environmentally Sustainable AI](https://arxiv.org/abs/2309.02065)
