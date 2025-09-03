@@ -40,12 +40,15 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
     * [Moldova](#moldova)
     * [Netherlands](#netherlands)
     * [New Zealand](#new-zealand)
+    * [Nigeria](#nigeria)
     * [Norway](#norway)
     * [Philippines](#philippines)
+    * [Sierra Leone](#sierra-leone)
     * [Singapore](#singapore)
     * [South Africa](#south-africa)
     * [South Korea](#south-korea)
     * [Switzerland](#switzerland)
+    * [Tanzania](#tanzania)
     * [Ukraine](#ukraine)
     * [United Kingdom](#united-kingdom)
     * [United States - Federal Government](#united-states-federal-government)
@@ -126,6 +129,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [AI Safety in Practice](https://www.turing.ac.uk/sites/default/files/2024-06/aieg-ati-6-safetyv1.2.pdf) 
 * [AI-Generated Disinformation in Europe and Africa: Use Cases, Solutions and Transnational Learning](https://www.kas.de/documents/285576/0/Study+_+AI-Generated+Disinformation+in+Europe+and+Africa+-+Ebook+%281%29.pdf/a51f9394-e955-21a1-df30-38585122303c?version=1.0&t=1739539822992) | Konrad Adenauer Stiftung, January 31, 2025
 * [AI Governance Alliance Briefing Paper Series](https://www3.weforum.org/docs/WEF_AI_Governance_Alliance_Briefing_Paper_Series_2024.pdf) | World Economic Forum, January 2024
+* [AI Governance and the EU's Strategic Role in 2025](https://cadmus.eui.eu/server/api/core/bitstreams/cb201cb1-d7e1-40aa-96fb-023c5b22c22f/content) | Florence School of Transnational Governance, Marta Cantero Gamito, August 2025
 * [AI Governance Needs Sociotechnical Expertise: Why the Humanities and Social Sciences Are Critical to Government Efforts](https://datasociety.net/wp-content/uploads/2024/05/DS_AI_Governance_Policy_Brief.pdf)			
 * [AI in Africa](https://landscapestudy.tiiny.site/) | Global Center on AI Governance, AI in Africa: A Landscape Study, April 2025
 * [AI in the Public Service: From Principles to Practice](https://oxcaigg.oii.ox.ac.uk/wp-content/uploads/sites/11/2021/12/AI-in-the-Public-Service-Final.pdf) | Oxford Commission on AI & Good Governance			
@@ -193,6 +197,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Demos, AI – Trustworthy By Design: How to build trust in AI systems, the institutions that create them and the communities that use them](https://demos.co.uk/research/ai-trustworthy-by-design-how-to-build-trust-in-ai-systems-the-institutions-that-create-them-and-the-communities-that-use-them/)
 * [Digital Policy Alert, The Anatomy of AI Rules: A systematic comparison of AI rules across the globe](https://digitalpolicyalert.org/ai-rules/the-anatomy-of-AI-rules)
 * [Distill](https://distill.pub)
+* [Estimating the usage and utility of LLMs in the US general public](https://rethinkpriorities.org/wp-content/uploads/2025/07/RP_-Estimating-the-usage-and-utility-of-LLMs-in-the-US-general-public.pdf) | Rethink Priorities, June 2025
 * [Ethical and social risks of harm from Language Models](https://www.deepmind.com/publications/ethical-and-social-risks-of-harm-from-language-models)
 * [Ethics for people who work in tech](https://ethicsforpeoplewhoworkintech.com/)
 * [EU AI Act – Provider Only: Certification Scheme v1.5](https://forhumanity.center/site/wp-content/uploads/2025/03/Excerpt-EU-Artificial-Intelligence-Act-Provider-only-v1.5.pdf) | ForHumanity, March 2025
@@ -267,6 +272,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Machine Learning Quick Reference: Best Practices](https://support.sas.com/rnd/app/data-mining/enterprise-miner/pdfs/Machine_Learning_Quick_Ref_Best_Practices.pdf)
 * [Manifest MLBOM Wiki](https://github.com/manifest-cyber/mlbom)
   * [Towards Traceability in Data Ecosystems using a Bill of Materials Model](https://arxiv.org/pdf/1904.04253.pdf)
+* [Mapping AI Risk Mitigations: Evidence Scan and Draft Mitigation Taxonomy](https://cdn.prod.website-files.com/669550d38372f33552d2516e/6887e58496902e3bcad04a5a_Mapping%20AI%20Risk%20Mitigations.pdf) | MIT AI Risk Index, FutureTech, and MIT, July 2025
 * Microsoft
   * [2025 Responsible AI Transparency Report: How we build, support our customers, and grow](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2025-Responsible-AI-Transparency-Report.pdf)
   * [Advancing AI responsibly](https://unlocked.microsoft.com/responsible-ai/)
@@ -303,6 +309,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * RAND Corporation
   * [A Primer for Developers and Policymakers](https://www.rand.org/pubs/research_reports/RRA3084-1.html)
   * [Analyzing Harms from AI-Generated Images and Safeguarding Online Authenticity](https://www.rand.org/pubs/perspectives/PEA3131-1.html)
+  * [Strengthening Emergency Preparedness and Response for AI Loss of Control Incidents](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA3800/RRA3847-1/RAND_RRA3847-1.pdf) | RAND Europe, July 30, 2025 
   * [US Tort Liability for Large-Scale Artificial Intelligence Damages, A Primer for Developers and Policymakers](https://www.rand.org/pubs/research_reports/RRA3084-1.html)
 * [Ravit Dotan's Projects](https://www.techbetter.ai/projects-1)
 * [Real People in Fake Porn: How a Federal Right of Publicity Could Assist in the Regulation of Deepfake Pornography](https://www.americanbar.org/content/dam/aba/publications/Jurimetrics/spring-2024/real-people-in-fake-porn-how-a-federal-right-of-publicity-could-assist-in-the-regulation-of-deepfake-pornography.pdf)
@@ -635,12 +642,20 @@ This section serves as a repository for policy documents, regulations, guideline
 * [New Zealand's Strategy for Artificial Intelligence: Investing with confidence](https://www.mbie.govt.nz/assets/new-zealands-strategy-for-artificial-intelligence.pdf) | Ministry of Business, Innovation & Employment, Accelerating Private Sector AI Adoption and Innovation, July 2025
 * [Public Scrutiny of Automated Decisions: Early Lessons and Emerging Methods](https://www.data.govt.nz/assets/Uploads/Public-Scrutiny-of-Automated-Decisions.pdf) | An Upturn and Omidyar Network Report
 
+#### Nigeria
+
+* [NAIS National Artificial Intelligence Strategy](https://ncair.nitda.gov.ng/wp-content/uploads/2024/08/National-AI-Strategy_01082024-copy.pdf) | National Center for Artificial Intelligence & Robotics (NCAIR) and the National Information Technology Development Agency (NITDA), August 2024
+
 #### Norway
 
 * [Artificial Intelligence and Democratic Elections — International Experiences and National Recommendations](https://www.regjeringen.no/contentassets/23f8fd1726634f589724d96b49fe994c/en_rapport-ekspertgruppe-ki-og-valg.pdf) | Ministry of Local Government and Regional Development, Expert Group on Artificial Intelligence and Elections, February 2025
 * [National Strategy for Artificial Intelligence](https://www.regjeringen.no/contentassets/1febbbb2c4fd4b7d92c67ddd353b6ae8/en-gb/pdfs/ki-strategi_en.pdf) | Ministry of Local Government and Modernisation
 
 #### Philippines
+
+#### Sierra Leone
+
+* [Artificial Intelligence and Automation: Preserving Human Agency in a World of Automation](https://statehouse.gov.sl/wp-content/uploads/2025/01/H.E.KEYNOTE-ACE-EDUCATION-WEEK-2025-JAN-2025-3.pdf) | Keynote Statement on the Annual Celebration of Education Week (ACE Week) 2025 by His Excellency, Dr. Julius Maada Bio, President of the Republic of Sierra Leone at Makeni, Sierra Leone, Friday, 24th January 2025
 
 #### Singapore
 
@@ -663,6 +678,10 @@ This section serves as a repository for policy documents, regulations, guideline
 #### Switzerland
 
 * [Digital Switzerland Strategy 2025](https://digital.swiss/userdata/uploads/strategie-dch-en.pdf)
+
+#### Tanzania
+
+* [Artificial Intelligence Readiness Assessment Report](https://tanzania.un.org/sites/default/files/2025-07/National%20AI%20Readiness%20Report.pdf) | UNESCO, 2025
 
 #### Ukraine
 
@@ -765,6 +784,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [NOAA Artificial Intelligence Strategy: Analytics for Next-Generation Earth Science](https://sciencecouncil.noaa.gov/wp-content/uploads/2023/04/2020-AI-Strategy.pdf) | February 2020
 * Office of the Under Secretary for Economic Affairs
   * [Generative Artificial Intelligence and Open Data](https://www.commerce.gov/sites/default/files/2025-01/GenerativeAI-Open-Data.pdf) | Guidelines and Best Practices, Version 1, January 16, 2025
+* [Outline: Proposed Zero Draft for a Standard on AI Testing, Evaluation, Verification, and Validation](https://www.nist.gov/system/files/documents/2025/07/15/Outline_%20Proposed%20Zero%20Draft%20for%20a%20Standard%20on%20AI%20TEVV-for-web.pdf)
 * [U.S. Artificial Intelligence Safety Institute](https://www.nist.gov/aisi) | (USAISI)
   * [US AISI and UK AISI Joint Pre-Deployment Test: Anthropic's Claude 3.5 Sonnet](https://www.nist.gov/system/files/documents/2024/11/19/Upgraded%20Sonnet-Publication-US.pdf) | October 2024 Release
   * [US AISI and UK AISI Joint Pre-Deployment Test: OpenAI o1](https://www.nist.gov/system/files/documents/2024/12/18/US_UK_AI%20Safety%20Institute_%20December_Publication-OpenAIo1.pdf) | December 2024
@@ -1661,6 +1681,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [AI Ethics Lab](https://aiethicslab.com)
 * [AI for Good Foundation](https://ai4good.org)
 * [AI Forum New Zealand, AI Governance Working Group](https://aiforum.org.nz/our-work/working-groups/ai-governance-working-group/)
+* [AI Hub for Sustainable Development](https://www.aihubfordevelopment.org/)
 * [AI Now Institute](https://ainowinstitute.org)
 * [AI Policy Exchange](https://aipolicyexchange.org/)
 * [AI Transparency Institute](https://aitransparencyinstitute.com/)
