@@ -82,6 +82,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
   * [Challenges and Competitions](#challenges-and-competitions)
   * [Critiques of AI](#critiques-of-ai)
     * [Environmental Costs of AI](#environmental-costs-of-ai)
+    * [Language Diversity and Resource Gaps](#language-diversity-and-resource-gaps)
     * [AI Slop Genre](#ai-slop-genre)
     * [Measurement Critiques](#measurement-critiques)
   * [Groups and Organizations](#groups-and-organizations)
@@ -1731,6 +1732,11 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Tracking the carbon footprint of global generative artificial intelligence](https://www.cell.com/action/showPdf?pii=S2666-6758%2825%2900069-4)
 * [Unraveling the Hidden Environmental Impacts of AI Solutions for Environment Life Cycle Assessment of AI Solutions](https://www.mdpi.com/2071-1050/14/9/5172)
 * [We did the math on AI's energy footprint. Here's the story you haven't heard.](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/) | MIT Technology Review, May 20, 2025
+
+#### Language Diversity and Resource Gaps
+
+* [Health Care Misinformation: An artificial intelligence challenge for low-resource languages](https://ceur-ws.org/Vol-2884/paper_131.pdf)
+* [The Serendipity of Claude AI: Case of the 13 Low-Resource National Languages of Mali](https://arxiv.org/pdf/2503.03380)
 
 #### AI Slop Genre
 
