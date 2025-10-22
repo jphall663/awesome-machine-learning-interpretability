@@ -1695,6 +1695,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [The Price of Emotion: Privacy, Manipulation, and Bias in Emotional AI](https://www.americanbar.org/groups/business_law/resources/business-law-today/2024-september/price-emotion-privacy-manipulation-bias-emotional-ai/)
 * [Theory Is All You Need: AI, Human Cognition, and Decision Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4737265)
 * [There Is No A.I.](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
+* [There’s Nothing Magical in the Machine](https://www.nytimes.com/2025/09/25/opinion/artificial-intelligence-magical-thinking.html)
 * [This AI Pioneer Thinks AI Is Dumber Than a Cat](https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5)
 * [Three different types of AI hype in healthcare](https://link.springer.com/article/10.1007/s43681-024-00465-y)
 * [Toward Sociotechnical AI: Mapping Vulnerabilities for Machine Learning in Context](https://link.springer.com/article/10.1007/s11023-024-09668-y)
