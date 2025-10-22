@@ -139,12 +139,15 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [AI Governance: A Framework for Responsible and Compliant Artificial Intelligence](https://www.aigl.blog/content/files/2025/09/AI-GOVERNANCE-A-Framework-for-Responsible-and-Compliant-Artificial-Intelligence.pdf) | Sołtysiński Kawecki & Szlęzak, September 2025
 * [AI Governance Alliance Briefing Paper Series](https://www3.weforum.org/docs/WEF_AI_Governance_Alliance_Briefing_Paper_Series_2024.pdf) | World Economic Forum, January 2024
 * [AI Governance and the EU's Strategic Role in 2025](https://cadmus.eui.eu/server/api/core/bitstreams/cb201cb1-d7e1-40aa-96fb-023c5b22c22f/content) | Florence School of Transnational Governance, Marta Cantero Gamito, August 2025
+* [AI Governance InternationaL Evaluation AGILE Index 2025](https://agile-index.ai/AGILE-Index-Report-2025-EN.pdf) | July 2025
 * [AI Governance Needs Sociotechnical Expertise: Why the Humanities and Social Sciences Are Critical to Government Efforts](https://datasociety.net/wp-content/uploads/2024/05/DS_AI_Governance_Policy_Brief.pdf)			
 * [AI in Africa](https://landscapestudy.tiiny.site/) | Global Center on AI Governance, AI in Africa: A Landscape Study, April 2025
 * [AI in the Public Service: From Principles to Practice](https://oxcaigg.oii.ox.ac.uk/wp-content/uploads/sites/11/2021/12/AI-in-the-Public-Service-Final.pdf) | Oxford Commission on AI & Good Governance			
 * [AI Inventories: Practical Challenges for Organizational Risk Management](https://tinyurl.com/mrxrdc3y) | Responsible AI Institute and Chevron			
 * [AI Liability Along the Value Chain](https://wp.table.media/wp-content/uploads/2025/04/01152117/AI-Liability-Along-the-Value-Chain_Beatriz-Arcila.pdf) | Mozilla, 2025
-* [AI Model Registries: A Foundational Tool for AI Governance](https://arxiv.org/pdf/2410.09645) | September 2024			
+* [AI Model Registries: A Foundational Tool for AI Governance](https://arxiv.org/pdf/2410.09645) | September 2024
+* [AI Model Risk Management Framework](https://cloudsecurityalliance.org/artifacts/ai-model-risk-management-framework) | Cloud Security Alliance and AI Technology and Risk Working Group, July 23, 2024
+* [An Overview of Catastrophic AI Risks](https://arxiv.org/pdf/2306.12001) | Dan Hendrycks, Mantas Mazeika, and Thomas Woodside, October 9, 2023
 * [AI Policy](https://taylorandfrancis.com/our-policies/ai-policy/) | Taylor & Francis			
 * [AI Red-Teaming Is Not a One-Stop Solution to AI Harms: Recommendations for Using Red-Teaming for AI Accountability](https://datasociety.net/wp-content/uploads/2023/10/Recommendations-for-Using-Red-Teaming-for-AI-Accountability-PolicyBrief.pdf) | Data & Society
 * [AI-Relevant Regulatory Precedents: A Systematic Search Across All Federal Agencies](https://www.iaps.ai/research/ai-relevant-regulatory-precedent)
@@ -537,6 +540,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [AI Governance: Leadership insights and the Voluntary AI Safety Standard in practice](https://www.industry.gov.au/news/ai-governance-leadership-insights-and-voluntary-ai-safety-standard-practice) | Department of Industry, Science and Resources
   * [Artificial Intelligence Model Clauses](https://www.buyict.gov.au/sys_attachment.do?sys_id=e535e2ca935caa10438b39cdfaba103d) | Digital Transformation Agency, Version 2.0, March 2025
   * [Australia’s AI Ethics Principles](https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-framework/australias-ai-ethics-principles)
+  * [Guidance for AI Adoption](https://www.industry.gov.au/publications/guidance-for-ai-adoption) | National Artificial Intelligence Centre, October 21, 2025
   * [Introducing mandatory guardrails for AI in high-risk settings: proposals paper](https://consult.industry.gov.au/ai-mandatory-guardrails)
   * [The AI Impact Navigator](https://www.industry.gov.au/publications/ai-impact-navigator) | October 21, 2024
   * [Voluntary AI Safety Standard](https://www.industry.gov.au/sites/default/files/2024-09/voluntary-ai-safety-standard.pdf) |  August 2024
@@ -617,6 +621,7 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### India
 
+* [AI Governance Framework for India 2025-26](https://www.aigl.blog/content/files/2025/09/AI-Governance-Framework-for-India.pdf) | National Cyber and AI Center
 * [Stakeholders consultation on "Draft Standard for the Schema and Taxonomy of an AI Incident Database in Telecommunications and Critical Digital Infrastructure"](https://www.tec.gov.in/pdf/consultations/TEC_57090.pdf) | Telecommunications Engineering Centre, May 27, 2025
 
 #### Ireland
