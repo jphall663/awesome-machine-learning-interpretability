@@ -1158,6 +1158,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Assessment List for Trustworthy Artificial Intelligence for self-assessment - Shaping Europe’s digital future - European Commission](https://ec.europa.eu/digital-single-market/en/news/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment) | (ALTAI)
 * [Addressing AI risks in the workplace: Workers and algorithms](https://tinyurl.com/38sxrjtk) | European Parliament
 * [Artificial Intelligence and Civil Liability: A European Perspective](https://www.europarl.europa.eu/RegData/etudes/STUD/2025/776426/IUST_STU%282025%29776426_EN.pdf) | European Parliament, Policy Department for Justice, Civil Liberties and Institutional Affairs, Directorate-General for Citizens' Rights, Justice and Institutional Affairs, July 2025
+* [Artificial intelligence and human rights: Using AI as a weapon of repression and its impact on human rights](https://www.europarl.europa.eu/RegData/etudes/IDAN/2024/754450/EXPO_IDA%282024%29754450_EN.pdf) | H. Akin Ünver, May 2024
 * [Civil liability regime for artificial intelligence](https://www.europarl.europa.eu/doceo/document/TA-9-2020-0276_EN.pdf)
 * European Commission
   * [Analysis of the preliminary AI standardisation work plan in support of the AI Act](https://publications.jrc.ec.europa.eu/repository/handle/JRC132833)
