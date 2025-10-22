@@ -353,6 +353,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Safe and Reliable Machine Learning](https://www.dropbox.com/s/sdu26h96bc0f4l7/FAT19-AI-Reliability-Final.pdf?dl=0)
 * [Sample AI Incident Response Checklist](https://bnh-ai.github.io/resources/)
 * [SHRM Generative Artificial Intelligence AI Chatbot Usage Policy](https://www.shrm.org/resourcesandtools/tools-and-samples/policies/pages/chatgpt-generative-ai-usage.aspx)
+* [Sovereign AI and Sustainable Computation for Indigenous Communities](https://iem.ucsd.edu/_files/GEMSTONES-FOX-ZGPUS-PLUS-BIOSKETCH-031225.pdf) | Keolu Fox
 * Stanford University
   * [Adverse Event Reporting for AI: Developing the Information Infrastructure Government Needs to Learn and Act](https://hai.stanford.edu/assets/files/hai-reglab-issue-brief-adverse-event-reporting-for-ai.pdf) | July 2025
   * [Open Problems in Technical AI Governance: A repository of open problems in technical AI governance](https://taig.stanford.edu/)
