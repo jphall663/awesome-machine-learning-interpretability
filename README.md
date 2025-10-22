@@ -541,6 +541,8 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Artificial Intelligence Model Clauses](https://www.buyict.gov.au/sys_attachment.do?sys_id=e535e2ca935caa10438b39cdfaba103d) | Digital Transformation Agency, Version 2.0, March 2025
   * [Australia’s AI Ethics Principles](https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-framework/australias-ai-ethics-principles)
   * [Guidance for AI Adoption](https://www.industry.gov.au/publications/guidance-for-ai-adoption) | National Artificial Intelligence Centre, October 21, 2025
+    * [Guidance for AI Adoption: Foundations v1.0](https://www.industry.gov.au/sites/default/files/2025-10/guidance-for-ai-adoption-foundations.pdf) | National Artificial Intelligence Centre, October 2025
+    * [Guidance for AI Adoption: Implementation practices v1.0](https://www.industry.gov.au/sites/default/files/2025-10/guidance-for-ai-adoption-implementation-practices.pdf) | National Artificial Intelligence Centre, October 2025 
   * [Introducing mandatory guardrails for AI in high-risk settings: proposals paper](https://consult.industry.gov.au/ai-mandatory-guardrails)
   * [The AI Impact Navigator](https://www.industry.gov.au/publications/ai-impact-navigator) | October 21, 2024
   * [Voluntary AI Safety Standard](https://www.industry.gov.au/sites/default/files/2024-09/voluntary-ai-safety-standard.pdf) |  August 2024
