@@ -136,6 +136,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [AI Safety in Practice](https://www.turing.ac.uk/sites/default/files/2024-06/aieg-ati-6-safetyv1.2.pdf) 
 * [AI-Generated Disinformation in Europe and Africa: Use Cases, Solutions and Transnational Learning](https://www.kas.de/documents/285576/0/Study+_+AI-Generated+Disinformation+in+Europe+and+Africa+-+Ebook+%281%29.pdf/a51f9394-e955-21a1-df30-38585122303c?version=1.0&t=1739539822992) | Konrad Adenauer Stiftung, January 31, 2025
 * [AI-Generated Algorithmic Virality](https://aiforensics.org/uploads/GenAI%20Report.pdf) | AI Forensics, June 2025
+* [AI Governance: A Framework for Responsible and Compliant Artificial Intelligence](https://www.aigl.blog/content/files/2025/09/AI-GOVERNANCE-A-Framework-for-Responsible-and-Compliant-Artificial-Intelligence.pdf) | Sołtysiński Kawecki & Szlęzak, September 2025
 * [AI Governance Alliance Briefing Paper Series](https://www3.weforum.org/docs/WEF_AI_Governance_Alliance_Briefing_Paper_Series_2024.pdf) | World Economic Forum, January 2024
 * [AI Governance and the EU's Strategic Role in 2025](https://cadmus.eui.eu/server/api/core/bitstreams/cb201cb1-d7e1-40aa-96fb-023c5b22c22f/content) | Florence School of Transnational Governance, Marta Cantero Gamito, August 2025
 * [AI Governance Needs Sociotechnical Expertise: Why the Humanities and Social Sciences Are Critical to Government Efforts](https://datasociety.net/wp-content/uploads/2024/05/DS_AI_Governance_Policy_Brief.pdf)			
@@ -246,6 +247,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [Testing and Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging)
   * [The Data Cards Playbook](https://sites.research.google/datacardsplaybook/)
 * [Governing Artificial Intelligence From Ethical Principles Toward Organizational AI Governance Practices](https://www.utupub.fi/bitstream/handle/10024/179166/Annales%20E%20124%20Birkstedt%20DISS.pdf?sequence=1) | Teemu Birkstedt, University of Turku, 2024
+* [A Guide to AI in Schools: Perspectives for the Perplexed](https://tsl.mit.edu/wp-content/uploads/2025/08/GuideToAIInSchools.pdf)
 * [Guide for Australian Business: Understanding 42001](https://cdn.prod.website-files.com/6420f704f2602a2ee7f79d26/662aefb77b3077382ff25eef_understanding%2042001%20ai%20management%20system%20standard%20whitepaper.pdf) | Standards Australia and National Artificial Intelligence Centre
 * [Guide for Preparing and Responding to Deepfake Events: From the OWASP Top 10 for LLM Applications Team](https://genai.owasp.org/resource/guide-for-preparing-and-responding-to-deepfake-events/) | OWASP, Version 1, September 2024
 * [Guidelines for AI in parliaments](https://www.ipu.org/file/20632/download) | Inter-Parliamentary Union, December 2024
@@ -563,6 +565,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [The Artificial Intelligence and Data Act Companion document](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act-aida-companion-document) | (AIDA)
 * [Directive on Automated Decision Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592) | (Canada)
 * [E-23 – Model Risk Management](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/draft-guideline-e-23-model-risk-management) | (Draft Guideline)
+* [Guideline E-23 – Model Risk Management 2027](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-e-23-model-risk-management-2027) | Office of the Superintendent of Financial Institutions
 * [Responsible use of artificial intelligence in government](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai.html) | Government of Canada
 * [Transparency for machine learning-enabled medical devices: Guiding principles](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/transparency-machine-learning-guiding-principles.html) | Health Canada
 
@@ -655,6 +658,7 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### Netherlands
 
+* [AI Act Guide](https://www.government.nl/binaries/government/documenten/publications/2025/09/04/ai-act-guide/ai-act-guide.pdf) | Ministry of Economic Affairs
 * [AI Impact Assessment: The tool for a responsible AI project](https://www.government.nl/binaries/government/documenten/publications/2023/03/02/ai-impact-assessment/2024-IWM-AI-Impact-assessment-2.0-EN.pdf) | Ministry of Infrastructure and Water Management
 * Autoriteit Persoonsgegevens
   * [Call for input on prohibition on AI systems for emotion recognition in the areas of workplace or education institutions](https://www.autoriteitpersoonsgegevens.nl/en/documents/call-for-input-on-prohibition-on-ai-systems-for-emotion-recognition-in-the-areas-of-workplace-or-education-institutions) | October 31, 2024
@@ -702,6 +706,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Compendium of Use Cases: Practical Illustrations of the Model AI Governance Framework](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgaigovusecases.pdf)
   * [Model Artificial Intelligence Governance Framework](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf) |  (Second Edition)
   * [Privacy Enhancing Technology: Proposed Guide on Synthetic Data Generation](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/other-guides/proposed-guide-on-synthetic-data-generation.pdf)
+* [The Singapore Consensus on Global AI Safety Research Priorities](https://aisafetypriorities.org/)
 
 #### South Africa
 
@@ -895,6 +900,9 @@ This section serves as a repository for policy documents, regulations, guideline
 * Internal Revenue Service (IRS)
   * [Interim Policy for AI Governance](https://www.irs.gov/pub/foia/ig/spder/raas-10-0325-0001-public.pdf) | March 11, 2025
 * [Managing Artificial Intelligence-Specific Cybersecurity Risks in the Financial Services Sector](https://home.treasury.gov/system/files/136/Managing-Artificial-Intelligence-Specific-Cybersecurity-Risks-In-The-Financial-Services-Sector.pdf) | March 2024
+
+**Department of Veterans Affairs**
+* [Building the Future: VA’s Strategy for Adopting High-Impact Artificial Intelligence to Improve Services for Veterans](https://department.va.gov/ai/building-the-future-vas-strategy-for-adopting-high-impact-artificial-intelligence-to-improve-services-for-veterans/)
 
 **Equal Employment Opportunity Commission (EEOC)**
 * [EEOC Letter](https://www.bennet.senate.gov/public/_cache/files/0/a/0a439d4b-e373-4451-84ed-ba333ce6d1dd/672D2E4304D63A04CC3465C3C8BF1D21.letter-to-chair-dhillon.pdf) | from U.S. senators re: hiring software
@@ -1127,6 +1135,7 @@ This section serves as a repository for policy documents, regulations, guideline
 #### Council of Europe
 
 * [Democracy and the Rule of Law](https://rm.coe.int/1680afae3c) | Council of Europe Framework Convention on Artificial Intelligence and Human Rights
+* [Discussion paper on Draft Recommendation on AI literacy](https://rm.coe.int/discussion-paper-on-draft-recommendation-on-ai-literacy/1680b5b6f2) | Wayne Holmes, February 25, 2025
 * [European Audiovisual Observatory, IRIS, AI and the audiovisual sector: navigating the current legal landscape](https://rm.coe.int/iris-2024-3-ia-legal-landscape/1680b1e999)
 * [Guidelines on the Responsible Implementation of Artificial Intelligence Systems in Journalism](https://rm.coe.int/cdmsi-2023-014-guidelines-on-the-responsible-implementation-of-artific/1680adb4c6)
 * [On the Use of Artificial Intelligence in the Framework of the Syrian War](https://www.genocideprevention.eu/files/On_the_Use_of_Artificial_Intelligence_in_the_framework_of_the_Syrian_War.pdf) | Budapest Centre for Mass Atrocities Prevention, July 2021
@@ -1137,6 +1146,7 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### European Commission and Parliament
 
+* [AI Act: Commission issues draft guidance and reporting template on serious AI incidents, and seeks stakeholders' feedback](https://digital-strategy.ec.europa.eu/en/consultations/ai-act-commission-issues-draft-guidance-and-reporting-template-serious-ai-incidents-and-seeks)
 * [AI-driven Innovation in Medical Imaging: Focus on Lung Cancer and Cardiovascular Diseases](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC142224/JRC142224_01.pdf)
 * [Assessment List for Trustworthy Artificial Intelligence for self-assessment - Shaping Europe’s digital future - European Commission](https://ec.europa.eu/digital-single-market/en/news/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment) | (ALTAI)
 * [Addressing AI risks in the workplace: Workers and algorithms](https://tinyurl.com/38sxrjtk) | European Parliament
@@ -1151,6 +1161,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Ethics Guidelines for Trustworthy AI](https://www.aepd.es/sites/default/files/2019-12/ai-ethics-guidelines.pdf) | European Commission Independent High-Level Expert Group on Artificial Intelligence, April 8, 2019
   * [European approach to artificial intelligence](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence)
   * [First Draft of the General-Purpose AI Code of Practice published, written by independent experts](https://ec.europa.eu/newsroom/dae/redirection/document/109946)
+  * [A Framework to Categorise Modified General-Purpose AI Models as New Models Based on Behavioural Changes](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC143257/JRC143257_01.pdf)
   * [Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
   * [Ethics Guidelines for Trustworthy AI](https://www.europarl.europa.eu/cmsdata/196377/AI%20HLEG_Ethics%20Guidelines%20for%20Trustworthy%20AI.pdf) | Independent High-Level Expert Group on Artificial Intelligence
   * [Living Guidelines on the Responsible Use of Generative AI in Research](https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf) | (ERA Forum Stakeholders' document, First Version, March 2024)
@@ -1867,6 +1878,7 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 | [MLCommons, Introducing v0.5 of the AI Safety Benchmark from MLCommons](https://arxiv.org/pdf/2404.12241.pdf) | A paper about the MLCommons AI Safety Benchmark v0.5. |
 | [MLCommons, MLCommons AI Safety v0.5 Proof of Concept](https://mlcommons.org/2024/04/mlc-aisafety-v0-5-poc/) | "The MLCommons AI Safety Benchmark aims to assess the safety of AI systems in order to guide development, inform purchasers and consumers, and support standards bodies and policymakers." |
 | [ML.ENERGY Leaderboard](https://ml.energy/leaderboard/?__theme=light) | "Large language models (LLMs), especially the instruction-tuned ones, can generate human-like responses to chat prompts. Using Zeus for energy measurement, we created a leaderboard for LLM chat energy consumption." |
+| [ModelSlant.com](https://modelslant.com/#tab=topics) | "How politically slanted are Large Language Models?" |
 | [Nvidia MLPerf](https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/) | "MLPerf™ benchmarks—developed by MLCommons, a consortium of AI leaders from academia, research labs, and industry—are designed to provide unbiased evaluations of training and inference performance for hardware, software, and services." |
 | [OpenML Benchmarking Suites](https://www.openml.org/search?type=benchmark&study_type=task) | OpenML's collection of over two dozen benchmarking suites. |
 | [Real Toxicity Prompts - Allen Institute for AI](https://allenai.org/data/real-toxicity-prompts) | "A dataset of 100k sentence snippets from the web for researchers to further address the risk of neural toxic degeneration in models." |
