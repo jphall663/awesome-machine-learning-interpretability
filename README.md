@@ -1321,8 +1321,9 @@ Legislation, litigation, and other legal materials relevant to AI policy and gov
 * [Algorithmic Accountability Act of 2023](https://www.govinfo.gov/app/details/BILLS-118hr5628ih/)
 * [Arizona, House Bill 2685](https://www.azleg.gov/legtext/55leg/2r/bills/hb2685h.htm)
 * [Australia, Privacy Act 1988](https://www.legislation.gov.au/Details/C2014C00076)
-* [California, Civil Rights Council - First Modifications to Proposed Employment Regulations on Automated-Decision Systems, Title 2, California Code of Regulations](https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2024/10/First-Modifications-to-Text-of-Proposed-Modifications-to-Employment-Regulations-Regarding-Automated-Decision-Systems.pdf)
+* [California, Civil Rights Council - First Modifications to Proposed Employment Regulations on Automated-Decision Systems, Title 2, California Code of Regulations](https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2024/10/First-Modifications-to-Text-of-Proposed-Modifications-to-Employment-Regulations-Regarding-Automated-Decision-Systems.pdf)* 
 * [California, Consumer Privacy Act of 2018](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&part=4.&lawCode=CIV&title=1.81.5) | Civil Code - DIVISION 3. OBLIGATIONS [1427 - 3273.69]
+* [California, Senate Bill No. 53](https://legiscan.com/CA/text/SB53/id/3271094)
 * [Cherkin et al. v. PowerSchool Holdings Inc. N.D. Cal. May 2024 – EdTech Privacy Class Action](https://s3.documentcloud.org/documents/25260275/cherkin-v-powerschool-complaint-20240506.pdf)
 * [Colorado, SB24-205 Consumer Protections for Artificial Intelligence, Concerning consumer protections in interactions with artificial intelligence systems](https://leg.colorado.gov/bills/SB24-205)
 * [Decoupling America’s Artificial Intelligence Capabilities from China Act](https://www.hawley.senate.gov/wp-content/uploads/2025/01/Hawley-Decoupling-Americas-Artificial-Intelligence-Capabilities-from-China-Act.pdf) | U.S. Senate, 119th Congress, introduced by Senator Josh Hawley, January 2025
