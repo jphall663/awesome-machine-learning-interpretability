@@ -340,6 +340,7 @@ This section is for responsible ML guidance put forward by organizations or indi
  * [ABOUT ML Reference Document](https://partnershiponai.org/paper/about-ml-reference-document/)
  * [Guidance for Safe Foundation Model Deployment: A Framework for Collective Action](https://partnershiponai.org/modeldeployment/)
  * [Responsible Practices for Synthetic Media: A Framework for Collective Action](https://syntheticmedia.partnershiponai.org/)
+* [People + AI Guidebook](https://pair.withgoogle.com/guidebook/) | PAIR Guidebook
 * [PwC's Responsible AI](https://www.pwc.com/gx/en/issues/data-and-analytics/artificial-intelligence/what-is-responsible-ai.html)
 * [Raising Standards: Data and Artificial Intelligence in Southeast Asia](https://asiasociety.org/sites/default/files/inline-files/ASPI_RaisingStandards_report_fin_web_0.pdf) | Asia Society Policy Institute, Elina Noor and Mark Bryan Manantan, July 2022
 * RAND Corporation
