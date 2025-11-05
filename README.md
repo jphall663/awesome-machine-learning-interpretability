@@ -544,6 +544,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Guidance for AI Adoption](https://www.industry.gov.au/publications/guidance-for-ai-adoption) | National Artificial Intelligence Centre, October 21, 2025
     * [Guidance for AI Adoption: Foundations v1.0](https://www.industry.gov.au/sites/default/files/2025-10/guidance-for-ai-adoption-foundations.pdf) | National Artificial Intelligence Centre, October 2025
     * [Guidance for AI Adoption: Implementation practices v1.0](https://www.industry.gov.au/sites/default/files/2025-10/guidance-for-ai-adoption-implementation-practices.pdf) | National Artificial Intelligence Centre, October 2025 
+* [Guide for Australian Business: Understanding 42001](https://cdn.prod.website-files.com/6420f704f2602a2ee7f79d26/662aefb77b3077382ff25eef_understanding%2042001%20ai%20management%20system%20standard%20whitepaper.pdf) | AS ISO/IEC 42001:2023, Information Technology – Artificial Intelligence – Management System | Standards Australia and National Artificial Intelligence Centre
   * [Introducing mandatory guardrails for AI in high-risk settings: proposals paper](https://consult.industry.gov.au/ai-mandatory-guardrails)
   * [The AI Impact Navigator](https://www.industry.gov.au/publications/ai-impact-navigator) | October 21, 2024
   * [Voluntary AI Safety Standard](https://www.industry.gov.au/sites/default/files/2024-09/voluntary-ai-safety-standard.pdf) |  August 2024
@@ -709,6 +710,7 @@ This section serves as a repository for policy documents, regulations, guideline
 #### Singapore
 
 * [Artificial Intelligence Model Risk Management: Observations from a Thematic Review](https://www.mas.gov.sg/-/media/mas-media-library/publications/monographs-or-information-paper/imd/2024/information-paper-on-ai-risk-management-final.pdf) | Monetary Authority of Singapore, Information Paper, December 2024
+* [Guide for Using Generative AI in the Legal Sector](https://www.mlaw.gov.sg/files/Guide_for_Using_Generative_AI_in_the_Legal_Sector.pdf) | Draft for Public Consultation (1 September to 30 September 2025)
 * Personal Data Protection Commission (PDPC)
   * [Companion to the Model AI Governance Framework – Implementation and Self-Assessment Guide for Organizations](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgisago.pdf)
   * [Compendium of Use Cases: Practical Illustrations of the Model AI Governance Framework](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgaigovusecases.pdf)
@@ -1165,6 +1167,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Analysis of the preliminary AI standardisation work plan in support of the AI Act](https://publications.jrc.ec.europa.eu/repository/handle/JRC132833)
   * [Communication from the Commission, Artificial Intelligence for Europe](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2018%3A237%3AFIN) | (4/25/2018)
   * [Data Protection Certification Mechanisms: Study on Articles 42 and 43 of the Regulation 2016/679](https://commission.europa.eu/publications/study-data-protection-certification-mechanisms_en?prefLang=lv) | (EU)
+  * [Data quality and artificial intelligence - mitigating bias and error to protect fundamental rights](https://fra.europa.eu/sites/default/files/fra_uploads/fra-2019-data-quality-and-ai_en.pdf) | European Union Agency for Fundamental Rights
   * [Ethical guidelines on the use of artificial intelligence and data in teaching and learning for Educators](https://school-education.ec.europa.eu/system/files/2023-12/ethical_guidelines_on_the_use_of_artificial_intelligence-nc0722649enn_0.pdf)
   * [Ethics By Design and Ethics of Use Approaches for Artificial Intelligence](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-by-design-and-ethics-of-use-approaches-for-artificial-intelligence_he_en.pdf) | Version 1.0, November 25, 2021
   * [Ethics Guidelines for Trustworthy AI](https://www.aepd.es/sites/default/files/2019-12/ai-ethics-guidelines.pdf) | European Commission Independent High-Level Expert Group on Artificial Intelligence, April 8, 2019
