@@ -258,6 +258,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [HackerOne Blog](https://www.hackerone.com/vulnerability-and-security-testing-blog)
 * [How Can We Tackle AI-Fueled Misinformation and Disinformation in Public Health?](https://www.bu.edu/ceid/2024/04/25/how-can-we-tackle-ai-fueled-misinformation-and-disinformation-in-public-health/) | Brown University
 * [How do I cite generative AI in MLA style?](https://style.mla.org/citing-generative-ai/) | MLA
+* [How People Around the World View AI](https://www.pewresearch.org/wp-content/uploads/sites/20/2025/10/pg_2025.10.15_ai_report.pdf) | Pew Research Center, October 15, 2025
 * [How to Perform an AI Audit for UK Organisations](https://www.haptic-networks.com/cyber-security/how-to-perform-an-ai-audit/) | Haptic Networks
 * [Human-Calibrated Automated Testing and Validation of Generative Language Models: An Overview](https://arxiv.org/pdf/2411.16391) | Agus Sudjianto, Aijun Zhang, Srinivas Neppalli, Tarun Joshi, and Michael Malohlava, December 7, 2024
 * IBM
@@ -287,6 +288,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [Auditing Guidelines for Artificial Intelligence](https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2020/volume-26/auditing-guidelines-for-artificial-intelligence)
   * [Capability Maturity Model Integration Resources](https://cmmiinstitute.com/)
 * [ISO/IEC 42001:2023, Information technology — Artificial intelligence — Management system](https://www.iso.org/standard/81230.html)
+* [ISO policy brief: Harnessing international standards for responsible AI development and governance](https://www.iso.org/files/live/sites/isoorg/files/publications/en/PUB100498.pdf) | ISO, 2025
 * [ITI's AI Security Policy Principles](https://www.itic.org/documents/artificial-intelligence/ITI_AI-Security-Principles_102124_FINAL.pdf) | Information Technology Industry (ITI) Council, October 2024
 * [Just Security's Artificial Intelligence Archive](https://www.justsecurity.org/99958/just-securitys-artificial-intelligence-archive/)
 * [Key Considerations When Using Artificial Intelligence in the Public Sector](https://www.aaas.org/sites/default/files/2025-01/Key%20Considerations%20AI%20for%20Public%20Sector.pdf) | EPI Center and AAAS, February 2025
@@ -301,6 +303,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Machine Learning Quick Reference: Best Practices](https://support.sas.com/rnd/app/data-mining/enterprise-miner/pdfs/Machine_Learning_Quick_Ref_Best_Practices.pdf)
 * [Manifest MLBOM Wiki](https://github.com/manifest-cyber/mlbom)
   * [Towards Traceability in Data Ecosystems using a Bill of Materials Model](https://arxiv.org/pdf/1904.04253.pdf)
+* [Map of Practices: AutoPractices](https://findresearcher.sdu.dk/ws/portalfiles/portal/295221640/AutoPractices_Map_WEB.pdf) | Governing AI Technologies in Military Systems from the Bottom Up: Practices to Sustain and Strengthen Human Agency, September 2025, The AutoPractices Project. Odense: Center for War Studies
 * [Mapping AI Risk Mitigations: Evidence Scan and Draft Mitigation Taxonomy](https://cdn.prod.website-files.com/669550d38372f33552d2516e/6887e58496902e3bcad04a5a_Mapping%20AI%20Risk%20Mitigations.pdf) | MIT AI Risk Index, FutureTech, and MIT, July 2025
 * Microsoft
   * [2025 Responsible AI Transparency Report: How we build, support our customers, and grow](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2025-Responsible-AI-Transparency-Report.pdf)
@@ -310,6 +313,7 @@ This section is for responsible ML guidance put forward by organizations or indi
      * [Microsoft Responsible AI Standard, v2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cmFl)
   * [GDPR and Generative AI: A Guide for Public Sector Organizations](https://wwps.microsoft.com/blog/gdpr-genai)
   * [How Microsoft names threat actors](https://learn.microsoft.com/en-us/unified-secops-platform/microsoft-threat-actor-naming)
+  * [Learning from other domains to advance AI evaluation and testing](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/08/Learning-from-other-Domains-to-Advance-AI-Evaluation-and-Testing_-v3-1.pdf) | August 2025
   * [Taxonomy of Failure Mode in Agentic AI Systems](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf)
 * [Mitigating the risk of generative AI models creating Child Sexual Abuse Materials: An analysis by child safety nonprofit Thorn](https://partnershiponai.org/wp-content/uploads/2024/11/case-study-thorn.pdf) | Partnership on AI and Thorn
 * [Model Transparency Ratings](https://aimodelratings.com/) | Trustible
@@ -319,6 +323,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Navigating AI Compliance Part 2 Risk Mitigation Strategies for Safeguarding Against Future Failures](https://securityandtechnology.org/wp-content/uploads/2025/03/Navigating-AI-Compliance-Part-2-Risk-Mitigation-Strategies-for-Safeguarding-Against-Future-Failures.pdf) | Institute for Security and Technology (IST), March 2025
 * [Navigating the AI Frontier: A Primer on the Evolution and Impact of AI Agents](https://reports.weforum.org/docs/WEF_Navigating_the_AI_Frontier_2024.pdf) | World Economic Forum and Capgemini, December 2024
 * [NewsGuard AI Tracking Center](https://www.newsguardtech.com/special-reports/ai-tracking-center/)
+* [News Integrity in AI Assistants: An international PSM study](https://www.ebu.ch/Report/MIS-BBC/NI_AI_2025.pdf) | EBU and BBC, October 2025
 * [On Risk Assessment and Mitigation for Algorithmic Systems](https://drive.google.com/file/d/1ZMt7igUcKUq00yakCnbxBCcaA7vajAix/view) | Integrity Institute Report, February 2024
 * [Open Sourcing Highly Capable Foundation Models](https://www.governance.ai/research-paper/open-sourcing-highly-capable-foundation-models)
 * OpenAI
@@ -364,6 +369,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Synthetic Data: The New Data Frontier](https://reports.weforum.org/docs/WEF_Synthetic_Data_2025.pdf) | World Economic Forum, September 2025
 * [System cards](https://ai.meta.com/tools/system-cards/) | Meta
 * [Taskade: AI Audit PBC Request Checklist Template](https://www.taskade.com/templates/engineering/audit-pbc-request-checklist)
+* [Technology Trends Outlook 2025](https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/the%20top%20trends%20in%20tech%202025/mckinsey-technology-trends-outlook-2025.pdf) | McKinsey & Company, July 2025, Fifth Edition
 * [Tech Policy Press - Artificial Intelligence](https://www.techpolicy.press/category/artificial-intelligence/)
 * [TechTarget: 9 questions to ask when auditing your AI systems](https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/)
 * [The AI Act between Digital and Sectoral Regulations](https://www.bertelsmann-stiftung.de/fileadmin/files/user_upload/The_AI_Act_between_Digital_and_Sectoral_Regulations__2024_en.pdf) | Bertelsmann Stiftung, December 2024
@@ -711,6 +717,7 @@ This section serves as a repository for policy documents, regulations, guideline
 
 * [Artificial Intelligence Model Risk Management: Observations from a Thematic Review](https://www.mas.gov.sg/-/media/mas-media-library/publications/monographs-or-information-paper/imd/2024/information-paper-on-ai-risk-management-final.pdf) | Monetary Authority of Singapore, Information Paper, December 2024
 * [Guide for Using Generative AI in the Legal Sector](https://www.mlaw.gov.sg/files/Guide_for_Using_Generative_AI_in_the_Legal_Sector.pdf) | Draft for Public Consultation (1 September to 30 September 2025)
+* [National Artificial Intelligence Strategy: Advancing Our Smart Nation Journey](https://file.go.gov.sg/nais2019.pdf) | Smart Nation Singapore, November 2019
 * Personal Data Protection Commission (PDPC)
   * [Companion to the Model AI Governance Framework – Implementation and Self-Assessment Guide for Organizations](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgisago.pdf)
   * [Compendium of Use Cases: Practical Illustrations of the Model AI Governance Framework](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgaigovusecases.pdf)
@@ -819,6 +826,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Bureau of Industry and Security](https://www.bis.gov/)
   * [Department of Commerce Rescinds Biden-Era Artificial Intelligence Diffusion Rule, Strengthens Chip-Related Export Controls](https://media.bis.gov/sites/default/files/documents/05.07%20Recission%20of%20AI%20Diffusion%20Press%20Release.pdf) | Bureau of Industry and Security, May 12, 2025
   * [Framework for Artificial Intelligence Diffusion](https://public-inspection.federalregister.gov/2025-00636.pdf)
+* [Evaluation of DeepSeek AI Models](https://www.nist.gov/system/files/documents/2025/09/30/CAISI_Evaluation_of_DeepSeek_AI_Models.pdf) | Center for AI Standards and Innovation, September 30, 2025
 * [Intellectual property](https://www.commerce.gov/issues/intellectual-property)
 * [National Telecommunications and Information Administration](https://www.ntia.gov/) | (NTIA)
   * [AI Accountability Policy Report](https://www.ntia.gov/issues/artificial-intelligence/ai-accountability-policy-report)
@@ -1174,6 +1182,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [European approach to artificial intelligence](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence)
   * [First Draft of the General-Purpose AI Code of Practice published, written by independent experts](https://ec.europa.eu/newsroom/dae/redirection/document/109946)
   * [A Framework to Categorise Modified General-Purpose AI Models as New Models Based on Behavioural Changes](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC143257/JRC143257_01.pdf)
+  * [Generative AI and the EUDPR. Orientations for ensuring data protection compliance when using Generative AI systems. Version 2](https://www.edps.europa.eu/system/files/2025-10/25-10_28_revised_genai_orientations_en.pdf) | European Data Protection Supervisor, October 28, 2025
   * [Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
   * [Ethics Guidelines for Trustworthy AI](https://www.europarl.europa.eu/cmsdata/196377/AI%20HLEG_Ethics%20Guidelines%20for%20Trustworthy%20AI.pdf) | Independent High-Level Expert Group on Artificial Intelligence
   * [Living Guidelines on the Responsible Use of Generative AI in Research](https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf) | (ERA Forum Stakeholders' document, First Version, March 2024)
@@ -1181,6 +1190,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Living Repository of AI Literacy Practices](https://ec.europa.eu/newsroom/dae/redirection/document/112203) | v. 31.01.2025
   * [Policy and Investment Recommendations for Trustworthy AI](https://www.europarl.europa.eu/cmsdata/196378/AI%20HLEG_Policy%20and%20Investment%20Recommendations.pdf) | Independent High-Level Expert Group on Artificial Intelligence
   * [Procurement of AI Updated EU AI model contractual clauses](https://public-buyers-community.ec.europa.eu/communities/procurement-ai/resources/updated-eu-ai-model-contractual-clauses)
+  * [Work in the Digital Era: How Technology is Transforming Work and Occupations](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC141451/JRC141451_01.pdf) | September 11, 2025
 * [Proposal for a directive on adapting non-contractual civil liability rules to artificial intelligence: Complementary impact assessment](https://tinyurl.com/3yvcp8pa)
 * [Proposal for a Regulation laying down harmonised rules on artificial intelligence](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence-artificial-intelligence) | (Artificial Intelligence Act)
   * [Amendments adopted by the European Parliament on 14 June 2023 on the proposal for a regulation of the European Parliament and of the Council on laying down harmonised rules on artificial intelligence and amending certain Union legislative acts](https://www.europarl.europa.eu/doceo/document/TA-9-2023-0236_EN.html) |  (Artificial Intelligence Act)
