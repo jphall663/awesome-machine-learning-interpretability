@@ -1692,6 +1692,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Pivot to AI](https://pivot-to-ai.com/)
 * [Press Pause on the Silicon Valley Hype Machine](https://www.nytimes.com/2024/05/15/opinion/artificial-intelligence-ai-openai-chatgpt-overrated-hype.html) | Julia Angwin
 * [Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in Transformer Models](https://arxiv.org/pdf/2311.00871.pdf)
+* [Prohibiting Generative AI in any Form of Weapon Control](https://openreview.net/pdf/1360a037fb677e6a6eebdf1f618cee43be081cc1.pdf)
 * [Promising the future, encoding the past: AI hype and public media imagery](https://link.springer.com/article/10.1007/s43681-024-00474-x)
 * [Proof or Bluff? Evaluating LLMs on 2025 USA Math Olympiad](https://arxiv.org/pdf/2503.21934v1) | arXiv, March 2025
 * [Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646)
