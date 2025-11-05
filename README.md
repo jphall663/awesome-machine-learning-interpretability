@@ -282,7 +282,7 @@ This section is for responsible ML guidance put forward by organizations or indi
   * [Understanding the First Wave of AI Safety Institutes: Characteristics, Functions, and Challenges](https://www.iaps.ai/research/understanding-aisis)
 * [Institute of Internal Auditors](https://www.theiia.org/en/pages/search-results/?keyword=artificial+intelligence)
 * [Internal auditor's AI safety checklist](https://www.crowe.com/insights/asset/i/internal-auditors-ai-safety-checklist) | Crowe LLP, Convergence Analysis, May 2024
-* [International AI Safety Report: The International Scientific Report on the Safety of Advanced AI](https://assets.publishing.service.gov.uk/media/679a0c48a77d250007d313ee/International_AI_Safety_Report_2025_accessible_f.pdf) | AI Action Summit, January 2025
+* [International AI Safety Report](https://internationalaisafetyreport.org/sites/default/files/2025-10/first-key-update_0.pdf) | First Key Update, Capabilities and Risk Implications, October 2025
 * ISACA
   * [Auditing Artificial Intelligence](https://ec.europa.eu/futurium/en/system/files/ged/auditing-artificial-intelligence.pdf)
   * [Auditing Guidelines for Artificial Intelligence](https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2020/volume-26/auditing-guidelines-for-artificial-intelligence)
