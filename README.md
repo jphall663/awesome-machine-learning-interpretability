@@ -33,6 +33,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
     * [Iceland](#iceland)
     * [India](#india)
     * [Ireland](#ireland)
+    * [Italy](#italy)
     * [Jamaica](#jamaica)
     * [Japan](#japan)
     * [Kenya](#kenya)
@@ -642,6 +643,13 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Artificial Intelligence: Friend or Foe? Summary and Public Policy Considerations](https://www.gov.ie/pdf/?file=https://assets.gov.ie/295620/f11c6c66-4012-49fa-bb7f-8f14130f6fa5.pdf) | Department of Finance and Department of Enterprise, Trade and Employment, June 2024
 * [Interim Guidelines for Use of AI in the Public Service](https://assets.gov.ie/280459/73ce75af-0015-46af-a9f6-b54f0a3c4fd0.pdf) | Department of Public Expenditure, NDP Delivery and Reform, February 2024
 * [Ireland's National AI Strategy: AI - Here for Good](https://enterprise.gov.ie/en/publications/publication-files/national-ai-strategy-refresh-2024.pdf) | Refresh 2024
+
+#### Italy
+
+* [Bozza di linee guida per l’adozione di IA nella pubblica amministrazione](https://www.agid.gov.it/sites/agid/files/2025-02/Linee_Guida_adozione_IA_nella_PA.pdf) | Agenzia per l’Italia Digitale (AgID), Draft (Bozza) – Version 1.0 dated 14 Feb 2025. Public consultation from 18 Feb to 20 March 2025.
+* [Linee Guida per l’Introduzione dell’Intelligenza Artificiale nelle Istituzioni Scolastiche](https://www.mim.gov.it/documents/20182/0/MIM_Linee%2Bguida%2BIA%2Bnella%2BScuola_09_08_2025-signed.pdf/b70fdc45-4b75-1f7e-73bf-eab12989b928?t=1756468797694) | Versione 1.0 – Anno 2025, Ministero dell’Istruzione e del Merito
+* [Piano Triennale per l’Informatica nella Pubblica Amministrazione](https://presidenza.governo.it/AmministrazioneTrasparente/DisposizioniGenerali/AttiGenerali/AttiAmministrativiGenerali/Aggiornamento_PianoTriennale_DTD.pdf) | Edizione 2024–2026, Aggiornamento 2026, Agenzia per l’Italia Digitale (AGID)
+* [Strategia Italiana per l’Intelligenza Artificiale 2024–2026](https://www.agid.gov.it/sites/agid/files/2024-07/Strategia_italiana_per_l_Intelligenza_artificiale_2024-2026.pdf) | Dipartimento per la Trasformazione Digitale and the Agenzia per l’Italia Digitale (AGID)
 
 #### Jamaica
 
