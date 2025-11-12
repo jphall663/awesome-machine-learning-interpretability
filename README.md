@@ -48,6 +48,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
     * [Philippines](#philippines)
     * [Sierra Leone](#sierra-leone)
     * [Singapore](#singapore)
+    * [Slovakia](#slovakia)
     * [Slovenia](#slovenia)
     * [South Africa](#south-africa)
     * [South Korea](#south-korea)
@@ -748,8 +749,23 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Privacy Enhancing Technology: Proposed Guide on Synthetic Data Generation](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/other-guides/proposed-guide-on-synthetic-data-generation.pdf)
 * [The Singapore Consensus on Global AI Safety Research Priorities](https://aisafetypriorities.org/)
 
+#### Slovakia
+
+* [2030 Digital Transformation Strategy for Slovakia: Strategy for transformation of Slovakia into a successful digital country](https://mirri.gov.sk/wp-content/uploads/2019/10/SDT-English-Version-FINAL.pdf)
+* [Analýza a návrh možností výskumu, vývoja a aplikácie umelej inteligencie na Slovensku – Dielo č. 2: Manuál pre firmy na zavedenie umelej inteligencie](https://mirri.gov.sk/wp-content/uploads/2020/03/Dielo2-Manual.pdf) | Slovak University of Technology & Office of the Deputy Prime Minister for Investments and Informatization, Manual for Companies on Implementing Artificial Intelligence, December 11, 2019
+* [Analýza a návrh možností výskumu, vývoja a aplikácie umelej inteligencie na Slovensku](https://mirri.gov.sk/wp-content/uploads/2020/03/Brozura-Umela-Inteligencia-A4-LRS.pdf) | Slovak University of Technology & Office of the Deputy Prime Minister for Investments and Informatization, Analysis and Proposal for Research, Development, and Application of Artificial Intelligence in Slovakia, March 2020
+* [Preliminary position of the Slovak Republic on the “White Paper on Artificial Intelligence – A European approach to excellence and trust”](https://mirri.gov.sk/wp-content/uploads/2020/10/Preliminary-position-of-The-Slovak-Republic-on-the-%E2%80%9CWhite-Paper-on-Artificial-Intelligence-%E2%80%93-A-European-approach-to-excellence-and-trust%E2%80%9Ddr.pdf) | Ministry of Investments, Regional Development and Informatization (MIRRI), National Position Paper on the EU AI White Paper, October 2020
+* [Umelá inteligencia](https://mirri.gov.sk/sekcie/investicie/digitalne-inovacie/umela-inteligencia/) | Ministry of Investments, Regional Development and Informatization (MIRRI), Slovak government portal on Artificial Intelligence policy, ethics, and innovation framework
+* [Umelá inteligencia vo vzdelávaní: Plán zodpovedného využívania AI vo vzdelávaní na Slovensku 2025–2027](https://www.minedu.sk/data/att/803/34353.721f01.pdf) | Ministry of Education, Research, Development and Youth of the Slovak Republic, Plan for the Responsible Use of AI in Education in Slovakia 2025–2027
+
+
 #### Slovenia
 
+* [Akcijski načrt strategije Digitalna Slovenija 2030](https://www.gov.si/assets/ministrstva/MDP/DDD-dokumenti/Akcijski-nacrt-strategije-Digitalna-Slovenija-2030.pdf) | Action Plan for the Digital Slovenia 2030 Strategy, National Strategic Plan for the Digital Decade 2030
+* [Zaveze za uporabo orodij generativne umetne inteligence, dostopnih na spletu](https://nio.gov.si/sl/products/priporocila%2Bjavnim%2Busluzbencem%2Bpri%2Buporabi%2Borodij%2Bgenerativne%2Bumetne%2Binteligence%2Bdostopnih%2Bna%2Bspletu) | Commitments for the Use of Generative Artificial Intelligence Tools Available Online, October 24, 2024
+* [Digital Public Services Strategy 2030](https://www.gov.si/assets/ministrstva/MDP/Digital_Public_Services_Strategy_2030.pdf)
+* [Digitalna Slovenija 2030](https://www.gov.si/assets/ministrstva/MDP/Dokumenti/DSI2030-potrjena-na-Vladi-RS_marec-2023.pdf) | Digital Slovenia 2030: National Strategy for Digital Transformation to 2030, March 2023
+* [National Programme to Promote the Development and Use of Artificial Intelligence in the Republic of Slovenia by 2025 NpAI](https://www.gov.si/assets/ministrstva/MDP/National_Programme_for_AI_2025.pdf)
 * [Register rabe UI](https://registerui.djnd.si/) | Slovenia's Register of AI Use
 
 #### South Africa
