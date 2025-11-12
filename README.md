@@ -127,7 +127,8 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Acceptable Use Policies for Foundation Models](https://github.com/kklyman/aupsforfms) | ![](https://img.shields.io/github/stars/kklyman/aupsforfms?style=social)			
 * [Access Now, Regulatory Mapping on Artificial Intelligence in Latin America: Regional AI Public Policy Report](https://www.accessnow.org/wp-content/uploads/2024/07/TRF-LAC-Reporte-Regional-IA-JUN-2024-V3.pdf)			
 * [Ada Lovelace Institute, Code and Conduct: How to Create Third-Party Auditing Regimes for AI Systems](https://www.adalovelaceinstitute.org/report/code-conduct-ai/)			
-* [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix) | ![](https://img.shields.io/github/stars/mitre/advmlthreatmatrix?style=social)			
+* [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix) | ![](https://img.shields.io/github/stars/mitre/advmlthreatmatrix?style=social)
+* [Agentic AI: Fostering Responsible and Beneficial Development and Adoption](https://www.informationpolicycentre.com/uploads/5/7/1/0/57104281/cipl_agentic_ai_white_paper_nov25.pdf) | Centre for Information Policy Leadership (CIPL), November 2025
 * [Ahead of the Curve: Governing AI Agents Under the EU AI Act](https://thefuturesociety.org/wp-content/uploads/2023/04/Report-Ahead-of-the-Curve-Governing-AI-Agents-Under-the-EU-AI-Act-4-June-2025.pdf) | Amin Oueslati and Robin Staes-Polet, The Future Society, June 2025
 * [AI Act Governance: Best Practices for Implementing the EU AI Act](https://www.appliedai.de/uploads/files/Best-Practices-for-Implementing-the-EU-AI-Act_2025-07-02-092027_vwvf.pdf) | Initiative for Applied Artificial Intelligence, June 2025
 * [AI alignment vs AI ethical treatment: Ten challenges](https://www.globalprioritiesinstitute.org/wp-content/uploads/Bradley-and-Saad-AI-alignment-vs-AI-ethical-treatment_-Ten-challenges.pdf) | Adam Bradley and Bradford Saad, Global Priorities Institute, July 2024
@@ -138,6 +139,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [AI Ethics and Governance in Practice](https://www.turing.ac.uk/research/research-projects/ai-ethics-and-governance-practice) | The Alan Turing Institute
 * [AI Ethics and Governance in Practice: AI Safety in Practice](https://www.turing.ac.uk/news/publications/ai-ethics-and-governance-practice-ai-safety-practice) | The Alan Turing Institute
   * [AI Safety in Practice](https://www.turing.ac.uk/sites/default/files/2024-06/aieg-ati-6-safetyv1.2.pdf) 
+* [AI for a Planet Under Pressure](https://www.stockholmresilience.org/download/18.15c171219a15332ff93f68/1762500974262/AI%20for%20a%20planet%20under%20pressure_digital2.pdf) | Stockholm Resilience Centre, Stockholm University, November 5, 2025
 * [AI-Generated Disinformation in Europe and Africa: Use Cases, Solutions and Transnational Learning](https://www.kas.de/documents/285576/0/Study+_+AI-Generated+Disinformation+in+Europe+and+Africa+-+Ebook+%281%29.pdf/a51f9394-e955-21a1-df30-38585122303c?version=1.0&t=1739539822992) | Konrad Adenauer Stiftung, January 31, 2025
 * [AI-Generated Algorithmic Virality](https://aiforensics.org/uploads/GenAI%20Report.pdf) | AI Forensics, June 2025
 * [AI Governance: A Framework for Responsible and Compliant Artificial Intelligence](https://www.aigl.blog/content/files/2025/09/AI-GOVERNANCE-A-Framework-for-Responsible-and-Compliant-Artificial-Intelligence.pdf) | Sołtysiński Kawecki & Szlęzak, September 2025
@@ -604,6 +606,8 @@ This section serves as a repository for policy documents, regulations, guideline
 
 * [Etički kodeks za pripremu i provedbu projekata financiranih projektom Digitalne, inovativne i zelene tehnologije, DIGIT PROJEKT](https://mzom.gov.hr/UserDocsImages/dokumenti/Znanost/Projekt-digit/Eticki-kodeks-verzija-2-Projekt-DIGIT-10-3-2025-FINAL.pdf) | Ministry of Science, Education and Youth (MZOM), Ethical Code for the DIGIT Project, March 2025
 * [Digital Croatia Strategy for the period until 2032](https://mpudt.gov.hr/UserDocsImages/RDD/SDURDD-dokumenti/Strategija_Digitalne_Hrvatske_final_v1_EN.pdf)
+* [Nacionalni program zaštite potrošača za razdoblje do 2028. godine](https://vlada.gov.hr/UserDocsImages//2016/Sjednice/2025/Kolovoz/112_sjednica_VRH//112%20-%205a%20Program.pdf) | Ministry of Economy and Sustainable Development (MINGOR), National Consumer Protection Programme to 2028, July 2025
+* [Pametna sigurnost: Praktična primjena umjetne inteligencije i nosivih senzora u građevinarstvu](https://uznr.mrms.hr/wp-content/uploads/2025/04/09-Pametna-sigurnost.pdf) | Ministry of Labour, Pension System, Family and Social Policy (MRMS), "Smart Safety" campaign presentation on AI and wearable sensors in construction, April 2025
 * [Progress in Implementing the European Union Coordinated Plan on Artificial Intelligence Volume 1 Croatia](https://www.oecd.org/en/publications/progress-in-implementing-the-european-union-coordinated-plan-on-artificial-intelligence-volume-1_6d530a88-en/croatia_38d8145c-en.html) | OECD
   * [PDF here](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/progress-in-implementing-the-european-union-coordinated-plan-on-artificial-intelligence-volume-1-country-notes_b0385317/croatia_5665ea22/38d8145c-en.pdf)
 
@@ -1757,6 +1761,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [A bottle of water per email: the hidden environmental costs of using AI chatbots](https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/)
 * [AI already uses as much energy as a small country. It’s only the beginning.](https://www.vox.com/climate/2024/3/28/24111721/ai-uses-a-lot-of-energy-experts-expect-it-to-double-in-just-a-few-years)
 * [AI, Climate, and Regulation: From Data Centers to the AI Act](https://arxiv.org/abs/2410.06681)
+* [AI for a Planet Under Pressure](https://www.stockholmresilience.org/download/18.15c171219a15332ff93f68/1762500974262/AI%20for%20a%20planet%20under%20pressure_digital2.pdf) | Stockholm Resilience Centre, Stockholm University, November 5, 2025
 * [Artificial Intelligence and Environmental Impact: Moving Beyond Humanizing Vocabulary and Anthropocentrism](https://www.liebertpub.com/doi/abs/10.1089/omi.2024.0197)
 * [Beyond AI as an environmental pharmakon: Principles for reopening the problem-space of machine learning's carbon footprint](https://doi.org/10.1177/25148486251332087)
 * [Beyond CO2 Emissions: The Overlooked Impact of Water Consumption of Information Retrieval Models](https://dl.acm.org/doi/abs/10.1145/3578337.3605121)
