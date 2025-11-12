@@ -25,6 +25,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
     * [China](#china)
     * [Colombia](#colombia)
     * [Costa Rica](#costa-rica)
+    * [Croatia](#croatia)
     * [Denmark](#denmark)
     * [Finland](#finland)
     * [France](#france)
@@ -47,6 +48,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
     * [Philippines](#philippines)
     * [Sierra Leone](#sierra-leone)
     * [Singapore](#singapore)
+    * [Slovenia](#slovenia)
     * [South Africa](#south-africa)
     * [South Korea](#south-korea)
     * [Switzerland](#switzerland)
@@ -57,6 +59,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
     * [United States - State Governments](#united-states-state-governments)
     * [Indigenous and Tribal Governments and Nations](#indigenous-and-tribal-governments-and-nations)
     * [International and Multilateral Frameworks](#international-and-multilateral-frameworks)
+    * [ASEAN](#asean)
     * [European Union Policies and Regulations](#european-union-policies-and-regulations)
       * [Council of Europe](#council-of-europe)
       * [European Commission and Parliament](#european-commission-and-parliament)
@@ -597,6 +600,13 @@ This section serves as a repository for policy documents, regulations, guideline
 
 * [Ministerio de Ciencia, Innovación, Tecnología y Telecomunicaciones](https://cambioclimatico.go.cr/wp-content/uploads/2023/06/Plan-Nacional-Ciencia-Tecnologia-Innovacion-2022-2027.pdf) | MICITT, Plan Nacional de Ciencia, Tecnología e Innovación 2022–2027
 
+#### Croatia
+
+* [Etički kodeks za pripremu i provedbu projekata financiranih projektom Digitalne, inovativne i zelene tehnologije, DIGIT PROJEKT](https://mzom.gov.hr/UserDocsImages/dokumenti/Znanost/Projekt-digit/Eticki-kodeks-verzija-2-Projekt-DIGIT-10-3-2025-FINAL.pdf) | Ministry of Science, Education and Youth (MZOM), Ethical Code for the DIGIT Project, March 2025
+* [Digital Croatia Strategy for the period until 2032](https://mpudt.gov.hr/UserDocsImages/RDD/SDURDD-dokumenti/Strategija_Digitalne_Hrvatske_final_v1_EN.pdf)
+* [Progress in Implementing the European Union Coordinated Plan on Artificial Intelligence Volume 1 Croatia](https://www.oecd.org/en/publications/progress-in-implementing-the-european-union-coordinated-plan-on-artificial-intelligence-volume-1_6d530a88-en/croatia_38d8145c-en.html) | OECD
+  * [PDF here](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/progress-in-implementing-the-european-union-coordinated-plan-on-artificial-intelligence-volume-1-country-notes_b0385317/croatia_5665ea22/38d8145c-en.pdf)
+
 #### Denmark
 
 * [National Strategy for Artificial Intelligence](https://en.digst.dk/media/lz0fxbt4/305755_gb_version_final-a.pdf) | Ministry of Finance and Ministry of Industry, Business and Financial Affairs, March 2019
@@ -733,6 +743,10 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Model Artificial Intelligence Governance Framework](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGModelAIGovFramework2.pdf) |  (Second Edition)
   * [Privacy Enhancing Technology: Proposed Guide on Synthetic Data Generation](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/other-guides/proposed-guide-on-synthetic-data-generation.pdf)
 * [The Singapore Consensus on Global AI Safety Research Priorities](https://aisafetypriorities.org/)
+
+#### Slovenia
+
+* [Register rabe UI](https://registerui.djnd.si/) | Slovenia's Register of AI Use
 
 #### South Africa
 
@@ -1156,6 +1170,10 @@ This section serves as a repository for policy documents, regulations, guideline
  * [Guidance for Wyoming School Districts on Developing Artificial Intelligence Use Policy](https://edu.wyoming.gov/wp-content/uploads/2024/06/Guidance-for-AI-Policy-Development.pdf)
 
 #### International and Multilateral Frameworks
+
+#### ASEAN
+
+* [ASEAN Guide on AI Governance and Ethics](https://asean.org/wp-content/uploads/2024/02/ASEAN-Guide-on-AI-Governance-and-Ethics_beautified_201223_v2.pdf)
 
 #### European Union Policies and Regulations
 
