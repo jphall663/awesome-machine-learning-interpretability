@@ -1196,6 +1196,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Communication from the Commission, Artificial Intelligence for Europe](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2018%3A237%3AFIN) | (4/25/2018)
   * [Data Protection Certification Mechanisms: Study on Articles 42 and 43 of the Regulation 2016/679](https://commission.europa.eu/publications/study-data-protection-certification-mechanisms_en?prefLang=lv) | (EU)
   * [Data quality and artificial intelligence - mitigating bias and error to protect fundamental rights](https://fra.europa.eu/sites/default/files/fra_uploads/fra-2019-data-quality-and-ai_en.pdf) | European Union Agency for Fundamental Rights
+  * [Data Union Strategy: Unlocking Data for AI](https://ec.europa.eu/newsroom/dae/redirection/document/121745)
   * [Ethical guidelines on the use of artificial intelligence and data in teaching and learning for Educators](https://school-education.ec.europa.eu/system/files/2023-12/ethical_guidelines_on_the_use_of_artificial_intelligence-nc0722649enn_0.pdf)
   * [Ethics By Design and Ethics of Use Approaches for Artificial Intelligence](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-by-design-and-ethics-of-use-approaches-for-artificial-intelligence_he_en.pdf) | Version 1.0, November 25, 2021
   * [Ethics Guidelines for Trustworthy AI](https://www.aepd.es/sites/default/files/2019-12/ai-ethics-guidelines.pdf) | European Commission Independent High-Level Expert Group on Artificial Intelligence, April 8, 2019
