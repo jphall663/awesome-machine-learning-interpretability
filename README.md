@@ -52,6 +52,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
     * [Slovenia](#slovenia)
     * [South Africa](#south-africa)
     * [South Korea](#south-korea)
+    * [Sweden](#sweden)
     * [Switzerland](#switzerland)
     * [Tanzania](#tanzania)
     * [Ukraine](#ukraine)
@@ -742,6 +743,15 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Basic Act on the Promotion of Artificial Intelligence Development and Establishment of a Trust Framework](https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2V4H1W1T2K5M1O6E4Q9T0V7Q9S0U0) | National Assembly, 인공지능 발전과 신뢰 기반 조성 등에 관한 기본법안, (대안,Alternative Draft)
 * [인공지능 발전과 신뢰 기반 조성 등에 관한 기본법](https://www.law.go.kr/%25EB%25B2%2595%25EB%25A0%25B9/%25EC%259D%25B8%25EA%25B3%25B5%25EC%25A7%2580%25EB%258A%25A5%2520%25EB%25B0%259C%25EC%25A0%2584%25EA%25B3%25BC%2520%25EC%258B%25A0%25EB%25A2%25B0%2520%25EA%25B8%25B0%25EB%25B0%2598%2520%25EC%25A1%25B0%25EC%2584%25B1%2520%25EB%2593%25B1%25EC%2597%2590%2520%25EA%25B4%2580%25ED%2595%259C%2520%25EA%25B8%25B0%25EB%25B3%25B8%25EB%25B2%2595/%2820676,20250121%29) | Ministry of Science and ICT, Framework Act on the Development of Artificial Intelligence and Creation of a Trust Foundation, January 21, 2025
 * [생성형 인공지능(AI) 개발·활용을 위한 개인정보 처리 안내서(안)](https://www.aitimes.kr/news/download.php?subUploadDir=202508/&savefilename=35952_300.pdf&filename=%EC%83%9D%EC%84%B1%ED%98%95%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5(AI)%20%EA%B0%9C%EB%B0%9C%C2%B7%ED%99%9C%EC%9A%A9%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%B2%98%EB%A6%AC%20%EC%95%88%EB%82%B4%EC%84%9C.pdf&idxno=300) | Personal Information Protection Commission, Guidelines on Personal Information Processing for the Development and Utilization of Generative Artificial Intelligence (Draft), August 2025
+
+#### Sweden
+
+* [Främja den offentliga förvaltningens förmåga att använda AI](https://www.digg.se/download/18.129a4fef1939e2e1c1f240b2/1647952779554/framja-den-offentliga-forvaltningens-formaga-att-anvanda-ai.pdf)
+* [GDPR och AI](https://www.imy.se/verksamhet/ai/gdpr-och-ai/)
+* [Myndigheterna och AI](https://www.statskontoret.se/siteassets/rapporter-pdf/2024/oos_51---utskriftsversion.pdf)
+* [Nationella AI-uppdraget: AI-guide, förtroendemodell m.m.](https://www.skatteverket.se/download/18.21e4ba96188260715e391c/1684914447566/nationella-ai-uppdraget.pdf) | Skatteverket (Swedish Tax Agency)
+* [Riktlinjer för användning av generativ AI och kompetenshöjande insatser](https://www.digg.se/download/18.41bb5ce61939e3df66831ea/1737390380051/Rapport%20Riktlinjer%20f%C3%B6r%20anv%C3%A4ndning%20av%20generativ%20AI%20och%20kompetensh%C3%B6jande%20insatser%20(Fi2024-01535).pdf)
+* [Sweden AI Strategy Report](https://ai-watch.ec.europa.eu/countries/sweden/sweden-ai-strategy-report_en) | European Commission
 
 #### Switzerland
 
