@@ -179,6 +179,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [An Overview of Artificial Intelligence Ethics](https://ieeexplore.ieee.org/document/9844014)
 * [An Overview of Catastrophic AI Risks](https://arxiv.org/pdf/2306.12001) | Dan Hendrycks, Mantas Mazeika, and Thomas Woodside, October 9, 2023
 * [Architectural Risk Analysis of Large Language Models](https://berryvilleiml.com/results/BIML-LLM24.pdf) | Berryville Institute of Machine Learning, requires free account
+* [Artificial Intelligence Harm and Human Rights: A High Level Exploration of the Interaction of AI Harms](https://icaad.ngo/2025/09/29/ai-harm-and-human-rights/) | ICAAD and King & Wood Mallesons, September 29, 2025
 * [Artificial Intelligence Controls Matrix Bundle](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix#)
 * [Artificial Intelligence Impact Assessment](https://ecp.nl/wp-content/uploads/2018/11/Artificial-Intelligence-Impact-Assesment.pdf) | ECP Platform voor de InformatieSamenleving, November 2018
 * [Artificial Intelligence in Africa: Challenges and Opportunities](https://www.policycenter.ma/sites/default/files/2024-09/PB_23_24%20%28Azeroual%29%20%28EN%29.pdf) | Policy Center for the New South, Fahd Azaroual, May 2024
