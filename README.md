@@ -448,7 +448,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/)
   * [developer mode fixed](https://www.reddit.com/r/ChatGPTJailbreak/comments/144905t/developer_mode_fixed/)
 * [Y Combinator, ChatGPT Grandma Exploit](https://news.ycombinator.com/item?id=35630801)
-* [NeuralTrust's TrustTest]([https://docs.neuraltrust.ai/trusttest/getting-started/overview])
+* [NeuralTrust's TrustTest](https://docs.neuraltrust.ai/trusttest/getting-started/overview)
 
 #### Generative AI Explainability
 
