@@ -448,6 +448,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/)
   * [developer mode fixed](https://www.reddit.com/r/ChatGPTJailbreak/comments/144905t/developer_mode_fixed/)
 * [Y Combinator, ChatGPT Grandma Exploit](https://news.ycombinator.com/item?id=35630801)
+* [NeuralTrust's TrustTest](https://docs.neuraltrust.ai/trusttest/getting-started/overview)
 
 #### Generative AI Explainability
 
@@ -2060,6 +2061,7 @@ This section contains open source or open access software used to implement resp
 | [DoWhy](https://github.com/microsoft/dowhy)-![](https://img.shields.io/github/stars/microsoft/dowhy?style=social) | "DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.” |
 | [dtreeviz](https://github.com/parrt/dtreeviz)-![](https://img.shields.io/github/stars/parrt/dtreeviz?style=social) | "A python library for decision tree visualization and model interpretation.” |
 | [ecco](https://github.com/jalammar/ecco)-![](https://img.shields.io/github/stars/jalammar/ecco?style=social) | "Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT, RoBERTA, T5, and T0).” |
+| [Echo Chamber](https://github.com/NeuralTrust/echo-chamber)-![](https://img.shields.io/github/stars/NeuralTrust/echo-chamber?style=social) | "This repository contains one of the latest and most effective context-poisoning and multi-turn jailbreak attacks.” |
 | [effector](https://github.com/givasile/effector)-![](https://img.shields.io/github/stars/givasile/effector?style=social) | "eXplainable AI for Tabular Data" |
 | [eli5](https://github.com/TeamHG-Memex/eli5)-![](https://img.shields.io/github/stars/TeamHG-Memex/eli5?style=social) | "A library for debugging/inspecting machine learning classifiers and explaining their predictions.” |
 | [explabox](https://github.com/MarcelRobeer/explabox)-![](https://img.shields.io/github/stars/MarcelRobeer/explabox?style=social) | "aims to support data scientists and machine learning (ML) engineers in explaining, testing and documenting AI/ML models, developed in-house or acquired externally. The explabox turns your ingestibles (AI/ML model and/or dataset) into digestibles (statistics, explanations or sensitivity insights).” |
@@ -2165,6 +2167,7 @@ This section contains open source or open access software used to implement resp
 | [TorchUncertainty](https://github.com/ENSTA-U2IS/torch-uncertainty)-![](https://img.shields.io/github/stars/ENSTA-U2IS/torch-uncertainty?style=social) | "A package designed to help you leverage uncertainty quantification techniques and make your deep neural networks more reliable.” |
 | [treeinterpreter](https://github.com/andosa/treeinterpreter)-![](https://img.shields.io/github/stars/andosa/treeinterpreter?style=social) | "Package for interpreting scikit-learn's decision tree and random forest predictions.” |
 | [TRIAGE](https://github.com/seedatnabeel/TRIAGE)-![](https://img.shields.io/github/stars/seedatnabeel/TRIAGE?style=social) | "This repository contains the implementation of TRIAGE, a "Data-Centric AI" framework for data characterization tailored for regression.” |
+| [TrustGate](https://github.com/NeuralTrust/TrustGate)-![](https://img.shields.io/github/stars/NeuralTrust/TrustGate?style=social) | "This repository contains the implementation a robust security and management layer for Large Language Model (LLM) interactions. It's the first Generative Application Firewall (GAF) ever created.” |
 | [woe](https://github.com/boredbird/woe)-![](https://img.shields.io/github/stars/boredbird/woe?style=social) | "Tools for WoE Transformation mostly used in ScoreCard Model for credit rating.” |
 | [xai](https://github.com/EthicalML/xai)-![](https://img.shields.io/github/stars/EthicalML/xai?style=social) | "A Machine Learning library that is designed with AI explainability in its core.” |
 | [xdeep](https://github.com/datamllab/xdeep)-![](https://img.shields.io/github/stars/datamllab/xdeep?style=social) | "An open source Python library for Interpretable Machine Learning.” |
