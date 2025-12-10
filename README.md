@@ -443,6 +443,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Membership Inference Attacks and Defenses on Machine Learning Models Literature](https://github.com/HongshengHu/membership-inference-machine-learning-literature) | ![](https://img.shields.io/github/stars/HongshengHu/membership-inference-machine-learning-literature?style=social)
 * [Lakera AI's Gandalf](https://gandalf.lakera.ai/)
 * [leondz / garak](https://github.com/leondz/garak) | ![](https://img.shields.io/github/stars/leondz/garak?style=social)
+* [promptfoo / promptfoo](https://github.com/promptfoo/promptfoo) | ![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
 * [Microsoft AI Red Team building future of safer AI](https://www.microsoft.com/en-us/security/blog/2023/08/07/microsoft-ai-red-team-building-future-of-safer-ai/)
 * [OpenAI Red Teaming Network](https://openai.com/blog/red-teaming-network)
 * [r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/)
