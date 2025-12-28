@@ -1199,6 +1199,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Civil liability regime for artificial intelligence](https://www.europarl.europa.eu/doceo/document/TA-9-2020-0276_EN.pdf)
 * European Commission
   * [Analysis of the preliminary AI standardisation work plan in support of the AI Act](https://publications.jrc.ec.europa.eu/repository/handle/JRC132833)
+  * [A Framework to Categorise Modified General-Purpose AI Models as New Models Based on Behavioural Changes](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC143257/JRC143257_01.pdf)
   * [Communication from the Commission, Artificial Intelligence for Europe](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2018%3A237%3AFIN) | (4/25/2018)
   * [Data Protection Certification Mechanisms: Study on Articles 42 and 43 of the Regulation 2016/679](https://commission.europa.eu/publications/study-data-protection-certification-mechanisms_en?prefLang=lv) | (EU)
   * [Data quality and artificial intelligence - mitigating bias and error to protect fundamental rights](https://fra.europa.eu/sites/default/files/fra_uploads/fra-2019-data-quality-and-ai_en.pdf) | European Union Agency for Fundamental Rights
