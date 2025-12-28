@@ -520,6 +520,7 @@ This section serves as a repository for policy documents, regulations, guideline
 
 * Department of Industry, Science and Resources
   * [AI Governance: Leadership insights and the Voluntary AI Safety Standard in practice](https://www.industry.gov.au/news/ai-governance-leadership-insights-and-voluntary-ai-safety-standard-practice) | Department of Industry, Science and Resources
+  * [AI Plan for the Australian Public Service](https://www.digital.gov.au/sites/default/files/documents/2025-11/APS%20AI%20Plan%202025.pdf) | 2025
   * [Artificial Intelligence Model Clauses](https://www.buyict.gov.au/sys_attachment.do?sys_id=e535e2ca935caa10438b39cdfaba103d) | Digital Transformation Agency, Version 2.0, March 2025
   * [Australian AI Security Framework Index](https://github.com/Benjamin-KY/Australian-AI-Security) | ![](https://img.shields.io/github/stars/Benjamin-KY/Australian-AI-Security?style=social)
   * [Australia’s AI Ethics Principles](https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-framework/australias-ai-ethics-principles)
