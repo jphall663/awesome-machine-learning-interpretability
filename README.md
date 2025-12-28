@@ -86,6 +86,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
     * [Bibliography of Papers on AI Incidents and Failures](#bibliography-of-papers-on-ai-incidents-and-failures)
   * [AI Law, Policy, and Guidance Trackers](#ai-law-policy-and-guidance-trackers)
   * [Challenges and Competitions](#challenges-and-competitions)
+  * [AI and Labor Resources](#ai-and-labor-resources)  * 
   * [Critiques of AI](#critiques-of-ai)
     * [Environmental Costs of AI](#environmental-costs-of-ai)
     * [Language Diversity and Resource Gaps](#language-diversity-and-resource-gaps)
@@ -1631,6 +1632,45 @@ This section contains challenges and competitions related to responsible ML.
 * [OSD Bias Bounty](https://osdbiasbounty.com/)
 * [National Fair Housing Alliance Hackathon](https://nationalfairhousing.org/hackathon2023/)
 * [Twitter Algorithmic Bias](https://hackerone.com/twitter-algorithmic-bias?type=team)
+
+### AI and Labor Resources
+
+This section contains links to papers, studies, and general resources pertaining to the relationship between AI and labor dynamics.
+
+* [AI and Jobs: Evidence from Online Vacancies](https://www.nber.org/system/files/working_papers/w28257/w28257.pdf) | National Bureau of Economic Research, NBER Working Paper Series, Working Paper 28257, December 2020, Revised February 2022
+* [AI and the Economy](https://www.nber.org/system/files/working_papers/w24689/w24689.pdf) | National Bureau of Economic Research, NBER Working Paper Series, Working Paper 24689, June 2018
+* [AI, Labor, Productivity and the Need for Firm-Level Data](https://www.nber.org/system/files/chapters/c14037/revisions/c14037.rev0.pdf) | Manav Raj and Robert Seamans, NYU Stern School of Business, December 12, 2017 draft
+* [Artificial Intelligence and Labor Market Transformations in Latin America](https://docs.iza.org/dp17746.pdf) | IZA Institute of Labor Economics, IZA DP No. 17746, February 2025
+* [Artificial Intelligence and the Changing Demand for Skills in the Labour Market](https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/04/artificial-intelligence-and-the-changing-demand-for-skills-in-the-labour-market_861a23ea/88684e36-en.pdf) | OECD Artificial Intelligence Papers, No. 14, April 2024
+* [Artificial Intelligence and the Labor Market](https://www.nber.org/system/files/working_papers/w33509/w33509.pdf) | National Bureau of Economic Research, NBER Working Paper Series, Working Paper 33509, February 2025, Revised September 2025
+* [Artificial Intelligence And Worker Well-being: Principles And Best Practices For Developers And Employers](https://data.aclum.org/storage/2025/01/DOL_www_dol_gov_general_AI-Principles.pdf) | United States Department of Labor
+* [Artificial Intelligence Impact on Labor Markets: Literature Review](https://www.iedconline.org/clientuploads/EDRP%20Logos/AI_Impact_on_Labor_Markets.pdf) | Economic Development Research Partners, International Economic Development Council
+* [Artificial Intelligence, Automation and Work](https://www.nber.org/system/files/working_papers/w24196/w24196.pdf) | National Bureau of Economic Research, NBER Working Paper Series, Working Paper 24196, January 2018
+* [Belaboring the Algorithm: Artificial Intelligence and Labor Unions](https://www.yalejreg.com/wp-content/uploads/Kelley.Bulletin.pdf) | Bradford J. Kelley
+* [Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence](https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf) | August 26, 2025
+* [Displacement or Complementarity? The Labor Market Impact of Generative AI](https://www.hbs.edu/ris/Publication%20Files/25-039_05fbec84-1f23-459b-8410-e3cd7ab6c88a.pdf) | Harvard Business School, Working Paper 25-039, 2025
+* [Estimating AI productivity gains from Claude conversations](https://www-cdn.anthropic.com/e5645986a7ce8fbcc48fa6d2fc67753c87642c30.pdf) | Alex Tamkin and Peter McCrory, November 5, 2025
+* [Evaluating the Impact of AI on the Labor Market: Current State of Affairs](https://budgetlab.yale.edu/research/evaluating-impact-ai-labor-market-current-state-affairs) | Yale Budget Lab, October 1, 2025
+* [Future of Jobs Report 2025](https://reports.weforum.org/docs/WEF_Future_of_Jobs_Report_2025.pdf) | World Economic Forum, Insight Report, January 2025
+* [Generative AI and jobs: A global analysis of potential effects on job quantity and quality](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@dgreports/@inst/documents/publication/wcms_890761.pdf) | International Labour Organization, ILO Working Paper 96, August 2023
+* [Generative AI and Labor: Power, Hype, and Value at Work](https://datasociety.net/wp-content/uploads/2024/12/DS_Generative-AI-and-Labor-Primer_Final.pdf) | Data & Society, December 2024
+* [Generative AI and the future of work in America](https://www.mckinsey.com/~/media/mckinsey/mckinsey%20global%20institute/our%20research/generative%20ai%20and%20the%20future%20of%20work%20in%20america/generative-ai-and-the-future-of-work-in-america-vf1.pdf) | McKinsey Global Institute, July 2023
+* [Impact and regulations of AI on labor markets and employment in USA](https://ijsra.net/sites/default/files/IJSRA-2024-1670.pdf) | September 9, 2024
+* [Impacts of generative artificial intelligence on the future of labor market: A systematic review](https://www.sciencedirect.com/science/article/pii/S2451958825000673) | May 2025
+* [Job Transformation, Specialization, and the Labor Market Effects of AI](https://lukasbfreund.github.io/files/FM_AI.pdf) | Lukas B. Freund and Lukas F. Mann, August 16, 2025, Revised November 19, 2025
+* [Labor in the Age of Automation and Artificial Intelligence](https://econfip.org/wp-content/uploads/2019/02/6.Labor-in-the-Age-of-Automation-and-Artificial-Intelligence.pdf) | Anton Korinek, Economists for Inclusive Prosperity, Research Brief, January 2019
+* [Labor Market Exposure to AI: Cross-country Differences and Distributional Implications](https://www.imf.org/en/-/media/files/publications/wp/2023/english/wpiea2023216-print-pdf.pdf) | International Monetary Fund, WP/23/216, October 2023
+* [Making Talk Cheap: Generative AI and Labor Market Signaling](https://jesse-silbert.github.io/website/silbert_jmp.pdf) | November 14, 2025
+* [Potential Labor Market Impacts of Artificial Intelligence: An Empirical Analysis](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Potential-Labor-Market-Impacts-of-Artificial-Intelligence-An-Empirical-Analysis-July-2024.pdf) | Biden White House Archives, July 2024
+* [Technological Disruption in the US Labor Market](https://www.economicstrategygroup.org/wp-content/uploads/2024/10/Deming-Ong-Summers-AESG-2024.pdf) | Aspen Economic Strategy Group, 2024
+* [The Iceberg Index: Measuring Skills-centered Exposure in the AI Economy](https://iceberg.mit.edu/report.pdf) | Project Iceberg
+* [The Impact of Artificial Intelligence on Employment](https://www.bruegel.org/sites/default/files/wp-content/uploads/2018/07/Impact-of-AI-Petroupoulos.pdf) | Georgios Petropoulos, July 2018
+* [The Impact of Artificial Intelligence on the Labor Market](https://www.michaelwebb.co/webb_ai.pdf) | Michael Webb, Stanford University, January 2020
+* [The Impact of Artificial Intelligence on Work: An evidence review prepared for the Royal Society and the British Academy](https://www.frontier-economics.com/media/q4lnsyv1/ai-and-work-evidence-review-full-report.pdf) | Frontier Economics, September 2018
+* [The Labor Market Effects of Generative AI: A Difference-in-Differences Analysis of AI Exposure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5375017) | SSRN, Andrew C. Johnston and Christos Makridis, October 30, 2025
+* [The Labor Market Impact of Artificial Intelligence: Evidence from US Regions](https://www.elibrary.imf.org/downloadpdf/view/journals/001/2024/199/001.2024.issue-199-en.pdf) | International Monetary Fund, Yueling Huang, WP/24/199, September 2024
+* [Toward understanding the impact of artificial intelligence on labor](https://estebanmoro.org/pdf/Toward_understanding_the_impact_of_artificial_intelligence_on_labor.pdf) | PNAS, February 28, 2019
+* [Workforce Intelligence: From MIT experts, strategies to transform skills, roles, and human potential across your organization](https://mitsloan.mit.edu/sites/default/files/2025-09/MIT%20Sloan%20-%20Workforce%20Intelligence-digital.pdf) | MIT Sloan School of Management
 
 ### Critiques of AI
 
