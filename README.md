@@ -79,6 +79,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
   * [Free-ish Books](#free-ish-books)
   * [Glossaries and Dictionaries](#glossaries-and-dictionaries)
   * [Open-ish Classes](#open-ish-classes)
+  * [Course Syllabi](#course-syllabi)
   * [Podcasts and Channels](#podcasts-and-channels)
 
 * **AI Incidents, Critiques, and Research Resources**
@@ -86,7 +87,7 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
     * [Bibliography of Papers on AI Incidents and Failures](#bibliography-of-papers-on-ai-incidents-and-failures)
   * [AI Law, Policy, and Guidance Trackers](#ai-law-policy-and-guidance-trackers)
   * [Challenges and Competitions](#challenges-and-competitions)
-  * [AI and Labor Resources](#ai-and-labor-resources)  * 
+  * [AI and Labor Resources](#ai-and-labor-resources) 
   * [Critiques of AI](#critiques-of-ai)
     * [Environmental Costs of AI](#environmental-costs-of-ai)
     * [Language Diversity and Resource Gaps](#language-diversity-and-resource-gaps)
@@ -520,6 +521,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * Department of Industry, Science and Resources
   * [AI Governance: Leadership insights and the Voluntary AI Safety Standard in practice](https://www.industry.gov.au/news/ai-governance-leadership-insights-and-voluntary-ai-safety-standard-practice) | Department of Industry, Science and Resources
   * [Artificial Intelligence Model Clauses](https://www.buyict.gov.au/sys_attachment.do?sys_id=e535e2ca935caa10438b39cdfaba103d) | Digital Transformation Agency, Version 2.0, March 2025
+  * [Australian AI Security Framework Index](https://github.com/Benjamin-KY/Australian-AI-Security) | ![](https://img.shields.io/github/stars/Benjamin-KY/Australian-AI-Security?style=social)
   * [Australia’s AI Ethics Principles](https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-framework/australias-ai-ethics-principles)
   * [Guidance for AI Adoption](https://www.industry.gov.au/publications/guidance-for-ai-adoption) | National Artificial Intelligence Centre, October 21, 2025
     * [Guidance for AI Adoption: Foundations v1.0](https://www.industry.gov.au/sites/default/files/2025-10/guidance-for-ai-adoption-foundations.pdf) | National Artificial Intelligence Centre, October 2025
@@ -669,6 +671,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Call for input on prohibition on AI systems for emotion recognition in the areas of workplace or education institutions](https://www.autoriteitpersoonsgegevens.nl/en/documents/call-for-input-on-prohibition-on-ai-systems-for-emotion-recognition-in-the-areas-of-workplace-or-education-institutions) | October 31, 2024
   * [AScraping bijna altijd illegal](https://www.autoriteitpersoonsgegevens.nl/actueel/ap-scraping-bijna-altijd-illegaal) | Dutch Data Protection Authority, "Scraping is always illegal"
 * [General principles for the use of Artificial Intelligence in the financial sector](https://www.dnb.nl/media/jkbip2jc/general-principles-for-the-use-of-artificial-intelligence-in-the-financial-sector.pdf)
+* [Pathways on capacity building for AI supervisory authorities: insights and recommendations from the 1st UNESCO expert roundtable on AI supervision](https://unesdoc.unesco.org/ark:/48223/pf0000396637) | UNESCO and Dutch Authority for Digital Infrastructure, 2025
 
 #### New Zealand
 
@@ -1326,6 +1329,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Caribbean Artificial Intelligence Policy Roadmap](https://unesdoc.unesco.org/ark:/48223/pf0000391996/PDF/391996eng.pdf.multi)
   * [Consultation paper on AI regulation: emerging approaches across the world](https://unesdoc.unesco.org/ark:/48223/pf0000390979)
   * [Global AI Ethics and Governance Observatory](https://www.unesco.org/ethics-ai/en)
+  * [Pathways on capacity building for AI supervisory authorities: insights and recommendations from the 1st UNESCO expert roundtable on AI supervision](https://unesdoc.unesco.org/ark:/48223/pf0000396637) | UNESCO and Dutch Authority for Digital Infrastructure, 2025
   * [Readiness assessment methodology: a tool of the Recommendation on the Ethics of Artificial Intelligence](https://www.unesco.org/en/articles/readiness-assessment-methodology-tool-recommendation-ethics-artificial-intelligence)
   * [Recommendation on the Ethics of Artificial Intelligence](https://unesdoc.unesco.org/ark:/48223/pf0000381137/PDF/381137eng.pdf.multi) | Adopted on 23 November 2021
   * [Smarter, smaller, stronger: resource-efficient generative Al & the future of digital transformation](https://unesdoc.unesco.org/ark:/48223/pf0000394521.locale=en) | 2025
@@ -1495,6 +1499,7 @@ This section features a collection of glossaries and dictionaries that are geare
 * [Lexicon](https://www.ai.mil/Lexicon/) | Chief Digital and Artificial Intelligence Office (CDAO)
 * [Open Access Vocabulary](https://repository.ifla.org/bitstream/123456789/3272/1/Open%20Access%20Vocabulary%20Feb2024%20v2.pdf)
 * [TechTarget: Artificial intelligence glossary: 60+ terms to know](https://www.techtarget.com/whatis/feature/Artificial-intelligence-glossary-60-terms-to-know)
+* [Terms from Artificial Intelligence: humans at the heart of algorithms](https://alandix.com/glossary/aibook)
 * [The Alan Turing Institute: Data science and AI glossary](https://www.turing.ac.uk/news/data-science-and-ai-glossary)
 * [The Facts on File Dictionary of Artificial Intelligence](https://archive.org/details/factsonfiledicti00smit) | Raoul Smith, 1989
 * [The International Dictionary of Artificial Intelligence](https://archive.org/details/internationaldic0000rayn/mode/2up) | William J. Raynor, Jr, 1999, First Edition
@@ -1544,6 +1549,10 @@ This section features a selection of educational courses focused on ethical cons
 * [Tech & Ethics Curricula](https://docs.google.com/spreadsheets/d/1Z0DqQeZ-Aeq6LmD17J5m8zeeIR6ywWnH-WO-jWtXE9M/edit#gid=0)
 * [Trustworthy Deep Learning](https://berkeley-deep-learning.github.io/cs294-131-s19/)
 * [Visualizing A Neural Machine Translation Model - Mechanics of Seq2seq Models With Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) | Jay Alammar  
+
+#### Course Syllabi
+
+* [AI Gov & Nat'l Policy '25](https://docs.google.com/document/d/1TDKnykyck_Zq7CNJ3rwwkjipaULxA0iyilD3dVQuUs4/edit?tab=t.0) | Colin Shea-Blymyer's syllabus
 
 ### Podcasts and Channels
 
