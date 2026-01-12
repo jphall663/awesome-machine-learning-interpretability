@@ -583,18 +583,32 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### Denmark
 
+* [Danish strategies for artificial intelligence](https://en.digst.dk/digital-governance/new-technologies/danish-strategies-for-artificial-intelligence/) | Agency for Digital Government
 * [National Strategy for Artificial Intelligence](https://en.digst.dk/media/lz0fxbt4/305755_gb_version_final-a.pdf) | Ministry of Finance and Ministry of Industry, Business and Financial Affairs, March 2019
-
-#### Denmark
-* Ministry of Finance and Ministry of Industry, Business and Financial Affairs, March 2019 | [National Strategy for Artificial Intelligence](https://en.digst.dk/media/lz0fxbt4/305755_gb_version_final-a.pdf)
+* [National Strategy for Digitalisation: Together in the digital development](https://en.digst.dk/media/mndfou2j/national-strategy-for-digitalisation-together-in-the-digital-development.pdf) | Ministry of Finance, May 2022
+* [Strategic Approach to Artificial Intelligence: A more robust foundation for the responsible development and use of AI in Denmark](https://www.english.digmin.dk/Media/638719220318136690/Stategic%20Approach%20to%20Artificial%20Intelligence.pdf) | The Ministry of Digital Affairs, December 2024
 
 #### Finland
 
+* [AI Watch. European landscape on the use of Artificial Intelligence by the Public Sector](https://ai-watch.ec.europa.eu/publications/ai-watch-european-landscape-use-artificial-intelligence-public-sector_en) | European Commission, Joint Research Centre, June 1, 2022
+  * [PDF](https://ai-watch.ec.europa.eu/document/download/18fc56db-42f2-4cbd-990e-a9a0ccfd523f_en)
+* [Artificial Intelligence 4.0 First interim report: from launch to implementation stage](https://julkaisut.valtioneuvosto.fi/server/api/core/bitstreams/5b864f19-e2e8-47a1-b45a-f5c41d530ece/content) | Publications of the Ministry of Economic Affairs and Employment Companies 2021:53
+* [Finland AI Strategy Report](https://ai-watch.ec.europa.eu/countries/finland/finland-ai-strategy-report_en) | European Commission
 * [Finland's Age of Artificial Intelligence: Turning Finland into a leading country in the application of artificial intelligence. Objective and recommendations for measures](https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160391/TEMrap_47_2017_verkkojulkaisu.pdf) | Ministry of Economic Affairs and Employment
+* [Progress in Implementing the EU Coordinated Plan on Artificial Intelligence, Finland](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/progress-in-implementing-the-european-union-coordinated-plan-on-artificial-intelligence-volume-1-country-notes_b0385317/finland_e37ddb49/adc99184-en.pdf) | OECD, 2025
 
 #### France
+* [Bac à sable « IA et services publics »: Les recommandations de la CNIL aux lauréats](https://www.cnil.fr/sites/cnil/files/2025-04/bac_a_sable_recommandations.pdf) | CNIL, March 2025
 * [Challenges and opportunities of artificial intelligence in the fight against information manipulation](https://www.sgdsn.gouv.fr/files/files/Publications/20250207_NP_SGDSN_VIGINUM_Rapport%20menace%20informationnelle%20IA_EN_0.pdf) | VIGINUM, February 7, 2025
-* [Gouvernance des algorithmes d’intelligence artificielle dans le secteur financier](https://acpr.banque-france.fr/sites/default/files/medias/documents/20200612_gouvernance_evaluation_ia.pdf) | (France)
+* [Consultation publique, Fiches pratiques IA sur la mobilisation de l’intérêt legitime pour le développement de systèmes d’intelligence artificielle: Synthèse des contributions](https://www.cnil.fr/sites/default/files/2025-06/synthese_des_contributions_fiches_ia_interet_legitime.pdf) | CNIL, June 19, 2025
+* [Développement des systèmes d’IA : que faut-il vérifier ?](https://www.cnil.fr/sites/default/files/2025-07/ia_liste_de_verification.pdf) | CNIL, July 2025
+* [Fiche pratique pour l’achat responsable de solutions d’intelligence artificielle (IA)](https://ecoresponsable.numerique.gouv.fr/docs/2025/MINUMECO_fiche_IA_frugale_VF.pdf) | Numérique écoresponsable — Ministère de l’Économie, 2025
+* [France 2030 — Stratégie nationale pour l’intelligence artificielle, 2e phase: Conquérir les talents et transformer notre potentiel scientifique en succès économiques](https://presse.economie.gouv.fr/wp-content/uploads/2021/11/8bcf2b43571df79a59055eab0cc5047e.pdf) | Ministry of Economy, November 8, 2021
+* [Gouvernance des algorithmes d’intelligence artificielle dans le secteur financier](https://acpr.banque-france.fr/sites/default/files/medias/documents/20200612_gouvernance_evaluation_ia.pdf)
+* [Guide d’implémentation de l’éthique dans les systèmes d’intelligence artificielle en santé](https://esante.gouv.fr/sites/default/files/media_entity/documents/guide-ia_vf.pdf) | Ministère du Travail, de la Santé, des Solidarités et des Familles — Délégation au numérique en santé, July 2025
+* [Guide de la génération augmentée par récupération (RAG)](https://www.entreprises.gouv.fr/files/files/Publications/2024/Guides/20241127-bro-guide-ragv4-interactif.pdf) | Direction générale des entreprises (Ministère de l’Économie, des Finances et de l’Industrie), November 2024
+* [IA : Notre ambition pour la France](https://www.economie.gouv.fr/files/files/directions_services/cge/commission-IA.pdf) | Ministry of Economy, Commission de l’intelligence artificielle
+* [Security Recommendations for a Generative AI System](https://messervices.cyber.gouv.fr/documents-guides/security_recommandations_for_a_generative_ai_system.pdf) | ANSSI Guidelines, ANSSI-PA-102, 29/04/2024
 
 #### Germany
 
