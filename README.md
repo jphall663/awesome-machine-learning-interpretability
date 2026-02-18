@@ -447,6 +447,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [leondz / garak](https://github.com/leondz/garak) | ![](https://img.shields.io/github/stars/leondz/garak?style=social)
 * [Microsoft AI Red Team building future of safer AI](https://www.microsoft.com/en-us/security/blog/2023/08/07/microsoft-ai-red-team-building-future-of-safer-ai/)
 * [OpenAI Red Teaming Network](https://openai.com/blog/red-teaming-network)
+* [Prompt Hacks: The ultimate guide](https://neuraltrust.ai/guides/prompt-hacks-the-ultimate-guide)
 * [r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/)
   * [developer mode fixed](https://www.reddit.com/r/ChatGPTJailbreak/comments/144905t/developer_mode_fixed/)
 * [Y Combinator, ChatGPT Grandma Exploit](https://news.ycombinator.com/item?id=35630801)
