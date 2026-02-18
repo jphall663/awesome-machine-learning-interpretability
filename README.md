@@ -436,7 +436,6 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Georgia Institute of Technology, Generative AI Guidance (OIT)](https://oit.gatech.edu/ai/guidance)
 * [Harvard Business School, 2.1.2 Using ChatGPT & Artificial Intelligence Tools](https://www.hbs.edu/mba/handbook/standards-of-conduct/academic/Pages/chatgpt-and-ai.aspx)
 * [Harvard Graduate School of Education, HGSE AI Policy](https://registrar.gse.harvard.edu/AI-policy)
-* [Harvard University, AI Guidance & FAQs](https://oue.fas.harvard.edu/ai-guidance)
 * [Harvard University, Guidelines for Using ChatGPT and other Generative AI tools at Harvard](https://provost.harvard.edu/guidelines-using-chatgpt-and-other-generative-ai-tools-harvard)
 * [Johns Hopkins University, Generative AI Tool Guidance: Syllabus Statements (Teaching @ JHU)](https://teaching.jhu.edu/university-teaching-policies/generative-ai/syllabus-statements/)
 * [Massachusetts Institute of Technology, Generative AI & Your Course](https://tll.mit.edu/teaching-resources/course-design/gen-ai-your-course/)
@@ -466,13 +465,9 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [University of British Columbia, Teaching & Learning Guidelines (Generative AI)](https://genai.ubc.ca/guidance/teaching-learning-guidelines/)
 * [University of California, AI Governance and Transparency](https://ai.universityofcalifornia.edu/governance-transparency/)
 * [University of California, Applicable Law and UC Policy](https://ai.universityofcalifornia.edu/governance-transparency/applicable-law-and-policy.html)
-* [University of California, Berkeley, AI at UC Berkeley](https://technology.berkeley.edu/AI)
-* [University of California, Berkeley, Appropriate Use of Generative AI Tools](https://ethics.berkeley.edu/privacy/appropriate-use-generative-ai-tools)
+* [University of California, Berkeley, AI at UC Berkeley](https://ai.berkeley.edu/home)
 * [University of California, Irvine, Generative AI for Teaching and Learning](https://dtei.uci.edu/generative-ai/)
-* [University of California, Irvine, Statement on Generative AI Detection](https://aisc.uci.edu/resources/Statement%20on%20Turnitin%20AI%20detection.pdf)
 * [University of California, Legal Alert: Artificial Intelligence Tools](https://www.ucop.edu/ethics-compliance-audit-services/_files/compliance/ai/ai-alert.pdf)
-* [University of California, Los Angeles, Artificial Intelligence Tools and Academic Use](https://guides.library.ucla.edu/c.php?g=1308287&p=9702196)
-* [University of California, Los Angeles, ChatGPT and AI Resources](https://online.ucla.edu/chatgpt-and-ai-resources/)
 * [University of California, Los Angeles, Generative AI](https://genai.ucla.edu/)
 * [University of California, Los Angeles, Guiding Principles for Responsible Use](https://genai.ucla.edu/guiding-principles-responsible-use)
 * [University of California, Los Angeles, Teaching Guidance for ChatGPT and Related AI Developments](https://senate.ucla.edu/news/teaching-guidance-chatgpt-and-related-ai-developments)
@@ -520,8 +515,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Yale University, AI at Yale](https://ai.yale.edu/)
 * [Yale University, AI Guidance for Teachers](https://poorvucenter.yale.edu/AIguidance)
 * [Yale University, Guidelines for the Use of Generative AI Tools](https://provost.yale.edu/news/guidelines-use-generative-ai-tools)
-* [Yale University, Yale University AI guidelines for staff](https://yaledata.yale.edu/yale-university-ai-guidelines-staff)
-  
+
 
 ### Official Policy, Frameworks, and Guidance
 
