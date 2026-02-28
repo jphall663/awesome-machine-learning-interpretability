@@ -2019,6 +2019,7 @@ This section contains datasets that are commonly used in responsible ML evaulati
 
 * [A dataset on EU legislation for the digital world](https://www.bruegel.org/dataset/dataset-eu-legislation-digital-world) | Bruegel
 * [Adult income dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
+* [AI Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) - Structured dataset tracking 86 AI-attributed workforce reduction events affecting 445,000+ workers across 12 countries and 11 sectors. JSON/CSV formats with 3-tier attribution methodology. CC-BY-4.0.
 * [Balanced Faces in the Wild](https://github.com/visionjo/facerec-bias-bfw) | ![](https://img.shields.io/github/stars/visionjo/facerec-bias-bfw?style=social)
 * [COMPAS Recidivism Risk Score Data and Analysis](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis)
   * **Data Repositories**
@@ -2363,3 +2364,4 @@ Hall, Patrick, Daniel Atherton, et al. "Awesome Machine Learning Interpretabilit
 * **MLA (Modern Language Association) 9th Edition**
 
 Hall, Patrick, Daniel Atherton, et al. "Awesome Machine Learning Interpretability." *GitHub*, 2024, https://github.com/jphall663/awesome-machine-learning-interpretability. Accessed 5 March 2024.
+
