@@ -1984,6 +1984,7 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 
 | Resource | Description |
 | --- | --- |
+| [Animal-AI Testbed](https://github.com/Kinds-of-Intelligence-CFI/animal-ai)-![](https://img.shields.io/github/stars/Kinds-of-Intelligence-CFI/animal-ai?style=social) | Testing environment for evaluating AI agent cognition using tasks inspired by animal cognition research. Benchmarks spatial reasoning, object permanence, and tool use. |
 | [benchm-ml](https://github.com/szilard/benchm-ml)-![](https://img.shields.io/github/stars/szilard/benchm-ml?style=social) | "A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.)." |
 | [Bias Benchmark for QA dataset-BBQ](https://github.com/nyu-mll/bbq)-![](https://img.shields.io/github/stars/nyu-mll/bbq?style=social) | "Repository for the Bias Benchmark for QA dataset." |
 | [Cataloguing LLM Evaluations](https://github.com/IMDA-BTG/LLM-Evals-Catalogue)-![](https://img.shields.io/github/stars/IMDA-BTG/LLM-Evals-Catalogue?style=social) | "This repository stems from our paper, 'Cataloguing LLM Evaluations,' and serves as a living, collaborative catalogue of LLM evaluation frameworks, benchmarks and papers." |
