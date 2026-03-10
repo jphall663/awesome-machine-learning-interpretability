@@ -2040,6 +2040,7 @@ This section contains datasets that are commonly used in responsible ML evaulati
 
 * [A dataset on EU legislation for the digital world](https://www.bruegel.org/dataset/dataset-eu-legislation-digital-world) | Bruegel
 * [Adult income dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
+* [AI Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) — 121 AI-attributed workforce displacement events across 15 countries (496K+ workers). Two-tier attribution methodology (confirmed/probable). CC-BY-4.0.
 * [Balanced Faces in the Wild](https://github.com/visionjo/facerec-bias-bfw) | ![](https://img.shields.io/github/stars/visionjo/facerec-bias-bfw?style=social)
 * [COMPAS Recidivism Risk Score Data and Analysis](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis)
   * **Data Repositories**
