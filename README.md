@@ -879,19 +879,32 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Internet Policy Task Force, Commercial Data Privacy and Innovation in the Internet Economy: A Dynamic Policy Framework](https://www.ntia.doc.gov/files/ntia/publications/iptf_privacy_greenpaper_12162010.pdf)
   * [NTIA Artificial Intelligence Accountability Policy Report](https://www.ntia.gov/sites/default/files/publications/ntia-ai-report-final.pdf) | March 2024
 * [National Institute of Standards and Technology](https://www.nist.gov/)
-  * [Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations](https://csrc.nist.gov/pubs/ai/100/2/e2023/final) | NIST AI 100-2 E2023
-  * [Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations updated](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2025.pdf) | NIST AI 100-2e2025
-  * [Artificial Intelligence Risk Management Framework](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf) | AI 100-1 (NIST AI RMF 1.0)
+  * [A Possible Approach for Evaluating AI Standards Development](https://nvlpubs.nist.gov/nistpubs/gcr/2026/NIST.GCR.26-069.pdf)
+  * [AI Risk Management Framework Concept Paper](https://www.nist.gov/document/airmfconceptpaper)
+  * [AI Risk Management Framework: Initial Draft](https://www.nist.gov/document/ai-risk-management-framework-initial-draft)
+  * [AI Use Taxonomy: A Human-Centered Approach](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.200-1.pdf) | NIST AI 200-1
+  * [Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf) | NIST AI 100-2e2023
+    * [Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations updated](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2025.pdf) | NIST AI 100-2e2025
+  * [Artificial Intelligence Risk Management Framework](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf) | NIST AI 100-1 (NIST AI RMF 1.0)
   * [Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf) | NIST AI 600-1
-  * [Assessing Risks and Impacts of AI](https://ai-challenges.nist.gov/aria/library) | (ARIA)
-  * [De-identification Tools](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/tools)
-  * [Engineering Statistics Handbook](https://doi.org/10.18434/M32189)
-  * [Four Principles of Explainable Artificial Intelligence](https://www.nist.gov/system/files/documents/2020/08/17/NIST%20Explainable%20AI%20Draft%20NISTIR8312%20%281%29.pdf) | Draft NISTIR 8312, 2020-08-17
-  * [Four Principles of Explainable Artificial Intelligence](https://www.nist.gov/publications/four-principles-explainable-artificial-intelligence) | NISTIR 8312, 2021-09-29
-  * [Guide for Conducting Risk Assessments](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf) | NIST Special Publication 800-30 Revision 1,
-  * [Measurement Uncertainty](https://www.nist.gov/itl/sed/topic-areas/measurement-uncertainty)
-    * [International Bureau of Weights and Measures, Evaluation of measurement data—Guide to the expression of uncertainty in measurement](https://www.bipm.org/documents/20126/2071204/JCGM_100_2008_E.pdf/cb0ef43f-baa5-11cf-3f85-4dcd86f77bd6) | (BIPM)
+  * [Assessing Risks and Impacts of AI (ARIA): Pilot Evaluation Report](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.700-2.pdf) | NIST AI 700-2
+  * [Cybersecurity Framework Profile for Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8596.iprd.pdf) | NIST IR 8596 (initial preliminary draft)
+  * [De-Identifying Government Datasets: Techniques and Governance](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-188.pdf) | NIST SP 800-188
+  * [Four Principles of Explainable Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2021/nist.ir.8312.pdf) | NISTIR 8312
+  * [Guide for Conducting Risk Assessments](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-30r1.pdf) | NIST Special Publication 800-30 Revision 1
+  * [Managing Misuse Risk for Dual-Use Foundation Models](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.800-1.ipd2.pdf) | NIST AI 800-1 (2nd public draft)
+  * [NIST AI RMF Playbook](https://airc.nist.gov/airmf-resources/playbook/)
+  * [NIST AI RMF Roadmap](https://airc.nist.gov/airmf-resources/roadmap/)
+  * [NIST/SEMATECH e-Handbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/)
   * [Psychological Foundations of Explainability and Interpretability in Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8367.pdf)
+  * [Reducing Risks Posed by Synthetic Content: An Overview of Technical Approaches to Digital Content Transparency](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-4.pdf) | NIST AI 100-4
+  * [Secure Software Development Practices for Generative AI and Dual-Use Foundation Models: An SSDF Community Profile](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218A.pdf) | NIST SP 800-218A
+  * [Simple Guide for Evaluating and Expressing the Uncertainty of NIST Measurement Results](https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1900.pdf) | NIST Technical Note 1900
+    * [International Bureau of Weights and Measures, Evaluation of measurement data—Guide to the expression of uncertainty in measurement](https://www.bipm.org/documents/20126/2071204/JCGM_100_2008_E.pdf/cb0ef43f-baa5-11cf-3f85-4dcd86f77bd6) | (BIPM)
+  * [The Language of Trustworthy AI: An In-Depth Glossary of Terms](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-3.pdf) | NIST AI 100-3
+  * [Towards a Standard for Identifying and Managing Bias in Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf) | NIST SP 1270
+  * [U.S. Leadership in AI: A Plan for Federal Engagement in Developing Technical Standards and Related Tools](https://www.nist.gov/document/report-plan-federal-engagement-developing-technical-standards-and-related-tools)
+  * [2024 NIST GenAI (Pilot Study): Text-to-Text Evaluation Overview and Results](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.700-1.pdf) | NIST AI 700-1
 * National Oceanic and Atmospheric Administration (NOAA)
   * [NOAA Artificial Intelligence Strategy: Analytics for Next-Generation Earth Science](https://sciencecouncil.noaa.gov/wp-content/uploads/2023/04/2020-AI-Strategy.pdf) | February 2020
 * Office of the Under Secretary for Economic Affairs
