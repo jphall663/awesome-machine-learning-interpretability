@@ -902,6 +902,8 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Simple Guide for Evaluating and Expressing the Uncertainty of NIST Measurement Results](https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1900.pdf) | NIST Technical Note 1900
     * [International Bureau of Weights and Measures, Evaluation of measurement data—Guide to the expression of uncertainty in measurement](https://www.bipm.org/documents/20126/2071204/JCGM_100_2008_E.pdf/cb0ef43f-baa5-11cf-3f85-4dcd86f77bd6) | (BIPM)
   * [The Language of Trustworthy AI: An In-Depth Glossary of Terms](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-3.pdf) | NIST AI 100-3
+    * [NIST AIRC Glossary portal](https://airc.nist.gov/glossary/)
+    * [The Language of Trustworthy AI: An In-Depth Glossary of Terms, spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTRBYglcOtgaMrdF11aFxfEY3EmB31zslYI4q2_7ZZ8z_1lKm7OHtF0t4xIsckuogNZ3hRZAaDQuv_K/pubhtml)
   * [Towards a Standard for Identifying and Managing Bias in Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf) | NIST SP 1270
   * [U.S. Leadership in AI: A Plan for Federal Engagement in Developing Technical Standards and Related Tools](https://www.nist.gov/document/report-plan-federal-engagement-developing-technical-standards-and-related-tools)
   * [2024 NIST GenAI (Pilot Study): Text-to-Text Evaluation Overview and Results](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.700-1.pdf) | NIST AI 700-1
