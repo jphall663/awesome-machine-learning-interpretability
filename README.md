@@ -34,7 +34,8 @@ Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch
     * [Bibliography of Papers on AI Incidents and Failures](#bibliography-of-papers-on-ai-incidents-and-failures)
   * [AI Law, Policy, and Guidance Trackers](#ai-law-policy-and-guidance-trackers)
   * [Challenges and Competitions](#challenges-and-competitions)
-  * [AI and Labor Resources](#ai-and-labor-resources) 
+  * [AI and Labor Resources](#ai-and-labor-resources)
+  * [Responsible and Critical Perspectives on Agentic AI](#responsible-and-critical-perspectives-on-agentic-ai)
   * [Critiques of AI](#critiques-of-ai)
     * [Environmental Costs of AI](#environmental-costs-of-ai)
     * [Language Diversity and Resource Gaps](#language-diversity-and-resource-gaps)
@@ -1725,6 +1726,42 @@ This section contains links to papers, studies, and general resources pertaining
 * [The Labor Market Impact of Artificial Intelligence: Evidence from US Regions](https://www.elibrary.imf.org/downloadpdf/view/journals/001/2024/199/001.2024.issue-199-en.pdf) | International Monetary Fund, Yueling Huang, WP/24/199, September 2024
 * [Toward understanding the impact of artificial intelligence on labor](https://estebanmoro.org/pdf/Toward_understanding_the_impact_of_artificial_intelligence_on_labor.pdf) | PNAS, February 28, 2019
 * [Workforce Intelligence: From MIT experts, strategies to transform skills, roles, and human potential across your organization](https://mitsloan.mit.edu/sites/default/files/2025-09/MIT%20Sloan%20-%20Workforce%20Intelligence-digital.pdf) | MIT Sloan School of Management
+
+### Responsible and Critical Perspectives on Agentic AI
+
+This section collects papers on agentic AI with a focus on safety, governance, responsible use, and critique. It includes technical, social, legal, and policy-oriented perspectives on the risks, evaluation, and oversight of AI agents.
+
+* [Practices for Governing Agentic AI Systems](https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf)
+* [With Great Capabilities Come Great Responsibilities: Introducing the Agentic Risk & Capability Framework for Governing Agentic AI Systems](https://arxiv.org/pdf/2512.22211.pdf)
+* [MI9: An Integrated Runtime Governance Framework for Agentic AI](https://arxiv.org/pdf/2508.03858.pdf)
+* [SAGA: A Security Architecture for Governing AI Agentic Systems](https://arxiv.org/pdf/2504.21034.pdf)
+* [Agentic AI: Autonomy, Accountability, and the Algorithmic Society](https://arxiv.org/pdf/2502.00289.pdf)
+* [Quantifying Misalignment Between Agents: Towards a Sociotechnical Understanding of Alignment](https://arxiv.org/pdf/2406.04231.pdf)
+* [The Coming Crisis of Multi-Agent Misalignment: AI Alignment Must Be a Dynamic and Social Process](https://arxiv.org/pdf/2506.01080.pdf)
+* [Fairness in Agentic AI: A Unified Framework for Ethical and Equitable Multi-Agent System](https://arxiv.org/pdf/2502.07254.pdf)
+* [Decentralized Governance of Autonomous AI Agents](https://arxiv.org/pdf/2412.17114.pdf)
+* [TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems](https://arxiv.org/pdf/2506.04133.pdf)
+* [Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges](https://arxiv.org/pdf/2510.23883.pdf)
+* [AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways](https://arxiv.org/pdf/2406.02630.pdf)
+* [A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?](https://arxiv.org/pdf/2505.10924.pdf)
+* [A Systematization of Security Vulnerabilities in Computer Use Agents](https://arxiv.org/pdf/2507.05445.pdf)
+* [Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation](https://arxiv.org/pdf/2508.14031.pdf)
+* [Agent-SafetyBench: Evaluating the Safety of LLM Agents](https://arxiv.org/pdf/2412.14470.pdf)
+* [AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents](https://openreview.net/forum?id=AC5n7xHuR1)
+* [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/pdf/2401.10019.pdf)
+* [AgentAuditor: Human-Level Safety and Security Evaluation for LLM Agents](https://arxiv.org/pdf/2506.00641.pdf)
+* [RAS-Eval: A Comprehensive Benchmark for Security Evaluation of LLM Agents in Real-World Environments](https://arxiv.org/pdf/2506.15253.pdf)
+* [AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents](https://arxiv.org/pdf/2406.13352.pdf)
+* [Design Patterns for Securing LLM Agents against Prompt Injections](https://arxiv.org/pdf/2506.08837.pdf)
+* [The Landscape of Prompt Injection Threats in LLM Agents: From Taxonomy to Analysis](https://arxiv.org/pdf/2602.10453.pdf)
+* [AgentSentry: Mitigating Indirect Prompt Injection in LLM Agents via Temporal Causal Diagnostics and Context Purification](https://arxiv.org/pdf/2602.22724.pdf)
+* [Silent Egress: When Implicit Prompt Injection Makes LLM Agents Leak Without a Trace](https://arxiv.org/pdf/2602.22450.pdf)
+* [Manipulating LLM Web Agents with Indirect Prompt Injection Attack via HTML Accessibility Tree](https://arxiv.org/pdf/2507.14799.pdf)
+* [LLM Agents can Autonomously Exploit One-day Vulnerabilities](https://arxiv.org/pdf/2404.08144.pdf)
+* [Teams of LLM Agents can Exploit Zero-Day Vulnerabilities](https://arxiv.org/pdf/2406.01637.pdf)
+* [SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents](https://arxiv.org/pdf/2412.13178.pdf)
+* [A Framework for Benchmarking and Aligning Task-Planning Safety in LLM-Based Embodied Agents](https://arxiv.org/pdf/2504.14650.pdf)
+
 
 ### Critiques of AI
 
