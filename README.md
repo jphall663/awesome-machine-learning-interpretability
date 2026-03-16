@@ -888,6 +888,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Artificial Intelligence Risk Management Framework](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf) | NIST AI 100-1 (NIST AI RMF 1.0)
   * [Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf) | NIST AI 600-1
   * [Assessing Risks and Impacts of AI (ARIA): Pilot Evaluation Report](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.700-2.pdf) | NIST AI 700-2
+  * [Challenges to the Monitoring of Deployed AI Systems](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.800-4.pdf) | NIST AI 800-4
   * [Cybersecurity Framework Profile for Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8596.iprd.pdf) | NIST IR 8596 (initial preliminary draft)
   * [De-Identifying Government Datasets: Techniques and Governance](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-188.pdf) | NIST SP 800-188
   * [Four Principles of Explainable Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2021/nist.ir.8312.pdf) | NISTIR 8312
