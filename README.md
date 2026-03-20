@@ -1475,6 +1475,7 @@ This section is a curated collection of guides and tutorials that simplify respo
 * [Visualizing ML Models with LIME](http://uc-r.github.io/lime)
 * [Visualizing and debugging deep convolutional networks](https://rohitghosh.github.io/2018/01/05/visualising-debugging-deep-neural-networks/)
 * [What does a CNN see?](https://colab.research.google.com/drive/1xM6UZ9OdpGDnHBljZ0RglHV_kBrZ4e-9)
+* [Zoom In: An Introduction to Circuits (Bilingual Tutorial)](https://github.com/Jonny-English/circuits-zoom-in) | ![](https://img.shields.io/github/stars/Jonny-English/circuits-zoom-in?style=social)
 
 ### Free-ish Books
 
