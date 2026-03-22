@@ -1620,7 +1620,7 @@ This section features a selection of educational courses focused on ethical cons
 
 This section features podcasts and channels (such as on YouTube) that offer insightful commentary and explanations on responsible AI and machine learning interpretability.
 
-* [Chain of Thought](https://www.chainofthought.dev/)
+* [Chain of Thought](https://chainofthought.show/)
 * [Internet of Bugs](https://www.youtube.com/@InternetOfBugs/videos)
 * [Tech Won't Save Us](https://techwontsave.us/)
 * [This Is Technology Ethics: An Introduction](https://technologyethicspod.wordpress.com/)
