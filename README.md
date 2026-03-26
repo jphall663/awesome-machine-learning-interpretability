@@ -93,6 +93,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [AI Agent Governance: A Field Guide](https://static1.squarespace.com/static/64edf8e7f2b10d716b5ba0e1/t/6801438c58c2692374995db0/1744913293841/Agent+Governance_+A+Field+Guide.pdf) | (IAPS), April 2025
 * [AI alignment vs AI ethical treatment: Ten challenges](https://www.globalprioritiesinstitute.org/wp-content/uploads/Bradley-and-Saad-AI-alignment-vs-AI-ethical-treatment_-Ten-challenges.pdf) | Adam Bradley and Bradford Saad, Global Priorities Institute, July 2024
 * [AI Assurance: A Repeatable Process for Assuring AI-enabled Systems](https://www.mitre.org/sites/default/files/2024-06/PR-24-1768-AI-Assurance-A-Repeatable-Process-Assuring-AI-Enabled-Systems.pdf) | MITRE, June 2024
+* [Prefactor](https://prefactor.tech/) - AI agent runtime control plane with governance, observability, and compliance features for regulated industries.
 * [AI Canon](https://a16z.com/ai-canon/) | Andreessen Horowitz (a16z)
 * [AI Decision-Making and the Courts: A guide for Judges, Tribunal Members, and Court Administrators](https://aija.org.au/wp-content/uploads/2023/12/AIJA_AI-DecisionMakingReport_2023update.pdf) | The Australasian Institute of Judicial Administration Inc., published June 2022 and revised and republished December 2023
 * [AI Ethics & Governance 2025: A Framework for Malaysia's Tech Industry](https://www.pikom.org.my/2025/PIKOM_AI_ethic_and_governance_2025.pdf) | PIKOM, May 2025
