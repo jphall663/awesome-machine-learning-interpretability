@@ -398,6 +398,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/)
   * [developer mode fixed](https://www.reddit.com/r/ChatGPTJailbreak/comments/144905t/developer_mode_fixed/)
 * [Y Combinator, ChatGPT Grandma Exploit](https://news.ycombinator.com/item?id=35630801)
+- [CausalLayer](https://github.com/smq9sn5jck-coder/causallayer-mcp) - Deterministic AI liability attribution engine. MCP server generating cryptographically-signed certificates for AI incident forensics. EU AI Act Art.12 compliant.
 
 #### Generative AI Explainability
 
