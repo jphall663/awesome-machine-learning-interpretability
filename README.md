@@ -20,7 +20,3 @@ Please use the HallResearch.ai Library as the main entry point:
 This repository is preserved for continuity because it was the original home of the project. The collection has since been reorganized, expanded, and moved into the HallResearch.ai GitHub organization.
 
 Future updates will be made through the HallResearch.ai Library repositories rather than this legacy repository.
-
-## Suggested Citation
-
-HallResearch.ai. “HallResearch.ai Library.” GitHub, HallResearch.ai, https://github.com/hallresearch-ai/.
